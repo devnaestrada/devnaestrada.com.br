@@ -14,5 +14,3 @@ Você pode colaborar de diversas formas com o nosso projeto, divulgando, sugerin
 Mande um pull request aqui pelo github, ou você também pode nos encontrar no e-mail: devnaestrada at gmail com
 
 Visite nosso [site](http://devnaestrada.com.br).
-
-Aperte os cintos e aumente o som!
