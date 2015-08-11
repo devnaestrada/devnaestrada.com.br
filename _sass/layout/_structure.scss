@@ -1,0 +1,24 @@
+body {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	border-top: 8px solid #e67e22;
+	color: #333;
+	font-family: Georgia, serif;
+	font-size: 16px;
+	text-rendering: optimizeLegibility;
+}
+
+a {
+	@include user-select(none);
+	color: #e67e22;
+	text-decoration: none;
+}
+
+.wrapper {
+	@include outer-container;
+	padding: 15px;
+}
+
+.site-header {
+	padding-top: 50px;
+}

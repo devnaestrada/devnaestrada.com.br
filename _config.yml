@@ -1,14 +1,32 @@
 # Site settings
 title: DevNaEstrada
 email: devnaestrada at gmail com
+email_address: devnaestrada@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://devnaestrada.com.br" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# itunes
+itunes_url: "https://itunes.apple.com/br/podcast/devnaestrada/id997779431?mt=2"
+itunes_itpc: "itpc://devnaestrada.com.br/feed.xml"
+
+# soundcloud
+soundcloud_prefix: "http://feeds.soundcloud.com/stream/"
+soundcloud_site_capa: "http://i1.sndcdn.com/avatars-000147816775-ycyu5k-original.jpg"
+
+# vendor codes
+google_analytics: UA-63291340-1
+disqus_shortname: devnaestrada
+
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+  - bourbon
+  - neat

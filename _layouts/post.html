@@ -5,11 +5,23 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <span class="post-meta">
+      {{ page.date | date: "%b %-d, %Y" }}
+    </span>
   </header>
 
   <article class="post-content">
     {{ content }}
+    <div class="audio-player">
+		  {% include soundcloud.html %}
+    </div>
   </article>
 
 </div>
+
+<!-- Disqus -->
+{% if site.disqus_shortname %}
+	<div class="comments">
+		{% include disqus.html %}
+	</div>
+{% endif %}

@@ -1,0 +1,26 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+
+# 2 space indentation and tab
+[*.html]
+indent_style = tab
+indent_size = 2
+
+# 2 space indentation and tab
+[*.scss]
+indent_style = tab
+indent_size = 2
+
+# 2 space indentation and tab
+[*.js]
+indent_style = tab
+indent_size = 2
+trim_trailing_whitespace = true

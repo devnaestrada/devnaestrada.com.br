@@ -1,0 +1,82 @@
+.site-description {
+	line-height: 1.5em;
+	text-align: center;
+	padding: 0 15px;
+}
+
+.post-list {
+	@include outer-container;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+	li {
+    padding-top: 30px;
+    border-top: #ddd 1px solid;
+    margin-top: 15px;
+
+		@include media($tablet) {
+      @include span-columns(4);
+      @include omega(2n);
+    }
+	}
+
+ .post-meta {
+    text-align: center;
+  }
+
+  .post-link {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+
+    h2 {
+      @include transition(color .3s ease-in-out);
+      font-size: 18px;
+      line-height: 24px;
+      color: #e67e22;
+      font-family: Helvetica, serif;
+      margin-bottom: 15px;
+      margin-top: 15px;
+    }
+
+    &:hover {
+			h2 {
+      	color: #333;
+      }
+
+      img {
+        @include filter(grayscale(0%));
+      }
+    }
+  }
+
+}
+
+.post-meta {
+  color: #aaa;
+  display: block;
+  font-size: 14px;
+}
+
+.post-thumb {
+  height: 100px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  img {
+    @include transform(translate3d(0));
+    @include transition(all .3s ease-in-out);
+    @include filter(grayscale(100%));
+    left: 0;
+    margin-top: -50%;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+  }
+
+  @include media($tablet) {
+    height: 150px;
+  }
+}

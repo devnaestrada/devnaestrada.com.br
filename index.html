@@ -4,20 +4,30 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <p class="site-description">
+    {{ site.title }} é um podcast semanal aonde discutimos assuntos relacionados ao desenvolvimento web com uma pitada de humor. 
+  </p>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+				
+				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+	        <h2>
+	          {{ post.title }}
+	        </h2>
+	        <div class="post-thumb">
+	        	<img src="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" alt="{{ post.title }}" />
+	        </div>
+        </a>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <p class="short-description">
+          {{ post.description }}
+        </p>
+
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

@@ -2,28 +2,59 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
+
     <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <link>{{ site.url }}/</link>
+    <language>pt-br</language>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <copyright>&#xA9; 2015 {{ site.title }}</copyright>
+    <managingEditor>{{ site.email_address }} ({{ site.title }})</managingEditor>
+    <webMaster>{{ site.email_address }} ({{ site.title }})</webMaster>
+    <image>
+      <url>{{ site.soundcloud_site_capa }}</url>
+      <title>{{ site.title | xml_escape }}</title>
+      <link>{{ site.url }}</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+
+    <itunes:subtitle>Bate papo com programadores Front-end e Back-end</itunes:subtitle>
+    <itunes:author>femontanha &amp; Ramon Sanches</itunes:author>
+    <itunes:summary>Podcast voltado para o desenvolvimento Front-end e Back-end. Vamos contar um pouco das nossas histórias, entrevistar pessoas que trabalham na área e claro bater um papo engraçado sobre nossas profissões.Aperte os cintos e aumente o som!</itunes:summary>
+
+    <itunes:owner>
+      <itunes:name>{{ site.title }}</itunes:name>
+      <itunes:email>{{ site.email_address }}</itunes:email>
+    </itunes:owner>
+
+    <itunes:block>no</itunes:block>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="{{ site.soundcloud_site_capa }}" />
+
+    <itunes:category text="Technology">
+      <itunes:category text="Podcasting"/>
+    </itunes:category>
+
+    <description>{{ site.description | xml_escape }}</description>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:15 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
+        <itunes:author>{{ site.title }}</itunes:author>
+        <itunes:subtitle>{{ post.description }}</itunes:subtitle>
+        <link>{{ post.url | prepend: site.url }}</link>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+        <description>{{ post.content | xml_escape }}</description>
+        <itunes:summary>{{ post.description }}</itunes:summary>
+        <itunes:image href="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" />
+        <enclosure url="{{ post.cast | prepend: site.theme.soundcloud_prefix }}" length="{{ post.cast-length }}" type="audio/mpeg" />
+        <itunes:duration>{{ post.cast-time }}</itunes:duration>
+        <itunes:keywords>{{ site.title }}</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
       </item>
     {% endfor %}
   </channel>

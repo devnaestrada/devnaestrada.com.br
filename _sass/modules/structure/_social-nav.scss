@@ -1,0 +1,49 @@
+.social-nav {
+	text-align: center;
+	margin-top: 30px;
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	li {
+		display: inline-block;
+
+		a {
+			background-repeat: no-repeat;
+			background-size: 24px;
+			display: block;
+			height: 24px;
+			height: 28px;
+			text-indent: -9999px;
+			width: 24px;
+			width: 28px;
+
+			&.nav-itunes {
+				background-image: url('../img/icon/itunes.png');
+			}
+
+			&.nav-feed {
+				background-image: url('../img/icon/feed.png');
+			}
+
+			&.nav-twitter {
+				background-image: url('../img/icon/twitter.png');
+			}
+
+			&.nav-facebook {
+				background-image: url('../img/icon/facebook.png');
+			}
+
+			&.nav-soundcloud {
+				background-image: url('../img/icon/soundcloud.png');
+			}
+
+			&.nav-github {
+				background-image: url('../img/icon/github.png');
+			}
+		}
+	}
+}
