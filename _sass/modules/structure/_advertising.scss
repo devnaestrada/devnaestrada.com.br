@@ -1,4 +1,23 @@
-.ad-holder {
-	@include outer-container;
+.super-banner {
+	width: 768px;
 	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	display: none;
+
+	@include media($notebook) {
+		display: block;
+	}
+}
+
+.medium-banner {
+	width: 300px;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+	@include media($notebook) {
+		display: none;
+	}
 }
