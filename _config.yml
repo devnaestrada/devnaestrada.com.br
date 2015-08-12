@@ -12,7 +12,7 @@ itunes_itpc: "itpc://devnaestrada.com.br/feed.xml"
 
 # soundcloud
 soundcloud_prefix: "http://feeds.soundcloud.com/stream/"
-soundcloud_site_capa: "http://i1.sndcdn.com/avatars-000147816775-ycyu5k-original.jpg"
+soundcloud_site_capa: "http://i1.sndcdn.com/avatars-000161212924-uhi3ws-original.png"
 
 # vendor codes
 google_analytics: UA-63291340-1

@@ -7,7 +7,7 @@ layout: null
   <channel>
 
     <title>{{ site.title | xml_escape }} - desenvolvimento web</title>
-    <link>{{ site.url }}/feed.xml</link>
+    <link>{{ site.url }}</link>
     <language>pt-br</language>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <copyright>&#xA9; 2015 {{ site.title }}</copyright>
@@ -15,8 +15,8 @@ layout: null
     <webMaster>{{ site.email_address }} ({{ site.title }})</webMaster>
     <image>
       <url>{{ site.soundcloud_site_capa }}</url>
-      <title>{{ site.title | xml_escape }}</title>
-      <link>{{ site.url }}</link>
+      <title>{{ site.title | xml_escape }} - desenvolvimento web</title>
+      <link>{{ site.url }}/feed.xml</link>
       <width>144</width>
       <height>144</height>
     </image>
