@@ -1,8 +1,13 @@
-.super-banner {
-	width: 768px;
+.super-banner,
+.medium-banner {
 	margin-top: 30px;
+	margin-bottom: 30px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.super-banner {
+	width: 768px;
 	display: none;
 
 	@include media($notebook) {
@@ -12,9 +17,6 @@
 
 .medium-banner {
 	width: 300px;
-	margin-top: 30px;
-	margin-left: auto;
-	margin-right: auto;
 	display: block;
 
 	@include media($notebook) {

@@ -14,7 +14,7 @@ layout: null
     <managingEditor>{{ site.email_address }} ({{ site.title }})</managingEditor>
     <webMaster>{{ site.email_address }} ({{ site.title }})</webMaster>
     <image>
-      <url>{{ site.soundcloud_site_capa }}</url>
+      <url>http://devnaestrada.com.br/img/dne-app-logo.png</url>
       <title>{{ site.title | xml_escape }} - desenvolvimento web</title>
       <link>{{ site.url }}/feed.xml</link>
       <width>144</width>
@@ -32,7 +32,7 @@ layout: null
 
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{ site.soundcloud_site_capa }}" />
+    <itunes:image href="http://devnaestrada.com.br/img/dne-app-logo.png" />
 
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
