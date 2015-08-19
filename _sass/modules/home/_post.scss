@@ -14,6 +14,20 @@
   font-weight: bold;
 }
 
+.links-holder {
+  margin-bottom: rem(30);
+
+  h3 {
+    color: #444;
+    margin: 0;
+    font-size: rem(18);
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
 .post-list {
 	@include outer-container;
   margin: 0;
