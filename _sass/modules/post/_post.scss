@@ -1,9 +1,12 @@
 .post {
+	margin-top: rem(15);
+	padding-top: rem(30);
+    border-top: #ddd 1px solid;
+
 	.post-title {
 		margin-bottom: 0;
 		margin-top: 0;
 		font-family: Helvetica, serif;
-		text-transform: uppercase;
 	}
 
 	h2,

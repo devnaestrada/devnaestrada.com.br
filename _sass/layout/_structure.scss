@@ -3,7 +3,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	border-top: 8px solid #e67e22;
 	color: #333;
-	font-family: Georgia, serif;
+	font-family: "Trebuchet MS", serif;
 	font-size: 16px;
 	text-rendering: optimizeLegibility;
 }
@@ -14,11 +14,15 @@ a {
 	text-decoration: none;
 }
 
+p {
+	line-height: rem(18);
+}
+
 .wrapper {
 	@include outer-container;
-	padding: 15px;
+	padding: rem(15);
 }
 
 .site-header {
-	padding-top: 50px;
+	padding-top: rem(50);
 }

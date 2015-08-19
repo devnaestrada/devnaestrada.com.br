@@ -4,6 +4,16 @@
 	padding: 0 15px;
 }
 
+.podcast-delay {
+  font-size: rem(22);
+  color: #e67e22;
+  display: block;
+  margin-bottom: rem(30);
+  margin-top: rem(30);
+  text-align: center;
+  font-weight: bold;
+}
+
 .post-list {
 	@include outer-container;
   margin: 0;
@@ -11,44 +21,30 @@
   list-style: none;
 
 	li {
-    padding-top: 30px;
+    padding-bottom: rem(30);
+    padding-top: rem(30);
     border-top: #ddd 1px solid;
-    margin-top: 15px;
 
-		@include media($tablet) {
-      @include span-columns(4);
-      @include omega(2n);
+    &:first-child {
+      background-color: #eee;
+      padding: rem(15);
     }
 	}
 
- .post-meta {
-    text-align: center;
-  }
-
   .post-link {
-    text-align: center;
+    color: #333;
     display: block;
     text-decoration: none;
 
     h2 {
       @include transition(color .3s ease-in-out);
-      font-size: 18px;
-      line-height: 24px;
+      font-size: rem(20);
+      line-height: rem(26);
       color: #e67e22;
-      font-family: Helvetica, serif;
       margin-bottom: 15px;
       margin-top: 15px;
     }
 
-    &:hover {
-			h2 {
-      	color: #333;
-      }
-
-      img {
-        @include filter(grayscale(0%));
-      }
-    }
   }
 
 }
@@ -60,23 +56,12 @@
 }
 
 .post-thumb {
-  height: 100px;
   overflow: hidden;
   position: relative;
   width: 100%;
 
   img {
-    @include transform(translate3d(0));
-    @include transition(all .3s ease-in-out);
-    @include filter(grayscale(100%));
-    left: 0;
-    margin-top: -50%;
-    position: absolute;
-    top: 50%;
     width: 100%;
-  }
-
-  @include media($tablet) {
-    height: 150px;
+    max-width: rem(500);
   }
 }

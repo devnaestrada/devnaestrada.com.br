@@ -10,12 +10,14 @@ layout: default
     </span>
   </header>
 
-  <article class="post-content">
-    {{ content }}
-    <div class="audio-player">
-		  {% include soundcloud.html %}
-    </div>
-  </article>
+  <div class="article-holder">
+    <article class="post-content">
+      {{ content }}
+      <div class="audio-player">
+  		  {% include soundcloud.html %}
+      </div>
+    </article>
+  </div>
 
 </div>
 

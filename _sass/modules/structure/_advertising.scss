@@ -1,25 +1,4 @@
-.super-banner,
 .medium-banner {
-	margin-top: 30px;
-	margin-bottom: 30px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.super-banner {
-	width: 768px;
-	display: none;
-
-	@include media($notebook) {
-		display: block;
-	}
-}
-
-.medium-banner {
-	width: 300px;
-	display: block;
-
-	@include media($notebook) {
-		display: none;
-	}
+  width: rem(300);
+  margin: rem(50) auto rem(30);
 }
