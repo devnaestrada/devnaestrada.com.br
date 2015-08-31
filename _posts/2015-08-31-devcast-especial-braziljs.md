@@ -18,10 +18,10 @@ soundcloud-post-image: "000128055871-il0d45"
 [Link](https://github.com/AgtLucas/braziljs-2015-report)
 
 ## Netflix JavaScript Talks - Async JavaScript with Reactive Extensions
-[Link](http://devnaestrada.typeform.com/to/QUBAdE)
+[Link](https://www.youtube.com/watch?v=FAZJsxcykPs)
 
-## BRAZILJS 2015 – MEAT, METAL AND OLDSCHOOL
-[Link](http://devnaestrada.typeform.com/to/QUBAdE)
+## @end3r - BRAZILJS 2015 – MEAT, METAL AND OLDSCHOOL
+[Link](http://dev.end3r.com/2015/08/braziljs-2015-meat-metal-and-oldschool/)
 
 ## @codepo8 - ROCK, MEATS, JAVASCRIPT – BRAZILJS 2015
-[Link](http://devnaestrada.typeform.com/to/QUBAdE)
+[Link](http://christianheilmann.com/2015/08/25/rock-meats-javascript-braziljs-2015/)
