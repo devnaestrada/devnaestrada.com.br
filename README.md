@@ -9,6 +9,18 @@ dia em um papo descontraído e sempre com muita risada.
 
 Para a construção do nosso site, utilizamos o [jekyll](http://jekyllrb.com/) como plataforma e gerador.
 
+### Dependências
+Para rodar nosso site localmente você precisa instalar as seguintes gems.
+
+- Sass
+- Bourbon
+- Neat
+- jekyll-sitemap
+
+```bash
+gem install jekyll sass bourbon neat jekyll-sitemap
+```
+
 ## Colabore
 
 Você pode e é livre para colaborar como quiser com o nosso projeto, divulgando, sugerindo pautas, elogiando, criticando ou até mesmo nos mandando uma errata.
