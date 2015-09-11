@@ -40,7 +40,7 @@ layout: null
 
     <description>{{ site.description | xml_escape }}</description>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    {% for post in site.posts limit:15 %}
+    {% for post in site.posts limit:100 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <itunes:author>{{ site.title }}</itunes:author>
