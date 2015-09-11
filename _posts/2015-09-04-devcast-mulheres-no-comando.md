@@ -9,8 +9,6 @@ soundcloud-id: "222284665"
 soundcloud-post-image: "000128455836-gfkmz4"
 ---
 
-[@femontanha](http://twitter.com/femontanha) [@emilioaiolfi](http://twitter.com/emilioaiolfi) [@the_ebessa](http://twitter.com/the_ebessa) e William Martins falam um pouco sobre o maior evento de javascript do mundo!! O BrazilJS!
-
 [@femontanha](http://twitter.com/femontanha) [@raymonsanches](http://twitter.com/raymonsanches) batem um papo super bacana com Desenvolvedoras Mulheres, [@vanessametonini](http://twitter.com/vanessametonini), Keit Oliveira e Érica Hidemi.
 
 ## Site da Vanessa SailorMoon
