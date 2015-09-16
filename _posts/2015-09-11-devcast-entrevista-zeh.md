@@ -9,7 +9,7 @@ soundcloud-id: "223338389"
 soundcloud-post-image: "000129175538-isql2r"
 ---
 
-[@femontanha](http://twitter.com/femontanha) [@raymonsanches](http://twitter.com/raymonsanches) entrevista o grande [@zeh](http://twitter.com/zeh), acompanhe conosco a grande história desse excelente profissional, sua tragetória aqui no Brasil e também no país do Tio Sam! Estados Unidos!
+[@femontanha](http://twitter.com/femontanha) [@raymonsanches](http://twitter.com/raymonsanches) entrevista o grande [@zeh](http://twitter.com/zeh), acompanhe conosco a grande história desse excelente profissional, sua trajetória aqui no Brasil e também no país do Tio Sam! Estados Unidos!
 
 ## Promoção WideTI te leva pro Caipira Agil
 [Facebook com as regras](https://www.facebook.com/devnaestrada/posts/1611327709134767)
