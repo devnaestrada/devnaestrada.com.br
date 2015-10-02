@@ -34,8 +34,6 @@ layout: default
           frameborder="no"
           src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ post.soundcloud-id }}&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false">
         </iframe>
-
-        {% include ads.html %}
       </li>
     {% endfor %}
     {% for post in site.posts offset:1 %}
