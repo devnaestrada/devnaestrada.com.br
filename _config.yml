@@ -7,7 +7,7 @@ description: "Podcast sobre front-end, back-end e desenvolvimento web. Venha con
 url: "http://devnaestrada.com.br"
 
 # Blog
-paginate: 10
+paginate: 6
 paginate_path: "/podcast/:num/"
 
 # social links

@@ -13,7 +13,7 @@ Ex: Como procurar emprego
 Divulgamos o seu evento, sua ação, sua promoção antes de começar o nosso cast, é um espaço reservado para anunciantes aonde lhe damos 30 segundos para divulgar o que precisa.
 
 ##Longa entrada
-Reservamos o espaço na entrada apenas para o seu anúncio
+Reservamos um espaço exclusivo na entrada do podcast para você anunciar o seu produto/serviço
 
 ##Entre em contato
 Venha conversar conosco, mande um e-mail para **devnaestrada** arroba **gmail** ponto **com**
