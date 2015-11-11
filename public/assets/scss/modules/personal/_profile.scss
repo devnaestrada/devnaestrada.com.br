@@ -1,0 +1,46 @@
+.profile__image {
+  background-position: center;
+  background-size: contain;
+  border-radius: 50%;
+  display: inline-block;
+  height: 250px;
+  margin-bottom: 15px;
+  position: relative;
+  width: 250px;
+
+  &.profile__image--femontanha {
+    background-image: url('http://pbs.twimg.com/profile_images/657406409341030400/4YB5kvoX.jpg');
+  }
+
+  &.profile__image--raymon {
+    background-image: url('http://pbs.twimg.com/profile_images/633018596239740929/y39acEhF.jpg');
+  }
+
+  &:before {
+    background: radial-gradient(circle at 30% 0px, $ligten, rgba(255, 255, 255, 0) 70%);
+    border-radius: 50%;
+    content: "";
+    filter: blur(5px);
+    height: 95%;
+    left: 2%;
+    opacity: .4;
+    position: absolute;
+    top: 1%;
+    width: 95%;
+    z-index: 2;
+  }
+}
+
+.profile__name,
+.profile__role {
+  display: block;
+  font-size: 15px;
+}
+
+.profile__role {
+  color: $profile-role-color;
+}
+
+.profile__twitter {
+  margin-top: 15px;
+}

@@ -2,9 +2,19 @@
 title: DevNaEstrada
 email: devnaestrada at gmail com
 email_address: devnaestrada@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/"
 description: "Podcast sobre front-end, back-end e desenvolvimento web. Venha conhecer o nosso ponto de vista no mundo da programação!"
-url: "http://devnaestrada.com.br" # the base hostname & protocol for your site
+url: "http://devnaestrada.com.br"
+
+# Blog
+paginate: 10
+paginate_path: "/podcast/:num/"
+
+# social links
+github_user: "devnaestrada"
+twitter_user: "devnaestrada"
+soundcloud_user: "devnaestrada"
+facebook_user: "devnaestrada"
 
 # itunes
 itunes_url: "https://itunes.apple.com/br/podcast/devnaestrada/id997779431?mt=2"
@@ -21,6 +31,11 @@ facebook_meta: true
 
 # Build settings
 markdown: kramdown
+
+# Sass configuration
+sass:
+  sass_dir: public/assets/scss
+  style: compressed
 
 gems:
   - jekyll-sitemap

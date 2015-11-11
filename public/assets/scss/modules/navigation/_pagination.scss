@@ -1,0 +1,12 @@
+.pagination {
+  margin-top: 60px;
+  text-align: center;
+
+  .btn {
+    margin-left: 30px;
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}

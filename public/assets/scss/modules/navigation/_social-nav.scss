@@ -1,0 +1,25 @@
+.social-nav {
+  margin-top: 20px;
+  text-align: center;
+
+  .social-nav__link {
+    @extend %inline-middle-block;
+    margin-left: 15px;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:hover {
+      i {
+        color: $primary-color;
+      }
+    }
+
+    i {
+      @include transition(color .2s ease-in-out);
+      color: $ligten;
+      font-size: 28px;
+    }
+  }
+}

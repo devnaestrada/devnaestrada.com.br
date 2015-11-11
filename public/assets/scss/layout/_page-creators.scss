@@ -1,0 +1,16 @@
+.page-creators {
+  text-align: center;
+
+  .profile {
+    margin-top: 30px;
+
+    @media screen and (min-width: $notebook) {
+    display: inline-block;
+      width: 48%;
+    }
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}

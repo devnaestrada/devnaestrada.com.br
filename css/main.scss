@@ -1,18 +1,34 @@
 ---
+# DevNaEstrada SCSS file
 ---
 
 // vendor
 @import "bourbon";
 @import "neat";
-@import "vendor/normalize";
+@import "./../../vendor/normalize/normalize";
 
 // core
 @import "core/config/colors";
 @import "core/config/units";
+@import "core/config/typograph";
+@import "core/extend/inline-block";
 
-@import "layout/structure";
+// font
+@import "modules/font/fontawesome/font-awesome";
+
+// modules
 @import "modules/structure/header";
-@import "modules/structure/advertising";
-@import "modules/structure/social-nav";
-@import "modules/home/post";
-@import "modules/post/post";
+@import "modules/structure/footer";
+@import "modules/structure/cover-photo";
+@import "modules/navigation/buttons";
+@import "modules/navigation/social-nav";
+@import "modules/navigation/pagination";
+@import "modules/personal/profile";
+@import "modules/blocks/home-cast";
+@import "modules/blocks/post-cast";
+
+// layout
+@import "layout/structure";
+@import "layout/page-creators";
+@import "layout/page-404";
+@import "layout/page-home";

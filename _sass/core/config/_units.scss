@@ -1,7 +1,0 @@
-$max-width: em(600);
-
-$iphone-retina: new-breakpoint(min-width 320px 4);
-$mobile: new-breakpoint(min-width 480px 4);
-$tablet: new-breakpoint(min-width 768px 8);
-$notebook: new-breakpoint(min-width 992px 12);
-$desktop: new-breakpoint(min-width 1200px 12);

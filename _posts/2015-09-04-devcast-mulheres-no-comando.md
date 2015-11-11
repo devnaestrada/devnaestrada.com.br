@@ -6,7 +6,7 @@ cast-length: "49847673"
 cast-time: "01:23:05"
 description: "@femontanha @raymonsanches batem um papo super bacana com Desenvolvedoras Mulheres, @vanessametonini, Keit Oliveira e Érica Hidemi."
 soundcloud-id: "222284665"
-soundcloud-post-image: "000128455836-gfkmz4"
+soundcloud-post-image: "000135763113-0nxui7"
 ---
 
 [@femontanha](http://twitter.com/femontanha) [@raymonsanches](http://twitter.com/raymonsanches) batem um papo super bacana com Desenvolvedoras Mulheres, [@vanessametonini](http://twitter.com/vanessametonini), Keit Oliveira e Érica Hidemi.

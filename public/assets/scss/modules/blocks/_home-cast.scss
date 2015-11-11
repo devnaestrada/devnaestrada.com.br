@@ -1,0 +1,23 @@
+.home-cast__avatar {
+  max-width: 50px;
+  max-height: 50px;
+  border-radius: 50%;
+  float: left;
+}
+
+.home-cast__holder {
+  margin-left: 70px;
+  padding-top: 10px;
+}
+
+.home-cast__title {
+  margin: 0;
+
+  .fa {
+    font-size: 15px;
+  }
+}
+
+.home-cast__description {
+  color: $home-cast-description;
+}

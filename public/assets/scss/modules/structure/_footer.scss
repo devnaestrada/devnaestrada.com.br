@@ -1,0 +1,14 @@
+footer {
+  background-color: #ecf0f1;
+  margin-top: 30px;
+  padding: 30px;
+
+  .footer-text {
+    text-align: center;
+    font-weight: 600;
+
+    .fa-heart {
+      color: $heart-color;
+    }
+  }
+}

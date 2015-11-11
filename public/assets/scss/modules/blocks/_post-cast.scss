@@ -1,0 +1,48 @@
+.post-cast__header__meta {
+  color: $post-meta-color;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 1;
+  text-transform: uppercase;
+
+  .fa {
+    margin-left: 10px;
+  }
+}
+
+.post-cast__header__title {
+  color: $post-title-color;
+  font-weight: bold;
+  font-size: 2.1em;
+  margin-top: 5px;
+
+  .fa {
+    font-size: 14px;
+  }
+
+  &:after {
+    content: "";
+    display: block;
+    width: 25px;
+    height: 3px;
+    background-color: $post-hr-color;
+    margin: 25px 0;
+  }
+}
+
+.post-cast__content {
+
+  p {
+    color: $link-color;
+    line-height: 1.5;
+    font-weight: 400;
+  }
+}
+
+.post-cast__content__audio {
+  margin-bottom: 30px;
+}
+
+.disqus-comments {
+  margin-top: 60px;
+}

@@ -1,0 +1,42 @@
+body {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	color: $base-text-color;
+	font-family: $base-font;
+	font-size: 17px;
+	text-rendering: optimizeLegibility;
+}
+
+a {
+  @include transition(color .2s ease-in-out);
+  text-decoration: none;
+  color: $link-color;
+  outline: none;
+
+  &:hover,
+  &:active {
+    color: $link-hover-color;
+  }
+}
+
+.image-block {
+  display: block;
+}
+
+.container {
+  font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 820px;
+  padding: 30px;
+
+  @media screen and (min-width: $tablet) {
+    padding: 60px 30px;
+  }
+}
+
+// page
+
+.page__title {
+  margin-top: 0;
+}
