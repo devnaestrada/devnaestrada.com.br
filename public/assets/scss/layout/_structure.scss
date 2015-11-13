@@ -21,6 +21,11 @@ a {
 
 .image-block {
   display: block;
+  width: 100%;
+
+  @media screen and (min-width: $tablet) {
+    width: auto;
+  }
 }
 
 .container {

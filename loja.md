@@ -11,7 +11,7 @@ Por enquanto ainda não temos uma loja, vamos analisar com calma se valerá a pe
 
 **devnaestrada@gmail.com** com o assunto "Camiseta DNE"
 
-<img src="{{ "public/assets/img/store/basic-tshirt.jpg" | prepend: site.baseurl }}" alt="Camiseta DevNaEstrada" />
+<img src="{{ "public/assets/img/store/basic-tshirt.jpg" | prepend: site.baseurl }}" alt="Camiseta DevNaEstrada" class="image-block" />
 
 Tamanhos: P, M, G, GG, EG
 
