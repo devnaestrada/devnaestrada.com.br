@@ -4,16 +4,14 @@ title: Anuncie Conosco
 permalink: /anuncie/
 ---
 
-##Podcasts temáticos
-Batemos um papo de sobre um assunto relacionado a sua empresa ou serviço, trazendo os benefícios pras pessoas que estão escutando sempre com bom humor e tecnologia.
+## Episódios Temáticos
+Você pode nos sugerir uma pauta específica para um episódio e desenvolvemos um papo bacana sobre o assunto, sempre trazendo o benefícios para os ouvintes e claro, muito bom humor e tecnologia.
 
-Ex: Como procurar emprego
+## Spot na Intro (até 30 segundos)
+Divulgaremos seu evento, ação ou promoção no ínicio dos nossos episódios em um espaço reservado com até 30 segundos para divulgar o que precisar. 
 
-##Curta entrada
-Divulgamos o seu evento, sua ação, sua promoção antes de começar o nosso cast, é um espaço reservado para anunciantes aonde lhe damos 30 segundos para divulgar o que precisa.
+## Spot na Intro (longo)
+Espaço exclusivo já na entrada do podcast, para você anunciar o seu produto, empresa ou serviço.
 
-##Longa entrada
-Reservamos um espaço exclusivo na entrada do podcast para você anunciar o seu produto/serviço
-
-##Entre em contato
-Venha conversar conosco, mande um e-mail para **devnaestrada** arroba **gmail** ponto **com**
+## Entre em contato
+Tem outra idéia? Alguma ação bacana? Mande um e-mail para **devnaestrada@gmail.com** que com certeza faremos coisas muito legais.
