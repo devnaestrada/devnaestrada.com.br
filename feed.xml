@@ -14,7 +14,7 @@ layout: null
     <managingEditor>{{ site.email_address }} ({{ site.title }})</managingEditor>
     <webMaster>{{ site.email_address }} ({{ site.title }})</webMaster>
     <image>
-      <url>http://devnaestrada.com.br/img/dne-app-logo.png</url>
+      <url>http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar.png</url>
       <title>{{ site.title | xml_escape }} - desenvolvimento web</title>
       <link>{{ site.url }}/feed.xml</link>
       <width>144</width>
