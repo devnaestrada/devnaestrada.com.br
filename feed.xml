@@ -32,7 +32,7 @@ layout: null
 
     <itunes:block>no</itunes:block>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://devnaestrada.com.br/img/dne-app-logo.png" />
+    <itunes:image href="http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar.png" />
 
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
