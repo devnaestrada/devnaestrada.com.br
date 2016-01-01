@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DNE 34 - DevNaEstrada 34 - Entrevista Duodraco
+title: DNE 34 - Entrevista Duodraco
 cast: 239917913-devnaestrada-devnaestrada-34-entrevista-duodraco.mp3
 cast-length: "42197230"
 cast-time: "01:10:08"
