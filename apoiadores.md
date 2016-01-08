@@ -22,6 +22,12 @@ permalink: /apoiadores/
 	<li>
 		<img src="https://graph.facebook.com/961994403889342/picture?type=large" alt="Gabriel Ribeiro" /> Gabriel Ribeiro
 	</li>
+	<li>
+		<img src="https://graph.facebook.com/10205450101800853/picture?type=large" alt="Igor Leroy" /> Igor Leroy
+	</li>
+	<li>
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Dânio Filho" /> Dânio Filho
+	</li>
 </ul>
 
 <a href="https://apoia.se/devnaestrada" class="btn" target="_blank">
