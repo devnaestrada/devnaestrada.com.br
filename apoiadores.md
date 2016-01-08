@@ -31,6 +31,9 @@ permalink: /apoiadores/
 	<li>
 		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Nuno Sccp" /> Nuno Sccp
 	</li>
+	<li>
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Luiz Augusto da Silva Crisostomo" /> Luiz Augusto da Silva Crisostomo
+	</li>
 </ul>
 
 <a href="https://apoia.se/devnaestrada" class="btn" target="_blank">
