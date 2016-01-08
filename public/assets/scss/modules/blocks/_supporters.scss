@@ -1,0 +1,25 @@
+.supporters {
+  @include outer-container;
+  list-style: none;
+  margin: 0;
+  margin-bottom: 30px;
+  padding: 0;
+
+  li {
+    margin-top: 15px;
+
+    @media screen and (min-width: $notebook) {
+      @include span-columns(6);
+      @include omega(2n);
+    }
+  }
+
+  img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 50px;
+    margin-right: 15px;
+    vertical-align: middle;
+    width: 50px;
+  }
+}
