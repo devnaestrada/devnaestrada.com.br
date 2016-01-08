@@ -28,6 +28,9 @@ permalink: /apoiadores/
 	<li>
 		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Dânio Filho" /> Dânio Filho
 	</li>
+	<li>
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Nuno Sccp" /> Nuno Sccp
+	</li>
 </ul>
 
 <a href="https://apoia.se/devnaestrada" class="btn" target="_blank">

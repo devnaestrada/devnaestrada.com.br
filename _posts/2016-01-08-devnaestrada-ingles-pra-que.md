@@ -23,6 +23,6 @@ Cupom de Desconto: **DEVNAESTRADA15**
 
 [Entrevista Leonel](http://devnaestrada.com.br/2015/07/03/devcast-entrevista-leonel.html)
 
-[http://narrador.co](Empresa do Octhavio)
+[Empresa do Octhavio](http://narrador.co)
 
-[http://opatabom.com](Podcast de games)
+[Podcast de games](http://opatabom.com)
