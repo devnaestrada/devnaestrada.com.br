@@ -32,7 +32,16 @@ permalink: /apoiadores/
 		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Nuno Sccp" /> Nuno Sccp
 	</li>
 	<li>
-		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Luiz Augusto da Silva Crisostomo" /> Luiz Augusto da Silva Crisostomo
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Luiz Augusto da Silva Crisostomo" /> Luiz Augusto da Silva
+	</li>
+	<li>
+		<img src="https://pbs.twimg.com/profile_images/3113193888/889a09b63818ff4a3dfaf6f214497664.jpeg" alt="Rodrigo Aiala Feijolo" /> Rodrigo Aiala Feijolo
+	</li>
+	<li>
+		<img src="https://graph.facebook.com/1193057050722279/picture?type=large" alt="Willian Martins" /> Willian Martins
+	</li>
+	<li>
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Ícaro Ramires Costa de Souza" /> Ícaro Ramires Costa de Souza
 	</li>
 </ul>
 
