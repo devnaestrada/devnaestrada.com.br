@@ -14,7 +14,7 @@ permalink: /apoiadores/
 		<img src="https://graph.facebook.com/10153717178774543/picture?type=large" alt="Afonso França" /> Afonso França
 	</li>
 	<li>
-		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Matheus Brocchi" /> Matheus Brocchi
+		<img src="{{ "public/assets/img/profile/matheus.jpg" | prepend: site.baseurl }}" alt="Matheus Brocchi" /> Matheus Brocchi
 	</li>
 	<li>
 		<img src="https://graph.facebook.com/974416929295015/picture?type=large" alt="Luís Felipe Souza" /> Luís Felipe Souza
@@ -45,6 +45,18 @@ permalink: /apoiadores/
 	</li>
 	<li>
 		<img src="https://graph.facebook.com/220434341625387/picture?type=large" alt="Wilian Penaforte" /> Wilian Penaforte
+	</li>
+	<li>
+		<img src="https://graph.facebook.com/100000266865431/picture?type=large" alt="Antônio Roberto" /> Antônio Roberto
+	</li>
+	<li>
+		<img src="https://graph.facebook.com/10153396239376448/picture?type=large" alt="Xhamps Rapha" /> Xhamps Rapha
+	</li>
+	<li>
+		<img src="https://graph.facebook.com/10205591383000734/picture?type=large" alt="Adriano Fernandes" /> Adriano Fernandes
+	</li>
+	<li>
+		<img src="https://pbs.twimg.com/profile_images/679361982986891264/p9iafXNo.jpg" alt="Eduardo Matos" /> Eduardo Matos
 	</li>
 </ul>
 
