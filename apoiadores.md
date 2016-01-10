@@ -32,16 +32,19 @@ permalink: /apoiadores/
 		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Nuno Sccp" /> Nuno Sccp
 	</li>
 	<li>
-		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Luiz Augusto da Silva Crisostomo" /> Luiz Augusto da Silva
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Luiz Augusto da Silva Crisostomo" /> Luiz Augusto
 	</li>
 	<li>
-		<img src="https://pbs.twimg.com/profile_images/3113193888/889a09b63818ff4a3dfaf6f214497664.jpeg" alt="Rodrigo Aiala Feijolo" /> Rodrigo Aiala Feijolo
+		<img src="https://pbs.twimg.com/profile_images/3113193888/889a09b63818ff4a3dfaf6f214497664.jpeg" alt="Rodrigo Aiala Feijolo" /> Rodrigo Aiala
 	</li>
 	<li>
 		<img src="https://graph.facebook.com/1193057050722279/picture?type=large" alt="Willian Martins" /> Willian Martins
 	</li>
 	<li>
-		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Ícaro Ramires Costa de Souza" /> Ícaro Ramires Costa de Souza
+		<img src="https://pbs.twimg.com/profile_images/664820928593940480/b4_0Tj_d.jpg" alt="Ícaro Ramires Costa de Souza" /> Ícaro Ramires
+	</li>
+	<li>
+		<img src="https://graph.facebook.com/220434341625387/picture?type=large" alt="Wilian Penaforte" /> Wilian Penaforte
 	</li>
 </ul>
 
