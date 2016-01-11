@@ -58,6 +58,9 @@ permalink: /apoiadores/
 	<li>
 		<img src="https://pbs.twimg.com/profile_images/679361982986891264/p9iafXNo.jpg" alt="Eduardo Matos" /> Eduardo Matos
 	</li>
+	<li>
+		<img src="https://graph.facebook.com/1065211690177337/picture?type=large" alt="Claudson Oliveira" /> Claudson Oliveira
+	</li>
 </ul>
 
 <a href="https://apoia.se/devnaestrada" class="btn" target="_blank">
