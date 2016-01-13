@@ -67,6 +67,9 @@ permalink: /apoiadores/
 	<li>
 		<img src="https://graph.facebook.com/1090815367605264/picture?type=large" alt="Marcos Paulo Reis" /> Marcos Paulo Reis
 	</li>
+	<li>
+		<img src="https://graph.facebook.com/1010522915673934/picture?type=large" alt="Arthur Braga Alfredo" /> Arthur Braga Alfredo
+	</li>
 </ul>
 
 <a href="https://apoia.se/devnaestrada" class="btn" target="_blank">
