@@ -15,10 +15,10 @@ Para rodar nosso site localmente você precisa instalar as seguintes gems.
 - Sass
 - Bourbon
 - Neat
-- jekyll-sitemap
+- jekyll-paginate
 
 ```bash
-$ gem install jekyll sass bourbon neat jekyll-sitemap
+$ gem install jekyll sass bourbon neat jekyll-paginate
 ```
 
 ### Inicie um servidor com Jekyll

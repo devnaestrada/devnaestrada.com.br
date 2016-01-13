@@ -38,7 +38,7 @@ sass:
   style: compressed
 
 gems:
-  - jekyll-sitemap
+  - sass
   - jekyll-paginate
   - bourbon
   - neat
