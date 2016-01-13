@@ -61,6 +61,12 @@ permalink: /apoiadores/
 	<li>
 		<img src="https://graph.facebook.com/1065211690177337/picture?type=large" alt="Claudson Oliveira" /> Claudson Oliveira
 	</li>
+	<li>
+		<img src="https://graph.facebook.com/1149731838411491/picture?type=large" alt="Diego Girotto Arigony" /> Diego Girotto Arigony
+	</li>
+	<li>
+		<img src="https://graph.facebook.com/1090815367605264/picture?type=large" alt="Marcos Paulo Reis" /> Marcos Paulo Reis
+	</li>
 </ul>
 
 <a href="https://apoia.se/devnaestrada" class="btn" target="_blank">
