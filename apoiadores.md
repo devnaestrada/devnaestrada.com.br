@@ -70,6 +70,27 @@ permalink: /apoiadores/
 	<li>
 		<img src="https://graph.facebook.com/1010522915673934/picture?type=large" alt="Arthur Braga Alfredo" /> Arthur Braga Alfredo
 	</li>
+	<li>
+		<img src="https://pbs.twimg.com/profile_images/637599545187299328/rajdst3i.jpg" alt="Igor Souza" /> Igor Souza
+	</li>
+	<li>
+		<img src="https://pbs.twimg.com/profile_images/687973233652568064/8Omxehqq.jpg" alt="Rafael Naves" /> Rafael Naves
+	</li>
+	<li>
+		<img src="https://pbs.twimg.com/profile_images/685807674106232833/7ccgvEak.jpg" alt="Andre Loureiro" /> Andre Loureiro
+	</li>
+	<li>
+		<img src="https://graph.facebook.com/10208547500147793/picture?type=large" alt="Kadu Mx" /> Kadu Mx
+	</li>
+	<li>
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Leandro Silva" /> Leandro Silva
+	</li>
+	<li>
+		<img src="https://pbs.twimg.com/profile_images/639480209880805376/zUCGcCfg.jpg" alt="Thiago Simões" /> Thiago Simões
+	</li>
+	<li>
+		<img src="https://graph.facebook.com/953621434721859/picture?type=large" alt="Débora Martins" /> Débora Martins
+	</li>
 </ul>
 
 <a href="https://apoia.se/devnaestrada" class="btn" target="_blank">
