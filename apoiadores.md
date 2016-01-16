@@ -83,7 +83,7 @@ permalink: /apoiadores/
 		<img src="https://graph.facebook.com/10208547500147793/picture?type=large" alt="Kadu Mx" /> Kadu Mx
 	</li>
 	<li>
-		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Leandro Silva" /> Leandro Silva
+		<img src="{{ "public/assets/img/profile/lrsilva.jpg" | prepend: site.baseurl }}" alt="Leandro Silva" /> Leandro Silva
 	</li>
 	<li>
 		<img src="https://pbs.twimg.com/profile_images/639480209880805376/zUCGcCfg.jpg" alt="Thiago Simões" /> Thiago Simões
