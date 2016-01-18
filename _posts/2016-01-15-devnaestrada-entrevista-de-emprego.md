@@ -19,7 +19,7 @@ Cupom de Desconto da Casa do Código: **DEVNAESTRADA15**
 
 [CasaDoCódigo](http://www.casadocodigo.com.br/)
 
-[TED Linguagem Corpotal](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=pt-br)
+[TED Linguagem Corporal](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=pt-br)
 
 [HackerRank](https://www.hackerrank.com/)
 
