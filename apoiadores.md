@@ -91,6 +91,12 @@ permalink: /apoiadores/
 	<li>
 		<img src="https://graph.facebook.com/953621434721859/picture?type=large" alt="Débora Martins" /> Débora Martins
 	</li>
+	<li>
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Leonardo Lucas" /> Leonardo Lucas
+	</li>
+	<li>
+		<img src="https://graph.facebook.com/1055664327826928/picture?type=large" alt="Douglas Quintanilha" /> Douglas Quintanilha
+	</li>
 </ul>
 
 <a href="https://apoia.se/devnaestrada" class="btn" target="_blank">
