@@ -9,4 +9,4 @@ soundcloud-id: "207903866"
 soundcloud-post-image: "000118523390-x6xblv"
 ---
 Olá passageiros, nesse primeiro cast falamos um pouco quem nós somos, você vai saber quem trabalha com front end, quem trabalha com backend, como chegamos e escolhemos essa carreira e muito mais! Dê o play e vamos passear.
-Não se esqueça de se inscrever no nosso podcast via [Itunes!]({{site.itunes_url}})
+Não se esqueça de se inscrever no nosso podcast via [iTunes!]({{site.itunes_url}})
