@@ -26,6 +26,9 @@ permalink: /apoiadores/
 	<li>
 		<img src="http://gravatar.com/avatar/2028797a46be0f82620b8e8894d87231" alt="Philippe Silva" /> Philippe Silva
 	</li>
+	<li>
+		<img src="https://graph.facebook.com/1224113854272128/picture?type=large" alt="Josimar Camargo" /> Josimar Camargo
+	</li>
 </ul>
 
 <h2>Apoiadores Pleno</h2>
