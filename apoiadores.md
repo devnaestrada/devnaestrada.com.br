@@ -107,7 +107,7 @@ permalink: /apoiadores/
 		<img src="https://graph.facebook.com/10153396239376448/picture?type=large" alt="Xhamps Rapha" /> Xhamps Rapha
 	</li>
 	<li>
-		<img src="https://pbs.twimg.com/profile_images/679361982986891264/p9iafXNo.jpg" alt="Eduardo Matos" /> Eduardo Matos
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Eduardo Matos" /> Eduardo Matos
 	</li>
 	<li>
 		<img src="https://graph.facebook.com/1090815367605264/picture?type=large" alt="Marcos Paulo Reis" /> Marcos Paulo Reis
