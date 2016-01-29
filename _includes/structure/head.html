@@ -6,10 +6,9 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-	<meta name="robots" content="index, follow">
-	<meta name="keywords" content="frontend, front-end, backend, back-end, desenvolvimento, programação, podcast, cast, devnaestrada, femontanha, ramon sanches"/>
-
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="frontend, front-end, backend, back-end, desenvolvimento, programação, podcast, cast, devnaestrada, femontanha, ramon sanches"/>
 
   {% if site.facebook_meta and page.author %}
   <meta property="og:locale" content="pt_BR">
@@ -28,7 +27,7 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   <!--Favicon-->
-	<link rel="shortcut icon" href="{{ "public/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ "public/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
   <link rel="apple-touch-icon" sizes="57x57" href="{{ "public/assets/img/favicon/apple-icon-57x57.png" | prepend: site.baseurl }}">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ "public/assets/img/favicon/apple-icon-60x60.png" | prepend: site.baseurl }}">
   <link rel="apple-touch-icon" sizes="72x72" href="{{ "public/assets/img/favicon/apple-icon-72x72.png" | prepend: site.baseurl }}">
@@ -48,9 +47,9 @@
   <meta name="theme-color" content="#ffffff">
 
   <!-- Google Analytics -->
-	{% if site.google_analytics %}
-		{% include vendor/ga.html %}
-	{% endif %}
+  {% if site.google_analytics %}
+    {% include vendor/ga.html %}
+  {% endif %}
 
   <script type="text/javascript" src="//use.typekit.net/omp7orf.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
