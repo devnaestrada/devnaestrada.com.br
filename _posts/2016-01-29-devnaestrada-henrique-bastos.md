@@ -23,9 +23,9 @@ Ganhador: **Luiz Augusto da Silva Crisostomo**
   Também quero apoiar!
 </a>
 
-[CasaDoCódigo](http://devs.contratado.me/)
+[CasaDoCódigo](http://www.casadocodigo.com.br/)
 
-[Contratado.me](http://www.casadocodigo.com.br/)
+[Contratado.me](http://devs.contratado.me/)
 
 [Twitter Henrique Bastos](https://twitter.com/henriquebastos)
 
