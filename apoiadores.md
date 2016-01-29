@@ -75,6 +75,9 @@ permalink: /apoiadores/
 	<li>
 		<img src="{{ "public/assets/img/profile/lrsilva.jpg" | prepend: site.baseurl }}" alt="Leandro Silva" /> Leandro Silva
 	</li>
+	<li>
+		<img src="https://graph.facebook.com/908664515916448/picture?type=large" alt="Rafael Crispim" /> Rafael Crispim
+	</li>
 </ul>
 
 <h2>Apoiadores Sênior</h2>
@@ -117,6 +120,9 @@ permalink: /apoiadores/
 	</li>
 	<li>
 		<img src="https://pbs.twimg.com/profile_images/687973233652568064/8Omxehqq.jpg" alt="Rafael Naves" /> Rafael Naves
+	</li>
+	<li>
+		<img src="{{ "public/assets/img/default-avatar.png" | prepend: site.baseurl }}" alt="Geovane Rocha" /> Geovane Rocha
 	</li>
 </ul>
 
