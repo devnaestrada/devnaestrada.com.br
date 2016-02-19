@@ -34,6 +34,8 @@ layout: null
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png" />
 
+    <itunes:category text="Technology" />
+    <itunes:category text="Society &#38; Culture" />
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
