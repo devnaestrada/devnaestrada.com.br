@@ -1,7 +1,7 @@
 # general
 title: DevNaEstrada
 email: devnaestrada at gmail com
-email_address: devnaestrada@gmail.com
+email_address: contato@devnaestrada.com.br
 baseurl: "/"
 description: "Podcast sobre front-end, back-end e desenvolvimento web. Venha conhecer o nosso ponto de vista no mundo da programação!"
 url: "http://devnaestrada.com.br"
@@ -128,6 +128,24 @@ support_collection:
       -
         name: "Leandro Nunes"
         img: "default.png"
+      -
+        name: "Ricardo Fleury"
+        img: "default.png"
+      -
+        name: "Tarantini Pereira"
+        img: "tarantini.jpg"
+      -
+        name: "Aurimar Aparecido da Silva"
+        img: "aurimar-silva.jpg"
+      -
+        name: "Thiago Kaczuroski"
+        img: "thiagokazu.jpg"
+      -
+        name: "Marcony Felipe Morais de Brito"
+        img: "default.png"
+      -
+        name: "Dyego Rodrigo"
+        img: "dyego-rodrigo.jpg"
   -
     title: "Apoiadores Sênior"
     supporters:
@@ -176,3 +194,6 @@ support_collection:
       -
         name: "Erick Bessa"
         img: "erick-bessa.jpg"
+      -
+        name: "Luis Carlos Silva"
+        img: "default.png"
