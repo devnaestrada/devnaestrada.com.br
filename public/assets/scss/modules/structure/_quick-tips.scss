@@ -11,10 +11,14 @@
   &__text {
     color: $ligten;
     font-family: $base-font;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
     margin: 0;
     padding: 15px;
     text-align: center;
+
+    @media screen and (min-width: $notebook) {
+      font-size: 18px;
+    }
   }
 }
