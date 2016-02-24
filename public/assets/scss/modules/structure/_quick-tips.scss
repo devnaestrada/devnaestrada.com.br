@@ -1,0 +1,20 @@
+.quick-tips {
+  @include transition(all .5s ease-in);
+  background-color: $primary-color;
+  max-height: 0;
+  overflow: hidden;
+
+  &.active {
+    max-height: 55px;
+  }
+
+  &__text {
+    color: $ligten;
+    font-family: $base-font;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+  }
+}
