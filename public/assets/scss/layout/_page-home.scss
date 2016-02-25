@@ -1,7 +1,11 @@
 .page-home {
-  
+
   .home-cast {
-    margin-top: 90px;
+    margin-top: 30px;
+
+    @media screen and (min-width: $tablet) {
+      margin-top: 90px;
+    }
 
     &:first-child {
       margin: 0;
