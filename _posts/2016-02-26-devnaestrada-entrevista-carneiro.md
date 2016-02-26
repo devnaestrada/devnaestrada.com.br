@@ -23,7 +23,7 @@ Entrevista com o fera Marcelo Carneiro (@mcarneiro). Marcelo é frontend develop
 
 Também fizemos um vídeo explicando como funcionam nossos sorteios, bem prático e objetivo que vocês fiquem por dentro do que acontece quando rola uma promoção por aqui ;)
 
-Podem assistir o vídeo [aqui](https://www.youtube.com/watch?v=MXpE0yjpzWo&feature=youtu.be)
+[https://www.youtube.com/watch?v=MXpE0yjpzWo](https://www.youtube.com/watch?v=MXpE0yjpzWo)
 
 <h2>Links do Episódio</h2>
 
@@ -38,10 +38,3 @@ Podem assistir o vídeo [aqui](https://www.youtube.com/watch?v=MXpE0yjpzWo&featu
 [F.biz](http://fbiz.com.br)
 
 [Print the legend (Documentário)](https://www.netflix.com/title/80005444) - Netflix paga nóis!
-
-<h2>Eventos</h2>
-
-[Evento Femug](https://sp.femug.com/t/femug-sp-29-locaweb/605)
-
-[Evento FrontUX](http://www.meetup.com/pt-BR/FrontUX/)
-
