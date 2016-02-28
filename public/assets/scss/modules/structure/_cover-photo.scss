@@ -4,7 +4,6 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 130px;
   max-width: 100%;
   max-height: 480px;
   text-align: center;
@@ -27,18 +26,32 @@
   font-weight: 600;
   margin-bottom: 0;
   margin-top: 0;
+
+  .plus-info {
+    display: none;
+
+    @media screen and (min-width: $tablet) {
+      display: inline-block;
+    }
+  }
+
+  .highlight {
+    color: $primary-color;
+  }
 }
 
 .cover-photo__title {
   @extend %default__cover-photo__title;
   font-size: 18px;
 
-  .highlight {
-    color: $primary-color;
+  br {
+    @media screen and (min-width: $tablet) {
+      display: none;
+    }
   }
 
   @media screen and (min-width: $tablet) {
-    font-size: 38px;
+    font-size: 30px;
   }
 }
 
@@ -47,6 +60,6 @@
   font-size: 14px;
 
   @media screen and (min-width: $tablet) {
-    font-size: 20px;
+    font-size: 28px;
   }
 }
