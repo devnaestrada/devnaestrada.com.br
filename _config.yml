@@ -152,6 +152,9 @@ support_collection:
       -
         name: "Bruno Pereira"
         img: "bruno-pereira.jpg"
+      -
+        name: "Douglas Matoso"
+        img: "douglas-matoso.jpg"
   -
     title: "Apoiadores Sênior"
     supporters:
