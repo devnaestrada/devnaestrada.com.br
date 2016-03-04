@@ -21,4 +21,7 @@ DEVNAESTRADA50
 <h2>Links do Episódio</h2>
 
 [Mundo segundo os Brasileiros - Angola](https://www.youtube.com/watch?v=lbr5JxXEQvM)
+
 [Twitter - Hamilton](http://twitter.com/ragaroto)
+
+[Quando deixei de ser um UX no Brasil para Designer na Africa](https://medium.com/@ragaroto/quando-deixei-de-ser-ux-no-brasil-para-ser-um-designer-na-africa-e64c59e19c12)
