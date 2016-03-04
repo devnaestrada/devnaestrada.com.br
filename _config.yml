@@ -146,6 +146,12 @@ support_collection:
       -
         name: "Dyego Rodrigo"
         img: "dyego-rodrigo.jpg"
+      -
+        name: "Gian Souza"
+        img: "gian.jpg"
+      -
+        name: "Bruno Pereira"
+        img: "bruno-pereira.jpg"
   -
     title: "Apoiadores Sênior"
     supporters:
