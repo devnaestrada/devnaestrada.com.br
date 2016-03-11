@@ -15,9 +15,6 @@ soundcloud-post-image: "000150455797-fptuu8"
   Também quero apoiar!
 </a>
 
-<h2>50% de desconto DARKMIRA TOUR BR</h2>
-DEVNAESTRADA50
-
 [Site do Darkmiratour](https://br.darkmiratour.com/)
 
 <h2>Links do Episódio</h2>
