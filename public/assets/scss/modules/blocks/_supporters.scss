@@ -10,7 +10,7 @@
 
     @media screen and (min-width: $notebook) {
       @include span-columns(6);
-      @include omega(2n);
+      @include omega();
     }
   }
 

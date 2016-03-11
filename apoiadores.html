@@ -6,8 +6,8 @@ permalink: /apoiadores/
 ---
 
 {% for type in site.support_collection %}
-  <h2>{{ type.title }}</h2>
   <ul class="supporters">
+    <h2>{{ type.title }}</h2>
     {% for support in type.supporters %}
       <li>
         <img src="{{ site.baseurl }}{{ site.supporter_asset_url }}{{ support.img }}" alt="{{ support.name }}" /> {{ support.name }}
@@ -16,8 +16,8 @@ permalink: /apoiadores/
   </ul>
 {% endfor %}
 
-<h2>Apoiador Master</h2>
 <ul class="supporters">
+  <h2>Apoiador Master</h2>
   <li>
     <a href="{{ site.support_master.url }}" class="master-link">
       <img src="{{ "public/assets/img/master/contratado.jpg" | prepend: site.baseurl }}" alt="{{ site.support_master.name }}" class="{{ site.support_master.class }}" />
