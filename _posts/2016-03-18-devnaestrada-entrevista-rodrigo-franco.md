@@ -15,7 +15,7 @@ No episódio de hoje, entrevistamos Rodrigo Franco (@caffo), tech lead na Living
   Também quero apoiar!
 </a>
 
-[Site do Darkmiratour, é hoje!](https://br.darkmiratour.com/)
+[Typeform Para participar do Sorteio da Camiseta](https://devnaestrada.typeform.com/to/G6fMs1)
 
 <h2>Links do Episódio</h2>
 
