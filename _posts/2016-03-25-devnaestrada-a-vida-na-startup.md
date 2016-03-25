@@ -1,15 +1,15 @@
 ---
 layout: post
 title: DNE 46 - A vida em uma startup
-cast: 252487706-devnaestrada-devnaestrada-45-entrevista-rodrigo-franco-caffo.mp3
-cast-length: "66815503"
-cast-time: "00:46:20"
+cast: 254933160-devnaestrada-devnaestrada-46-a-vida-na-startup.mp3
+cast-length: "43717547"
+cast-time: "00:57:48"
 description: "[Texto sobre o cast]"
-soundcloud-id: "252487706"
-soundcloud-post-image: "000151424192-x5bnkb"
+soundcloud-id: "254933160"
+soundcloud-post-image: "000153918831-qbphjt"
 ---
 
-[Texto sobre o cast]
+Neste episódio, @femontanha, @raymonsanches, @eduardojmatos, @afonsof e @octhavio desvendam os mistérios das startups. Descubra as maravilhas e mazelas de se trabalhar nesse tipo de empresa, como anda o mercado e o que se espera dos profisionais nessas empresas. Bora lá!
 
 <a href="http://www.apoia.se/devnaestrada" class="btn">
   Também quero apoiar!
