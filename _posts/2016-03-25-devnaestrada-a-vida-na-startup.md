@@ -37,4 +37,4 @@ Neste episódio, @femontanha, @raymonsanches, @eduardojmatos, @afonsof e @octhav
 
 [Contratado.me](http://devs.contratado.me/)
 
-[Narrador - Startup do Octhavio](https://narrador.co/)
+[Phurshell.com - Startup do Octhavio](mailto:contato@phurshell.com)
