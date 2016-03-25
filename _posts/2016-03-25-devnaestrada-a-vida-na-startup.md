@@ -32,3 +32,9 @@ soundcloud-post-image: "000151424192-x5bnkb"
 [BrazilJSConf](https://braziljs.org/conf)
 
 [Frontinsampa](http://frontinsampa.com.br/)
+
+<h2>Links do episódio</h2>
+
+[Contratado.me](http://devs.contratado.me/)
+
+[Narrador - Startup do Octhavio](https://narrador.co/)
