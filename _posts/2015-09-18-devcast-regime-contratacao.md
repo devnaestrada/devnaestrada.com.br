@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 19 - Regime de Contratação
 cast: 224471895-devnaestrada-devnaestrada-19-regime-de-contratacao.mp3
 cast-length: "23177438"

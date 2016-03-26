@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 33 - Remoto da depressão
 cast: 239168681-devnaestrada-devnaestrada-33-remoto-da-depressao.mp3
 cast-length: "47281489"

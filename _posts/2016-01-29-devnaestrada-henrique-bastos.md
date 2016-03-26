@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 38 - Entrevista Henrique Bastos
 cast: 244344263-devnaestrada-devnaestrada-38-entrevista-henrique-bastos.mp3
 cast-length: "76626475"

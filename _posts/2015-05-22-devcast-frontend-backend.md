@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 01 - Frontend X Backend
 cast: 207903866-devnaestrada-devnaestrada-01-frontend-x-backend.mp3
 cast-length: "26569528"

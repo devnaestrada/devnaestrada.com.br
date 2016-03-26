@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 05 - Entrevista Bruno.NET
 cast: 211000314-devnaestrada-devnaestrada-05-entrevista-brunonet.mp3
 cast-length: "28727924"

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 30 - Entrevista Junior Godoi
 cast: 236070160-devnaestrada-devnaestrada-30-entrevista-junior-godoi.mp3
 cast-length: "35779358"

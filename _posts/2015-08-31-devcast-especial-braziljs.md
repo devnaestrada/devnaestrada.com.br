@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 16 - Especial BrazilJS
 cast: 221697412-devnaestrada-devnaestrada-16-braziljs.mp3
 cast-length: "40143967"

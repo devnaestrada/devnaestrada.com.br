@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 06 - Linux x Mac x Windows
 cast: 212083963-devnaestrada-devnaestrada-06-linux-x-mac-x-windows.mp3
 cast-length: "56357117"

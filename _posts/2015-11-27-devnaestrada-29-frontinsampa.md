@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 29 - Frontinsampa 2015
 cast: 234914776-devnaestrada-devnaestrada-29-frontinsampa-2015.mp3
 cast-length: "49421245"

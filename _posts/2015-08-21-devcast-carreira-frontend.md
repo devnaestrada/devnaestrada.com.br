@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 14 - Carreira Front-end
 cast: 220195311-devnaestrada-devnaestrada-14-carreira-front-end.mp3
 cast-length: "88840245"

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 36 - Entrevista de emprego
 cast: 242031770-devnaestrada-devnaestrada-36-entrevista-de-emprego.mp3
 cast-length: "84148368"

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 11 - Entrevista Diego Eis
 cast: 217133119-devnaestrada-devnaestrada-11-entrevista-diego-eis-tableless.mp3
 cast-length: "63134324"

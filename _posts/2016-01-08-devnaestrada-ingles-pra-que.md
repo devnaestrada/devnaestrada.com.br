@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 35 - Inglês pra quê?
 cast: 240917153-devnaestrada-devnaestrada-35-ingles-pra-que.mp3
 cast-length: "43447812"

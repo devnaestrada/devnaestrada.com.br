@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 40 - Entrevista Talita Pagani
 cast: 246628323-devnaestrada-devnaestrada-40-entrevista-talita-pagani.mp3
 cast-length: "76812000"

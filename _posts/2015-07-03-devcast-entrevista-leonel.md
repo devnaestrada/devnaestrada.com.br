@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 07 - Entrevista Leonel
 cast: 213054962-devnaestrada-devnaestrada-07-entrevista-leonel.mp3
 cast-length: "48873348"

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 27 - Especial Nerd Marco Gomes
 cast: 232845949-devnaestrada-devnaestrada-27-especial-nerd-marco-gomes.mp3
 cast-length: "53616635"
