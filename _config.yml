@@ -51,69 +51,69 @@ products:
       name: "Frontend DNE"
       image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
       size: "P"
-      pag_code: EB012FCAA9A973BCC43EEFB6B2DE3E16
+      pag_code: 36CA1122070779F00470EFA951C969E3
     -
       name: "Frontend DNE"
       image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
       size: "M"
-      pag_code: 4FC423F127277F87741C0FA8CF3A3BE4
+      pag_code: 069A03EBDCDC294CC4566FA71BC6464E
     -
       name: "Frontend DNE"
       image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
       size: "G"
-      pag_code: FE12316FD7D76AF554F0EF8F46F47DB1
+      pag_code: D99E16BDBCBCD88554A9BFB4B3EF3D32
     -
       name: "Frontend DNE"
       image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
       size: "GG"
-      pag_code: 01A207131818DBD224EC3F89E758FFA3
+      pag_code: B364761B4747FDDAA45C7FB846EEFEE9
     -
       name: "Frontend DNE"
       image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
       size: "XG"
-      pag_code: AE77E2E1A6A6344BB4952FB0678F551D
+      pag_code: 6A49E5E28C8C71C114C9CF8E91BEDBD8
   backend:
     -
       name: "Backend DNE"
       image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
       size: "P"
-      pag_code: 5B1B52211919DE7DD4B70FB295B56197
+      pag_code: 6DF0DA7A7D7D1CF55476DF914561F35F
     -
       name: "Backend DNE"
       image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
       size: "M"
-      pag_code: B6A811C07E7EFD4664CFBFA57228A4AF
+      pag_code: 95DC3A7A78789845542A7FB6623DC95C
     -
       name: "Backend DNE"
       image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
       size: "G"
-      pag_code: F563D63320207619940C9FA63A323910
+      pag_code: BA2EA2B95F5FED7774925F9BA3FD94DA
     -
       name: "Backend DNE"
       image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
       size: "GG"
-      pag_code: 4280B380A1A1CAE7746D7F855AD07648
+      pag_code: E929A0B67C7CF74AA4BF7FAC57FA098B
     -
       name: "Frontend DNE"
       image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
       size: "XG"
-      pag_code: 8802E79F272739DDD4AA8FB8A3C3FCD7
+      pag_code: 1D9D0B21F6F6BBE554010F9939EEF60C
   classic:
     -
       name: "Classic DNE"
       image: "public/assets/img/mini-store/camiseta-classic-frente.jpg"
       size: "G"
-      pag_code: 02AD92A04F4FBB63341C0FAD8B56B326
+      pag_code: D58033EE2B2BAA9004930FB1B6A2BAB8
     -
       name: "Classic DNE"
       image: "public/assets/img/mini-store/camiseta-classic-frente.jpg"
       size: "GG"
-      pag_code: 758459772A2A0B6554CA2F86F0FE3325
+      pag_code: 0160E658B1B1535334627F8DEE35AFC0
     -
       name: "Classic DNE"
       image: "public/assets/img/mini-store/camiseta-classic-frente.jpg"
       size: "XG"
-      pag_code: 020794E917179C5BB4711FB85DB28881
+      pag_code: 293440BC0E0EA33AA4769F97121EAF0C
 
 # supporters
 support_master:
