@@ -11,6 +11,9 @@
       <p class="product-size">
         Tamanho: {{ product.size }}
       </p>
+      <p class="product-price">
+        R$ 40,00 + frete
+      </p>
       <div class="product-button">
         <form class="pagseguro" action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
           <input type="hidden" name="code" value="{{ product.pag_code }}" />
