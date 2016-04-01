@@ -23,7 +23,7 @@ Neste episódio, @femontanha, @raymonsanches, @eduardojmatos, @afonsof e @octhav
 
 <h2>Sorteios</h2>
 
-[Concorra 1 Ingresso para a BrazilJSConf](https://devnaestrada.typeform.com/to/nsYDUS)
+[Concorra 2 Ingressos para a BrazilJSConf](https://devnaestrada.typeform.com/to/nsYDUS)
 
 [Concorra 1 Ingresso para o Frontinsampa](https://devnaestrada.typeform.com/to/FhfOsy)
 
