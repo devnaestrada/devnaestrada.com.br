@@ -46,74 +46,21 @@ gems:
 
 # mini store
 products:
-  frontend:
-    -
-      name: "Frontend DNE"
-      image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
-      size: "P"
-      pag_code: 36CA1122070779F00470EFA951C969E3
-    -
-      name: "Frontend DNE"
-      image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
-      size: "M"
-      pag_code: 069A03EBDCDC294CC4566FA71BC6464E
-    -
-      name: "Frontend DNE"
-      image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
-      size: "G"
-      pag_code: D99E16BDBCBCD88554A9BFB4B3EF3D32
-    -
-      name: "Frontend DNE"
-      image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
-      size: "GG"
-      pag_code: B364761B4747FDDAA45C7FB846EEFEE9
-    -
-      name: "Frontend DNE"
-      image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
-      size: "XG"
-      pag_code: 6A49E5E28C8C71C114C9CF8E91BEDBD8
-  backend:
-    -
-      name: "Backend DNE"
-      image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
-      size: "P"
-      pag_code: 6DF0DA7A7D7D1CF55476DF914561F35F
-    -
-      name: "Backend DNE"
-      image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
-      size: "M"
-      pag_code: 95DC3A7A78789845542A7FB6623DC95C
-    -
-      name: "Backend DNE"
-      image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
-      size: "G"
-      pag_code: BA2EA2B95F5FED7774925F9BA3FD94DA
-    -
-      name: "Backend DNE"
-      image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
-      size: "GG"
-      pag_code: E929A0B67C7CF74AA4BF7FAC57FA098B
-    -
-      name: "Frontend DNE"
-      image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
-      size: "XG"
-      pag_code: 1D9D0B21F6F6BBE554010F9939EEF60C
-  classic:
-    -
-      name: "Classic DNE"
-      image: "public/assets/img/mini-store/camiseta-classic-frente.jpg"
-      size: "G"
-      pag_code: D58033EE2B2BAA9004930FB1B6A2BAB8
-    -
-      name: "Classic DNE"
-      image: "public/assets/img/mini-store/camiseta-classic-frente.jpg"
-      size: "GG"
-      pag_code: 0160E658B1B1535334627F8DEE35AFC0
-    -
-      name: "Classic DNE"
-      image: "public/assets/img/mini-store/camiseta-classic-frente.jpg"
-      size: "XG"
-      pag_code: 293440BC0E0EA33AA4769F97121EAF0C
+  -
+    name: "Frontend DNE"
+    buy: "Comprar no MercadoLivre"
+    image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
+    url: "http://produto.mercadolivre.com.br/MLB-753724649-camiseta-devnaestrada-frontstyle-_JM"
+  -
+    name: "Backend DNE"
+    buy: "Comprar no MercadoLivre"
+    image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
+    url: "http://produto.mercadolivre.com.br/MLB-753800468-camiseta-devnaestrada-backstyle-_JM"
+  -
+    name: "Classic DNE"
+    buy: "Comprar no MercadoLivre"
+    image: "public/assets/img/mini-store/camiseta-classic-frente.jpg"
+    url: "http://produto.mercadolivre.com.br/MLB-753797273-camiseta-devnaestrada-classic-_JM"
 
 # supporters
 support_master:

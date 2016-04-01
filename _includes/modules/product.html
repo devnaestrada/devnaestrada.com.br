@@ -1,26 +1,20 @@
 <div class="product-collection">
   {% for product in include.data %}
   <section class="product-item">
-    <div class="product-item-holder">
+    <a href="{{ product.url }}" class="product-item-holder" target="_blank">
       <figure class="product-image">
         <img src="{{ product.image | prepend: site.baseurl }}" />
         <figcaption class="product-caption">
-          <h2 class="subtitle">{{ product.name }}</h2>
+          <h2 class="subtitle">{{ product.buy }}</h2>
         </figcaption>
       </figure>
       <p class="product-size">
-        Tamanho: {{ product.size }}
+        {{ product.name }}
       </p>
       <p class="product-price">
-        R$ 40,00 + frete
+        <strong>R$ 40,00 + frete</strong>
       </p>
-      <div class="product-button">
-        <form class="pagseguro" action="https://pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
-          <input type="hidden" name="code" value="{{ product.pag_code }}" />
-          <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/pagamentos/99x61-comprar-laranja-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-        </form>
-      </div>
-    </div>
+    </a>
   </section>
   {% endfor %}
 </div>

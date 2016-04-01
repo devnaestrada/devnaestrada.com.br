@@ -1,19 +1,6 @@
 // page
-.store-subtitle {
-  margin: 0;
-}
-
 .page-store-call {
   margin-top: 30px;
-}
-
-// component
-.component-store {
-  margin-top: 30px;
-
-  &:first-child {
-    margin-top: 0;
-  }
 }
 
 // Module
@@ -33,6 +20,8 @@
 
 .product-item-holder {
   padding: 0 10px;
+  text-decoration: none;
+  display: block;
 }
 
 .product-image {
