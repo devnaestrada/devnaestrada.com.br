@@ -10,13 +10,20 @@
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="frontend, front-end, backend, back-end, desenvolvimento, programação, podcast, cast, entrevista, episodio, devnaestrada, femontanha, ramon sanches, raymonsanches"/>
 
-  {% if site.facebook_meta and page.author %}
+  {% if site.facebook_meta %}
   <meta property="og:locale" content="pt_BR">
   <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.layout == "post" %}
   <meta property="og:url" content="{{ page.url | prepend: site.url }}">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ page.description }}">
   <meta property="og:image" content="http://i1.sndcdn.com/artworks-{{ page.soundcloud-post-image }}-original.jpg">
+  {% else if %}
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="{{ site.soundcloud_site_capa }}">
+  {% endif %}
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="800">
   <meta property="og:image:height" content="600">
