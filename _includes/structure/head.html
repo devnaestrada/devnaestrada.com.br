@@ -19,9 +19,9 @@
   <meta property="og:description" content="{{ page.description }}" />
   <meta property="og:image" content="http://i1.sndcdn.com/artworks-{{ page.soundcloud-post-image }}-original.jpg" />
   <meta property="og:type" content="article">
-  <meta property="article:author" content="DevNaEstrada">
-  <meta property="article:section" content="Podcast">
-  <meta property="article:tag" content="Podcast, desenvolvimento web, front-end, back-end">
+  <meta property="article:author" content="{{ page.title }}">
+  <meta property="article:section" content="Podcast" />
+  <meta property="article:tag" content="Podcast, desenvolvimento web, front-end, back-end" />
   {% else if %}
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.url }}" />
@@ -67,3 +67,6 @@
   <script type="text/javascript" src="//use.typekit.net/omp7orf.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
+
+<input type="hidden" value="{{page.layout}}" />
+<input type="hidden" value="{{page}}" />
