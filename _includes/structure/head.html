@@ -9,11 +9,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="frontend, front-end, backend, back-end, desenvolvimento, programação, podcast, cast, entrevista, episodio, devnaestrada, femontanha, ramon sanches, raymonsanches"/>
-
+  
   {% if site.facebook_meta %}
   <meta property="og:locale" content="pt_BR" />
   <meta property="og:site_name" content="{{ site.title }}" />
-  {% if page.layout == "post" %}
+  {% if page.soundcloud-id %}
   <meta property="og:url" content="{{ page.url | prepend: site.url }}" />
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:description" content="{{ page.description }}" />
@@ -67,6 +67,3 @@
   <script type="text/javascript" src="//use.typekit.net/omp7orf.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
-
-<input type="hidden" value="{{page.layout}}" />
-<input type="hidden" value="{{page}}" />
