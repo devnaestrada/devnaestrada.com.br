@@ -34,10 +34,6 @@ Quero adesivos do StickersDev: [Clique aqui](https://devnaestrada.typeform.com/t
 
 [Ganhador Apoia.se Março](https://www.youtube.com/watch?v=IR4RzGC65Fg)
 
-<h2>Links</h2>
-
-[Peaceful Warrior](https://www.youtube.com/watch?v=gegNMYvY_yg)
-
 <h2>Próximos Eventos</h2>
 
 [BrazilJSConf](https://braziljs.org/conf)
@@ -46,7 +42,7 @@ Quero adesivos do StickersDev: [Clique aqui](https://devnaestrada.typeform.com/t
 
 [CEJS](http://www.cejs.com.br/)
 
-[front<in>bh](http://frontinbh.com.br/)
+[frontinbh](http://frontinbh.com.br/)
 
 [RupyCampinas](http://campinas.rupy.com.br/)
 
