@@ -26,7 +26,7 @@ Quero uma camiseta FrontendStyle: [Clique aqui](https://devnaestrada.typeform.co
 
 Quero uma camiseta BackendStyle: [Clique aqui](https://devnaestrada.typeform.com/to/Uuc8m3)
 
-Quero adesivos do StickersDev: [Clique aqui](https://devnaestrada.typeform.com/to/zsPDHb)
+Quero adesivos do StickersDevs: [Clique aqui](https://devnaestrada.typeform.com/to/zsPDHb)
 
 <h2>Resultado de Sorteios</h2>
 
@@ -50,4 +50,4 @@ Quero adesivos do StickersDev: [Clique aqui](https://devnaestrada.typeform.com/t
 
 [Contratado.me](https://contratado.me)
 
-[StickersDev](https://www.stickersdevs.com.br)
+[StickersDevs](https://www.stickersdevs.com.br)
