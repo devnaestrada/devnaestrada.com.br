@@ -15,6 +15,16 @@ Who can it be now? Neste episódio @femontanha e @raymonsanches entrevistam Rodo
   Também quero apoiar!
 </a>
 
+<h2>Links do episódio</h2>
+
+[PrinciWeb](http://www.princiweb.com.br/)
+
+[FrontEnd Campinas Meetup](http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/)
+
+[NodeSchool Campinas](http://nodeschool.io/campinas/)
+
+[Twitter Rodolfo](https://twitter.com/rodolfoprr)
+
 <h2>Resultado dos Sorteios</h2>
 
 Camiseta FrontendStyle: [https://youtu.be/qjJrPtEWGhQ](https://youtu.be/qjJrPtEWGhQ)
