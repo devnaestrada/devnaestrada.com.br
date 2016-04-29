@@ -23,7 +23,9 @@ Who can it be now? Neste episódio @femontanha e @raymonsanches entrevistam Rodo
 
 [NodeSchool Campinas](http://nodeschool.io/campinas/)
 
-[Twitter Rodolfo](https://twitter.com/rodolfoprr)
+[Twitter Rodolfo Pereira](https://twitter.com/rodolfoprr)
+
+[Twitter Vinicius Gerevini](https://twitter.com/vini_gerevini)
 
 <h2>Resultado dos Sorteios</h2>
 
