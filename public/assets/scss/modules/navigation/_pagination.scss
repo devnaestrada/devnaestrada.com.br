@@ -8,5 +8,9 @@
     &:first-child {
       margin-left: 0;
     }
+
+	@media screen and (max-width: $iphone-retina) {
+		margin-left: 15px;
+	}
   }
 }
