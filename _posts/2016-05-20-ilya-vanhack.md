@@ -25,6 +25,8 @@ No episódio de hoje @femontanha bate um super papo com @ilyabrotzky, CEO da Van
 
 [E-visa Immigration](http://www.evisaimmigration.com/)
 
+[Seminário da E-visa Immigration no Brasil](http://www.caminhosparaocanada.com.br/)
+
 [Canal no youtube Canada Diario](https://www.youtube.com/user/kozmatv)
 
 <h2>Próximos Eventos</h2>
