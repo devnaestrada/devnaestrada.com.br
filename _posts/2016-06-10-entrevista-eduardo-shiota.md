@@ -45,8 +45,6 @@ soundcloud-post-image: "000166752573-0ki1ta"
 
 [Frontinsampa](http://frontinsampa.com.br/)
 
-[CEJS](http://www.cejs.com.br/)
-
 [frontinbh](http://frontinbh.com.br/)
 
 [RupyCampinas](http://campinas.rupy.com.br/)
