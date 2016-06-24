@@ -21,7 +21,27 @@ soundcloud-post-image: ""
 
 [Medium Neto Marin](https://medium.com/@netomarin)
 
+[Google+ Neto Marin](http://google.com/+NetoMarin)
+
+[FB Neto Marin](http://fb.com/netomarin)
+
 [Dev & Community Cast](http://devcommunitycast.com.br/)
+
+[Episódio sobre Java Script no Mobile](http://devcommunitycast.com.br/faaala-neto-javascript-e-apps-moveis/)
+
+[Android Marshmallow 6.0: Data Binding Library](https://www.youtube.com/watch?v=5sCQjeGoE7M)
+
+[Introduction to Android In-App Billing API - The Zen of Monetization #6](https://www.youtube.com/watch?v=C78wF8VHk10)
+
+[Implementing Android In-App Billing - The Zen of Monetization #7](https://www.youtube.com/watch?v=mnA0gaQWtAM)
+
+[In-App Billing Security - The Zen of Monetization #8](https://www.youtube.com/watch?v=tRpGcA4IM5Q)
+
+[In-App Billing Testing - The Zen of Monetization #9](https://www.youtube.com/watch?v=HrDx7RpSaPs)
+
+[Canal Desenvolvedores Google](https://www.youtube.com/c/desenvolvedoresgoogle)
+
+[Série de vídeos sobre desenvolvimento Android](https://www.youtube.com/playlist?list=PLiGzvgwA5Gmg5EovEGdPo5SaFv741NdHx)
 
 <h2>Próximos Eventos</h2>
 
