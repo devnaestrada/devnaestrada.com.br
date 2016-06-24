@@ -1,15 +1,15 @@
 ---
 layout: post
 title: DNE 59 - Entrevista Neto Marin
-cast: 
-cast-length: ""
-cast-time: ""
-description: ""
-soundcloud-id: ""
-soundcloud-post-image: ""
+cast: 270596837-devnaestrada-devnaestrada-59-entrevista-neto-marin.mp3
+cast-length: "43009335"
+cast-time: "01:13:34"
+description: "@femontanha e @raymonsanches entrevistam Neto Marin, developer advocate, popularmente conhecido por desenvolvedor advogado (=P) na Google Brasil."
+soundcloud-id: "270596837"
+soundcloud-post-image: "000168761623-7npdsq"
 ---
 
-[TEXTO]
+@femontanha e @raymonsanches entrevistam Neto Marin, developer advocate, popularmente conhecido por desenvolvedor advogado (=P) na Google Brasil. Batemos um papo sobre Java, Android, Firefox OS, aplicações mobile e claro, sobre como tudo isso começou. Escuta aí que é um papo muito legal.
 
 <a href="http://www.apoia.se/devnaestrada" class="btn">
   Também quero apoiar!
