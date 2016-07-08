@@ -23,7 +23,7 @@ Falamos sobre seu início de carreira com assembly, seu envolvimento com as comu
 
 [Post do Eric Elliot](https://medium.com/javascript-scene/want-to-code-a-university-degree-might-be-a-huge-waste-of-time-81e1817a2ef0#.ejrudd4m6)
 
-[Front UX Meetup](http://frontux.com/)
+[Front UX Meetup](http://blog.frontux.com/)
 
 [FrontInSampa](http://frontinsampa.com.br/)
 
