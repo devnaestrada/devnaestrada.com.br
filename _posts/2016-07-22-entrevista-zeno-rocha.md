@@ -40,10 +40,15 @@ Desde os primeiros passos com HTML5 e CSS até se tornar uma referência do fron
 <h2>Comentado neste episódio</h2>
 
 [zenorocha.com](http://zenorocha.com)
-[Liferay](https://www.liferay.com/)
-[Tema Dracula para Sublime](https://zenorocha.com/dracula-theme/)
-[Sublime Text 2 - Dicas do Zeno no Youtube](https://www.youtube.com/watch?v=Ms3Vsz7Jc3A)
-[iA Writer](https://ia.net/writer)
-[iTerm2](https://www.iterm2.com/)
-[Chrome Canary](https://www.google.com.br/chrome/browser/canary.html)
 
+[Liferay](https://www.liferay.com/)
+
+[Tema Dracula para Sublime](https://zenorocha.com/dracula-theme/)
+
+[Sublime Text 2 - Dicas do Zeno no Youtube](https://www.youtube.com/watch?v=Ms3Vsz7Jc3A)
+
+[iA Writer](https://ia.net/writer)
+
+[iTerm2](https://www.iterm2.com/)
+
+[Chrome Canary](https://www.google.com.br/chrome/browser/canary.html)
