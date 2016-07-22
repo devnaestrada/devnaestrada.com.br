@@ -13,29 +13,29 @@ No episódio de hoje, conheça uma baita história de inspiração. [@femontanha
 
 Desde os primeiros passos com HTML5 e CSS até se tornar uma referência do frontend, como você deve moldar seus objetivos e perseguir os seus sonhos.
 
-<a href="http://www.apoia.se/devnaestrada" class="btn">
+<a href="http://bit.ly/dne-apoiase" class="btn">
   Também quero apoiar!
 </a>
 
 <h2>Próximos Eventos</h2>
 
-[Desconto de R$ 30,00 no FrontInBH](https://www.facebook.com/FrontInBH/posts/1213434982013483)
+[Desconto de R$ 30,00 no FrontInBH](http://bit.ly/dne-frontinbh-desconto)
 
-[BrazilJSConf](https://braziljs.org/conf)
+[BrazilJSConf](http://bit.ly/dne-braziljsconf)
 
-[FrontInBH](http://frontinbh.com.br/)
+[FrontInBH](http://bit.ly/dne-frontinbh)
 
-[PHPSP + IMA](http://phpspima.com.br/)
+[PHPSP + IMA](http://bit.ly/dne-phpspima)
 
 <h2>Parceiros</h2>
 
-[Contratado.me](https://contratado.me)
+[Contratado.me](http://bit.ly/dne-contratado)
 
-[Vanhack](https://www.vanhack.com/)
+[Vanhack](http://bit.ly/dne-vanhack)
 
-[Alura](https://www.alura.com.br/)
+[Alura](http://bit.ly/dne-alura)
 
-[StickersDevs](https://www.stickersdevs.com.br/)
+[StickersDevs](http://bit.ly/dne-stickersdevs)
 
 <h2>Comentado neste episódio</h2>
 
