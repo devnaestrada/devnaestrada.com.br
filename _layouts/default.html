@@ -8,12 +8,11 @@
 
     {% include modules/cover-photo.html %}
 
-    {% include structure/search.html %}
     <div class="container">
-       <div class="col-md-6">
-         {{ content }}
-       </div>
-
+      {% include structure/search.html %}
+      <div class="col-md-6">
+        {{ content }}
+      </div>
     </div>
 
     {% include structure/footer.html %}
