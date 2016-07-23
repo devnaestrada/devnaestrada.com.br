@@ -6,14 +6,19 @@
   @include align-items(center);
   @include display(flex);
   @include justify-content(center);
-  background: $darken url(../public/assets/img/cover-photo.jpg) center no-repeat;
+  background-color: $darken;
+  background-image: url(../public/assets/img/cover-photo.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
   max-height: rem(480);
   max-width: 100%;
+  padding: 30px;
   text-align: center;
 
   @media screen and (min-width: $tablet) {
     height: 300px;
+    padding: 0;
   }
 }
 
@@ -23,8 +28,12 @@
 
 .coverphoto-title {
   color: $ligten;
-  font-size: rem(28);
+  font-size: rem(22);
   font-weight: 600;
   margin: 0 auto;
   max-width: rem(500);
+
+  @media screen and (min-width: $tablet) {
+    font-size: rem(28);
+  }
 }

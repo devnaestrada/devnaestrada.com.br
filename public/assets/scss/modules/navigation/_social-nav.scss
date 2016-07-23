@@ -15,10 +15,17 @@
 
 .social-nav li {
   @extend %inline-middle-block;
-  margin-left: rem(15);
+  margin-top: 15px;
+  width: 49%;
 
-  &:first-child {
-    margin-left: 0;
+  @media screen and (min-width: $tablet) {
+    margin-left: rem(15);
+    margin-top: 0;
+    width: auto;
+
+    &:first-child {
+      margin-left: 0;
+    }
   }
 }
 
@@ -28,11 +35,17 @@
   border-radius: 3px;
   border: 2px solid $primary-color;
   color: $ligten;
-  display: inline-block;
+  display: block;
+  font-size: rem(15);
   padding: rem(5) rem(10);
 
   &:hover {
     background-color: transparent;
     color: $ligten;
+  }
+
+  @media screen and (min-width: $tablet) {
+    display: inline-block;
+    font-size: $base-font-size;
   }
 }
