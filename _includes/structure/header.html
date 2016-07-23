@@ -1,21 +1,22 @@
 <header>
-	<nav class="main-nav">
-		<a href="/" class="brand">
-			<img src="{{ "public/assets/img/devnaestrada.svg" | prepend: site.baseurl }}" alt="DevNaEstrada" />
-		</a>
-		<a href="{{ "criadores" | prepend: site.baseurl }}" class="main-nav__link">Criadores</a>
-		<a href="https://apoia.se/devnaestrada/supports" class="main-nav__link" target="_blank">Apoiadores</a>
-		<span class="main-nav__link github-star">
-			<a class="github-button" href="https://github.com/devnaestrada/devnaestrada.com.br" data-icon="octicon-star" data-count-href="/devnaestrada/devnaestrada.com.br/stargazers" data-count-api="/repos/devnaestrada/devnaestrada.com.br#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star devnaestrada/devnaestrada.com.br on GitHub">Star</a>
-		</span>	
+	<a href="/" class="header-brand">
+		<img src="{{ "public/assets/img/devnaestrada.svg" | prepend: site.baseurl }}" alt="DevNaEstrada" />
+	</a>
+	<nav class="header-nav">
+		<ul>
+			<li>
+				<a href="{{ "sobre" | prepend: site.baseurl }}" class="header-nav-link">Sobre</a>
+			</li>
+			<!-- <li>
+				<a href="#" class="header-nav-link" target="_blank">Parceiros</a>
+			</li> -->
+			<li>
+				<a href="https://apoia.se/devnaestrada/supports" class="header-nav-link" target="_blank">Apoiadores</a>
+			</li>
+		</ul>
 	</nav>
-	<nav class="advertiser-nav">
-		<span class="advertiser-nav__call">
-			Quer apoiar esse projeto?
-		</span>
-		<a href="http://bit.ly/dne-apoiase" class="btn" target="_blank">
-			<span class="more">QUERO!</span>
-			<span class="advertiser">Quero Apoiar</span>
-		</a>
-	</nav>
+	<a href="http://bit.ly/dne-apoiase" class="header-support btn" target="_blank">Quero Apoiar</a>
+	<a href="http://bit.ly/dne-github" class="header-github" target="_blank">
+		<img class="header-github-image" src="{{ "public/assets/img/fork-me.png" | prepend: site.baseurl }}" alt="Fork me on Github" />
+	</a>
 </header>

@@ -1,25 +1,51 @@
-.social-nav {
-  margin-top: 20px;
-  text-align: center;
+/////////////////////////////////
+// name: Social Nav
+////////////////////////////////
 
-  .social-nav__link {
-    @extend %inline-middle-block;
-    margin-left: 15px;
+.social-nav {
+  margin-top: rem(30);
+  text-align: center;
+}
+
+.social-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.social-nav li {
+  @extend %inline-middle-block;
+  margin-top: 15px;
+  width: 49%;
+
+  @media screen and (min-width: $tablet) {
+    margin-left: rem(15);
+    margin-top: 0;
+    width: auto;
 
     &:first-child {
       margin-left: 0;
     }
+  }
+}
 
-    &:hover {
-      i {
-        color: $primary-color;
-      }
-    }
+.social-nav-link {
+  @include transition(all .2s ease-in-out);
+  background-color: $primary-color;
+  border-radius: 3px;
+  border: 2px solid $primary-color;
+  color: $ligten;
+  display: block;
+  font-size: rem(15);
+  padding: rem(5) rem(10);
 
-    i {
-      @include transition(color .2s ease-in-out);
-      color: $ligten;
-      font-size: 28px;
-    }
+  &:hover {
+    background-color: transparent;
+    color: $ligten;
+  }
+
+  @media screen and (min-width: $tablet) {
+    display: inline-block;
+    font-size: $base-font-size;
   }
 }

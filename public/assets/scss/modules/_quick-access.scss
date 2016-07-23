@@ -1,0 +1,39 @@
+/////////////////////////////////
+// name: Quick Access
+////////////////////////////////
+
+.quick-access {
+  border: $neutral 1px dotted;
+  margin-bottom: rem(30);
+  padding: rem(30);
+
+  @media screen and (min-width: $tablet) {
+    margin-bottom: rem(60);
+  }
+}
+
+.quick-access-title {
+  margin-top: 0;
+}
+
+.filter-select {
+  border: 0 none;
+  height: 40px;
+  outline: $neutral;
+  width: 100%;
+
+  @media screen and (min-width: $tablet) {
+    margin-right: 5%;
+    width: 60%;
+  }
+}
+
+.filter-btn {
+  display: inline-block;
+  margin-top: rem(30);
+
+  @media screen and (min-width: $tablet) {
+    margin-top: 0;
+    width: 30%;
+  }
+}

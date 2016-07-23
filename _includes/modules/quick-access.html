@@ -1,0 +1,11 @@
+<section class="quick-access">
+  <h2 class="quick-access-title">Acesso Rápido</h2>
+  <form id="filter-form" action="post" action="/">
+    <select id="filter-select" class="filter-select">
+      {% for post in site.posts %}
+        <option value="{{ post.url }}">{{ post.title }}</option>
+      {% endfor %}
+    </select>
+    <button type="submit" class="btn filter-btn">Acessar Episódio</button>
+  </form>
+</section>

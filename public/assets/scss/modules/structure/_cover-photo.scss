@@ -1,65 +1,39 @@
-.cover-photo {
+/////////////////////////////////
+// name: Cover Photo
+////////////////////////////////
+
+.coverphoto {
+  @include align-items(center);
+  @include display(flex);
+  @include justify-content(center);
   background-color: $darken;
   background-image: url(../public/assets/img/cover-photo.jpg);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  max-height: rem(480);
   max-width: 100%;
-  max-height: 480px;
+  padding: 30px;
   text-align: center;
 
   @media screen and (min-width: $tablet) {
     height: 300px;
+    padding: 0;
   }
 }
 
-.cover-photo__holder {
-  padding: 20px 0 20px;
-
-  @media screen and (min-width: $tablet) {
-    padding: 100px 0 100px;
-  }
+.coverphoto-holder {
+  //
 }
 
-%default__cover-photo__title {
+.coverphoto-title {
   color: $ligten;
+  font-size: rem(22);
   font-weight: 600;
-  margin-bottom: 0;
-  margin-top: 0;
-
-  .plus-info {
-    display: none;
-
-    @media screen and (min-width: $tablet) {
-      display: inline-block;
-    }
-  }
-
-  .highlight {
-    color: $primary-color;
-  }
-}
-
-.cover-photo__title {
-  @extend %default__cover-photo__title;
-  font-size: 18px;
-
-  br {
-    @media screen and (min-width: $tablet) {
-      display: none;
-    }
-  }
+  margin: 0 auto;
+  max-width: rem(500);
 
   @media screen and (min-width: $tablet) {
-    font-size: 30px;
-  }
-}
-
-.cover-photo__subtitle {
-  @extend %default__cover-photo__title;
-  font-size: 14px;
-
-  @media screen and (min-width: $tablet) {
-    font-size: 28px;
+    font-size: rem(28);
   }
 }
