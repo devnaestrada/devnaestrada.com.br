@@ -1,3 +1,7 @@
+/////////////////////////////////
+// name: Social Nav
+////////////////////////////////
+
 .social-nav {
   margin-top: rem(30);
   text-align: center;
@@ -11,7 +15,7 @@
 
 .social-nav li {
   @extend %inline-middle-block;
-  margin-left: 15px;
+  margin-left: rem(15);
 
   &:first-child {
     margin-left: 0;
@@ -25,7 +29,7 @@
   border: 2px solid $primary-color;
   color: $ligten;
   display: inline-block;
-  padding: 5px 10px;
+  padding: rem(5) rem(10);
 
   &:hover {
     background-color: transparent;
