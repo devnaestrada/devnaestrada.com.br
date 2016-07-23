@@ -11,11 +11,25 @@ supporter_asset_url: "public/assets/img/supporter/"
 paginate: 6
 paginate_path: "/podcast/:num/"
 
-# social links
+# service links
+services:
+  -
+    name: "RSS"
+    url: "http://bit.ly/dne-rss"
+  -
+    name: "SoundCloud"
+    url: "http://bit.ly/dne-soundcloud"
+  -
+    name: "Pocket Casts"
+    url: "http://bit.ly/dne-pocketcasts"
+  -
+    name: "Facebook"
+    url: "http://bit.ly/dne-facebook"
+  -
+    name: "Twitter"
+    url: "http://bit.ly/dne-twitter"
+
 github_user: "devnaestrada"
-twitter_user: "devnaestrada"
-soundcloud_user: "devnaestrada"
-facebook_user: "devnaestrada"
 
 # itunes
 itunes_url: "https://itunes.apple.com/br/podcast/devnaestrada/id997779431?mt=2"
@@ -43,183 +57,3 @@ gems:
   - jekyll-paginate
   - bourbon
   - neat
-
-# mini store
-products:
-  -
-    name: "Frontend DNE"
-    buy: "Comprar no MercadoLivre"
-    image: "public/assets/img/mini-store/camiseta-front-typo-frente.jpg"
-    url: "http://produto.mercadolivre.com.br/MLB-753724649-camiseta-devnaestrada-frontstyle-_JM"
-  -
-    name: "Backend DNE"
-    buy: "Comprar no MercadoLivre"
-    image: "public/assets/img/mini-store/camiseta-back-typo-frente.jpg"
-    url: "http://produto.mercadolivre.com.br/MLB-753800468-camiseta-devnaestrada-backstyle-_JM"
-  -
-    name: "Classic DNE"
-    buy: "Comprar no MercadoLivre"
-    image: "public/assets/img/mini-store/camiseta-classic-frente.jpg"
-    url: "http://produto.mercadolivre.com.br/MLB-753797273-camiseta-devnaestrada-classic-_JM"
-
-# supporters
-support_master:
-  name: "Contratado.me"
-  img: "contratado.jpg"
-  class: "contratado"
-  url: "http://devs.contratado.me/"
-
-support_collection:
-  -
-    title: "Apoiadores Júnior"
-    supporters:
-      -
-        name: "Gabriel Ribeiro"
-        img: "gabriel-ribeiro.jpg"
-      -
-        name: "Nuno Sccp"
-        img: "default.png"
-      -
-        name: "Thiago Simões"
-        img: "thiago-simoes.jpg"
-      -
-        name: "Douglas Quintanilha"
-        img: "douglas-quintanilha.jpg"
-      -
-        name: "Philippe Silva"
-        img: "philippe-silva.jpg"
-      -
-        name: "Josimar Camargo"
-        img: "josimar-camargo.jpg"
-  -
-    title: "Apoiadores Pleno"
-    supporters:
-      -
-        name: "Adriano Fernandes"
-        img: "adriano-fernandes.jpg"
-      -
-        name: "Claudson Oliveira"
-        img: "claudson-oliveira.jpg"
-      -
-        name: "Diego Girotto Arigony"
-        img: "diego-girotto.jpg"
-      -
-        name: "Dânio Filho"
-        img: "default.png"
-      -
-        name: "Luís Felipe Souza"
-        img: "luis-felipe.jpg"
-      -
-        name: "Ícaro Ramires"
-        img: "icaro-ramires.jpg"
-      -
-        name: "Andre Loureiro"
-        img: "andre-loureiro.jpg"
-      -
-        name: "Igor Souza"
-        img: "igor-souza.jpg"
-      -
-        name: "Débora Martins"
-        img: "debora-martins.jpg"
-      -
-        name: "Leonardo Lucas"
-        img: "leonardo-lucas.jpg"
-      -
-        name: "Bruno Eduardo"
-        img: "bruno-eduardo.jpg"
-      -
-        name: "Victor Miguez"
-        img: "default.png"
-      -
-        name: "Kadu Mx"
-        img: "kadu-mx.jpg"
-      -
-        name: "Leandro Silva"
-        img: "lrsilva.jpg"
-      -
-        name: "Rafael Crispim"
-        img: "rafael-crismpim.jpg"
-      -
-        name: "Johnn Erick"
-        img: "default.png"
-      -
-        name: "Leandro Nunes"
-        img: "default.png"
-      -
-        name: "Ricardo Fleury"
-        img: "default.png"
-      -
-        name: "Tarantini Pereira"
-        img: "tarantini-pereira.jpg"
-      -
-        name: "Aurimar Aparecido da Silva"
-        img: "aurimar-silva.jpg"
-      -
-        name: "Thiago Kaczuroski"
-        img: "thiagokazu.jpg"
-      -
-        name: "Marcony Felipe Morais de Brito"
-        img: "default.png"
-      -
-        name: "Dyego Rodrigo"
-        img: "dyego-rodrigo.jpg"
-      -
-        name: "Gian Souza"
-        img: "gian.jpg"
-      -
-        name: "Bruno Pereira"
-        img: "bruno-pereira.jpg"
-      -
-        name: "Douglas Matoso"
-        img: "douglas-matoso.jpg"
-  -
-    title: "Apoiadores Sênior"
-    supporters:
-      -
-        name: "Afonso França"
-        img: "afonso-franca.jpg"
-      -
-        name: "Matheus Brocchi"
-        img: "matheus.jpg"
-      -
-        name: "Igor Leroy"
-        img: "igor-leroy.jpg"
-      -
-        name: "Luiz Augusto"
-        img: "default.png"
-      -
-        name: "Rodrigo Aiala"
-        img: "rodrigo-aiala.jpg"
-      -
-        name: "Willian Martins"
-        img: "william-martins.jpg"
-      -
-        name: "Wilian Penaforte"
-        img: "william-penaforte.jpg"
-      -
-        name: "Antônio Roberto"
-        img: "antonio-roberto.jpg"
-      -
-        name: "Xhamps Rapha"
-        img: "xhamps.jpg"
-      -
-        name: "Eduardo Matos"
-        img: "eduardo-matos.jpg"
-      -
-        name: "Marcos Paulo Reis"
-        img: "marcos-paulo.jpg"
-      -
-        name: "Arthur Braga Alfredo"
-        img: "arthur-braga.jpg"
-      -
-        name: "Rafael Naves"
-        img: "rafael-naves.jpg"
-      -
-        name: "Geovane Rocha"
-        img: "default.png"
-      -
-        name: "Erick Bessa"
-        img: "erick-bessa.jpg"
-      -
-        name: "Luis Carlos Silva"
-        img: "default.png"
