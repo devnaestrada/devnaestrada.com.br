@@ -1,10 +1,10 @@
 body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
-	color: $base-text-color;
-	font-family: $base-font;
-	font-size: 17px;
-	text-rendering: optimizeLegibility;
+  color: $base-text-color;
+  font-family: $base-font;
+  font-size: $base-font-size;
+  text-rendering: optimizeLegibility;
 }
 
 a {

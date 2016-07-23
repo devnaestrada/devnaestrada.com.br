@@ -1,31 +1,18 @@
-<section class="cover-photo">
-	<div class="cover-photo__holder">
-		<h1 class="cover-photo__title">
-			Podcast sobre desenvolvimento<br /> front-end &amp; back-end
-		</h1>
-		<h2 class="cover-photo__subtitle">
-			Novos episódios todas as <span class="highlight">sextas-feiras</span>
-		</h2>
-		<nav class="social-nav">
-			<a href="http://www.facebook.com/{{ site.facebook_user }}" class="social-nav__link" title="Visite nossa página no Facebook">
-				<i class="fa fa-facebook"></i>
-			</a>
-
-			<a href="http://www.twitter.com/{{ site.twitter_user }}" class="social-nav__link" title="Siga-nos no twitter">
-				<i class="fa fa-twitter"></i>
-			</a>
-
-			<a href="http://www.soundcloud.com/{{ site.soundcloud_user }}" class="social-nav__link" title="Veja nossa página no Soundcloud">
-				<i class="fa fa-soundcloud"></i>
-			</a>
-
-			<a href="http://www.github.com/{{ site.github_user }}" class="social-nav__link" title="Código fonte no github">
-				<i class="fa fa-github"></i>
-			</a>
-
-			<a href="{{ "feed.xml" | prepend: site.baseurl }}" class="social-nav__link" title="RSS">
-				<i class="fa fa-rss"></i>
-			</a>
-		</nav>
-	</div>
+<section class="coverphoto">
+  <div class="coverphoto-holder">
+    <h1 class="coverphoto-title">
+      Podcast de Desenvolvimento Web com Episódios todas as sextas-feiras
+    </h1>
+    <nav class="social-nav">
+      <ul>
+        {% for service in site.services %}
+          <li>
+            <a href="{{ service.url }}" class="social-nav-link" target="_blank">
+              {{ service.name }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
 </section>
