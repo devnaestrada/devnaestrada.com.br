@@ -1,0 +1,40 @@
+/////////////////////////////////
+// name:    Post Links Sponsors
+// extend:  Post Links
+////////////////////////////////
+
+.post-links-link.contratado {
+  background-color: $contratadome;
+
+  &:hover {
+    background-color: transparent;
+    color: $contratadome;
+  }
+}
+
+.post-links-link.vanhack {
+  background-color: $vanhack;
+
+  &:hover {
+    background-color: transparent;
+    color: $vanhack;
+  }
+}
+
+.post-links-link.alura {
+  background-color: $alura;
+
+  &:hover {
+    background-color: transparent;
+    color: $alura;
+  }
+}
+
+.post-links-link.stickersdevs {
+  background-color: $stickersdevs;
+
+  &:hover {
+    background-color: transparent;
+    color: $stickersdevs;
+  }
+}

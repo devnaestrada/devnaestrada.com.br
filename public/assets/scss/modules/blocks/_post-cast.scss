@@ -47,8 +47,12 @@
   }
 }
 
+.post-cast__content .post-links {
+  margin-top: rem(60);
+}
+
 .post-cast__content__audio {
-  margin-bottom: 30px;
+  margin-bottom: rem(60);
 }
 
 .post-social {
