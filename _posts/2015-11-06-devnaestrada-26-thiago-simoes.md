@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 26 - Entrevista Thiago Simões
 cast: 231771489-devnaestrada-devnaestrada-26-entrevista-thiago-simoes.mp3
 cast-length: "31418808"

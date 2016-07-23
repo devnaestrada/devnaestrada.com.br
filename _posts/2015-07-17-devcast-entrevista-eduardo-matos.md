@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 09 - Entrevista Eduardo Matos
 cast: 215098232-devnaestrada-devnaestrada-09-entrevista-eduardo-matos.mp3
 cast-length: "95034223"

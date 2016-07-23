@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 18 - Entrevista Zeh Fernando
 cast: 223338389-devnaestrada-devnaestrada-18-entrevista-zeh-fernando.mp3
 cast-length: "43429646"

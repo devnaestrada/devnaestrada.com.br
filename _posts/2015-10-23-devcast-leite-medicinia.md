@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 24 - Entrevista Leite @Medicinia
 cast: 229684825-devnaestrada-devnaestrada-24-entrevista-leite-medicinia.mp3
 cast-length: "53736530"

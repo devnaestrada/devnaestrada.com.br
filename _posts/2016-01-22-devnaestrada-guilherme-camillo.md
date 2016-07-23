@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 37 - Entrevista Guilherme Camillo
 cast: 243158414-devnaestrada-devnaestrada-37-entrevista-guilherme-camillo-1.mp3
 cast-length: "105310377"

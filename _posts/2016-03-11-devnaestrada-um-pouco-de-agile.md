@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 44 - Cultura Agile
 cast: 251284866-devnaestrada-devnaestrada-44-cultura-agile.mp3
 cast-length: "34928730"

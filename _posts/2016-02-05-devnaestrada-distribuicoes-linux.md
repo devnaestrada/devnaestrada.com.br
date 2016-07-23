@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 39 - Distribuições Linux
 cast: 245510957-devnaestrada-devnaestrada-39-distribuicoes-linux.mp3
 cast-length: "86659730"

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE Extra - Comic Con Experience 2015
 cast: 236580907-devnaestrada-devnaestrada-extra-comic-con-experience-2015.mp3
 cast-length: "12593680"

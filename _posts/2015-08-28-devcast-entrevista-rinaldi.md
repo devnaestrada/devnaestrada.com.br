@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 15 - Entrevista Rafael Rinaldi
 cast: 221302834-devnaestrada-devnaestrada-15-entrevista-rafael-rinaldi.mp3
 cast-length: "36040394"

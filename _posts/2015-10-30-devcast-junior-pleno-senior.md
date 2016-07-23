@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 25 - Júnior, Pleno e Sênior
 cast: 230734480-devnaestrada-devnaestrada-25-junior-pleno-e-senior.mp3
 cast-length: "26803756"

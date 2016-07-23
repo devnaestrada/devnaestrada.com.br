@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 08 - Job Pastel
 cast: 214073569-devnaestrada-devnaestrada-08-job-pastel.mp3
 cast-length: "31641308"

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 02 - Trabalho Remoto
 cast: 207973971-devnaestrada-devnaestrada-02-trabalho-remoto.mp3
 cast-length: "26992140"

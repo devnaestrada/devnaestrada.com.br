@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 28 - Sou Sênior e agora?
 cast: 233860431-devnaestrada-devnaestrada-28-sou-senior-e-agora.mp3
 cast-length: "26222150"

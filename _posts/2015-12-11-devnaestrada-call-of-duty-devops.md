@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 31 - Call of Duty DevOps
 cast: 237051131-devnaestrada-devnaestrada-31-call-of-duty-devops.mp3
 cast-length: "18579494"

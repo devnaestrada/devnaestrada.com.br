@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 13 - Entrevista Rodolfo Prata
 cast: 219249211-devnaestrada-devnaestrada-13-entrevista-rodolfo-prata.mp3
 cast-length: "182115872"

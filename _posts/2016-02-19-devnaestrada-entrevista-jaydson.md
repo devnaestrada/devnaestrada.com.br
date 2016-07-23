@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 41 - Entrevista Jaydson
 cast: 247785786-devnaestrada-devnaestrada-41-entrevista-jaydson.mp3
 cast-length: "60519597"
@@ -37,4 +38,3 @@ soundcloud-post-image: "000147725443-913pby"
 [Evento Femug](https://sp.femug.com/t/femug-sp-29-locaweb/605)
 
 [Evento FrontUX](http://www.meetup.com/pt-BR/FrontUX/)
-

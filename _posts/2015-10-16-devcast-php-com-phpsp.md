@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 23 - PHP com PHPSP
 cast: 228706523-devnaestrada-devnaestrada-23-php-com-phpsp.mp3
 cast-length: "27782041"

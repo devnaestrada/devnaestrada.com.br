@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: DNE 04 - Ferramentas que usamos
 cast: 209959439-devnaestrada-devnaestrada-04-ferramentas-que-usamos.mp3
 cast-length: "60565548"
