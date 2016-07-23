@@ -23,6 +23,9 @@ services:
     name: "Pocket Casts"
     url: "http://bit.ly/dne-pocketcasts"
   -
+    name: "iTunes"
+    url: "http://bit.ly/dne-itunes"
+  -
     name: "Facebook"
     url: "http://bit.ly/dne-facebook"
   -
