@@ -1,8 +1,8 @@
 ---
 layout: page
 css_class: page-creators
-title: Criadores
-permalink: /criadores/
+title: Sobre nós
+permalink: /sobre/
 ---
 
 <section class="profile">
