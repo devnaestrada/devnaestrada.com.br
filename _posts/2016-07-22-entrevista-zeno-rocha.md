@@ -13,42 +13,32 @@ No episódio de hoje, conheça uma baita história de inspiração. [@femontanha
 
 Desde os primeiros passos com HTML5 e CSS até se tornar uma referência do frontend, como você deve moldar seus objetivos e perseguir os seus sonhos.
 
-<a href="http://bit.ly/dne-apoiase" class="btn">
-  Também quero apoiar!
-</a>
+{% include modules/supporter.html %}
 
-<h2>Próximos Eventos</h2>
+{% include modules/next-events.html %}
 
-[Desconto de R$ 30,00 no FrontInBH](http://bit.ly/dne-frontinbh-desconto)
+{% include modules/sponsors.html %}
 
-[BrazilJSConf](http://bit.ly/dne-braziljsconf)
-
-[FrontInBH](http://bit.ly/dne-frontinbh)
-
-[PHPSP + IMA](http://bit.ly/dne-phpspima)
-
-<h2>Parceiros</h2>
-
-[Contratado.me](http://bit.ly/dne-contratado)
-
-[Vanhack](http://bit.ly/dne-vanhack)
-
-[Alura](http://bit.ly/dne-alura)
-
-[StickersDevs](http://bit.ly/dne-stickersdevs)
-
-<h2>Comentado neste episódio</h2>
-
-[zenorocha.com](http://zenorocha.com)
-
-[Liferay](https://www.liferay.com/)
-
-[Tema Dracula para Sublime](https://zenorocha.com/dracula-theme/)
-
-[Sublime Text 2 - Dicas do Zeno no Youtube](https://www.youtube.com/watch?v=Ms3Vsz7Jc3A)
-
-[iA Writer](https://ia.net/writer)
-
-[iTerm2](https://www.iterm2.com/)
-
-[Chrome Canary](https://www.google.com.br/chrome/browser/canary.html)
+<section class="post-links">
+  <h2 class="post-links-title">Comentados nesse Episódio</h2>
+  <ul>
+    <li>
+      <a href="http://zenorocha.com" target="_blank">Portfolio do Zeno Rocha</a>
+    </li>
+    <li>
+      <a href="https://www.liferay.com" target="_blank">Empresa Liferay</a>
+    </li>
+    <li>
+      <a href="https://zenorocha.com/dracula-theme/" target="_blank">Tema Dracula para Sublime</a>
+    </li>
+    <li>
+      <a href="https://www.youtube.com/watch?v=Ms3Vsz7Jc3A" target="_blank">Dicas do Zeno de Sublime no Youtube</a>
+    </li>
+    <li>
+      <a href="https://ia.net/writer" target="_blank">Software iA Writer</a>
+    </li>
+    <li>
+      <a href="https://www.google.com.br/chrome/browser/canary.html" target="_blank">Browser Chrome Canary</a>
+    </li>
+  </ul>
+</section>
