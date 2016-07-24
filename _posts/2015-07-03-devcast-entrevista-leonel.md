@@ -10,3 +10,5 @@ soundcloud-post-image: "000122091478-rz7ika"
 ---
 
 Atenção senhores passageiros, no cast de hoje faremos uma pequena viagem para a terra do maple syrup em uma entrevista muito especial. Leonel Oliveira vai nos contar como começou sua carreira e como ele realizou o sonho de se mudar para o Canadá. Apertem os cintos, e em caso de emergência máscaras de oxigênio cairão sobre suas cabeças.
+
+{% include modules/post-extras.html %}

@@ -7,22 +7,24 @@ cast-time: "01:29:21"
 description: "Fundador da boo-box e Mova Mais, Marco Gomes nos conta sua incrível trajetória de menino do Gama a dono de startup. Uma história muito inspiradora e bacana, que nos ensina a não desistir e sempre correr atrás dos nossos sonhos."
 soundcloud-id: "232845949"
 soundcloud-post-image: "000135984395-ti74sz"
+links:
+  -
+    name: "Marco Gomes"
+    url: "http://marcogomes.com"
+  -
+    name: "Boo-box"
+    url: "http://boo-box.com"
+  -
+    name: "Mova Mais"
+    url: "http://movamais.com"
+  -
+    name: "POST Techcrunch"
+    url: "http://techcrunch.com/2007/01/21/boobox-to-help-bloggers-sell-stuff"
+  -
+    name: "FTPI Digital"
+    url: "http://ftpidigital.com.br"
 ---
 
 Fundador da boo-box e Mova Mais, Marco Gomes nos conta sua incrível trajetória de menino do Gama a dono de startup. Uma história muito inspiradora e bacana, que nos ensina a não desistir e sempre correr atrás dos nossos sonhos.
 
-[Marco Gomes](http://marcogomes.com)
-
-[Boo-box](http://boo-box.com/)
-
-[Mova Mais](http://movamais.com)
-
-[POST Techcrunch](http://techcrunch.com/2007/01/21/boobox-to-help-bloggers-sell-stuff/)
-
-[FTPI Digital](http://ftpidigital.com.br/)
-
-[Venha para o SorocabaJS](http://sorocabajs.github.io/)
-
-[Curta a Fanpage do DevNaEstrada](https://www.facebook.com/devnaestrada)
-
-[Venha no Front in Sampa 21/11](http://frontinsampa.com.br/)
+{% include modules/post-extras.html %}

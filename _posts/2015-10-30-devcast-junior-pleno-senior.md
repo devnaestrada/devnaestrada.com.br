@@ -11,6 +11,4 @@ soundcloud-post-image: "000134431722-vnduqr"
 
 No programa de hoje, vamos contar um pouco da nossa experiência e o nosso ponto de vista em relação ao status, Júnior, Pleno e Sênior nas nossas carreiras de tecnologia.
 
-[Curta a Fanpage do DevNaEstrada](https://www.facebook.com/devnaestrada)
-
-[Venha no Front in Sampa 21/11](http://frontinsampa.com.br/)
+{% include modules/post-extras.html %}

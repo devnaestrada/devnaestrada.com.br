@@ -12,3 +12,5 @@ soundcloud-post-image: "000121427003-aboz7o"
 Olá passageiros, the treta has been planted. No cast de hoje Montanha, Ramon e Javiani falam sobre sistemas operacionais Windows, OSX e Linux, contando um pouco da  experiência com cada um deles e qual é o sistema do coração.
 
 Este episódio não tem a pretensão de ser preciso em cada uma de suas afirmações, apenas observações e feelings baseados na experiência de cada um. Participe também, deixando um comentário aí embaixo dizendo qual é seu sistema preferido e porque.
+
+{% include modules/post-extras.html %}

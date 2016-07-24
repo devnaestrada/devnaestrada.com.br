@@ -10,3 +10,5 @@ soundcloud-post-image: "000118582746-ogezlg"
 ---
 
 Olá passageiros, nesse cast conversamos um pouco sobre nossa experiência com trabalho remoto! E você já teve alguma experiência? Deixe no comentário sua opinião para discutirmos em um próximo cast!
+
+{% include modules/post-extras.html %}

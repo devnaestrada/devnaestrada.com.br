@@ -17,7 +17,8 @@
 }
 
 .filter-select {
-  border: 0 none;
+  background-color: $ligten;
+  border: $neutral 1px solid;
   height: 40px;
   outline: $neutral;
   width: 100%;
