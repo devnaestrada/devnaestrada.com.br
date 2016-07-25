@@ -7,34 +7,24 @@ cast-time: "00:41:57"
 description: "@femontanha entrevista @jaydson, um dos criadores do BrazilJS, jsrocks e muitos projetos legais no mundo do Javascript."
 soundcloud-id: "247785786"
 soundcloud-post-image: "000147725443-913pby"
+links:
+  -
+    name: "Jaydson"
+    url: "http://jaydson.org"
+  -
+    name: "Twitter Jaydson"
+    url: "https://twitter.com/jaydson"
+  -
+    name: "Site BrazilJS"
+    url: "http://braziljs.org"
+  -
+    name: "Site JSRocks"
+    url: "http://jsrocks.org"
+  -
+    name: "Youtube Fun fun function"
+    url: "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q"
 ---
 
 @femontanha entrevista @jaydson, um dos criadores do BrazilJS, jsrocks e muitos projetos legais no mundo do Javascript.
 
-<a href="http://www.apoia.se/devnaestrada" class="btn">
-  Também quero apoiar!
-</a>
-
-<h2>Ganhador da camiseta DevNaEstrada</h2>
-**Diego Girotto Arigony**
-
-[Link para se Cadastrar - Sorteio GorilaHats](https://devnaestrada.typeform.com/to/KGIC5r)
-
-<h2>Links Do Podcast</h2>
-
-[Jaydson](http://jaydson.org/)
-
-[Twitter Jaydson](https://twitter.com/jaydson)
-
-[Site BrazilJS](http://braziljs.org)
-
-[Site JSRocks](http://jsrocks.org/)
-
-[Youtube Fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-
-<h2>Eventos</h2>
-
-[Evento Femug](https://sp.femug.com/t/femug-sp-29-locaweb/605)
-
-[Evento FrontUX](http://www.meetup.com/pt-BR/FrontUX/)
-
+{% include modules/post-extras.html %}

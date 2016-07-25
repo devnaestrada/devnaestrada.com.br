@@ -7,18 +7,21 @@ cast-time: "00:46:18"
 description: "Hoje o bate papo é sobre a linguagem PHP, venha conferir essa conversa bacana entre @femontanha, @raymonsanches @pokemaobr e @gabrielrcouto"
 soundcloud-id: "228706523"
 soundcloud-post-image: "000132944806-82rnj7"
+links:
+  -
+    name: "Empresa MEMED"
+    url: "http://memed.com.br"
+  -
+    name: "Pesquisa sobre Mercado de Trabalho"
+    url: "http://pt.slideshare.net/pokemaobr/mercado-de-trabalho-para-elefantes-tdc-2015"
+  -
+    name: "Comunidade PHPSP"
+    url: "http://phpsp.org.br"
+  -
+    name: "Participe dos Hangouts do PHPSP"
+    url: "https://www.facebook.com/sao.paulo.elephants"
 ---
 
 Hoje o bate papo é sobre a linguagem PHP, venha conferir essa conversa bacana entre [@femontanha](http://twitter.com/femontanha), [@raymonsanches](http://twitter.com/raymonsanches), [@pokemaobr](http://twitter.com/pokemaobr) e [@gabrielrcouto](http://twitter.com/gabrielrcouto)
 
-[Empresa MEMED](http://memed.com.br)
-
-[Pesquisa sobre Mercado de Trabalho](http://pt.slideshare.net/pokemaobr/mercado-de-trabalho-para-elefantes-tdc-2015)
-
-[Comunidade PHPSP](http://phpsp.org.br/)
-
-[Participe dos Hangouts do PHPSP](https://www.facebook.com/sao.paulo.elephants)
-
-[Curta a Fanpage do DevNaEstrada](https://www.facebook.com/devnaestrada)
-
-[Venha no Front in Sampa 21/11](http://frontinsampa.com.br/)
+{% include modules/post-extras.html %}

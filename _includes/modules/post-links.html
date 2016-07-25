@@ -1,0 +1,12 @@
+{% if page.links %}
+  <section class="post-links">
+    <h2 class="post-links-title">Comentados nesse Episódio</h2>
+    <ul>
+      {% for link in page.links %}
+        <li>
+          <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}

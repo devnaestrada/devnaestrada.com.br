@@ -10,3 +10,5 @@ soundcloud-post-image: "000124194263-ga6htm"
 ---
 
 Bem vindos a mais um podcast, hoje @femontanha @raymonsanches e Leonel vão falar sobre Job dos Sonhos x Job da Realidade, qual seria o trabalho que você sempre sonhou? Como geralmente é a realidade? Ficou curioso? Aperte os cintos e aumente o som!
+
+{% include modules/post-extras.html %}

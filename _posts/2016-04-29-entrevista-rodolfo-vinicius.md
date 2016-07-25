@@ -7,48 +7,24 @@ cast-time: "01:02:59"
 description: "Who can it be now? Neste episódio @femontanha e @raymonsanches entrevistam Rodolfo e Vinicius. Uma entrevista dupla e cheia de histórias bacanas pra você se inspirar e de quebra desvendar os mistérios that land down under."
 soundcloud-id: "261440964"
 soundcloud-post-image: "000160368580-12zs1u"
+links:
+  -
+    name: "PrinciWeb"
+    url: "http://www.princiweb.com.br"
+  -
+    name: "FrontEnd Campinas Meetup"
+    url: "http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup"
+  -
+    name: "NodeSchool Campinas"
+    url: "http://nodeschool.io/campinas"
+  -
+    name: "Twitter Rodolfo Pereira"
+    url: "https://twitter.com/rodolfoprr"
+  -
+    name: "Twitter Vinicius Gerevini"
+    url: "https://twitter.com/vini_gerevini"
 ---
 
 Who can it be now? Neste episódio @femontanha e @raymonsanches entrevistam Rodolfo e Vinicius. Uma entrevista dupla e cheia de histórias bacanas pra você se inspirar e de quebra desvendar os mistérios that land down under.
 
-<a href="http://www.apoia.se/devnaestrada" class="btn">
-  Também quero apoiar!
-</a>
-
-<h2>Links do episódio</h2>
-
-[PrinciWeb](http://www.princiweb.com.br/)
-
-[FrontEnd Campinas Meetup](http://www.meetup.com/pt-BR/Campinas-Front-End-Meetup/)
-
-[NodeSchool Campinas](http://nodeschool.io/campinas/)
-
-[Twitter Rodolfo Pereira](https://twitter.com/rodolfoprr)
-
-[Twitter Vinicius Gerevini](https://twitter.com/vini_gerevini)
-
-<h2>Resultado dos Sorteios</h2>
-
-Camiseta FrontendStyle: [https://youtu.be/qjJrPtEWGhQ](https://youtu.be/qjJrPtEWGhQ)
-
-Camiseta BackendStyle: [https://youtu.be/T4ogAQm-sWI](https://youtu.be/T4ogAQm-sWI)
-
-Adesivos do StickersDevs: [https://youtu.be/YAd1aAY27Vk](https://youtu.be/YAd1aAY27Vk)
-
-<h2>Próximos Eventos</h2>
-
-[BrazilJSConf](https://braziljs.org/conf)
-
-[Frontinsampa](http://frontinsampa.com.br/)
-
-[CEJS](http://www.cejs.com.br/)
-
-[frontinbh](http://frontinbh.com.br/)
-
-[RupyCampinas](http://campinas.rupy.com.br/)
-
-<h2>Parceiros</h2>
-
-[Contratado.me](https://contratado.me)
-
-[StickersDevs](https://www.stickersdevs.com.br)
+{% include modules/post-extras.html %}
