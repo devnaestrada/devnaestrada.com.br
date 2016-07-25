@@ -7,34 +7,27 @@ cast-time: "01:02:17"
 description: "Entrevista com o fera Marcelo Carneiro (@mcarneiro). Marcelo é frontend developer na F.biz, e nesse episódio nos dá uma dose de ânimo e nos conta como foi sua experiência na Singularity University."
 soundcloud-id: "248953752"
 soundcloud-post-image: "000148662793-id37pd"
+links:
+  -
+    name: "@carneiro"
+    url: "http://twitter.com/mcarneiro"
+  -
+    name: "CodeInMath"
+    url: "https://www.youtube.com/watch?v=zm9bqSSiIdo"
+  -
+    name: "Alistapart"
+    url: "http://alistapart.com"
+  -
+    name: "Entrevista Thiago Simões"
+    url: "http://devnaestrada.com.br/2015/11/06/devnaestrada-26-thiago-simoes.html"
+  -
+    name: "F.biz"
+    url: "http://fbiz.com.br"
+  -
+    name: "Print the legend (Documentário)"
+    url: "https://www.netflix.com/title/80005444)"
 ---
 
 Entrevista com o fera Marcelo Carneiro (@mcarneiro). Marcelo é frontend developer na F.biz, e nesse episódio nos dá uma dose de ânimo e nos conta como foi sua experiência na Singularity University.
 
-<a href="http://www.apoia.se/devnaestrada" class="btn">
-  Também quero apoiar!
-</a>
-
-<h2>Ganhador da promoção da Gorila Hat</h2>
-**Euler**
-
-<h2>Ganhadora da promoção da Gorila Hat</h2>
-**Débora**
-
-Também fizemos um vídeo explicando como funcionam nossos sorteios, bem prático e objetivo que vocês fiquem por dentro do que acontece quando rola uma promoção por aqui ;)
-
-[https://www.youtube.com/watch?v=MXpE0yjpzWo](https://www.youtube.com/watch?v=MXpE0yjpzWo)
-
-<h2>Links do Episódio</h2>
-
-[@carneiro](http://twitter.com/mcarneiro)
-
-[CodeInMath](https://www.youtube.com/watch?v=zm9bqSSiIdo)
-
-[Alistapart](http://alistapart.com/)
-
-[Entrevista Thiago Simões](http://devnaestrada.com.br/2015/11/06/devnaestrada-26-thiago-simoes.html)
-
-[F.biz](http://fbiz.com.br)
-
-[Print the legend (Documentário)](https://www.netflix.com/title/80005444) - Netflix paga nóis!
+{% include modules/post-extras.html %}

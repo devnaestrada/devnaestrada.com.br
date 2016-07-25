@@ -7,16 +7,24 @@ cast-time: "01:10:08"
 description: "No episódio de hoje, uma entrevista muito bacana com Duodraco, um dos fundadores do PHPSP e atual CTO da AgroSmart, uma história incrível e um papo bem descontraído pra você se inspirar, sempre!"
 soundcloud-id: "239917913"
 soundcloud-post-image: "000141470512-knw0pg"
+links:
+  -
+    name: "Sorteio do E-BOOK"
+    url: "https://devnaestrada.typeform.com/to/xdfLcm"
+  -
+    name: "Casa do Código"
+    url: "http://www.casadocodigo.com.br"
+  -
+    name: "Duodraco"
+    url: "http://duodra.co"
+  -
+    name: "Elton Mineto"
+    url: "https://github.com/eminetto"
+  -
+    name: "Duodraco no Twitter"
+    url: "https://twitter.com/duodraco"
 ---
 
 No episódio de hoje, uma entrevista muito bacana com Duodraco, um dos fundadores do PHPSP e atual CTO da AgroSmart, uma história incrível e um papo bem descontraído pra você se inspirar, sempre!
 
-[Sorteio do E-BOOK](https://devnaestrada.typeform.com/to/xdfLcm)
-
-[Casa do Código](http://www.casadocodigo.com.br/)
-
-[Duodraco](http://duodra.co/)
-
-[Elton Mineto](https://github.com/eminetto)
-
-[Duodraco no Twitter](https://twitter.com/duodraco)
+{% include modules/post-extras.html %}

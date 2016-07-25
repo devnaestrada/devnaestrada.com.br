@@ -7,30 +7,38 @@ cast-time: "00:58:21"
 description: "No episódio de hoje, Montanha, Ramon, Eduardo e Zóio vão falar um pouco de suas experiências com entrevistas de trabalho, venha curtir as histórias/experiências desse pessoal com entrevistas na área de desenvolvimento."
 soundcloud-id: "242031770"
 soundcloud-post-image: "000143185955-m0617t"
+links:
+  -
+    name: "CasaDoCódigo"
+    url: "http://www.casadocodigo.com.br"
+  -
+    name: "TED Linguagem Corporal"
+    url: "https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=pt-br"
+  -
+    name: "HackerRank"
+    url: "https://www.hackerrank.com"
+  -
+    name: "Codility"
+    url: "https://codility.com"
+  -
+    name: "CodeFights"
+    url: "https://codefights.com"
+  -
+    name: "Trampos.co"
+    url: "http://trampos.co"
+  -
+    name: "Contratado.me"
+    url: "http://contratado.me"
+  -
+    name: "GlassDoor"
+    url: "https://www.glassdoor.com"
+  -
+    name: "LoveMondays"
+    url: "https://www.lovemondays.com.br"
 ---
 
 No episódio de hoje, Montanha, Ramon, Eduardo e Zóio vão falar um pouco de suas experiências com entrevistas de trabalho, venha curtir as histórias/experiências desse pessoal com entrevistas na área de desenvolvimento.
 
 Cupom de Desconto da Casa do Código: **DEVNAESTRADA15**
 
-<a href="http://www.apoia.se/devnaestrada" class="btn">
-  Também quero apoiar!
-</a>
-
-[CasaDoCódigo](http://www.casadocodigo.com.br/)
-
-[TED Linguagem Corporal](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=pt-br)
-
-[HackerRank](https://www.hackerrank.com/)
-
-[Codility](https://codility.com/)
-
-[CodeFights](https://codefights.com)
-
-[Trampos.co](http://trampos.co)
-
-[Contratado.me](http://contratado.me/)
-
-[GlassDoor](https://www.glassdoor.com/index.htm)
-
-[LoveMondays](https://www.lovemondays.com.br/)
+{% include modules/post-extras.html %}

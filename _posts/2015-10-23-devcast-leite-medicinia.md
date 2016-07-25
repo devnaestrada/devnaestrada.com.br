@@ -11,6 +11,4 @@ soundcloud-post-image: "000133654291-yj6q30"
 
 Hoje o bate papo é com o Leite, CTO da empresa Medicinia, venha conferir essa conversa bacana, aonde ele nos mostra sua experiência com startups!
 
-[Curta a Fanpage do DevNaEstrada](https://www.facebook.com/devnaestrada)
-
-[Venha no Front in Sampa 21/11](http://frontinsampa.com.br/)
+{% include modules/post-extras.html %}

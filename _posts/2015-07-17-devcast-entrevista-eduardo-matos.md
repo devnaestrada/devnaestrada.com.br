@@ -7,12 +7,18 @@ cast-time: "01:05:59"
 description: "Eduardo Matos é desenvolvedor front-end com bastante conhecimento em back-end também! Empreendedor, palestrante, conheça mais um pouco da história desse grande profissional!"
 soundcloud-id: "215098232"
 soundcloud-post-image: "000123504967-skcimw"
+links:
+  -
+    name: "Blog do Eduardo"
+    url: "http://eduardomatos.me"
+  -
+    name: "Filme do Linux"
+    url: "https://www.youtube.com/watch?v=Nayw37i8T2M"
+  -
+    name: "Medicinia"
+    url: "http://www.medicinia.com.br"
 ---
 
 Eduardo Matos é desenvolvedor front-end com bastante conhecimento em back-end também! Empreendedor, palestrante, conheça mais um pouco da história desse grande profissional!!
 
-Blog do Eduardo: [http://eduardomatos.me/](http://eduardomatos.me/)
-
-Filme do Linux: [The Code: Story of Linux](https://www.youtube.com/watch?v=Nayw37i8T2M)
-
-Medicinia: [Site Medicinia](http://www.medicinia.com.br)
+{% include modules/post-extras.html %}
