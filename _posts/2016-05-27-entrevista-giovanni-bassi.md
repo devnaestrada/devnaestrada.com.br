@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 55 - Entrevista Giovanni Bassi
+home-title: "Giovanni Bassi"
+type: "Entrevista"
 cast: 266130916-devnaestrada-devnaestrada-55-entrevista-giovanni-bassi.mp3
 cast-length: "40514479"
 cast-time: "00:56:52"

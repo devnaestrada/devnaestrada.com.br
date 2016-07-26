@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 52 - Flexibilidade no Trabalho
+home-title: "Flexibilidade no Trabalho"
+type: "Pauta"
 cast: 262722954-devnaestrada-devnaestrada-52-flexibilidade-no-trabalho.mp3
 cast-length: "71042418"
 cast-time: "00:49:16"

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 39 - Distribuições Linux
+home-title: "Distribuições Linux"
+type: "Pauta"
 cast: 245510957-devnaestrada-devnaestrada-39-distribuicoes-linux.mp3
 cast-length: "86659730"
 cast-time: "01:00:06"

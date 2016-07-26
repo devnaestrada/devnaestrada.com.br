@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 56 - Data Science
+home-title: "Data Science"
+type: "Pauta"
 cast: 267220053-devnaestrada-devnaestrada-56-data-science.mp3
 cast-length: "64768108"
 cast-time: "00:44:55"

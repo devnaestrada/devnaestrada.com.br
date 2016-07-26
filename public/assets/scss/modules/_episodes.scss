@@ -1,0 +1,24 @@
+//////////////////////
+// name: Episodes
+//////////////////////
+
+.episodes {
+  margin-left: rem(-30);
+  margin-top: rem(-30);
+  overflow: hidden;
+
+  .episode {
+    margin-left: rem(30);
+    margin-top: rem(30);
+  }
+}
+
+.episodes-holder {
+  float: left;
+  width: 100%;
+  
+  @media screen and (min-width: $mobile) { width: 50%; }
+  @media screen and (min-width: $tablet) { width: 33.33%; }
+  @media screen and (min-width: $notebook) { width: 25%; }
+  @media screen and (min-width: $desktop) { width: 20%; }
+}

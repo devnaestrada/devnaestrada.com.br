@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 43 - Brasileiro em Angola
+home-title: "Brasileiro em Angola"
+type: "Pauta"
 cast: 250109645-devnaestrada-devnaestrada-43-brasileiro-na-angola.mp3
 cast-length: "66733825"
 cast-time: "00:46:17"

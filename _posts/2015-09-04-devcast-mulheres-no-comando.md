@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 17 - Mulheres no Comando
+home-title: "Mulheres no Comando"
+type: "Pauta"
 cast: 222284665-devnaestrada-devnaestrada-17-mulheres-no-comando.mp3
 cast-length: "49847673"
 cast-time: "01:23:05"

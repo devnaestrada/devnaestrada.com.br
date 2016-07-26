@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 61 - Entrevista Matheus Marsiglio
+home-title: "Matheus Marsiglio"
+type: "Entrevista"
 cast: 272694102-devnaestrada-devnaestrada-61-entrevista-matheus-marsiglio.mp3
 cast-length: "109793551"
 cast-time: "01:16:11"

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 53 - Entrevista Bruno Tarmann
+home-title: "Bruno Tarmann"
+type: "Entrevista"
 cast: 263880622-devnaestrada-devnaestrada-53-entrevista-bruno-tarmann.mp3
 cast-length: "36674111"
 cast-time: "00:49:20"

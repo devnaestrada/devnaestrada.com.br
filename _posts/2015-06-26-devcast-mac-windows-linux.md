@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 06 - Linux x Mac x Windows
+home-title: "Linux x Mac x Windows"
+type: "Pauta"
 cast: 212083963-devnaestrada-devnaestrada-06-linux-x-mac-x-windows.mp3
 cast-length: "56357117"
 cast-time: "00:58:42"

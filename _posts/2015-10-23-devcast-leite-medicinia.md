@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 24 - Entrevista Leite @Medicinia
+home-title: "Carlos Leite"
+type: "Entrevista"
 cast: 229684825-devnaestrada-devnaestrada-24-entrevista-leite-medicinia.mp3
 cast-length: "53736530"
 cast-time: "01:29:33"

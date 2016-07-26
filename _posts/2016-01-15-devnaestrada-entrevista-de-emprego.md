@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 36 - Entrevista de emprego
+home-title: "Entrevista de emprego"
+type: "Pauta"
 cast: 242031770-devnaestrada-devnaestrada-36-entrevista-de-emprego.mp3
 cast-length: "84148368"
 cast-time: "00:58:21"

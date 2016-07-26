@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 42 - Entrevista Marcelo Carneiro
+home-title: "Marcelo Carneiro"
+type: "Entrevista"
 cast: 248953752-devnaestrada-devnaestrada-42-entrevista-marcelo-carneiro.mp3
 cast-length: "89771807"
 cast-time: "01:02:17"

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 12 - A importância dos Eventos
+home-title: "A importância dos Eventos"
+type: "Pauta"
 cast: 218217441-devnaestrada-devnaestrada-12-a-importancia-dos-eventos.mp3
 cast-length: "58283699"
 cast-time: "00:40:28"

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 11 - Entrevista Diego Eis
+home-title: "Diego Eis"
+type: "Entrevista"
 cast: 217133119-devnaestrada-devnaestrada-11-entrevista-diego-eis-tableless.mp3
 cast-length: "63134324"
 cast-time: "00:43:50"

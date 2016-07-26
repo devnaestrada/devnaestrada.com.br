@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 28 - Sou Sênior e agora?
+home-title: "Sou Sênior e agora?"
+type: "Pauta"
 cast: 233860431-devnaestrada-devnaestrada-28-sou-senior-e-agora.mp3
 cast-length: "26222150"
 cast-time: "00:43:29"

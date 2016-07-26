@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 19 - Regime de Contratação
+home-title: "Regime de Contratação"
+type: "Pauta"
 cast: 224471895-devnaestrada-devnaestrada-19-regime-de-contratacao.mp3
 cast-length: "23177438"
 cast-time: "00:38:37"

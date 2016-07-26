@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 57 - Entrevista Eduardo Shiota
+home-title: "Eduardo Shiota"
+type: "Entrevista"
 cast: 268414547-devnaestrada-devnaestrada-57-entrevista-eduardo-shiota.mp3
 cast-length: "34626066"
 cast-time: "00:45:30"

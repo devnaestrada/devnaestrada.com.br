@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 44 - Cultura Agile
+home-title: "Cultura Agile"
+type: "Pauta"
 cast: 251284866-devnaestrada-devnaestrada-44-cultura-agile.mp3
 cast-length: "34928730"
 cast-time: "00:48:55"
