@@ -4,40 +4,32 @@ layout: default
 
 {% include modules/quick-access.html %}
 
-<div class="page-home">
+<section class="episodes">
   {% for post in paginator.posts %}
-    <article class="home-cast">
-
-      <!-- home avatar -->
-      <img src="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" alt="{{ post.title }}" class="home-cast__avatar" />
-
-      <div class="home-cast__holder">
-        <h2 class="home-cast__title">
-          <a href="{{ post.url }}">
-            {{ post.title }} <i class="fa fa-hand-spock-o"></i>
-          </a>
-        </h2>
-
-        <p class="home-cast__description">
-          {{ post.description }}
-        </p>
-      </div>
-    </article>
+    <div class="episodes-holder">
+      <a href="{{ post.url }}" class="episode">
+        <div class="episode-cover">
+          <img src="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" alt="{{ post.title }}" class="episode-cover-photo" />  
+        </div>
+        <div class="episode-description">
+          <p class="episode-title">{{ post.home-title }}</p>
+          <p class="episode-type">{{ post.type }}</p>
+        </div>
+      </a>
+    </div>
   {% endfor %}
+</section>
 
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="btn">
-        <i class="fa fa-arrow-circle-left"></i>
-        Voltar
-      </a>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="btn">
-        Avançar
-        <i class="fa fa-arrow-circle-right"></i>
-      </a>
-    {% endif %}
-  </div>
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="btn">
+      <i class="fa fa-arrow-circle-left"></i> Voltar
+    </a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="btn">
+      Avançar <i class="fa fa-arrow-circle-right"></i>
+    </a>
+  {% endif %}
 </div>

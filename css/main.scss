@@ -25,7 +25,6 @@
 @import "modules/navigation/social-nav";
 @import "modules/navigation/pagination";
 @import "modules/personal/profile";
-@import "modules/blocks/home-cast";
 @import "modules/blocks/post-cast";
 @import "modules/blocks/supporters";
 @import "modules/blocks/item-store";
@@ -33,9 +32,10 @@
 @import "modules/post-links-sponsors";
 @import "modules/post-support";
 @import "modules/partners";
+@import "modules/episodes";
+@import "modules/episode";
 
 // layout
 @import "layout/structure";
 @import "layout/page-creators";
 @import "layout/page-404";
-@import "layout/page-home";
