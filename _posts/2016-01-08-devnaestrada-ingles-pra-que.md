@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 35 - Inglês pra quê?
+home-title: "Inglês pra quê?"
+type: "Pauta"
 cast: 240917153-devnaestrada-devnaestrada-35-ingles-pra-que.mp3
 cast-length: "43447812"
 cast-time: "01:12:14"

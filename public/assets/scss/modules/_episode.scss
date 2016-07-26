@@ -1,0 +1,52 @@
+//////////////////////
+// name: Episode
+//////////////////////
+
+.episode {
+  @include transition(all .3s ease-in-out);
+  display: block;
+  border: $neutral-light 1px solid;
+  border-radius: $base-radius;
+  box-shadow: 0px 1px 2px 0px rgba(0 , 0, 0, .1);
+
+  &:hover,
+  &:active,
+  &:focus {
+    @include transform(translateY(-2px));
+    @include transform-style(preserve-3d);
+    border-color: $primary-color;
+    box-shadow: 0px 5px 2px 0px rgba(0 , 0, 0, .1);
+
+    .episode-cover {
+      @include filter(brightness(150%));;
+    }
+  }
+}
+
+.episode-cover {
+  @include transition(all .3s ease-in-out);
+}
+
+.episode-cover-photo {
+  border-radius: $base-radius;
+  display: block;
+  padding: rem(3);
+  width: 100%;
+}
+
+.episode-description {
+  min-height: rem(55);
+  padding: rem(10);
+  text-align: center;
+}
+
+.episode-title {
+  font-size: rem(14);
+  margin: 0;
+}
+
+.episode-type {
+  color: $neutral;
+  font-size: rem(12);
+  margin: rem(5) 0 0;
+}

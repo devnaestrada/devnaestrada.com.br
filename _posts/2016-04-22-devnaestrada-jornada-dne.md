@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 50 - Jornada DevNaEstrada
+home-title: "Jornada DevNaEstrada"
+type: "Pauta"
 cast: 260286726-devnaestrada-devnaestrada-50-jornada-devnaestrada.mp3
 cast-length: "100996143"
 cast-time: "01:10:05"

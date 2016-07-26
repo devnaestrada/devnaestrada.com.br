@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 10 - Job Sonho X Realidade
+home-title: "Job Sonho X Realidade"
+type: "Pauta"
 cast: 216105990-devnaestrada-devnaestrada-10-job-sonho-x-realidade.mp3
 cast-length: "54123960"
 cast-time: "00:37:35"

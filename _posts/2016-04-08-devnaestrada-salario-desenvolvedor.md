@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 48 - Salário do Desenvolvedor
+home-title: "Salário do Desenvolvedor"
+type: "Pauta"
 cast: 257913057-devnaestrada-devnaestrada-48-salario-do-desenvolvedor.mp3
 cast-length: "93776456"
 cast-time: "01:05:03"

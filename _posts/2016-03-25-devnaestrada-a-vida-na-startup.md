@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 46 - A vida em uma startup
+home-title: "A vida em uma startup"
+type: "Entrevista"
 cast: 254933160-devnaestrada-devnaestrada-46-a-vida-na-startup.mp3
 cast-length: "43717547"
 cast-time: "00:57:48"

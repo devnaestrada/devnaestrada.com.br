@@ -8,7 +8,7 @@ url: "http://devnaestrada.com.br"
 supporter_asset_url: "public/assets/img/supporter/"
 
 # blog
-paginate: 6
+paginate: 10
 paginate_path: "/podcast/:num/"
 
 # service links

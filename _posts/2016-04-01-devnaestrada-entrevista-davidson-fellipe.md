@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 47 - Entrevista Davidson Fellipe
+home-title: "Davidson Fellipe"
+type: "Entrevista"
 cast: 256685973-devnaestrada-devnaestrada-47-entrevista-davidson-fellipe.mp3
 cast-length: "97605355"
 cast-time: "01:07:44"

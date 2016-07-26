@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 02 - Trabalho Remoto
+home-title: "Trabalho Remoto"
+type: "Pauta"
 cast: 207973971-devnaestrada-devnaestrada-02-trabalho-remoto.mp3
 cast-length: "26992140"
 cast-time: "00:28:06"

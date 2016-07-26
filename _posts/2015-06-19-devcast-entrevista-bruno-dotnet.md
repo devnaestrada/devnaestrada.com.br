@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 05 - Entrevista Bruno.NET
+home-title: "Bruno.NET"
+type: "Entrevista"
 cast: 211000314-devnaestrada-devnaestrada-05-entrevista-brunonet.mp3
 cast-length: "28727924"
 cast-time: "00:29:55"

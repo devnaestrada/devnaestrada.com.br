@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 04 - Ferramentas que usamos
+home-title: "Ferramentas que usamos"
+type: "Pauta"
 cast: 209959439-devnaestrada-devnaestrada-04-ferramentas-que-usamos.mp3
 cast-length: "60565548"
 cast-time: "01:03:05"

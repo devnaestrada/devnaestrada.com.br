@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 49 - Alda Rocha (@mjcoffeeholick)
+home-title: "Alda Rocha"
+type: "Entrevista"
 cast: 259162662-devnaestrada-devnaestrada-49-entrevista-alda-rocha.mp3
 cast-length: "29428055"
 cast-time: "00:43:35"

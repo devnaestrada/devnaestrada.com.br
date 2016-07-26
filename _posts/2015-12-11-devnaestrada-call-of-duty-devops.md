@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 31 - Call of Duty DevOps
+home-title: "Call of Duty DevOps"
+type: "Pauta"
 cast: 237051131-devnaestrada-devnaestrada-31-call-of-duty-devops.mp3
 cast-length: "18579494"
 cast-time: "00:30:47"

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 23 - PHP com PHPSP
+home-title: "PHPSP"
+type: "Pauta"
 cast: 228706523-devnaestrada-devnaestrada-23-php-com-phpsp.mp3
 cast-length: "27782041"
 cast-time: "00:46:18"

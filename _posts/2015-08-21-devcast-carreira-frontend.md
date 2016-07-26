@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 14 - Carreira Front-end
+home-title: "Carreira Front-end"
+type: "Pauta"
 cast: 220195311-devnaestrada-devnaestrada-14-carreira-front-end.mp3
 cast-length: "88840245"
 cast-time: "00:37:00"

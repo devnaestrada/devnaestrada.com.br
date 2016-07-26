@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 16 - Especial BrazilJS
+home-title: "BrazilJS 2015"
+type: "Pauta"
 cast: 221697412-devnaestrada-devnaestrada-16-braziljs.mp3
 cast-length: "40143967"
 cast-time: "01:06:54"

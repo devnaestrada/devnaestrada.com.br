@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 08 - Job Pastel
+home-title: "Job Pastel"
+type: "Pauta"
 cast: 214073569-devnaestrada-devnaestrada-08-job-pastel.mp3
 cast-length: "31641308"
 cast-time: "00:21:58"

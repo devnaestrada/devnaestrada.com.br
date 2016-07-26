@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 32 - Entrevista Felipe Ribeiro (Spotify)
+home-title: "Felipe Ribeiro"
+type: "Entrevista"
 cast: 238059712-devnaestrada-devnaestrada-32-entrevista-felipe-ribeiro.mp3
 cast-length: "30106519"
 cast-time: "00:50:00"

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 22 - Entrevista Renan Lima
+home-title: "Renan Lima"
+type: "Entrevista"
 cast: 227587611-devnaestrada-devnaestrada-22-entrevista-renan-lima.mp3
 cast-length: "40282677"
 cast-time: "01:07:08"

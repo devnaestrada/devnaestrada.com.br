@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 51 - Entrevista Rodolfo e Vinicius
+home-title: "Rodolfo e Vinicius"
+type: "Entrevista"
 cast: 261440964-devnaestrada-devnaestrada-51-entrevista-rodolfo-e-vin.mp3
 cast-length: "43245122"
 cast-time: "01:02:59"

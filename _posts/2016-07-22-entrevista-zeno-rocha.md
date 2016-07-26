@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 63 - Entrevista Zeno Rocha
+home-title: "Zeno Rocha"
+type: "Entrevista"
 cast: 274802062-devnaestrada-devnaestrada-63-entrevista-zeno-rocha.mp3
 cast-length: "119623243"
 cast-time: "01:23:01"

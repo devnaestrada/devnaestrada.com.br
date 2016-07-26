@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE Extra - Comic Con Experience 2015
+home-title: "Comic Con Experience"
+type: "Pauta"
 cast: 236580907-devnaestrada-devnaestrada-extra-comic-con-experience-2015.mp3
 cast-length: "12593680"
 cast-time: "00:20:48"

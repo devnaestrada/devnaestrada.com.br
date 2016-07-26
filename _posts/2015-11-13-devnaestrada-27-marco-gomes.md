@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 27 - Especial Nerd Marco Gomes
+home-title: "Marco Gomes"
+type: "Entrevista"
 cast: 232845949-devnaestrada-devnaestrada-27-especial-nerd-marco-gomes.mp3
 cast-length: "53616635"
 cast-time: "01:29:21"
