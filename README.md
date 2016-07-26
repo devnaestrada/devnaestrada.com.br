@@ -39,11 +39,8 @@ Agora basta acessar [localhost:4000](http://localhost:4000/).
 
 ## Colabore
 
-Você pode e é livre para colaborar como quiser com o nosso projeto, divulgando, sugerindo pautas, elogiando, criticando ou até mesmo nos mandando uma errata.
-
-Mande um [PR aqui pelo Github](https://github.com/devnaestrada/devnaestrada.com.br/pulls).
-
-Você sempre pode nos encontrar no e-mail: devnaestrada at gmail com
+- Só aceitamos Pullrequest na branch [develop](https://github.com/devnaestrada/devnaestrada.com.br/tree/develop)
+- Exemplo para [template do Pull request](https://github.com/devnaestrada/devnaestrada.com.br/wiki/Template-for-Pull-Request)
 
 Visite nosso [site](http://devnaestrada.com.br).
 
