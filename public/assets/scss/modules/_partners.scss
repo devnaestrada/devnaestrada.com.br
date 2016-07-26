@@ -1,0 +1,39 @@
+.partners {
+  margin-top: rem(60);
+  padding: rem(30);
+  text-align: center;
+}
+
+.partners-title {
+  margin-top: 0;
+  margin-bottom: rem(30);
+  font-size: rem(18);
+}
+
+.partners-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.partners-list li {
+  @extend %inline-middle-block;
+  margin-left: rem(15);
+
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
+.partners-link {
+  display: block;
+
+  &:hover,
+  &:active,
+  &:focus, {
+    img {
+      @include transition(all .3s ease-in-out);
+      opacity: .5;
+    }
+  }
+}
