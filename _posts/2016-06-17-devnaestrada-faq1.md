@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 58 - FAQ #1
+home-title: "FAQ #1"
+type: "Pauta"
 cast: 269540269-devnaestrada-devnaestrada-57-faq-1.mp3
 cast-length: "82160328"
 cast-time: "00:57:00"

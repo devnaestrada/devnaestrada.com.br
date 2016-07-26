@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 59 - Entrevista Neto Marin
+home-title: "Neto Marin"
+type: "Entrevista"
 cast: 270596837-devnaestrada-devnaestrada-59-entrevista-neto-marin.mp3
 cast-length: "43009335"
 cast-time: "01:13:34"

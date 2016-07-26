@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 45 - Entrevista Rodrigo Franco (@caffo)
+home-title: "Rodrigo Franco"
+type: "Entrevista"
 cast: 252487706-devnaestrada-devnaestrada-45-entrevista-rodrigo-franco-caffo.mp3
 cast-length: "66815503"
 cast-time: "00:46:20"

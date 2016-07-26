@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 41 - Entrevista Jaydson
+home-title: "Jaydson"
+type: "Entrevista"
 cast: 247785786-devnaestrada-devnaestrada-41-entrevista-jaydson.mp3
 cast-length: "60519597"
 cast-time: "00:41:57"

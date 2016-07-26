@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 38 - Entrevista Henrique Bastos
+home-title: "Henrique Bastos"
+type: "Entrevista"
 cast: 244344263-devnaestrada-devnaestrada-38-entrevista-henrique-bastos.mp3
 cast-length: "76626475"
 cast-time: "00:53:09"

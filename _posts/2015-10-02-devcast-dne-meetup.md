@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 21 - DNE Meetup
+home-title: "DNE Meetup"
+type: "Pauta"
 cast: 226531053-devnaestrada-devnaestrada-21-dne-meetup.mp3
 cast-length: "25844803"
 cast-time: "00:43:04"

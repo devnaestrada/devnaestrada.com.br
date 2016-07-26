@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 54 - Partiu Canadá com Vanhack
+home-title: "Partiu Canadá com Vanhack"
+type: "Pauta"
 cast: 264999365-devnaestrada-devnaestrada-54-partiu-canada-com-vanhack.mp3
 cast-length: "47968266"
 cast-time: "00:33:15"

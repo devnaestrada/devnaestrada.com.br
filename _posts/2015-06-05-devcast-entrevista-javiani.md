@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 03 - Entrevista Javiani
+home-title: "Javiani"
+type: "Entrevista"
 cast: 208875884-devnaestrada-devnaestrada-03-entrevista-javiani.mp3
 cast-length: "65535083"
 cast-time: "01:08:16"

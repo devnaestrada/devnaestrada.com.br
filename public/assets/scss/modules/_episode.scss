@@ -41,12 +41,12 @@
 }
 
 .episode-title {
-  font-size: 14px;
+  font-size: rem(14);
   margin: 0;
 }
 
 .episode-type {
   color: $neutral;
-  font-size: 12px;
-  margin: 5px 0 0;
+  font-size: rem(12);
+  margin: rem(5) 0 0;
 }

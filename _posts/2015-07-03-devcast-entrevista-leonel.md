@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 07 - Entrevista Leonel
+home-title: "Leonel"
+type: "Entrevista"
 cast: 213054962-devnaestrada-devnaestrada-07-entrevista-leonel.mp3
 cast-length: "48873348"
 cast-time: "00:33:56"

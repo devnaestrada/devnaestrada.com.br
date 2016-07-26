@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNE 20 - Entrevista Helder Santana
+home-title: "Helder Santana"
+type: "Entrevista"
 cast: 225477611-devnaestrada-devnaestrada-20-entrevista-helder.mp3
 cast-length: "45722678"
 cast-time: "01:16:12"
