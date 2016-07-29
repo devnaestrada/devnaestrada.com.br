@@ -9,6 +9,10 @@ cast-time: "01:13:40"
 description: "Você trabalha, está pensando em trabalhar ou já trabalhou como PJ? Neste episódio @femontanha e @raymonsanches conversam com @tilacog, um desenvolvedor que já desbravou muitas empresas por esse brasil atuando como consultor tributário."
 soundcloud-id: "275876100"
 soundcloud-post-image: "000173833749-ck7b4w"
+participants:
+  -
+    name: Tiago Guimarães
+    twitter: tilacog
 links:
   -
     name: "Contabilizei - Escritório de Contabilidade online"
