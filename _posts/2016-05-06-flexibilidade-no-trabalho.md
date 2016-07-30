@@ -17,11 +17,12 @@ participants:
     name: Ramon Sanches
     twitter: raymonsanches
   -
-    name: William Martins (Zóio)
+    name: William Martins
     twitter: wmsbill
   -
-  	name: Eduardo Matos
-  	twitter: eduardojmatos
+    name: Eduardo Matos
+    twitter: eduardojmatos
+
 links:
   -
     name: "Twitter Eduardo Matos"
