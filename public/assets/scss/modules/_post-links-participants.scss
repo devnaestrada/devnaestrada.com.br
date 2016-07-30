@@ -1,0 +1,15 @@
+/////////////////////////////////
+// name:    Post Links Sponsors
+// extend:  Post Links
+////////////////////////////////
+
+.post-links-link.twitter {
+  background-color: $twitter;
+  font-weight: normal;
+  font-style: italic;
+
+  &:hover {
+    background-color: transparent;
+    color: $twitter;
+  }
+}

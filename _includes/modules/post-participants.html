@@ -1,0 +1,18 @@
+{% if page.participants %}
+  <section class="post-participants">
+    {% if page.participants.size > 1 %}
+      <h2 class="post-participants-title">Participantes</h2>
+    {% else %}
+      <h2 class="post-participants-title">Participante</h2>
+    {% endif %}
+    <ul>
+      {% for participant in page.participants %}
+        <li>
+          <img src="https://twitter.com/{{ participant.twitter }}/profile_image?size=original">
+          <h3>{{ participant.name }}</h3>
+          <a href="http://twitter.com/{{ participant.twitter }}" class="post-links-link twitter" target="_blank">@{{ participant.twitter }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}

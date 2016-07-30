@@ -9,6 +9,16 @@ cast-time: "01:23:01"
 description: "No episódio de hoje, conheça uma baita história de inspiração. @femontanha e @raymonsanches entrevistam @zenorocha que conta como sua jornada começou."
 soundcloud-id: "274802062"
 soundcloud-post-image: "000172691602-4n1qk7"
+participants:
+  -
+    name: Fellipe Azambuja
+    twitter: femontanha
+  -
+    name: Ramon Sanches
+    twitter: raymonsanches
+  -
+    name: Zeno Rocha
+    twitter: zenorocha
 links:
   -
     name: "Portfolio do Zeno Rocha"
