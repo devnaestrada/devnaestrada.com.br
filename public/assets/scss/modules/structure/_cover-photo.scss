@@ -2,15 +2,24 @@
 // name: Cover Photo
 ////////////////////////////////
 
+@include keyframes(coverphoto) {
+  100% {
+    background-position: 0 -3000px;
+  }
+}
+
 .coverphoto {
   @include align-items(center);
   @include display(flex);
   @include justify-content(center);
-  background-color: $darken;
-  background-image: url(../public/assets/img/cover-photo.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  @include animation(coverphoto 100s linear infinite);
+  background: {
+    color: $darken;
+    image: url(../public/assets/img/cover-photo.jpg);
+    position: left bottom;
+    repeat: repeat-y;
+    size: cover;
+  }
   max-height: rem(480);
   max-width: 100%;
   padding: 30px;
@@ -28,12 +37,49 @@
 
 .coverphoto-title {
   color: $ligten;
-  font-size: rem(22);
-  font-weight: 600;
+  font: {
+    size: rem(22);
+    weight: 600;
+  }
   margin: 0 auto;
   max-width: rem(500);
 
   @media screen and (min-width: $tablet) {
     font-size: rem(28);
+  }
+}
+
+.coverphoto-subtitle {
+  color: $primary-color;
+  font: {
+    size: rem(20);
+    weight: 300;
+  }
+  line-height: rem(15);
+  margin: 0 auto;
+
+  .friday {
+    @include border-top-radius(5px);
+    @include border-right-radius(5px);
+    @include border-bottom-radius(5px);
+    @include border-left-radius(5px);
+    @include transform(rotate(-3deg));
+    background-color: $bg-tag-color;
+    display: inline-block;
+    padding: 5px;
+
+    .lt,
+    .gt {
+      color: $ligten;
+    }
+
+    .tag {
+      font-family: 'Consolas', monospace;
+      color: $tag-color;
+    }
+
+    @media (max-width: 575px) {
+      margin-top: 10px;
+    }
   }
 }
