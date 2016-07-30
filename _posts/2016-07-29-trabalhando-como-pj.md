@@ -11,6 +11,12 @@ soundcloud-id: "275876100"
 soundcloud-post-image: "000173833749-ck7b4w"
 participants:
   -
+    name: Fellipe Azambuja
+    twitter: femontanha
+  -
+    name: Ramon Sanches
+    twitter: raymonsanches
+  -
     name: Tiago Guimarães
     twitter: tilacog
 links:

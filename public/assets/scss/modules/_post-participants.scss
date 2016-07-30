@@ -1,5 +1,5 @@
 //////////////////////
-// name: Post Links
+// name: Post Participants
 //////////////////////
 
 .post-participants {
@@ -23,11 +23,19 @@
 .post-participants li {
   box-sizing: border-box;
   float: left;
-  width: 50%;
+  width: 100%;
   padding: 0 0 rem(25);
 
+  @media screen and (min-width: $mobile) {
+    width: 50%;
+  }
+  
   @media screen and (min-width: $tablet) {
     width: 33.333%;
+  }
+
+  @media screen and (min-width: $notebook) {
+    width: 25%;
   }
 }
 
