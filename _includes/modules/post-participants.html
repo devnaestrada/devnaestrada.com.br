@@ -1,9 +1,9 @@
 {% if page.participants %}
   <section class="post-participants">
     {% if page.participants.size > 1 %}
-      <h2 class="post-participants-title">Convidados</h2>
+      <h2 class="post-participants-title">Participantes</h2>
     {% else %}
-      <h2 class="post-participants-title">Convidado</h2>
+      <h2 class="post-participants-title">Participante</h2>
     {% endif %}
     <ul>
       {% for participant in page.participants %}
