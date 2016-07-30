@@ -9,6 +9,16 @@ cast-time: "01:16:11"
 description: "Na entrevista de hoje, batemos um papo com Matheus Marsiglio, front-end engineer na Contratado.me e um dos organizadores do Front UX."
 soundcloud-id: "272694102"
 soundcloud-post-image: "000170595124-vv3d8c"
+participants:
+  -
+    name: Fellipe Azambuja
+    twitter: femontanha
+  -
+    name: Ramon Sanches
+    twitter: raymonsanches
+  -
+    name: Matheus Marsiglio
+    twitter: matmarsiglio
 links:
   -
     name: "Twitter do Matheus"

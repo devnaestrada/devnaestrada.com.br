@@ -9,6 +9,16 @@ cast-time: "01:13:34"
 description: "@femontanha e @raymonsanches entrevistam Neto Marin, developer advocate, popularmente conhecido por desenvolvedor advogado (=P) na Google Brasil."
 soundcloud-id: "270596837"
 soundcloud-post-image: "000168761623-7npdsq"
+participants:
+  -
+    name: Fellipe Azambuja
+    twitter: femontanha
+  -
+    name: Ramon Sanches
+    twitter: raymonsanches
+  -
+    name: Neto Marin
+    twitter: netomarin
 links:
   -
     name: "Twitter Neto Marin"

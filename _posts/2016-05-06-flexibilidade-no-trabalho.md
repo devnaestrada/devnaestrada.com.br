@@ -9,6 +9,19 @@ cast-time: "00:49:16"
 description: "No episódio de hoje @raymonsanches e @femontanha tiram @wmsbill da geladeira e se juntam à @eduardojmatos para discutir sobre o que seria essa tal flexibilidade no trabalho."
 soundcloud-id: "262722954"
 soundcloud-post-image: "000161575963-dq39sm"
+participants:
+  -
+    name: Fellipe Azambuja
+    twitter: femontanha
+  -
+    name: Ramon Sanches
+    twitter: raymonsanches
+  -
+    name: William Martins (Zóio)
+    twitter: wmsbill
+  -
+  	name: Eduardo Matos
+  	twitter: eduardojmatos
 links:
   -
     name: "Twitter Eduardo Matos"
