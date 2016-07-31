@@ -9,6 +9,13 @@ cast-time: "00:57:00"
 description: "@femontanha e @raymonsanches respondem à todas as perguntas dos ouvintes no primeiro desta série de episódios. Discutimos sobre freelancers, mercado de .net, segurança da informação, biscoito, bolacha e claro, inglês."
 soundcloud-id: "269540269"
 soundcloud-post-image: "000167754273-uhmmai"
+participants:
+  -
+    name: Fellipe Azambuja
+    twitter: femontanha
+  -
+    name: Ramon Sanches
+    twitter: raymonsanches
 links:
   -
     name: "Podcast Henrique Bastos"

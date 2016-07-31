@@ -9,6 +9,19 @@ cast-time: "01:05:03"
 description: "Neste episódio, @femontanha, @raymonsanches, @eduardojmatos, @afonsof e Lucas (Contratado.me) conversam um pouco sobre o salário do desenvolvedor! Um assunto polêmico, tabu! Venha ouvir a opinião dessa galera sobre isso no mercado do desenvolvimento."
 soundcloud-id: "257913057"
 soundcloud-post-image: "000157076292-byaiuz"
+participants:
+  -
+    name: Fellipe Azambuja
+    twitter: femontanha
+  -
+    name: Ramon Sanches
+    twitter: raymonsanches
+  -
+    name: Eduardo Matos
+    twitter: eduardojmatos
+  -
+    name: Afonso
+    twitter: afonsof
 links:
   -
     name: "Blog Contratado - Junior, Pleno, Sênior"

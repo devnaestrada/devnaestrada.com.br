@@ -9,6 +9,16 @@ cast-time: "00:56:52"
 description: "Hoje, Giovanni Bassi (@giovannibassi) nos conta sua trajetória, dos primórdios do VB6 no cd da banquinha até se tornar sócio da Lambda3. Uma história incrível e com grandes lições valiosas. Embarque nessa jornada com @femontanha e @raymonsanches ;)"
 soundcloud-id: "266130916"
 soundcloud-post-image: "000164663484-7arqb8"
+participants:
+  -
+    name: Fellipe Azambuja
+    twitter: femontanha
+  -
+    name: Ramon Sanches
+    twitter: raymonsanches
+  -
+    name: Giovanni Bassi
+    twitter: giovannibassi
 links:
   -
     name: "Twitter Giovanni Bassi"

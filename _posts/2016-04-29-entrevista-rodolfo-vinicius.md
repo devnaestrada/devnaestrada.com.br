@@ -9,6 +9,19 @@ cast-time: "01:02:59"
 description: "Who can it be now? Neste episódio @femontanha e @raymonsanches entrevistam Rodolfo e Vinicius. Uma entrevista dupla e cheia de histórias bacanas pra você se inspirar e de quebra desvendar os mistérios that land down under."
 soundcloud-id: "261440964"
 soundcloud-post-image: "000160368580-12zs1u"
+participants:
+  -
+    name: Fellipe Azambuja
+    twitter: femontanha
+  -
+    name: Ramon Sanches
+    twitter: raymonsanches
+  -
+    name: Rodolfo Pereira
+    twitter: rodolfoprr
+  -
+    name: Vinicius Gerevini
+    twitter: vini_gerevini
 links:
   -
     name: "PrinciWeb"

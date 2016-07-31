@@ -1,6 +1,7 @@
 <section class="quick-access">
   <h2 class="quick-access-title">Acesso Rápido</h2>
-  <form id="filter-form" action="post" action="/">
+  {% assign firstPost = site.posts.first %}
+  <form id="filter-form" action="{{ firstPost.url }}">
     <select id="filter-select" class="filter-select">
       {% for post in site.posts %}
         <option value="{{ post.url }}">{{ post.title }}</option>
