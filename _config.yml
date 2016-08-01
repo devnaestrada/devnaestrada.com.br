@@ -63,4 +63,4 @@ gems:
   - jekyll-paginate
   - bourbon
   - neat
-  - jekyll-mentions
+  #- jekyll-mentions

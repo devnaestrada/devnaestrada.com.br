@@ -4,7 +4,7 @@ gem 'jekyll'
 gem 'sass'
 gem 'bourbon'
 gem 'neat'
-gem 'jekyll-mentions'
+#gem 'jekyll-mentions'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
