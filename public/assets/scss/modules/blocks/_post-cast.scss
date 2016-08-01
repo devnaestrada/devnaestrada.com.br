@@ -47,7 +47,9 @@
   }
 }
 
-.post-cast__content .post-links {
+.post-cast__content .post-links,
+.post-cast__content .post-participants,
+.post-cast__content .post-support {
   margin-top: rem(60);
 }
 
@@ -56,15 +58,15 @@
 }
 
 .post-social {
-  margin: 30px 0;
+  margin: rem(60px) 0;
 
-  &:before {
-    content: "";
-    display: block;
-    width: 25px;
-    height: 3px;
+  &::before {
     background-color: $post-hr-color;
+    content: '';
+    display: block;
+    height: 3px;
     margin: 25px 0;
+    width: 25px;
   }
 }
 
