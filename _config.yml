@@ -50,6 +50,9 @@ facebook_meta: true
 # Build settings
 markdown: kramdown
 
+# Mentions config
+jekyll-mentions: https://twitter.com
+
 # Sass configuration
 sass:
   sass_dir: public/assets/scss
@@ -60,3 +63,4 @@ gems:
   - jekyll-paginate
   - bourbon
   - neat
+  - jekyll-mentions

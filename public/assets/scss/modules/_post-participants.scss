@@ -1,35 +1,36 @@
-//////////////////////
-// name: Post Participants
-//////////////////////
+// *************************************
+//
+//   Post Participants{}
+//
+// *************************************
 
 .post-participants {
-  border-top: $neutral 1px dotted;
   padding: rem(25) 0 0;
 }
 
 .post-participants-title {
-  margin-top: 0;
   font-size: rem(32);
+  margin-top: 0;
 }
 
 .post-participants ul {
   @include clearfix;
+  box-sizing: border-box;
+  list-style: none;
   margin: 0;
   padding: 0;
-  list-style: none;
-  box-sizing: border-box;
 }
 
 .post-participants li {
   box-sizing: border-box;
   float: left;
-  width: 100%;
   padding: 0 0 rem(25);
+  width: 100%;
 
   @media screen and (min-width: $mobile) {
     width: 50%;
   }
-  
+
   @media screen and (min-width: $tablet) {
     width: 33.333%;
   }
@@ -40,13 +41,13 @@
 }
 
 .post-participants img {
-  object-fit: cover;
-  height: 50px;
   border-radius: 50%;
-  margin-right: rem(15);
   float: left;
+  height: 50px;
+  margin-right: rem(15);
+  object-fit: cover;
 }
 
-.post-participants h3 { 
+.post-participants h3 {
   margin: 0;
 }
