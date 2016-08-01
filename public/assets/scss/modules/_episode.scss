@@ -1,13 +1,16 @@
-//////////////////////
-// name: Episode
-//////////////////////
+// *************************************
+//
+//   Episode
+//   -> 
+//
+// *************************************
 
 .episode {
   @include transition(all .3s ease-in-out);
-  display: block;
   border: $neutral-light 1px solid;
   border-radius: $base-radius;
-  box-shadow: 0px 1px 2px 0px rgba(0 , 0, 0, .1);
+  box-shadow: 0 1px 2px 0 rgba(0 , 0, 0, .1);
+  display: block;
 
   &:hover,
   &:active,
@@ -15,7 +18,7 @@
     @include transform(translateY(-2px));
     @include transform-style(preserve-3d);
     border-color: $primary-color;
-    box-shadow: 0px 5px 2px 0px rgba(0 , 0, 0, .1);
+    box-shadow: 0 5px 2px 0 rgba(0 , 0, 0, .1);
 
     .episode-cover {
       @include filter(brightness(150%));;

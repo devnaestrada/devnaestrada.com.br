@@ -3,10 +3,12 @@
 // extend:  Post Links
 ////////////////////////////////
 
-.post-links-link.twitter {
-  background-color: $twitter;
-  font-weight: normal;
-  font-style: italic;
+.post-links-link {
+  &.twitter {
+    background-color: $twitter;
+    font-style: italic;
+    font-weight: normal;
+  }
 
   &:hover {
     background-color: transparent;

@@ -1,13 +1,19 @@
-//////////////////////
-// name: Post Support
-//////////////////////
+// *************************************
+//
+//   Post Support
+//
+// *************************************
 
 .post-support {
-  margin-top: rem(60);
-}
+  .highlight {
+    background-color: $primary-color;
+    color: $ligten;
+    font-weight: bold;
+    padding: rem(2) rem(5);
+  }
 
-.post-support .btn {
-  display: block;
-  margin: 0 auto;
-  max-width: rem(300);
+  .btn {
+    display: block;
+    max-width: rem(300);
+  }
 }
