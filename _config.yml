@@ -6,6 +6,7 @@ baseurl: "/"
 description: "Podcast sobre front-end, back-end e desenvolvimento web. Venha conhecer o nosso ponto de vista no mundo da programação!"
 url: "http://devnaestrada.com.br"
 supporter_asset_url: "public/assets/img/supporter/"
+future: true
 
 # blog
 paginate: 10
