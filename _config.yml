@@ -7,6 +7,9 @@ description: "Podcast sobre front-end, back-end e desenvolvimento web. Venha con
 url: "http://devnaestrada.com.br"
 supporter_asset_url: "public/assets/img/supporter/"
 
+# future posts
+future: true
+
 # blog
 paginate: 10
 paginate_path: "/podcast/:num/"
