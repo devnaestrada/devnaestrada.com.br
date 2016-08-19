@@ -8,7 +8,7 @@ cast-length: "57817265"
 cast-time: "01:20:19"
 description: "Hoje falamos com uma lenda da internet brasileira. Com muita empolgação @femontanha e @raymonsanches entrevistam @maujor, o dinossauro do CSS."
 soundcloud-id: "278902331"
-soundcloud-post-image: "00177382782-tqhu2c"
+soundcloud-post-image: "000177382782-tqhu2c"
 participants:
   -
     name: Maujor
