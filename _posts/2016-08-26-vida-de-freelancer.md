@@ -18,6 +18,9 @@ participants:
     twitter: raymonsanches
 links:
   -
+    name: "Sorteio para a LaraConf Brasil"
+    url: "https://goo.gl/forms/cFAnTRMG1y5odeVD2"
+  -
     name: "Github Iago"
     url: "https://github.com/sio-iago"
   -
