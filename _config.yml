@@ -5,8 +5,6 @@ email_address: contato@devnaestrada.com.br
 baseurl: "/"
 description: "Podcast sobre front-end, back-end e desenvolvimento web. Venha conhecer o nosso ponto de vista no mundo da programação!"
 url: "http://devnaestrada.com.br"
-supporter_asset_url: "public/assets/img/supporter/"
-future: true
 
 # future posts
 future: true
@@ -38,33 +36,28 @@ services:
 
 github_user: "devnaestrada"
 
-# itunes
-itunes_url: "https://itunes.apple.com/br/podcast/devnaestrada/id997779431?mt=2"
-itunes_itpc: "itpc://devnaestrada.com.br/feed.xml"
-
-# soundcloud
+# Soundcloud
 soundcloud_prefix: "http://feeds.soundcloud.com/stream/"
 soundcloud_site_capa: "https://i1.sndcdn.com/avatars-000193055487-kwlygf-t300x300.jpg"
 
-# vendor codes
+# Google Analytics
 google_analytics: UA-63291340-1
+
+# Disqus
 disqus_shortname: devnaestrada
+
+# Facebook
 facebook_meta: true
 
-# Build settings
+# Jekyll build config
 markdown: kramdown
-
-# Mentions config
 jekyll-mentions: https://twitter.com
-
-# Sass configuration
 sass:
   sass_dir: public/assets/scss
   style: compressed
 
+# Required gems
 gems:
   - sass
   - jekyll-paginate
   - bourbon
-  - neat
-  #- jekyll-mentions

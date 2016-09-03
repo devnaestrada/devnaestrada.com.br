@@ -12,8 +12,8 @@
 
 .post-cast__header__title {
   color: $post-title-color;
-  font-weight: bold;
   font-size: 1em;
+  font-weight: bold;
   margin-top: 5px;
 
   @media screen and (min-width: $mobile) {
@@ -29,12 +29,12 @@
   }
 
   &:after {
+    background-color: $post-hr-color;
     content: "";
     display: block;
-    width: 25px;
     height: 3px;
-    background-color: $post-hr-color;
     margin: 25px 0;
+    width: 25px;
   }
 }
 
@@ -42,8 +42,8 @@
 
   p {
     color: $link-color;
-    line-height: 1.5;
     font-weight: 400;
+    line-height: 1.5;
   }
 }
 
@@ -72,8 +72,8 @@
 
 .post-social__title {
   color: $post-title-color;
-  font-weight: bold;
   font-size: 1em;
+  font-weight: bold;
 }
 
 .disqus-comments {
