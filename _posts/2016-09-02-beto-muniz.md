@@ -1,18 +1,18 @@
 ---
 layout: post
-title: DNE 69 - Entrevista Beto Muniz
-home-title: "Beto Muniz"
-type: "Entrevista"
-cast: 281009943-devnaestrada-devnaestrada-69-beto-muniz.mp3
-cast-length: "54124163"
-cast-time: "01:15:11"
-description: "@femontanha e @raymonsanches entrevistam hoje @obetomuniz, mineiro, frontend developer na Toptal, gamer e entusiasta de comunidades."
-soundcloud-id: "281009943"
-soundcloud-post-image: "000180140998-7b3mzn"
+title: DNE 70 - Vida de Júnior
+home-title: "Vida de Júnior"
+type: "Pauta"
+cast: 282059238-devnaestrada-devnaestrada-70-vida-de-junior.mp3
+cast-length: "45338103"
+cast-time: "01:02:57"
+description: "No episódio de hoje falamos sobre como tudo começa nessa área de desenvolvimento. Do momento da decisão de se seguir na carreira, as barreiras e as dificuldades no começo dessa jornada."
+soundcloud-id: "282059238"
+soundcloud-post-image: "000181522020-9g8f2t"
 participants:
   -
-    name: Beto Muniz
-    twitter: obetomuniz
+    name: Rafael Tavares
+    twitter: tavaresrafa
   -
     name: Fellipe Azambuja
     twitter: femontanha
@@ -21,24 +21,18 @@ participants:
     twitter: raymonsanches
 links:
   -
-    name: "Presente da LaraConfBrasil vai para o Lai Xuancheng"
-    url: "http://bit.ly/dne-laraconfbrasil"
-  -
     name: "Formulário para Presente do PHPESTE 2016"
     url: "https://goo.gl/forms/2eMXMre6iqtIQp0v1"
   -
-    name: "Github Beto Muniz"
-    url: "https://github.com/obetomuniz"
+    name: "William Justen - Como se tornar um desenvolvedor front end"
+    url: "https://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/"
   -
-    name: "Toptal - Trabalhe de qualquer lugar do mundo"
-    url: "http://bit.ly/dne-toptal"
-  -
-    name: "Italki - Aprenda Inglês"
-    url: "http://bit.ly/dne-italki"
+    name: "Aprenda fazendo na CodeSchool"
+    url: "http://bit.ly/dne-codeschool"
 ---
 
-@femontanha e @raymonsanches entrevistam hoje @obetomuniz, mineiro, frontend developer na Toptal, gamer e entusiasta de comunidades.
+No episódio de hoje falamos sobre como tudo começa nessa área de desenvolvimento. Do momento da decisão de se seguir na carreira, as barreiras e as dificuldades no começo dessa jornada.
 
-Conheça como essa história começou, desde o curso técnico, sua rápida passagem pelo PHP até a jornada para o frontend, javascript, nodejs e também golang.
+@femontanha e @raymonsanhces batem um papo com @tavaresrafa que nos conta tudo sobre essa vida de júnior e quais seus planos para o futuro.
 
 {% include modules/post-extras.html %}
