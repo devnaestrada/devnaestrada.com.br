@@ -1,0 +1,100 @@
+// *************************************
+//
+//   Community
+//   -> base module for community page
+//
+// *************************************
+
+// -------------------------------------
+//   Scaffold
+// -------------------------------------
+
+$scaffold: '.community';
+
+#{$scaffold} {
+  text-align: center;
+
+  @media screen and (min-width: $tablet) {
+    text-align: left;
+  }
+}
+
+// -------------------------------------
+//   Header
+// -------------------------------------
+
+$header: '.community-header';
+
+#{$header}-title {
+  color: $post-title-color;
+  font-size: 2.1em;
+  font-weight: bold;
+  margin: 0;
+}
+
+#{$header}-description {
+  font-weight: 400;
+  line-height: 1.5;
+  margin-top: 5px;
+
+  strong {
+    color: $post-title-color;
+  }
+}
+
+// -------------------------------------
+//   List
+// -------------------------------------
+
+$list: '.community-list';
+$picture-width: 165px;
+
+#{$list} {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    margin-top: 30px;
+  }
+}
+
+#{$list}-picture {
+  display: block;
+  max-width: $picture-width;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media screen and (min-width: $tablet) {
+    display: inline-block;
+    margin-right: -4px;
+    vertical-align: middle;
+    width: $picture-width;
+  }
+}
+
+#{$list}-description {
+  @media screen and (min-width: $tablet) {
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: -4px;
+    overflow: hidden;
+    vertical-align: middle;
+    width: calc(100% - 195px);
+  }
+}
+
+#{$list}-title {
+  color: $post-title-color;
+  font-size: 1em;
+  margin: 0;
+}
+
+#{$list}-text {
+  margin-top: 0;
+  font-size: 16px;
+}
+
+#{$list}-link {
+  margin-top: 5px;
+}
