@@ -1,0 +1,34 @@
+---
+layout: default
+permalink: /comunidades/
+title: "Comunidades"
+---
+
+<section class="community">
+  <div class="community-header">
+    <h2 class="community-header-title">{{ page.title }}</h2>
+    <p class="community-header-description">
+      Projetos para a comunidade que o <strong>DEVNAESTRADA</strong> apoia.
+      <br />
+      Você tem um projeto sensacional, sem fins lucrativos e quer mostrar pra nós? Email para: <strong>montanha [arroba] devnaestrada [.com.br]</strong>
+    </p>
+  </div>
+  <ul class="community-list">
+    {% for list_item in site.data.community %}
+      <li>
+        <img src="{{ list_item.picture }}" alt="{{ list_item.picture_alt }}" class="community-list-picture" />
+        <article class="community-list-description">
+          <h1 class="community-list-title">
+            {{ list_item.title }}
+          </h1>
+          <p class="community-list-text">
+            {{ list_item.description }}
+          </p>
+          <a href="{{ list_item.link }}" class="btn community-list-link" target="_blank">
+            Visitar esse projeto!
+          </a>
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
