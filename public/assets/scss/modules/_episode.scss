@@ -32,10 +32,10 @@
 
 .episode-cover-photo {
   border-radius: $base-radius;
+  box-sizing: border-box;  
   display: block;
   padding: rem(3);
   width: 100%;
-  box-sizing: border-box;  
 }
 
 .episode-description {
