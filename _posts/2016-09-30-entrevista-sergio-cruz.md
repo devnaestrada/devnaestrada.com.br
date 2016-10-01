@@ -31,7 +31,7 @@ links:
     url: "https://www.codeschool.com/courses/powering-up-with-react"
 ---
 
-@femontanha bate um papo com o @hashserg. Ele nos conta sobre sua vontade de conhecer e morar nos Estados Unidos, sua jornada desde criança até os dias de hoje trabalhando na CodeSchool em Orlando. 
+@femontanha bate um papo com o @hashtagserg. Ele nos conta sobre sua vontade de conhecer e morar nos Estados Unidos, sua jornada desde criança até os dias de hoje trabalhando na CodeSchool em Orlando. 
 
 De uma cidade do interior de São Paulo chamada Monte Alto criando sites para o mundo.
 
