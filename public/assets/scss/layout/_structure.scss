@@ -28,16 +28,21 @@ a {
   }
 }
 
+.image-adap {
+  display: block;
+  max-width: 100%;
+
+  @media screen and (min-width: $tablet) {
+    width: auto;
+  }
+}
+
 .container {
   font-size: 18px;
   margin-left: auto;
   margin-right: auto;
   max-width: 1200px;
   padding: 30px;
-
-  @media screen and (min-width: $tablet) {
-    padding: 60px 30px;
-  }
 }
 
 // page

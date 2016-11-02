@@ -3,20 +3,24 @@
 ////////////////////////////////
 
 .quick-access {
-  border: $neutral 1px dotted;
+  padding: rem(15);
   margin-bottom: rem(30);
-  padding: rem(30);
-
-  @media screen and (min-width: $tablet) {
-    margin-bottom: rem(60);
-  }
+  border-bottom: $footerColor 1px solid;
 }
 
 .quick-access-title {
-  margin-top: 0;
+  font-size: rem(16);
+  display: inline-block;
+  vertical-align: middle;
+  width: rem(120);
+}
+
+.filter-form {
+  display: inline-block;
 }
 
 .filter-select {
+  font-size: rem(16);
   background-color: $ligten;
   border: $neutral 1px solid;
   height: 40px;
@@ -24,17 +28,16 @@
   width: 100%;
 
   @media screen and (min-width: $tablet) {
-    margin-right: 5%;
-    width: 60%;
+    width: 300px;
   }
 }
 
 .filter-btn {
   display: inline-block;
-  margin-top: rem(30);
+  margin-top: rem(15);
 
   @media screen and (min-width: $tablet) {
     margin-top: 0;
-    width: 30%;
+    margin-left: rem(15);
   }
 }

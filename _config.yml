@@ -18,21 +18,27 @@ services:
   -
     name: "RSS"
     url: "http://bit.ly/dne-rss"
+    icon: "fa-rss-square"
   -
     name: "SoundCloud"
     url: "http://bit.ly/dne-soundcloud"
+    icon: "fa-soundcloud"
   -
     name: "Pocket Casts"
     url: "http://bit.ly/dne-pocketcasts"
+    icon: "fa-android"
   -
     name: "iTunes"
     url: "http://bit.ly/dne-itunes"
+    icon: "fa-apple"
   -
     name: "Facebook"
     url: "http://bit.ly/dne-facebook"
+    icon: "fa-facebook-square"
   -
     name: "Twitter"
     url: "http://bit.ly/dne-twitter"
+    icon: "fa-twitter-square"
 
 github_user: "devnaestrada"
 

@@ -1,33 +1,47 @@
 // *************************************
 //
 //   Partners
-//   -> 
+//   ->
 //
 // *************************************
 
 .partners {
-  margin-top: rem(60);
-  padding: rem(30);
+  border-bottom: $footerColor 1px solid;
+  padding-bottom: rem(10);
+  padding-top: rem(10);
   text-align: center;
+
+  @media screen and (min-width: $tablet) {
+    text-align: right;
+  }
 }
 
 .partners-title {
-  font-size: rem(18);
-  margin-bottom: rem(30);
-  margin-top: 0;
+  font-size: rem(14);
 }
 
 .partners-list {
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 30px;
 
   li {
-    @extend %inline-middle-block;
+    display: inline-block;
     margin-left: rem(15);
+    vertical-align: middle;
 
     &:first-child {
+      display: block;
+      margin-bottom: rem(10);
       margin-left: 0;
+    }
+
+    @media screen and (min-width: $tablet) {
+      &:first-child {
+        display: inline-block;
+        margin-bottom: 0;
+      }
     }
   }
 }
@@ -35,12 +49,7 @@
 .partners-link {
   display: block;
 
-  &:hover,
-  &:active,
-  &:focus {
-    img {
-      @include transition(all .3s ease-in-out);
-      opacity: .5;
-    }
+  img {
+    max-height: 30px;
   }
 }

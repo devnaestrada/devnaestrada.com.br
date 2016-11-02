@@ -1,14 +1,14 @@
 <section class="coverphoto">
   <div class="coverphoto-holder">
     <h1 class="coverphoto-title">
-      Podcast sobre desenvolvimento web com episódios novos todas as sextas-feiras
+      Novos episódios todas as sextas-feiras
     </h1>
     <nav class="social-nav">
       <ul>
         {% for service in site.services %}
           <li>
-            <a href="{{ service.url }}" class="social-nav-link" target="_blank">
-              {{ service.name }}
+            <a href="{{ service.url }}" class="social-nav-link" target="_blank" title="">
+              <i class="icon fa {{ service.icon }}" aria-hidden="true"></i> {{ service.name }}
             </a>
           </li>
         {% endfor %}

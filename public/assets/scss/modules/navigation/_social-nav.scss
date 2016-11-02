@@ -3,7 +3,7 @@
 ////////////////////////////////
 
 .social-nav {
-  margin-top: rem(30);
+  margin-top: rem(15);
   text-align: center;
 }
 
@@ -31,17 +31,16 @@
 
 .social-nav-link {
   @include transition(all .2s ease-in-out);
-  background-color: $primary-color;
-  border-radius: 3px;
-  border: 2px solid $primary-color;
   color: $ligten;
   display: block;
   font-size: rem(15);
-  padding: rem(5) rem(10);
 
-  &:hover {
-    background-color: transparent;
-    color: $ligten;
+  .icon {
+    color: $primary-color;
+
+    &:hover {
+      color: $ligten;
+    }
   }
 
   @media screen and (min-width: $tablet) {
