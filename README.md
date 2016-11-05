@@ -1,8 +1,8 @@
-# DevNaEstrada
+# DEVNAESTRADA
 
 [![Deployment status from DeployBot](https://aowba.deploybot.com/badge/13023223926648/41230.svg)](http://deploybot.com)
 
-> O [DevNaEstrada](http://devnaestrada.com.br) é um podcast focado em desenvolvedores web, onde contamos um pouco do nosso dia
+> O [DEVNAESTRADA](http://devnaestrada.com.br) é um podcast focado em desenvolvedores web, onde contamos um pouco do nosso dia
 dia em um papo descontraído e sempre com muita risada.
 
 ## Configuração do projeto
