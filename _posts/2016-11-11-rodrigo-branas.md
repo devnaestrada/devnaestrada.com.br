@@ -28,7 +28,7 @@ links:
     url: "https://twitter.com/rodrigobranas"
   -
     name: "Linkedin Rodrigo Branas"
-    url: "https://twitter.com/rodrigobranas"
+    url: "https://www.linkedin.com/in/rodrigobranas"
   -
     name: "Github Rodrigo Branas"
     url: "https://github.com/rodrigobranas"
