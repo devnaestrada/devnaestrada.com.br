@@ -25,7 +25,7 @@ links:
     url: "https://www.braavo.com.br/"
 ---
 
-No episódio de hoje @raymonsanches, @agumieri e @rlabate resolvem seguir um diferente e compartilhar suas experiências paternas.
+No episódio de hoje @raymonsanches, @andregumieri e @rlabate resolvem seguir um diferente e compartilhar suas experiências paternas.
 
 Falamos do momento em que descobriram que seriam pais, como isso afetou o seu dia-a-dia, o seu trabalho, as suas relações e como esse momento maravilhoso os ajudou a serem pessoas melhores.
 
