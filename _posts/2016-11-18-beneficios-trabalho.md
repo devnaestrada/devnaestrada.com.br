@@ -1,5 +1,6 @@
+---
 layout: post
-title: "Benefícios de Trabalho"
+title: "DNE 80 - Benefícios de Trabalho"
 home-title: "Benefícios de Trabalho"
 type: "Pauta"
 cast: 293574725-devnaestrada-devnaestrada-80-beneficios-de-trabalho.mp3
