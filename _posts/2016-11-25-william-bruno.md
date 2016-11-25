@@ -6,7 +6,7 @@ type: "Entrevista"
 cast: 294670169-devnaestrada-devnaestrada-81-william-bruno.mp3
 cast-length: "56222332"
 cast-time: "00:58:32"
-description: "@femontanha bate um papo com o @wbrunom que como foi sua tragetória no mundo do desenvolvimento!"
+description: "@femontanha bate um papo com o @wbrunom que conta toda sua trajetória no mundo do desenvolvimento."
 soundcloud-id: "294670169"
 soundcloud-post-image: "000195226345-lch7xu"
 participants:
@@ -34,6 +34,6 @@ links:
     url: "http://ctnovatec.com.br/cursos/trilha-front-end/curso-de-nodejs/"
 ---
 
-@femontanha e @raymonsanches se juntam com @eduardojmatos e @andregumieri para discutir os famigerados benefícios de trabalho.
+@femontanha bate um papo com o @wbrunom que conta toda sua trajetória no mundo do desenvolvimento.
 
 {% include modules/post-extras.html %}
