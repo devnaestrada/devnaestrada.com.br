@@ -37,6 +37,9 @@ links:
     url: "http://www.guanabara.info/guanacast/"
 ---
 
-@raymonsanches e @femontanha entrevistam @guanabara, do saudoso GuanaCast. Uma incrível história do professor por vocação com certeza vai cativar você.
+Nesse episódio do podcast DEVNAESTRADA, [femontanha](https://twitter.com/femontanha) e [raymonsanches](https://twitter.com/raymonsanches) entrevistam [Gustavo Guanabara](https://twitter.com/guanabara), o professor mais legal dessa internet. Você não conhece ele?
 
+Gustavo Guanabara é um professor, trabalha de consultor na HostNet, da aulas de tecnologia para militares e também tem um canal aqui no youtube, o [CursoEmVideo](http://www.cursoemvideo.com/).
+
+{% include modules/final-post.html %}
 {% include modules/post-extras.html %}

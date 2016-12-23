@@ -45,6 +45,21 @@
     font-weight: 400;
     line-height: 1.5;
   }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      font-size: rem(15);
+      margin-top: rem(5);
+
+      &:first-child {
+        margin-top: 0;
+      }
+    }
+  }
 }
 
 .post-cast__content .post-links,
