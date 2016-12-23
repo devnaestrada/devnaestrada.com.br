@@ -36,7 +36,7 @@ links:
     name: "Avocode"
     url: "https://avocode.com/"
   -
-    name: "TimeEye"
+    name: "Timeneye"
     url: "https://www.timeneye.com/"
 ---
 
