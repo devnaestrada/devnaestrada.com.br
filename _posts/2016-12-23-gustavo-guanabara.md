@@ -21,14 +21,14 @@ participants:
     twitter: guanabara
 links:
   -
+    name: "Curso em Vídeo no Youtube"
+    url: "https://www.youtube.com/cursoemvideo"
+  -
     name: "HostNet"
     url: "https://www.hostnet.com.br/"
   -
     name: "HostNet no Youtube"
     url: "https://www.youtube.com/user/hostnetbrasil"
-  -
-    name: "Curso em Vídeo"
-    url: "http://www.cursoemvideo.com/"
   -
     name: "Twitter do Guanabara"
     url: "https://twitter.com/guanabara"
@@ -42,4 +42,5 @@ Nesse episódio do podcast DEVNAESTRADA, [femontanha](https://twitter.com/femont
 Gustavo Guanabara é um professor, trabalha de consultor na HostNet, da aulas de tecnologia para militares e também tem um canal aqui no youtube, o [CursoEmVideo](http://www.cursoemvideo.com/).
 
 {% include modules/final-post.html %}
+
 {% include modules/post-extras.html %}
