@@ -9,7 +9,7 @@ cast-time: "00:54:40"
 description: "@raymonsanches e @femontanha entrevistam @guanabara, do saudoso GuanaCast. Uma incrível história do professor por vocação com certeza vai cativar você."
 soundcloud-id: "299237661"
 soundcloud-post-image: "000199773685-l0ysu1"
-youtubeCode: 'pPN8-w8c-Xw'
+youtubeCode: "pPN8-w8c-Xw"
 participants:
   -
     name: Fellipe Azambuja
@@ -37,8 +37,6 @@ links:
     name: "Guanacast"
     url: "http://www.guanabara.info/guanacast/"
 ---
-
-{{ page.cast-time }}
 
 Nesse episódio do podcast DEVNAESTRADA, [femontanha](https://twitter.com/femontanha) e [raymonsanches](https://twitter.com/raymonsanches) entrevistam [Gustavo Guanabara](https://twitter.com/guanabara), o professor mais legal dessa internet. Você não conhece ele?
 
