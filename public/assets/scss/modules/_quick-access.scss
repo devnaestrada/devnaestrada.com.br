@@ -15,11 +15,28 @@
   width: rem(120);
 }
 
-.filter-form {
+.filter-form, #search-form {
   display: inline-block;
 }
 
-.filter-select {
+#search-form {
+  position: relative;
+  float: right;
+}
+
+#search-input {
+  padding-left: rem(10) !important;
+}
+
+#search-icon {
+  position: absolute;
+  z-index: 9999;
+  right: 15px;
+  top: 13px;
+  cursor: pointer;
+}
+
+.filter-select, #search-input {
   font-size: rem(16);
   background-color: $ligten;
   border: $neutral 1px solid;

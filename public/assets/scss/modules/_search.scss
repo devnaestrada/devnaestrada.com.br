@@ -1,0 +1,35 @@
+.search-list {
+  background-color: #fff;
+  position: absolute;
+  z-index: 9999;
+  box-shadow: 2px 6px 20px 0 #333;
+  padding-left: 15px;
+  margin-top: 0px;
+  width: rem(500);
+  padding-bottom: 10px;
+  right: 0;
+
+  .entry-date {
+    font-size: 12px;
+    color: #999;
+  }
+
+  li {
+    list-style: none;
+    padding: 3px 0;
+
+    a:hover {
+      border-bottom: 2px solid #e67e22;
+    }
+  }
+}
+
+.search-results {
+  &:empty {
+    display: none;
+  }
+  h4 {
+    margin-top: rem(15);
+    margin-bottom: rem(15);
+  }
+}
