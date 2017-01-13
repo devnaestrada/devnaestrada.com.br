@@ -9,6 +9,7 @@ cast-time: "00:45:52"
 description: "Hoje no cast, femontanha e raymonsanches batem um papo com a Marcela e o André Gumieri, sobre Marketing Digital. Venha entender um pouco a importância do Desenvolvedor de estar mais próximo nessa área! Ou será que é só investir R$ 1000 no Google? :)"
 soundcloud-id: "302444407"
 soundcloud-post-image: "000202746359-b1maf5"
+youtubeCode: "BBBt__EfBvc"
 participants:
   -
     name: Marcela
