@@ -51,6 +51,13 @@ header {
   }
 }
 
+.header-nav .header-nav-btn-wrap {
+  @media screen and (max-width: $mobile) {
+    display: block;
+    margin: 10px auto;
+  }
+}
+
 .header-support {
   display: block;
   margin-top: rem(15);
