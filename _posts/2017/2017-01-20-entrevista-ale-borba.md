@@ -23,9 +23,6 @@ links:
   -
     name: "Apoie pelo Padrim"
     url: "http://bit.ly/dne-padrim"
-  -
-    name: "Cemitério Jardim da Ressurreição"
-    url: "https://www.facebook.com/cemijardimdaressurreicao/"
 ---
 
 [@femontanha](https://twitter.com/femontanha) e [@raymonsanches](https://twitter.com/raymonsanches) batem um super papo com o gente boa [@ale_borba](https://twitter.com/ale_borba) que nos conta toda sua trajetória.
