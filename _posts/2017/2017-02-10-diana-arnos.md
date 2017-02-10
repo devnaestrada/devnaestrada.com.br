@@ -21,6 +21,9 @@ links:
   -
     name: "Banda Noway"
     url: "http://www.nowayband.com/"
+  -
+    name: "Sistemas Distribuídos e PHP - slides da palestra"
+    url: "https://speakerdeck.com/dianaarnos/sistemas-distribuidos-e-php-darkmira-tour-br-2016"
 ---
 
 Conheça a grande história da desenvolvedora [@dianaarnos](https://twitter.com/dianaarnos), [@raymonsanches](https://twitter.com/raymonsanches) bate um papo com ela sobre quando ela começou a mexer com tecnologia.
