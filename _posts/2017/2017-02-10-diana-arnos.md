@@ -6,7 +6,7 @@ type: "Entrevista"
 cast: 306942569-devnaestrada-devnaestrada-91-entrevista-diana-arnos.mp3
 cast-length: "38061045"
 cast-time: "00:39:35"
-description: "Você sabe o que é Sindrome do Impostor? @eduardojmatos, @femontanha e @raymonsanches debatem sobre este tema tão comum na área de tecnologia."
+description: "Conheça a grande história da desenvolvedora @dianaarnos, @raymonsanches bate um papo com ela sobre quando ela começou a mexer com tecnologia."
 soundcloud-id: "306942569"
 soundcloud-post-image: "000207031478-e8547g"
 youtubeCode: "kqQeP6_p6M0"
