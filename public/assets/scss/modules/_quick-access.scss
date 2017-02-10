@@ -10,9 +10,13 @@
 
 .quick-access-title {
   font-size: rem(16);
-  display: inline-block;
+  display: block;
   vertical-align: middle;
   width: rem(120);
+
+  @media screen and (min-width: $notebook) {
+    display: inline-block;
+  }
 }
 
 .filter-form, #search-form {
@@ -21,7 +25,13 @@
 
 #search-form {
   position: relative;
-  float: right;
+  float: none;
+  margin-top: 1em;
+
+  @media screen and (min-width: $notebook) {
+    float: right;
+    margin-top: 0;
+  }
 }
 
 #search-input {
@@ -45,7 +55,7 @@
   width: 100%;
 
   @media screen and (min-width: $tablet) {
-    width: 300px;
+    width: 250px;
   }
 }
 
