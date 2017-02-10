@@ -26,7 +26,7 @@ links:
     url: "http://bit.ly/dne-padrim"
 ---
 
-Você sabe o que é Sindrome do Impostor? @eduardojmatos, @femontanha e @raymonsanches debatem sobre este tema tão comum na área de tecnologia.
+Você sabe o que é Sindrome do Impostor? [@eduardojmatos](https://twitter.com/eduardojmatos), [@femontanha](https://twitter.com/femontanha) e [@raymonsanches](https://twitter.com/raymonsanches) debatem sobre este tema tão comum na área de tecnologia.
 
 E você já passou por isso? Já se sentiu assim? Comente aí embaixo sua experiência.
 
