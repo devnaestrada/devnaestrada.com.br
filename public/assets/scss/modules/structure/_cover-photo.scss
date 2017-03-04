@@ -9,7 +9,7 @@
   @include animation(coverphoto 100s linear infinite);
   background: {
     color: $darken;
-    image: url(../public/assets/img/cover-photo.jpg);
+    image: url(../public/assets/img/cover-photo-woman.jpg);
     position: left bottom;
     repeat: repeat;
   };
