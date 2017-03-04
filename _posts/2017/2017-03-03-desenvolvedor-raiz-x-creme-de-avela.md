@@ -24,6 +24,9 @@ links:
   -
     name: "Youtube DEVNAESTRADA"
     url: "https://www.youtube.com/c/devnaestrada"
+  -
+    name: "GoHome (Como Comecei Meu Home Office)"
+    urL: "https://www.youtube.com/watch?v=VzTPAlYThao"
 ---
 
 [@femontanha](https://twitter.com/femontanha), [@raymonsanches](https://twitter.com/raymonsanches) e [@eduardojmatos](https://twitter.com/eduardojmatos), batem um papo sobre Desenvolvedor Raiz x Desenvolvedor Creme de Avelã, porque né pode rolar um processinho! Curta conosco a comparação de como eram as coisas antigamente e como são agora!
