@@ -2,6 +2,7 @@
 <script type="text/javascript">
 	var disqus_shortname = '{{ site.disqus_shortname }}';
 	(function() {
+		if ( window.location.hostname != 'devnaestrada.com.br') return;
 		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
 		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
 		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
