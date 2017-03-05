@@ -11,6 +11,17 @@
   margin: 0 0 rem(10);
 }
 
+.episode-holder,
+.episode-link,
+.episode-description {
+  overflow: hidden;
+}
+
+.episode-artwork {
+  float: left;
+  margin-right: rem(10);
+}
+
 .episode-link {
   display: block;
   text-decoration: none;

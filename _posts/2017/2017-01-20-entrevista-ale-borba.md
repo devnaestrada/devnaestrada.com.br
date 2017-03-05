@@ -6,7 +6,7 @@ type: "Entrevista"
 cast: 303604917-devnaestrada-devnaestrada-88-entrevista-ale-borba.mp3
 cast-length: "45455713"
 cast-time: "01:03:08"
-description: ""
+description: "@femontanha e @raymonsanches batem um super papo com o gente boa @ale_borba que nos conta toda sua trajetória."
 soundcloud-id: "303604917"
 soundcloud-post-image: "000203772829-qzfe7f"
 youtubeCode: "HjDH1el-alo"
