@@ -7,13 +7,8 @@
 
 .partners {
   border-bottom: $footerColor 1px solid;
-  padding-bottom: rem(10);
-  padding-top: rem(10);
+  padding: rem(30) 0;
   text-align: center;
-
-  @media screen and (min-width: $tablet) {
-    text-align: right;
-  }
 }
 
 .partners-title {
@@ -35,13 +30,6 @@
       display: block;
       margin-bottom: rem(10);
       margin-left: 0;
-    }
-
-    @media screen and (min-width: $tablet) {
-      &:first-child {
-        display: inline-block;
-        margin-bottom: 0;
-      }
     }
   }
 }

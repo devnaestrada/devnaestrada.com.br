@@ -2,10 +2,17 @@ footer {
   background-color: $footerColor;
   margin-top: rem(30);
   padding: rem(30);
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  text-align: center;
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+
+    @media screen and (min-width: $tablet) {
+      flex-direction: row;
+    }
+  }
 }
 
 .profile__image {

@@ -4,8 +4,7 @@
 
 header {
   margin: 0 auto;
-  max-width: rem(1200);
-  overflow: hidden;
+  max-width: rem(710);
   padding: rem(15);
 }
 
@@ -42,18 +41,15 @@ header {
 }
 
 .header-nav li {
-  @extend %inline-middle-block;
-  margin-left: rem(30);
+  margin-top: rem(10);
+  
+  @media screen and (min-width: $mobile) {
+    display: inline-block;
+    margin-left: rem(30);
+  }
 
   &:first-child {
     margin-left: 0;
-  }
-}
-
-.header-nav .header-nav-btn-wrap {
-  @media screen and (max-width: $mobile) {
-    display: block;
-    margin: 10px auto;
   }
 }
 
