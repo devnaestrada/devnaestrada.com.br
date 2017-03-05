@@ -1,18 +1,5 @@
-<section class="quick-access">
-    <h2 class="quick-access-title">Acesso Rápido</h2>
-    {% assign firstPost = site.posts.first %}
-    <form id="filter-form" class="filter-form" action="{{ firstPost.url }}">
-        <select id="filter-select" class="filter-select">
-            {% for post in site.posts %}
-            <option value="{{ post.url }}">{{ post.title }}</option>
-            {% endfor %}
-        </select>
-        <button type="submit" class="btn filter-btn">Acessar Episódio</button>
-    </form>
-
-    <div id="search-form">
-        <input type="text" placeholder="Buscar episódio" id="search-input">
-        <i class="fa fa-search" id="search-icon"></i>
-        <ul class="search-results search-list"></ul>
-    </div>
-</section>
+<div id="search-form">
+  <input type="text" placeholder="Buscar episódio" id="search-input">
+  <i class="fa fa-search" id="search-icon"></i>
+  <ul class="search-results search-list"></ul>
+</div>
