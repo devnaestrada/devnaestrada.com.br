@@ -72,21 +72,3 @@ header {
     vertical-align: middle;
   }
 }
-
-.header-github {
-  display: none;
-  position: fixed;
-  right: 0;
-  top: 0;
-  z-index: 5;
-
-  @media screen and (min-width: $tablet) {
-    display: block;
-  }
-}
-
-.header-github-image {
-  display: block;
-  height: rem(149);
-  width: rem(149);
-}

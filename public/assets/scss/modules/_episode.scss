@@ -1,56 +1,32 @@
 // *************************************
 //
 //   Episode
-//   -> 
+//   ->
 //
 // *************************************
 
-.episode {
-  @include transition(all .3s ease-in-out);
-  border: $neutral-light 1px solid;
-  border-radius: $base-radius;
-  box-shadow: 0 1px 2px 0 rgba(0 , 0, 0, .1);
-  display: block;
-
-  &:hover,
-  &:active,
-  &:focus {
-    @include transform(translateY(-2px));
-    @include transform-style(preserve-3d);
-    border-color: $primary-color;
-    box-shadow: 0 5px 2px 0 rgba(0 , 0, 0, .1);
-
-    .episode-cover {
-      @include filter(brightness(150%));;
-    }
-  }
-}
-
-.episode-cover {
-  @include transition(all .3s ease-in-out);
-}
-
-.episode-cover-photo {
-  border-radius: $base-radius;
-  box-sizing: border-box;  
-  display: block;
-  padding: rem(3);
-  width: 100%;
-}
-
-.episode-description {
-  min-height: rem(55);
-  padding: rem(10);
-  text-align: center;
-}
-
-.episode-title {
+.episode-date {
   font-size: rem(14);
-  margin: 0;
+  color: #bbb;
+  margin: 0 0 rem(10);
+}
+
+.episode-link {
+  display: block;
+  text-decoration: none;
 }
 
 .episode-type {
-  color: $neutral;
-  font-size: rem(12);
-  margin: rem(5) 0 0;
+  font-weight: bold;
+}
+
+.episode-title {
+  color: $primary-color;
+  font-size: rem(22);
+  margin: 0 0 rem(10);
+}
+
+.episode-description {
+  margin: 0;
+  font-size: rem(16);
 }

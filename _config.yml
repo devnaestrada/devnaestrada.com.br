@@ -10,7 +10,7 @@ url: "http://devnaestrada.com.br"
 future: true
 
 # blog
-paginate: 10
+paginate: 20
 paginate_path: "/podcast/:num/"
 
 # service links
@@ -44,7 +44,7 @@ github_user: "devnaestrada"
 
 # Soundcloud
 soundcloud_prefix: "http://feeds.soundcloud.com/stream/"
-soundcloud_site_capa: "https://i1.sndcdn.com/avatars-000193055487-kwlygf-t300x300.jpg"
+soundcloud_site_capa: "https://i1.sndcdn.com/avatars-000286485471-g5hpkh-t300x300.jpg"
 
 # Google Analytics
 google_analytics: UA-63291340-1

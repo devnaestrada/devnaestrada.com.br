@@ -6,3 +6,4 @@ _site
 .idea/
 .idea/*
 Gemfile.lock
+node_modules

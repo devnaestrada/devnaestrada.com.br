@@ -4,7 +4,7 @@
 
 // vendor
 @import "bourbon";
-@import "./../../vendor/normalize/normalize";
+@import "./../../../node_modules/node-normalize-scss/normalize";
 
 // core
 @import "core/config/colors";
@@ -25,7 +25,6 @@
 @import "modules/navigation/buttons";
 @import "modules/navigation/social-nav";
 @import "modules/navigation/pagination";
-@import "modules/personal/profile";
 @import "modules/blocks/post-cast";
 @import "modules/post-participants";
 @import "modules/post-links";
@@ -41,5 +40,4 @@
 
 // layout
 @import "layout/structure";
-@import "layout/page-creators";
 @import "layout/page-404";

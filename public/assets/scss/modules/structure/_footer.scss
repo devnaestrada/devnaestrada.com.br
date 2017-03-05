@@ -1,14 +1,42 @@
 footer {
   background-color: $footerColor;
-  margin-top: 30px;
-  padding: 30px;
+  margin-top: rem(30);
+  padding: rem(30);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
+}
 
-  .footer-text {
-    text-align: center;
-    font-weight: 600;
+.profile__image {
+  background-position: center;
+  background-size: contain;
+  border-radius: 50%;
+  display: inline-block;
+  height: 50px;
+  margin-bottom: 15px;
+  position: relative;
+  width: 50px;
 
-    .fa-heart {
-      color: $heart-color;
-    }
+  &.profile__image--femontanha {
+    background-image: url('http://pbs.twimg.com/profile_images/813892093290516480/h4mBSQgz.jpg');
   }
+
+  &.profile__image--raymon {
+    background-image: url('http://pbs.twimg.com/profile_images/815923259422244864/EZs8WgQ3.jpg');
+  }
+}
+
+.profile__name,
+.profile__role {
+  display: block;
+  font-size: 15px;
+}
+
+.profile__role {
+  color: $profile-role-color;
+}
+
+.profile__twitter {
+  margin-top: 15px;
 }

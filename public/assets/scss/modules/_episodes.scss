@@ -1,27 +1,21 @@
 // *************************************
 //
 //   Episodes
-//   -> 
+//   ->
 //
 // *************************************
 
 .episodes {
-  margin-left: rem(-30);
-  margin-top: rem(-30);
-  overflow: hidden;
+  max-width: rem(710);
+  margin: 0 auto;
 
   .episode {
-    margin-left: rem(30);
+    border-top: rgba(228, 229, 233, 0.96) 1px solid;
     margin-top: rem(30);
+    padding-top: rem(30);
+
+    &:first-child {
+      border-top: 0;
+    }
   }
-}
-
-.episodes-holder {
-  float: left;
-  width: 100%;
-
-  @media screen and (min-width: $mobile) { width: 50%; }
-  @media screen and (min-width: $tablet) { width: 33.33%; }
-  @media screen and (min-width: $notebook) { width: 25%; }
-  @media screen and (min-width: $desktop) { width: 20%; }
 }

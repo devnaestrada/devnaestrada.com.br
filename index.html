@@ -6,17 +6,33 @@ layout: default
 
 <section class="episodes">
   {% for post in paginator.posts %}
-    <div class="episodes-holder">
-      <a href="{{ post.url }}" class="episode">
-        <div class="episode-cover">
-          <img src="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" alt="{{ post.title }}" class="episode-cover-photo" />
-        </div>
-        <div class="episode-description">
-          <p class="episode-title">{{ post.home-title }}</p>
-          <p class="episode-type">{{ post.type }}</p>
-        </div>
+    <article class="episode">
+      <p class="episode-date">
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d" }} de
+        {% case m %}
+          {% when '1' %}Janeiro
+          {% when '2' %}Fevereiro
+          {% when '3' %}Março
+          {% when '4' %}Abril
+          {% when '5' %}Maio
+          {% when '6' %}Junho
+          {% when '7' %}Julho
+          {% when '8' %}Agosto
+          {% when '9' %}Setembro
+          {% when '10' %}Outrubro
+          {% when '11' %}Novembro
+          {% when '12' %}Dezembro
+        {% endcase %}
+        de {{ post.date | date: "%Y" }} =>  <span class="episode-type">{{ post.type }}</span>
+      </p>
+      <a href="{{ post.url }}" class="episode-link">
+        <h1 class="episode-title">{{ post.title }}</h1>
       </a>
-    </div>
+      <p class="episode-description">
+        {{ post.description }}
+      </p>
+    </article>
   {% endfor %}
 </section>
 
