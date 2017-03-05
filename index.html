@@ -26,12 +26,15 @@ layout: default
         {% endcase %}
         de {{ post.date | date: "%Y" }} =>  <span class="episode-type">{{ post.type }}</span>
       </p>
-      <a href="{{ post.url }}" class="episode-link">
-        <h1 class="episode-title">{{ post.title }}</h1>
-      </a>
-      <p class="episode-description">
-        {{ post.description }}
-      </p>
+      <div class="episode-holder">
+        <img class="episode-artwork" src="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-large.jpg" alt="{{ post.home-title }}" />
+        <a href="{{ post.url }}" class="episode-link">
+          <h1 class="episode-title">{{ post.title }}</h1>
+        </a>
+        <p class="episode-description">
+          {{ post.description }}
+        </p>
+      </div>
     </article>
   {% endfor %}
 </section>
