@@ -30,14 +30,6 @@
   @media screen and (min-width: $mobile) {
     width: 50%;
   }
-
-  @media screen and (min-width: $tablet) {
-    width: 33.333%;
-  }
-
-  @media screen and (min-width: $notebook) {
-    width: 25%;
-  }
 }
 
 .post-participants img {
