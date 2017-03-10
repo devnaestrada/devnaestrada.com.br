@@ -9,6 +9,7 @@ cast-time: "00:27:51"
 description: "Hoje @femontanha e @raymonsanches têm uma visita mais do que especial. As meninas do podcast PodProgramar @jessizanelato e @aninhaebastos batem um papo muito bacana conosco neste episódio. Você não pode perder ;)"
 soundcloud-id: "311636291"
 soundcloud-post-image: "000211829506-dku1qz"
+youtubeCode: "fiQE_lu1f-g"
 participants:
   -
     name: Fellipe Azambuja
