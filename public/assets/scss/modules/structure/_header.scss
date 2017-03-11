@@ -6,6 +6,7 @@ header {
   margin: 0 auto;
   max-width: rem(710);
   padding: rem(15);
+  border-top: $primary-color 2px solid;
 }
 
 .header-brand {
@@ -42,7 +43,7 @@ header {
 
 .header-nav li {
   margin-top: rem(10);
-  
+
   @media screen and (min-width: $mobile) {
     display: inline-block;
     margin-left: rem(30);
