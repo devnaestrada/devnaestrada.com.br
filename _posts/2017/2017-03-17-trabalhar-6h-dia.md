@@ -9,6 +9,7 @@ cast-time: "00:30:34"
 description: "Montanha e Ramon batem um papo sobre como poderia ser trabalhar 6h por dia. Falam um pouco sobre o mito da jornada de 8 horas.
 Você acha que trabalhar 6h por dia seria melhor? Comente aí embaixo."
 soundcloud-id: "312865312"
+youtubeCode: "EFGpJiQAksk"
 soundcloud-post-image: "000213037004-jqn8ad"
 participants:
   -
