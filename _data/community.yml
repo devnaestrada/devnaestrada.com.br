@@ -1,22 +1,28 @@
-- 
+-
+  title: 'DojoCE'
+  link: 'http://bit.ly/dne-comunidade-dojoce'
+  picture: 'https://avatars2.githubusercontent.com/u/8334827?v=3&s=200'
+  picture_alt: 'DojoCE'
+  description: 'Comunidade de Coding Dojo em Fortaleza/CE'
+-
   title: 'Training Center / Mentoria'
   link: 'http://bit.ly/dne-mentoria'
   picture: '/public/assets/img/community/github.jpg'
   picture_alt: 'Github Training Center Mentoria'
   description: 'Esse é um projeto para reunir Mentores(as) para auxiliar iniciantes a seguir uma trilha em sua carreira, mas também podem ser ajudados(as) os(as) que já tem alguma bagagem e sentem que precisam de uma direção.'
-- 
+-
   title: 'Front-end Brasil'
   link: 'http://bit.ly/dne-frontendbr'
   picture: '/public/assets/img/community/frontendbr.jpg'
   picture_alt: 'Front-end BR'
   description: 'Projeto OpenSource criado e mantido pela comunidade de Front-end no Brasil. Nesse grupo do Github você vai encontrar repositórios para eventos que acontecem no Brasil, fórum de discussão, projeto de doação de livro, vagas de trabalho e mais! Faça parte do maior grupo de Front-end do Brasil.'
-- 
+-
   title: 'PHPSP'
   link: 'http://bit.ly/dne-comunidade-phpsp'
   picture: '/public/assets/img/community/phpsp.jpg'
   picture_alt: 'PHPSP'
-  description: 'O PHPSP é o conjunto de todas as pessoas que participam de alguma forma da comunidade: Você que comparece aos eventos, que faz código, que comenta nas redes sociais e que fala a respeito da comunidade.
-
-Para que a comunidade esteja sempre ativa, existe uma parcela destes membros que cuidam dos eventos, sites, projetos e redes sociais. Eles são mais conhecidos como os “Evangelistas do PHPSP”.
-
-Quer participar mais da comunidade e não sabe como? Entre em contato com um dos Evangelistas do PHPSP e ajude a comunidade a continuar crescendo!'
+  description: '
+    O PHPSP é o conjunto de todas as pessoas que participam de alguma forma da comunidade: Você que comparece aos eventos, que faz código, que comenta nas redes sociais e que fala a respeito da comunidade.
+    Para que a comunidade esteja sempre ativa, existe uma parcela destes membros que cuidam dos eventos, sites, projetos e redes sociais. Eles são mais conhecidos como os “Evangelistas do PHPSP”.
+    Quer participar mais da comunidade e não sabe como? Entre em contato com um dos Evangelistas do PHPSP e ajude a comunidade a continuar crescendo!
+  '
