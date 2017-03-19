@@ -6,6 +6,7 @@ header {
   margin: 0 auto;
   max-width: rem(710);
   padding: rem(15);
+  position: relative;
 }
 
 .header-brand {
@@ -23,8 +24,36 @@ header {
   }
 }
 
+.nav-label {
+  cursor: pointer;
+  font-size: rem(28);
+  position: absolute;
+  right: rem(15);
+  top: rem(15);
+
+  @media screen and (min-width: $tablet) {
+    display: none;
+  }
+}
+
+.nav-btn {
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  visibility: hidden;
+
+  &:checked + .header-nav {
+    display: block;
+    
+    @media screen and (min-width: $tablet) {
+      display: inline-block;
+    }
+  }
+}
+
 .header-nav {
-  display: block;
+  display: none;
   text-align: center;
 
   @media screen and (min-width: $tablet) {
@@ -43,9 +72,10 @@ header {
 .header-nav li {
   margin-top: rem(10);
 
-  @media screen and (min-width: $mobile) {
+  @media screen and (min-width: $tablet) {
     display: inline-block;
     margin-left: rem(30);
+    margin-top: 0;
   }
 
   &:first-child {
@@ -53,18 +83,10 @@ header {
   }
 }
 
-.header-support {
+.header-nav li a {
   display: block;
-  margin-top: rem(15);
 
   @media screen and (min-width: $tablet) {
-    display: none;
-  }
-
-  @media screen and (min-width: $notebook) {
     display: inline-block;
-    margin-left: rem(30);
-    margin-top: 0;
-    vertical-align: middle;
   }
 }
