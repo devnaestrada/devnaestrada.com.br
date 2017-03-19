@@ -44,8 +44,12 @@ header {
   visibility: hidden;
 
   &:checked + .header-nav {
+    @include transition(max-height 2s ease-in-out);
+    @include transform(scaleY(1));
+    @include animation(showAnimation .5s ease-in-out);
     display: block;
-    
+    max-height: 9999px;
+
     @media screen and (min-width: $tablet) {
       display: inline-block;
     }
@@ -53,7 +57,11 @@ header {
 }
 
 .header-nav {
-  display: none;
+  @include transition(max-height .6s ease-in-out);
+  @include transform(scaleY(0));
+  @include animation(hideAnimation .4s ease-out);
+  max-height: 0;
+  overflow: hidden;
   text-align: center;
 
   @media screen and (min-width: $tablet) {
