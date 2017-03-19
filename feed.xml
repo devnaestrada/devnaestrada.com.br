@@ -6,16 +6,16 @@ layout: null
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
 
-    <title>{{ site.title | xml_escape | capitalize }}</title>
+    <title>{{ site.title | xml_escape }}</title>
     <link>{{ site.url }}</link>
     <language>pt-br</language>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <copyright>&#xA9; 2015 {{ site.title }}</copyright>
-    <managingEditor>{{ site.email_address }} ({{ site.title }})</managingEditor>
-    <webMaster>{{ site.email_address }} ({{ site.title }})</webMaster>
+    <copyright>&#xA9; 2017 {{ site.title }}</copyright>
+    <managingEditor>{{ site.email_address }}</managingEditor>
+    <webMaster>{{ site.email_address }}</webMaster>
     <image>
       <url>http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png</url>
-      <title>{{ site.title | xml_escape | capitalize }}</title>
+      <title>{{ site.title | xml_escape }}</title>
       <link>{{ site.url }}/feed.xml</link>
       <width>144</width>
       <height>144</height>
@@ -50,7 +50,7 @@ layout: null
         <link>{{ post.url | prepend: site.url }}</link>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
-        <description>{{ post.content | xml_escape }}</description>
+        <description>{{ post.description | xml_escape }}</description>
         <itunes:summary>{{ post.description }}</itunes:summary>
         <itunes:image href="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" />
         <enclosure url="{{ post.cast | prepend: site.soundcloud_prefix }}" length="{{ post.cast-length }}" type="audio/mpeg" />
