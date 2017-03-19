@@ -18,8 +18,13 @@
 }
 
 .episode-artwork {
+  display: none;
   float: left;
   margin-right: rem(10);
+
+  @media screen and (min-width: $mobile) {
+    display: block;
+  }
 }
 
 .episode-link {
@@ -33,11 +38,20 @@
 
 .episode-title {
   color: $primary-color;
-  font-size: rem(22);
+  font-size: rem(18);
   margin: 0 0 rem(10);
+
+  @media screen and (min-width: $mobile) {
+    font-size: rem(22);
+  }
 }
 
 .episode-description {
-  margin: 0;
+  display: none;
   font-size: rem(16);
+  margin: 0;
+
+  @media screen and (min-width: $mobile) {
+    display: block;
+  }
 }
