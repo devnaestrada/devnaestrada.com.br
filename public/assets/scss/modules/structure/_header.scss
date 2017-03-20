@@ -65,8 +65,10 @@ header {
   text-align: center;
 
   @media screen and (min-width: $tablet) {
+    @include transform(scaleY(1));
     display: inline-block;
     margin-left: rem(30);
+    max-height: 9999px;
     vertical-align: middle;
   }
 }
