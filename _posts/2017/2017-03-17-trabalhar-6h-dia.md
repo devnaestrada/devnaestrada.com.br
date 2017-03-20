@@ -21,7 +21,7 @@ participants:
 links:
   -
     name: "Murilo Gun - Escolas matam o aprendizado"
-    urL: "https://www.youtube.com/watch?v=WauIURFTpEc"
+    urL: "https://youtu.be/WauIURFTpEc"
   -
     name: "Youtube DEVNAESTRADA"
     url: "https://www.youtube.com/c/devnaestrada"
