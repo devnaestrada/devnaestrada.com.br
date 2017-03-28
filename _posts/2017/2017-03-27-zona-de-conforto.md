@@ -9,7 +9,7 @@ cast-time: "00:08:41"
 description: "@femontanha conta um pouco da sua história de como ele saiu da zona de conforto e que nem sempre é um mar de rosas."
 soundcloud-id: "314803921"
 youtubeCode: "Kt4XFFMX6yU"
-soundcloud-post-image: "000214377288-d0xx5k"
+soundcloud-post-image: "000214993686-520foc"
 participants:
   -
     name: Fellipe Azambuja
