@@ -1,3 +1,4 @@
+---
 layout: post
 title: "DNE 98 - Ética no Trabalho"
 home-title: "Ëtica no Trabalho"
