@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DNE Pocket 02 - Fui trabalhar remoto e olha no que deu
+title: "DNE Pocket 02 - Fui trabalhar remoto e olha no que deu"
 home-title: "Fui trabalhar remoto e olha no que deu"
 type: "Pocket"
 cast: 316179951-devnaestrada-dne-pocket-02-fui-trabalhar-remoto-e-olha-no-que-deu.mp3
