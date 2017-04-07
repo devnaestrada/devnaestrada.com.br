@@ -2,7 +2,7 @@
 layout: page
 css_class: contato
 title: "Entre em contato"
-permalink: /contato.html
+permalink: /contato/
 hide: true
 ---
 
