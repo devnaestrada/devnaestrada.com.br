@@ -17,10 +17,6 @@ participants:
   -
     name: Ramon Sanches
     twitter: raymonsanches
-links:
-  -
-    name: "Apoie pelo Padrim"
-    url: "http://bit.ly/dne-padrim"
 ---
 
 [@femontanha](https://twitter.com/femontanha) e [@raymonsanches](https://twitter.com/raymonsanches) batem um papo de como é trabalhar em empresa grande ou pequena, as diferenças que tiveram, um pouco da experiência deles.

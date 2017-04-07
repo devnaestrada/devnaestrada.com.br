@@ -25,9 +25,6 @@ participants:
     twitter: raymonsanches
 links:
   -
-    name: "Apoie pelo Padrim"
-    url: "http://bit.ly/dne-padrim"
-  -
     name: "Cemitério Jardim da Ressurreição"
     url: "https://www.facebook.com/cemijardimdaressurreicao/"
 ---
