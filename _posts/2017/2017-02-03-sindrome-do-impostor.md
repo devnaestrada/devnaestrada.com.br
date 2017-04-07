@@ -20,10 +20,6 @@ participants:
   -
     name: Eduardo Matos
     twitter: eduardojmatos
-links:
-  -
-    name: "Apoie pelo Padrim"
-    url: "http://bit.ly/dne-padrim"
 ---
 
 Você sabe o que é Sindrome do Impostor? [@eduardojmatos](https://twitter.com/eduardojmatos), [@femontanha](https://twitter.com/femontanha) e [@raymonsanches](https://twitter.com/raymonsanches) debatem sobre este tema tão comum na área de tecnologia.
