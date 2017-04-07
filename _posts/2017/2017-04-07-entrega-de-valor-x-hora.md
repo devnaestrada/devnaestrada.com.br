@@ -22,8 +22,8 @@ links:
     name: "DitchingHourly Podcast"
     url: "http://www.ditchinghourly.com/"
   -
-    name: "Hourly Billing Nuts (Livro)"
-    url: "https://expensiveproblem.com/hbin/"
+    name: "Hourly Billing is Nuts (Livro)"
+    url: "https://expensiveproblem.com/hbin"
   -
     name: "Implementing Value Pricing (Livro)"
     url: "https://www.amazon.com.br/Implementing-Value-Pricing-Business-Professional-ebook/dp/B004GEB9UG/ref=sr_1_2?ie=UTF8&qid=1491353391&sr=8-2&keywords=Ronald+baker"
