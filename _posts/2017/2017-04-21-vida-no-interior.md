@@ -23,8 +23,26 @@ participants:
   -
     name: Vinicius Fernandes
     twitter: thundets
+links:
+  -
+    name: "Ingressos para o Frontinsampa"
+    url: "http://bit.ly/dne-frontinsampa2017"
+  -
+    name: "Ingressos para o JS Experience 2017"
+    url: "http://bit.ly/dne-jsexperience2017"
+  -
+    name: "PHP Darkmira Tour"
+    url: "https://php.darkmiratour.rocks/2017/"
+  -
+    name: "Frontinsampa"
+    url: "http://www.frontinsampa.com.br/"
+  -
+    name: "JS Experience 2017"
+    url: "https://jsexperience2017.imasters.com.br/"
 ---
 
 Neste episódio @femontanha, @raymonsanches, @eduardojmatos e @thundets contam um pouco mais sobre tecnologia no interior ;)
+
+Cupom com desconto para o PHP Darkmira Tour **DNEROCKS**
 
 {% include modules/post-extras.html data=page %}
