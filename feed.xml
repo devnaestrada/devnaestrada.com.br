@@ -50,7 +50,7 @@ layout: null
         <link>{{ post.url | prepend: site.url }}</link>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
-        <description>{{ post.description | xml_escape }}</description>
+        <description><![CDATA[{{ post.content | xml_escape }}]]></description>
         <itunes:summary>{{ post.description }}</itunes:summary>
         <itunes:image href="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" />
         <enclosure url="{{ post.cast | prepend: site.soundcloud_prefix }}" length="{{ post.cast-length }}" type="audio/mpeg" />
