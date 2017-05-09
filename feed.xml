@@ -3,61 +3,78 @@ layout: null
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
+  >
   <channel>
-
     <title>{{ site.title | xml_escape }}</title>
+    <atom:link href="{{ "feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <link>{{ site.url }}</link>
-    <language>pt-br</language>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <copyright>&#xA9; 2017 {{ site.title }}</copyright>
-    <managingEditor>{{ site.email_address }}</managingEditor>
-    <webMaster>{{ site.email_address }}</webMaster>
-    <image>
-      <url>http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png</url>
-      <title>{{ site.title | xml_escape }}</title>
-      <link>{{ site.url }}/feed.xml</link>
-      <width>144</width>
-      <height>144</height>
-    </image>
-
-    <itunes:subtitle>Bate papo com programadores Front-end e Back-end</itunes:subtitle>
-    <itunes:author>femontanha &amp; Ramon Sanches</itunes:author>
-    <itunes:summary>Podcast voltado para o desenvolvimento Front-end e Back-end. Vamos contar um pouco das nossas histórias, entrevistar pessoas que trabalham na área e claro bater um papo engraçado sobre nossas profissões.Aperte os cintos e aumente o som!</itunes:summary>
-
+    <description>{{ site.description | xml_escape }}</description>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <language>pt-BR</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
+    <itunes:author>dnehub.com.br</itunes:author>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png" />
     <itunes:owner>
       <itunes:name>{{ site.title }}</itunes:name>
       <itunes:email>{{ site.email_address }}</itunes:email>
     </itunes:owner>
-
-    <itunes:block>no</itunes:block>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png" />
-
-    <itunes:category text="Technology" />
-    <itunes:category text="Society &#38; Culture" />
+    <managingEditor>montanha@devnaestrada.com.br (DNE)</managingEditor>
+    <copyright>&#xA9; 2017 {{ site.title }}</copyright>
+    <itunes:subtitle>Bate papo, tecnologia e programação Front-end e Back-end</itunes:subtitle>
+    <image>
+      <title>{{ site.title | xml_escape }}</title>
+      <url>http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png</url>
+      <link>{{ site.url }}/feed.xml</link>
+    </image>
     <itunes:category text="Technology">
-      <itunes:category text="Podcasting"/>
+      <itunes:category text="Tech News" />
     </itunes:category>
-
-    <description>{{ site.description | xml_escape }}</description>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    {% for post in site.posts limit:100 %}
+    <itunes:category text="Education">
+      <itunes:category text="Education Technology" />
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Careers" />
+    </itunes:category>
+    <googleplay:image href="http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png" />
+    <rawvoice:location>Brazil, São Paulo</rawvoice:location>
+    <rawvoice:frequency>Semanal</rawvoice:frequency>
+    {% for post in site.posts limit:500 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <itunes:author>{{ site.title }}</itunes:author>
-        <itunes:subtitle>{{ post.description }}</itunes:subtitle>
         <link>{{ post.url | prepend: site.url }}</link>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
-        <description><![CDATA[{{ post.description }}]]></description>
-        <itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
-        <itunes:image href="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" />
+        <comments>{{ post.url | prepend: site.url }}#respond</comments>
+        <slash:comments>0</slash:comments>
+
+        {% for tags in post.tags %}
+            <category><![CDATA[{{tags}}]]></category>
+        {% endfor %}
+
+        <description><![CDATA[{{post.description}}]]></description>
+        <content:encoded><![CDATA[{{post.content}}]]></content:encoded>
         <enclosure url="{{ post.cast | prepend: site.soundcloud_prefix }}" length="{{ post.cast-length }}" type="audio/mpeg" />
+        <itunes:subtitle>{{ post.description }}</itunes:subtitle>
+
+        <itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
+        <itunes:author>{{ site.title }}</itunes:author>
+        <itunes:image href="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" />
+        <itunes:explicit>clean</itunes:explicit>
         <itunes:duration>{{ post.cast-time }}</itunes:duration>
-        <itunes:keywords>{{ site.title }}</itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:block>no</itunes:block>
       </item>
     {% endfor %}
   </channel>

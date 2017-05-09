@@ -62,33 +62,13 @@
   }
 }
 
-.post-cast__content .post-links,
 .post-cast__content .post-participants,
 .post-cast__content .post-support {
-  margin-top: rem(60);
+  margin-top: rem(30);
 }
 
 .post-cast__content__audio {
   margin-bottom: rem(60);
-}
-
-.post-social {
-  margin: rem(60px) 0;
-
-  &::before {
-    background-color: $post-hr-color;
-    content: '';
-    display: block;
-    height: 3px;
-    margin: 25px 0;
-    width: 25px;
-  }
-}
-
-.post-social__title {
-  color: $post-title-color;
-  font-size: 1em;
-  font-weight: bold;
 }
 
 .disqus-comments {

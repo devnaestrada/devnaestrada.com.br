@@ -6,7 +6,7 @@ layout: default
   <div class="post-cast__header">
     <span class="post-cast__header__meta">
       {% assign m = page.date | date: "%-m" %}
-      {{ page.date | date: "%-d" }} de 
+      {{ page.date | date: "%-d" }} de
       {% case m %}
         {% when '1' %}Janeiro
         {% when '2' %}Fevereiro
@@ -37,12 +37,9 @@ layout: default
   </div>
 </div>
 
-<div class="post-social">
-  <h2 class="post-social__title">
-    Compartilhe esse post
-  </h2>
-  <a class="twitter-share-button" href="https://twitter.com/intent/tweet" data-counturl="https://twitter.com/devnaestrada">Tweet</a>
-</div>
+{% if page.youtubeCode %}
+  {% include modules/youtube.html code=page.youtubeCode %}
+{% endif%}
 
 <!-- Disqus -->
 {% if site.disqus_shortname %}

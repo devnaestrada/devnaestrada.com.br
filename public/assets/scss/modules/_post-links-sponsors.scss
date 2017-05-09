@@ -3,7 +3,22 @@
 // extend:  Post Links
 ////////////////////////////////
 
-.post-links-link.contratado {
+.post-links {
+  @include transition(all .2s ease-in-out);
+  background-color: $primary-color;
+  color: $ligten;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0 5px;
+  margin: 5px 0;
+
+  &:hover {
+    background-color: transparent;
+    color: $primary-color;
+  }
+}
+
+.post-links.contratado {
   background-color: $contratadome;
 
   &:hover {
@@ -12,7 +27,7 @@
   }
 }
 
-.post-links-link.vanhack {
+.post-links.vanhack {
   background-color: $vanhack;
 
   &:hover {
@@ -21,7 +36,7 @@
   }
 }
 
-.post-links-link.alura {
+.post-links.alura {
   background-color: $alura;
 
   &:hover {
@@ -30,11 +45,20 @@
   }
 }
 
-.post-links-link.stickersdevs {
+.post-links.stickersdevs {
   background-color: $stickersdevs;
 
   &:hover {
     background-color: transparent;
     color: $stickersdevs;
+  }
+}
+
+.post-links.twitter {
+  background-color: $twitter;
+
+  &:hover {
+    background-color: transparent;
+    color: $twitter;
   }
 }
