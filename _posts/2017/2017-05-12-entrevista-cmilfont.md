@@ -23,6 +23,9 @@ participants:
     twitter: cmilfont
 links:
   -
+    name: "Italki - Professores online"
+    url: "http://go.italki.com/devnaestrada"
+  -
     name: "Produto Reativo"
     url: "http://produtoreativo.com.br/"
   -
@@ -43,5 +46,7 @@ links:
 ---
 
 Neste episódio [@femontanha](http://twitter.com/femontanha), [@raymonsanches](http://twitter.com/raymonsanches), entrevistam [@cmilfont](http://twitter.com/cmilfont) um grande programador representando bem o pessoal do nordeste falando diretamente do Ceará. Milfont tem seu amor por Javascript e já trabalhou com as tecnologias Java, Ruby on Rails e PHP! Hoje está se aventurando novamente no mundo do front-end navegando na crista da onda com aplicações em React! Escute essa entrevista bacana e nos conte o que achou!
+
+<img src="http://www.italki.com/static/svg/landing-logo.svg" width="50" style="vertical-align:middle; margin-right: 10px" /> Compre uma aula e ganhe outra grátis: [http://go.italki.com/devnaestrada](http://go.italki.com/devnaestrada)
 
 {% include modules/post-extras.html data=page %}
