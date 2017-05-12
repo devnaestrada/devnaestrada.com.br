@@ -3,12 +3,12 @@ layout: post
 title: "DNE 104 - Entrevista Christiano Milfont"
 home-title: "Christiano Milfont"
 type: "Entrevista"
-cast:
-cast-length: ""
-cast-time: ""
+cast: 322217267-devnaestrada-devnaestrada-104-entrevista-christiano-milfont.mp3
+cast-length: "32377141"
+cast-time: "00:44:55"
 description: "Neste episódio @femontanha, @raymonsanches, entrevistam @cmilfont um grande programador representando bem o pessoal do nordeste falando diretamente do Ceará. Milfont tem seu amor por Javascript e já trabalhou com as tecnologias Java, Ruby on Rails e PHP! Hoje está se aventurando novamente no mundo do front-end navegando na crista da onda com aplicações em React! Escute essa entrevista bacana e nos conte o que achou!"
-soundcloud-id: ""
-soundcloud-post-image: ""
+soundcloud-id: "322217267"
+soundcloud-post-image: "000222219934-lk87cx"
 youtubeCode: "OSv-p9RtAa4"
 tags: ['Podcast','Programação','Front-end','Back-end','Christiano Milfont','Java','Ruby on Rails','Javascript','Entrevita']
 participants:
