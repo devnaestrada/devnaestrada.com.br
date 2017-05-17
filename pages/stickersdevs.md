@@ -2,7 +2,7 @@
 layout: page
 css_class: landing
 title: "Promoção DNE + StickersDevs"
-permalink: /stickersdevs.html
+permalink: /stickersdevs
 hide: true
 ---
 
