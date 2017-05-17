@@ -35,9 +35,6 @@ links:
     name: "Frontinsampa 2017 Typeform"
     url: "http://bit.ly/dne-frontinsampa2017"
   -
-    name: "Frontinsampa 2017 Typeform"
-    url: "http://bit.ly/dne-frontinsampa2017"
-  -
     name: "JS Experience 2017 Typeform"
     url: "http://bit.ly/dne-jsexperience2017"
   -
