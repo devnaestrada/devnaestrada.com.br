@@ -6,11 +6,17 @@ permalink: /frontinsampa/
 hide: true
 ---
 
-Quer participar do sorteio de um ingresso para o [Frontinsampa 2017](http://www.frontinsampa.com.br/)?
+O sorteio dos ingressos para o [Frontinsampa 2017](http://www.frontinsampa.com.br/) foi encerrado :(
 
-<a href="https://devnaestrada.typeform.com/to/zTS9wg">
-  <img style="width: 100%" src="https://pbs.twimg.com/media/C-LGExEXUAAQ7IH.jpg" />
-</a>
-*(Parceria por tempo limitado, limite de 10 ingressos)*
+Confira a lista de ganhadores:
 
-<a href="https://devnaestrada.typeform.com/to/zTS9wg" class="btn">Quero participar</a>
+- Ykaro Lemes Silva
+- Paolo Almeida
+- Johny Ramos
+- Vinicius Patrinhani
+- Leonardo Raise Miguel
+- Thales Alonso
+- Mauricio Olimpio
+- William Gimenes
+- Yanka Santos
+- André Cordeiro
