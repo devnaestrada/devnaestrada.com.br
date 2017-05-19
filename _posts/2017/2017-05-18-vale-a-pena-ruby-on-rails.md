@@ -36,7 +36,7 @@ Gostou do episódio? Quer aprender a programar com Ruby on Rails?
   <img src="http://udemy-images.udemy.com/course/480x270/951938_7546_2.jpg" />
 </a>
 
-**Promoção para ouvintes do DNE, de R$ 200 por R$ 20**
+**Promoção para ouvintes do DNE, de R$ 200 por R$ 29**
 
 Curso de Programação focado em Ruby e Rails - um curso rápido para quem quer aprender a programar, começando do zero, através de vídeo-aulas 100% online!
 
