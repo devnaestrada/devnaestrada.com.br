@@ -26,13 +26,13 @@ participants:
 links:
   -
     name: "Frontinsampa 2017 Typeform"
-    url: "http://bit.ly/dne-frontinsampa2017"
+    url: "http://devnaestrada.com.br/frontinsampa/"
   -
     name: "JS Experience 2017 Typeform"
-    url: "http://bit.ly/dne-jsexperience2017"
+    url: "http://devnaestrada.com.br/jsexperience/"
   -
     name: "Adesivos DEVNAESTRADA by StickersDevs"
-    url: "https://twitter.com/devnaestrada/status/855045669052182529"
+    url: "http://devnaestrada.com.br/stickersdevs/"
 ---
 
 Neste episódio @femontanha, @raymonsanches, @eduardojmatos entrevistam @thundets que conta um pouco de como foi mudar toda a stack de front-end de um projeto na empresa que ele trabalha! E aí vamos pro hype?

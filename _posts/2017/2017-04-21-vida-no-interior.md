@@ -26,10 +26,10 @@ participants:
 links:
   -
     name: "Ingressos para o Frontinsampa"
-    url: "http://bit.ly/dne-frontinsampa2017"
+    url: "http://devnaestrada.com.br/frontinsampa/"
   -
     name: "Ingressos para o JS Experience 2017"
-    url: "http://bit.ly/dne-jsexperience2017"
+    url: "http://devnaestrada.com.br/jsexperience/"
   -
     name: "PHP Darkmira Tour"
     url: "https://php.darkmiratour.rocks/2017/"
