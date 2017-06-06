@@ -25,7 +25,7 @@ layout: null
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
-    <itunes:author>dnehub.com.br</itunes:author>
+    <itunes:author>devanaestrada.com.br</itunes:author>
     <itunes:explicit>clean</itunes:explicit>
     <itunes:image href="http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png" />
     <itunes:owner>
