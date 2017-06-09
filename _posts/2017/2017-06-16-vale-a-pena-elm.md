@@ -53,9 +53,11 @@ links:
 Neste episódio [@femontanha](https://twitter.com/femontanha) e [@raymonsanches](https://twitter.com/raymonsanches) batem um papo com [@fidelisclayton](https://twitter.com/@fidelisclayton) para saber: Vale a pena usar Elm? Mas que diabos é isso? Tudo isso e muito mais.
 
 CUPOM 30% BRAZILJS POA: `dev-na-estrada-2017-poa`
+
 CUPOM 30% BRAZILJS FORTALEZA: `dev-na-estrada-2017-fortaleza`
 
-Formulário para ingresso BRAZILJS POA: https://devnaestrada.typeform.com/to/H7obyU
-Formulário para ingresso BRAZILJS FORTALEZA: https://devnaestrada.typeform.com/to/iwiUbl
+Formulário para ingresso BRAZILJS POA: [https://devnaestrada.typeform.com/to/H7obyU](https://devnaestrada.typeform.com/to/H7obyU)
+
+Formulário para ingresso BRAZILJS FORTALEZA: [https://devnaestrada.typeform.com/to/iwiUbl](https://devnaestrada.typeform.com/to/H7obyU)
 
 {% include modules/post-extras.html data=page %}
