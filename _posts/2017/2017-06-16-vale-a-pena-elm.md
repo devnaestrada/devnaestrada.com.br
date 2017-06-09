@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Elm"
-home-title: ""
-type: "Entrevista"
-cast:
-cast-length: ""
-cast-time: ""
-description: ""
-soundcloud-id: ""
-soundcloud-post-image: ""
-tags: ['Podcast','Programação','Front-end','Back-end','Bruno Passos','Design','ZOFE','Shopify', 'Booking', 'Inglaterra','Canada']
+home-title: "Vale a pena Elm?"
+type: "Pauta"
+cast: 327234567-devnaestrada-devnaestrada-108-vale-a-pena-elm.mp3
+cast-length: "33935763"
+cast-time: "00:47:06"
+description: "Neste episódio @femontanha e @raymonsanches batem um papo com Clayton Fidelis pra saber: Vale a pena usar Elm? Mas que diabos é isso? Tudo isso e muito mais."
+soundcloud-id: "327234567"
+soundcloud-post-image: "000227539011-egdm31"
+tags: ['Podcast','Programação','Front-end','Back-end','Clayton Fidelis','Elm','Javascript','Linguagem', 'Haskell', 'Jarbas','Tech']
 participants:
   -
     name: Clayton Fidelis
@@ -50,6 +50,7 @@ links:
     url: "https://github.com/lpil/elm-companies"
 ---
 
+Neste episódio ![@femontanha](https://twitter.com/femontanha) e ![@raymonsanches](https://twitter.com/raymonsanches) batem um papo com ![@fidelisclayton](https://twitter.com/@fidelisclayton) para saber: Vale a pena usar Elm? Mas que diabos é isso? Tudo isso e muito mais.
 
 CUPOM 30% BRAZILJS POA: `dev-na-estrada-2017-poa`
 CUPOM 30% BRAZILJS FORTALEZA: `dev-na-estrada-2017-fortaleza`
