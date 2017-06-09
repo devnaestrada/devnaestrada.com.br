@@ -58,6 +58,6 @@ CUPOM 30% BRAZILJS FORTALEZA: `dev-na-estrada-2017-fortaleza`
 
 Formulário para ingresso BRAZILJS POA: [https://devnaestrada.typeform.com/to/H7obyU](https://devnaestrada.typeform.com/to/H7obyU)
 
-Formulário para ingresso BRAZILJS FORTALEZA: [https://devnaestrada.typeform.com/to/iwiUbl](https://devnaestrada.typeform.com/to/H7obyU)
+Formulário para ingresso BRAZILJS FORTALEZA: [https://devnaestrada.typeform.com/to/iwiUbl](https://devnaestrada.typeform.com/to/iwiUbl)
 
 {% include modules/post-extras.html data=page %}
