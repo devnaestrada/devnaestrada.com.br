@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "DNE 108 - Entrevista Bruno Passos"
+title: "DNE 109 - Entrevista Bruno Passos"
 home-title: "Bruno Passos"
 type: "Entrevista"
-cast:
-cast-length: ""
-cast-time: ""
+cast: 328306918-devnaestrada-devnaestrada-109-entrevista-bruno-passos.mp3
+cast-length: "28374044"
+cast-time: "00:39:22"
 description: "Nesse episódio @femontanha e @raymonsanches entrevistam @brunopassos, Brasileiro, Front-end Lead Developer na Shopify, Co-host do Podcast ZOFE e também trabalhou na Booking.com! Venha ouvir a história do Bruno conosco!"
-soundcloud-id: ""
-soundcloud-post-image: ""
+soundcloud-id: "328306918"
+soundcloud-post-image: "000228662997-jitl7f"
 tags: ['Podcast','Programação','Front-end','Back-end','Bruno Passos','Design','ZOFE','Shopify', 'Booking', 'Inglaterra','Canada']
 participants:
   -
