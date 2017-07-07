@@ -29,6 +29,10 @@ Também é possível fazer isso seguindo as instruções do [site oficial](https
 
     $ bundle install
 
+### Instale as dependencias do NodeJS
+
+    $ npm i
+
 ### Inicie o servidor do Jekyll
 
     $ bundle exec jekyll serve
