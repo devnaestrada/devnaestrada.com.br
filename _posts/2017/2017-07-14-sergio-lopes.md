@@ -3,7 +3,7 @@ layout: post
 title: "DNE 113 - Sergio Lopes"
 home-title: "Sergio Lopes"
 type: "Entrevista"
-cast: 333116802-devnaestrada-devnaestrada-113-entrevista-sergio-lopes.mp3"
+cast: "333116802-devnaestrada-devnaestrada-113-entrevista-sergio-lopes.mp3"
 cast-length: "55804701"
 cast-time: "01:17:31"
 description: "Neste episódio @femontanha e @raymonsanches, entrevistam @sergio_caelum que conta um pouco sobre a sua história! Embarque conosco nesse bate papo!"
