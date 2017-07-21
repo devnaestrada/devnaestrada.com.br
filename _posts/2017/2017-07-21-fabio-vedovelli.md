@@ -29,7 +29,7 @@ links:
     url: "http://devnaestrada.com.br/braziljs-poa/"
 ---
 
-Neste episódio [@femontanha](https://twitter.com/femontanha) entrevista o [@vedovelli](https://twitter.com/raymonsanches), que conta um pouco sobre a sua história! Embarque conosco nesse bate papo!
+Neste episódio [@femontanha](https://twitter.com/femontanha) entrevista o [@vedovelli](https://twitter.com/vedovelli), que conta um pouco sobre a sua história! Embarque conosco nesse bate papo!
 
 <a href="https://www.lucascaton.com.br/dne">
   <img src="http://udemy-images.udemy.com/course/480x270/951938_7546_2.jpg" />
