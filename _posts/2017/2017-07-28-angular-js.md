@@ -23,7 +23,7 @@ participants:
 links:
   -
     name: "Twitter William Grasel"
-    url: "http://youtube.com/willgmbr"
+    url: "https://twitter.com/willgmbr"
   -
     name: "Angularjs.org"
     url: "https://angularjs.org/"
