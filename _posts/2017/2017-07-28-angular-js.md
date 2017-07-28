@@ -34,16 +34,6 @@ links:
 
 Neste episódio, [@raymonsanches](https://twitter.com/raymonsanches) e [@eduardojmatos](https://twitter.com/eduardojmatos) falam com [@willgmbr](https://twitter.com/willgmbr) sobre Angular JS. Conheça um pouco da história e decida se vale a pena utilizar.
 
-<a href="https://www.lucascaton.com.br/dne">
-  <img src="http://udemy-images.udemy.com/course/480x270/951938_7546_2.jpg" />
-</a>
-
-**Promoção para ouvintes do DNE por R$ 29**
-
-Curso de Programação focado em Ruby e Rails - um curso rápido para quem quer aprender a programar, começando do zero, através de vídeo-aulas 100% online!
-
-<a href="https://www.lucascaton.com.br/dne" class="btn">Comprar o curso com Desconto</a>
-
 ---
 
 <a href="http://go.italki.com/devnaestrada">
