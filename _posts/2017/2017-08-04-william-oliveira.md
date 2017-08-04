@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevNaEstrada 116 - Entrevista William Oliveira"
+title: "DNE 116 - Entrevista William Oliveira"
 home-title: "William Oliveira"
 type: "Entrevista"
 cast: "336197771-devnaestrada-devnaestrada-116-entrevista-william-oliveira.mp3"
