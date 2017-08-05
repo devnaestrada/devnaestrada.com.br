@@ -53,7 +53,7 @@ links:
     url: "https://github.com/woliveiras/vimparanoobs"
 ---
 
-Mais uma histórica muito bacana. Desta vez, [@eduardojmatos](http://twitter.com/eduardojmatos), [@femontanha](https://twitter.com/femontanha) e [@raymonsanches](https://twitter.com/raymonsanches) entrevistam [@w_oliveiras](https://twitter.com/w_oliveiras) que atualmente trabalha na Luiza Labs é o idealizador do projeto de mentoria Training Center.
+Mais uma história muito bacana. Desta vez, [@eduardojmatos](http://twitter.com/eduardojmatos), [@femontanha](https://twitter.com/femontanha) e [@raymonsanches](https://twitter.com/raymonsanches) entrevistam [@w_oliveiras](https://twitter.com/w_oliveiras) que atualmente trabalha na Luiza Labs e é o idealizador do projeto de mentoria Training Center.
 
 ---
 
