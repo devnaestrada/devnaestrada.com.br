@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevNaEstrada 117 - Entrevista Fernando Daciuk"
+title: "DNE 117 - Entrevista Fernando Daciuk"
 home-title: "Fernando Daciuk"
 type: "Entrevista"
 cast: "337389836-devnaestrada-devnaestrada-117-entrevista-fernando-daciuk.mp3"
