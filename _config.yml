@@ -42,6 +42,9 @@ services:
 
 github_user: "devnaestrada"
 
+# Libsyn
+libsyn_prefix: "http://traffic.libsyn.com/devnaestrada/"
+
 # Soundcloud
 soundcloud_prefix: "http://feeds.soundcloud.com/stream/"
 soundcloud_site_capa: "https://i1.sndcdn.com/avatars-000286485471-g5hpkh-t300x300.jpg"

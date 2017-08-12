@@ -21,6 +21,7 @@
   display: none;
   float: left;
   margin-right: rem(10);
+  max-width: 100px;
 
   @media screen and (min-width: $mobile) {
     display: block;

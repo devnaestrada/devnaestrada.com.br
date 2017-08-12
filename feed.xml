@@ -67,12 +67,12 @@ layout: null
 
         <description><![CDATA[{{post.description}}]]></description>
         <content:encoded><![CDATA[{{post.content}}]]></content:encoded>
-        <enclosure url="{{ post.cast | prepend: site.soundcloud_prefix }}" length="{{ post.cast-length }}" type="audio/mpeg" />
+        <enclosure url="{{ post.cast | prepend: site.libsyn_prefix }}?dest-id=557688" length="{{ post.cast-length }}" type="audio/mpeg" />
         <itunes:subtitle>{{ post.description }}</itunes:subtitle>
 
         <itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
         <itunes:author>{{ site.title }}</itunes:author>
-        <itunes:image href="http://i1.sndcdn.com/artworks-{{ post.soundcloud-post-image }}-original.jpg" />
+        <itunes:image href="https://assets.libsyn.com/secure/show/104268/artworks-{{ post.soundcloud-post-image }}-original.jpg" />
         <itunes:explicit>clean</itunes:explicit>
         <itunes:duration>{{ post.cast-time }}</itunes:duration>
       </item>

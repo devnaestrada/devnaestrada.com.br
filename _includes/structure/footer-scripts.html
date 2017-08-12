@@ -1,3 +1,9 @@
 <script type="text/javascript" src="{{ 'js/quick-access.js' | prepend: site.baseurl }}"></script>
 <script type="text/javascript" src="{{ 'js/azepto.js' | prepend: site.baseurl }}"></script>
 <script type="text/javascript" src="{{ 'js/search.js' | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ 'js/audio.min.js' | prepend: site.baseurl }}"></script>
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
