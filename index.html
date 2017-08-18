@@ -27,7 +27,15 @@ layout: default
         de {{ post.date | date: "%Y" }} =>  <span class="episode-type">{{ post.type }}</span>
       </p>
       <div class="episode-holder">
-        <img class="episode-artwork" src="https://assets.libsyn.com/secure/show/104268/artworks-{{ post.soundcloud-post-image }}-original.jpg" alt="{{ post.home-title }}" />
+        {% if post.soundcloud-post-image %}
+          <img class="episode-artwork" src="https://assets.libsyn.com/secure/show/104268/artworks-{{ post.soundcloud-post-image }}-original.jpg" alt="{{ post.home-title }}" />
+        {% endif %}
+        {% if post.libsyn-image %}
+          <img class="episode-artwork" src="https://assets.libsyn.com/secure/show/104268/{{ post.libsyn-image }}" alt="{{ post.home-title }}" />
+        {% endif %}
+
+
+
         <a href="{{ post.url }}" class="episode-link">
           <h1 class="episode-title">{{ post.title }}</h1>
         </a>
