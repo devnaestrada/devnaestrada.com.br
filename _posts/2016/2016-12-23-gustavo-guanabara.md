@@ -43,6 +43,4 @@ Nesse episódio do podcast DEVNAESTRADA, [femontanha](https://twitter.com/femont
 
 Gustavo Guanabara é um professor, trabalha de consultor na HostNet, da aulas de tecnologia para militares e também tem um canal aqui no youtube, o [CursoEmVideo](http://www.cursoemvideo.com/).
 
-{% include modules/final-post.html %}
-
 {% include modules/post-extras.html data=page %}

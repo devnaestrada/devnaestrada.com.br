@@ -26,6 +26,4 @@ links:
 
 Nesse episódio do podcast DEVNAESTRADA, [femontanha](https://twitter.com/femontanha) e [raymonsanches](https://twitter.com/raymonsanches), conversam de como foi o ano de 2016 para o DEVNAESTRADA! Todas as conquistas, como monetizaram o podcast, o que o podcast trouxe de bom para todos nós e etc! Bora ouvir?
 
-{% include modules/final-post.html %}
-
 {% include modules/post-extras.html data=page %}
