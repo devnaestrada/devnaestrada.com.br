@@ -9,6 +9,7 @@ cast-time: "00:45:33"
 description: "No episódio de hoje @femontanha, @raymonsanches e @andregumieri falam sobre aquele CMS."
 soundcloud-id: "286498243"
 soundcloud-post-image: "000187049921-ywzd3e"
+lybsyn-id: "5634200"
 participants:
   -
     name: André Gumieri

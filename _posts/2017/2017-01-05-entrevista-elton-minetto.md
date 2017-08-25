@@ -9,6 +9,7 @@ cast-time: "00:48:24"
 description: "No primeiríssimo episódio do ano, @femontanha e @raymonsanches entrevistam o grande @eminetto nos contando como começou sua trajetória com desenvolvimento web lá em Chapecó."
 soundcloud-id: "301145496"
 soundcloud-post-image: "000201426370-k0ybwo"
+lybsyn-id: "5634182"
 youtubeCode: "XVbyDvFxBt4"
 participants:
   -

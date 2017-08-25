@@ -9,6 +9,7 @@ cast-time: "00:39:22"
 description: "Nesse episódio @femontanha e @raymonsanches entrevistam @brunopassos, Brasileiro, Front-end Lead Developer na Shopify, Co-host do Podcast ZOFE e também trabalhou na Booking.com! Venha ouvir a história do Bruno conosco!"
 soundcloud-id: "328306918"
 soundcloud-post-image: "000228662997-jitl7f"
+lybsyn-id: "5634145"
 tags: ['Podcast','Programação','Front-end','Back-end','Bruno Passos','Design','ZOFE','Shopify', 'Booking', 'Inglaterra','Canada']
 participants:
   -

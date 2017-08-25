@@ -9,6 +9,7 @@ cast-time: "00:34:51"
 description: "Você sabe o que é Sindrome do Impostor? @eduardojmatos, @femontanha e @raymonsanches debatem sobre este tema tão comum na área de tecnologia."
 soundcloud-id: "305868483"
 soundcloud-post-image: "000206012246-z902x2"
+lybsyn-id: "5634178"
 youtubeCode: "bt-hMd05CGE"
 participants:
   -

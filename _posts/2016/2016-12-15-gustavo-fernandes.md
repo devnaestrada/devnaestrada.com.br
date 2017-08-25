@@ -9,6 +9,7 @@ cast-time: "00:55:11"
 description: "@raymonsanches e @femontanha entrevistam @go_fernandes. Uma história muito divertida e inspiradora."
 soundcloud-id: "298142933"
 soundcloud-post-image: "000198660979-7cy9cn"
+lybsyn-id: "5634185"
 participants:
   -
     name: Fellipe Azambuja

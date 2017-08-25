@@ -9,6 +9,7 @@ cast-time: "00:16:28"
 description: "Nesse episódio o @femontanha fala um pouco de como foi planejar uma viagem de estudos para o Canada, esse episódio é um teste para entender qual o andamento do programa!"
 soundcloud-id: "292133281"
 soundcloud-post-image: "000192681844-3yesgx"
+lybsyn-id: "5634194"
 participants:
   -
     name: Fellipe Azambuja

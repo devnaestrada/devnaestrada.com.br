@@ -9,6 +9,7 @@ cast-time: "01:03:08"
 description: "@femontanha e @raymonsanches batem um super papo com o gente boa @ale_borba que nos conta toda sua trajetória."
 soundcloud-id: "303604917"
 soundcloud-post-image: "000203772829-qzfe7f"
+lybsyn-id: "5634180"
 youtubeCode: "HjDH1el-alo"
 participants:
   -

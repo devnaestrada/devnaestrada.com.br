@@ -9,6 +9,7 @@ cast-time: "00:39:35"
 description: "Conheça a grande história da desenvolvedora @dianaarnos, @raymonsanches bate um papo com ela sobre quando ela começou a mexer com tecnologia."
 soundcloud-id: "306942569"
 soundcloud-post-image: "000207031478-e8547g"
+lybsyn-id: "5634176"
 youtubeCode: "kqQeP6_p6M0"
 participants:
   -

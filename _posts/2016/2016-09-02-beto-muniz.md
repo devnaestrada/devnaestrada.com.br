@@ -9,6 +9,7 @@ cast-time: "01:15:11"
 description: "@femontanha e @raymonsanches entrevistam hoje @obetomuniz, mineiro, frontend developer na Toptal, gamer e entusiasta de comunidades."
 soundcloud-id: "281009943"
 soundcloud-post-image: "000180140998-7b3mzn"
+lybsyn-id: "5634206"
 participants:
   -
     name: Beto Muniz

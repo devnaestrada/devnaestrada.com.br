@@ -9,6 +9,7 @@ cast-time: "01:07:44"
 description: "Neste episódio, @femontanha entrevista @davidsonfellipe, de Recife ao Rio e depois a NYC! Conheça a história bacana desse cara, de como ele saiu de sua cidade natal e foi correr atrás de seus sonhos por aí a fora."
 soundcloud-id: "256685973"
 soundcloud-post-image: "000155827741-5oz0i5"
+lybsyn-id: "5634229"
 links:
   -
     name: "Lapidando o GloboPlay"

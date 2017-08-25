@@ -9,6 +9,7 @@ cast-time: "01:05:03"
 description: "Neste episódio, @femontanha, @raymonsanches, @eduardojmatos, @afonsof e Lucas (Contratado.me) conversam um pouco sobre o salário do desenvolvedor! Um assunto polêmico, tabu! Venha ouvir a opinião dessa galera sobre isso no mercado do desenvolvimento."
 soundcloud-id: "257913057"
 soundcloud-post-image: "000157076292-byaiuz"
+lybsyn-id: "5634228"
 participants:
   -
     name: Fellipe Azambuja

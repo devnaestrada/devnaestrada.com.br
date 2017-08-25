@@ -9,6 +9,7 @@ cast-time: "00:06:30"
 description: "Neste pocket @raymonsanches fala um pouco sobre mentoria e dá uma dica de um projeto muito bacana pra ajudar você a encontrar seu mentor, ou quem sabe, mentorar alguém."
 soundcloud-id: "322828823"
 soundcloud-post-image: "000222754657-6mud2x"
+lybsyn-id: "5634153"
 youtubeCode: "cxiIzUdgR_o"
 participants:
   -

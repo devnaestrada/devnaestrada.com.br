@@ -9,6 +9,7 @@ cast-time: "00:10:40"
 description: "Neste episódio @femontanha, conta um pouco de como é e foi sua experência trabalhando como um prestador de serviços, PJ ou pessoa Jurídica! Não se aprofunda muito no assunto, mas traz um pouco das dúvidas que ele tinha no começo e também alguns mindsets que temos que ter. Curta o episódio!"
 soundcloud-id: "321662320"
 soundcloud-post-image: "000221700971-a75gjl"
+lybsyn-id: "5634155"
 youtubeCode: "YbQ3WsUhZD4"
 tags: ['Podcast','Programação','Front-end','Back-end','Youtube','PJ','CLT','Pocket']
 participants:

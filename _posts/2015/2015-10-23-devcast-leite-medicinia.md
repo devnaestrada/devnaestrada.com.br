@@ -9,6 +9,7 @@ cast-time: "01:29:33"
 description: "Hoje o bate papo é com o Leite, CTO da empresa Medicinia, venha conferir essa conversa bacana, aonde ele nos mostra sua experiência com startups!"
 soundcloud-id: "229684825"
 soundcloud-post-image: "000133654291-yj6q30"
+lybsyn-id: "5634255"
 ---
 
 Hoje o bate papo é com o Leite, CTO da empresa Medicinia, venha conferir essa conversa bacana, aonde ele nos mostra sua experiência com startups!

@@ -9,6 +9,7 @@ cast-time: "00:43:04"
 description: "Neste episódio @femontanha, @raymonsanches, @eduardojmatos entrevistam @thundets que conta um pouco de como foi mudar toda a stack de front-end de um projeto na empresa que ele trabalha! E aí vamos pro hype?"
 soundcloud-id: "321018345"
 soundcloud-post-image: "000221108326-63i8gh"
+lybsyn-id: "5634156"
 youtubeCode: "e-jY0RxlePI"
 participants:
   -

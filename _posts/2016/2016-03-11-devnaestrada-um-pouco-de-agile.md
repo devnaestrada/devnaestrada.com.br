@@ -9,6 +9,7 @@ cast-time: "00:48:55"
 description: "@raymonsanches, @femontanha, Gercel e Rafael falam um pouco sobre o que é Agile, a cultura e um pouco das experiências de cada um sobre o assunto! Scrum, Kanban, XP, Lean, Kaizen, backlog, sprint? Vamos conversar sobre todos esses termos estranhos."
 soundcloud-id: "251284866"
 soundcloud-post-image: "000150455797-fptuu8"
+lybsyn-id: "5634232"
 links:
   -
     name: "Gercel Linkedin"

@@ -9,6 +9,7 @@ cast-time: "00:41:57"
 description: "@femontanha entrevista @jaydson, um dos criadores do BrazilJS, jsrocks e muitos projetos legais no mundo do Javascript."
 soundcloud-id: "247785786"
 soundcloud-post-image: "000147725443-913pby"
+lybsyn-id: "5634237"
 links:
   -
     name: "Jaydson"

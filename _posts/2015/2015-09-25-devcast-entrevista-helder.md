@@ -9,6 +9,7 @@ cast-time: "01:16:12"
 description: "@femontanha e @raymonsanches entrevistam Helder Santana, programador front-end, atualmente morando em Toronto no Canadá e trabalhando hoje na Varage Sale. Gostamos demais dessa entrevista, uma grande história de vida!"
 soundcloud-id: "225477611"
 soundcloud-post-image: "000130648771-80kgee"
+lybsyn-id: "5634259"
 links:
   -
     name: "Vídeo do BrazilJS na Conf Argentina"

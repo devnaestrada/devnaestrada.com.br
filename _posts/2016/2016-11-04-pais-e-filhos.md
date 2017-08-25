@@ -9,6 +9,7 @@ cast-time: "00:59:10"
 description: "No episódio de hoje @raymonsanches, @andregumieri e @rlabate resolvem seguir um diferente e compartilhar suas experiências paternas."
 soundcloud-id: "291426992"
 soundcloud-post-image: "000191980530-dsdzl3"
+lybsyn-id: "5634195"
 participants:
   -
     name: Ramon Sanches

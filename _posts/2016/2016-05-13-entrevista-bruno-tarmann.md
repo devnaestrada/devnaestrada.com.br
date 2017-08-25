@@ -9,6 +9,7 @@ cast-time: "00:49:20"
 description: "Conheça a história deste frontend developer que resolveu mudar sua vida e ir morar no país dos leprechauns. @femontanha e @raymonsanches entrevistam Bruno Tarmann (@tarmann) para entender como tudo como começou."
 soundcloud-id: "263880622"
 soundcloud-post-image: "000162586597-2e7f8u"
+lybsyn-id: "5634223"
 participants:
   -
     name: Fellipe Azambuja

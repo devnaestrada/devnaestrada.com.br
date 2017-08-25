@@ -9,6 +9,7 @@ cast-time: "00:33:14"
 description: "@femontanha, @raymonsanches, @eduardojmatos e @duodraco batem um papo sobre como foram suas primeiras palestras, qual a arte de palestrar! E você tem vontade de palestrar?"
 soundcloud-id: "308174392"
 soundcloud-post-image: "000208226572-8929wx"
+lybsyn-id: "5634175"
 youtubeCode: "-wvoM7WPLx4"
 participants:
   -

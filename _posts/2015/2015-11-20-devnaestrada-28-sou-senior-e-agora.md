@@ -9,6 +9,7 @@ cast-time: "00:43:29"
 description: "Continuando o nosso cast sobre cargos e títulos, hoje @femontanha, @raymonsanches, Zóio, discutem virei Sênior e agora?"
 soundcloud-id: "233860431"
 soundcloud-post-image: "000136724855-3lnotl"
+lybsyn-id: "5634251"
 links:
   -
     name: "Github Trending"

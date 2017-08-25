@@ -9,6 +9,7 @@ cast-time: "00:30:47"
 description: "Aperte seus cintos e aumente o som que vamos falar dessa cultura que está crescendo muito nos últimos meses. O que é essa parada de Devops? Onde vivem? Do que se alimentam? Hoje, no DevNaEstrada."
 soundcloud-id: "237051131"
 soundcloud-post-image: "000139163866-xihh32"
+lybsyn-id: "5634247"
 links:
   -
     name: "Siga-nos no Twitter"

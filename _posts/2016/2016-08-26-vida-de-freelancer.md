@@ -9,6 +9,7 @@ cast-time: "00:48:07"
 description: "No episódio de hoje @femontanha e @raymonsanches falam com Iago Oliveira sobre essa vida bandida de freelancer. Sobre os tempos de glória e de dor."
 soundcloud-id: "279941373"
 soundcloud-post-image: "000178770353-k5wm84"
+lybsyn-id: "5634207"
 participants:
   -
     name: Fellipe Azambuja

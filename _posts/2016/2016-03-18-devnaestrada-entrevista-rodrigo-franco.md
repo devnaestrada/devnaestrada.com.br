@@ -8,6 +8,7 @@ cast-length: "66815503"
 cast-time: "00:46:20"
 description: "No episódio de hoje, entrevistamos Rodrigo Franco (@caffo), tech lead na LivingSocial, palestrante na Rubyconf e um grande exemplo para todos os desenvolvedores. Falamos sobre faculdade, carreira, desenvolvimento pessoal e força de vontade. Inspire-se conosco em mais este episódio."
 soundcloud-id: "252487706"
+lybsyn-id: "5634231"
 soundcloud-post-image: "000151424192-x5bnkb"
 links:
   -

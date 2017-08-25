@@ -9,6 +9,7 @@ cast-time: "00:58:42"
 description: "Olá passageiros, the treta has been planted. No cast de hoje Montanha, Ramon e Javiani falam sobre sistemas operacionais Windows, OSX e Linux, contando um pouco da  experiência com cada um deles e qual é o sistema do coração."
 soundcloud-id: "212083963"
 soundcloud-post-image: "000121427003-aboz7o"
+lybsyn-id: "5634276"
 ---
 
 Olá passageiros, the treta has been planted. No cast de hoje Montanha, Ramon e Javiani falam sobre sistemas operacionais Windows, OSX e Linux, contando um pouco da  experiência com cada um deles e qual é o sistema do coração.

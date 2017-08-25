@@ -9,6 +9,7 @@ cast-time: "01:39:31"
 description: "No episódio de hoje @femontanha e @eduardojmatos entrevistam o grande Fernando Daciuk. Uma história cheia de risco e aprendizado, escutem só ;)"
 soundcloud-id: "337389836"
 soundcloud-post-image: "000237824112-u5lx7h"
+lybsyn-id: "5634137"
 tags: "['Podcast', 'Front-end', 'Entrevista', 'Fernando Daciuk']"
 participants:
   -

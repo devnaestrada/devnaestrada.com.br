@@ -9,6 +9,7 @@ cast-time: "00:44:55"
 description: "Neste episódio @femontanha, @raymonsanches, entrevistam @cmilfont um grande programador representando bem o pessoal do nordeste falando diretamente do Ceará. Milfont tem seu amor por Javascript e já trabalhou com as tecnologias Java, Ruby on Rails e PHP! Hoje está se aventurando novamente no mundo do front-end navegando na crista da onda com aplicações em React! Escute essa entrevista bacana e nos conte o que achou!"
 soundcloud-id: "322217267"
 soundcloud-post-image: "000222219934-lk87cx"
+lybsyn-id: "5634154"
 youtubeCode: "OSv-p9RtAa4"
 tags: ['Podcast','Programação','Front-end','Back-end','Christiano Milfont','Java','Ruby on Rails','Javascript','Entrevita']
 participants:

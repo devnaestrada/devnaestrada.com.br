@@ -9,6 +9,7 @@ cast-time: "00:57:48"
 description: "Neste episódio, @femontanha, @raymonsanches, @eduardojmatos, @afonsof e @octhavio desvendam os mistérios das startups. Descubra as maravilhas e mazelas de se trabalhar nesse tipo de empresa, como anda o mercado e o que se espera dos profisionais nessas empresas. Bora lá!"
 soundcloud-id: "254933160"
 soundcloud-post-image: "000153918831-qbphjt"
+lybsyn-id: "5634230"
 links:
   -
     name: "Contratado.me"

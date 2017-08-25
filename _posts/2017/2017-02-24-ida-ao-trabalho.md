@@ -9,6 +9,7 @@ cast-time: "00:46:46"
 description: "@femontanha e @raymonsanches as vezes voltam as raízes e gravam episódios dentro do carro. Neste episódio eles falam inclusive, sobre os meios de locomoção que já utilizaram e ainda utilizam para ir e voltar de seus trabalhos."
 soundcloud-id: "309264580"
 soundcloud-post-image: "000209316664-2tq2o3"
+lybsyn-id: "5634174"
 youtubeCode: "csDMGXtTzbM"
 participants:
   -

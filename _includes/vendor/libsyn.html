@@ -1,1 +1,5 @@
-<audio src="http://traffic.libsyn.com/devnaestrada/{{ page.cast }}?dest-id=557688" style="100%" preload="auto" />
+{% if page.lybsyn-id %}
+  <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ page.lybsyn-id }}/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/E67E22/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+{% else %}
+  <audio src="http://traffic.libsyn.com/devnaestrada/{{ page.cast }}?dest-id=557688" style="100%" preload="auto" />
+{% endif %}

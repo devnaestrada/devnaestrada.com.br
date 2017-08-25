@@ -9,6 +9,7 @@ cast-time: "01:19:25"
 description: "Hoje, nosso bate papo é com o grande @tapajos, carioca, rubysta, sênior de home-office e muito gente boa! Venha curtir e ouvir um pouco da história desse grande profissional que passou por diversas empresas no Brasil e no mundo, desde o back-end até o front-end. Senhoras e Senhores, Marcos Tapajós!"
 soundcloud-id: "317431245"
 soundcloud-post-image: "000217543689-16m4j5"
+lybsyn-id: "5634163"
 youtubeCode: "1KkbFEE050U"
 participants:
   -

@@ -9,6 +9,7 @@ cast-time: "01:03:05"
 description: "Nesse cast falamos um pouco sobre algumas ferramentas de trabalho que usamos, aperte os cintos e venha conosco!"
 soundcloud-id: "209959439"
 soundcloud-post-image: "000119988636-1g2eo5"
+lybsyn-id: "5634279"
 links:
   -
     name: "Trello"
