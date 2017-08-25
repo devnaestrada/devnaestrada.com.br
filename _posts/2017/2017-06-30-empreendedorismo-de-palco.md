@@ -9,6 +9,7 @@ cast-time: "01:03:47"
 description: "No episódio de hoje @femontanha, @raymonsanches e @eduardojmatos falam sobre a modinha do Empreendedorismo de Palco. Já mudou seu mindset hoje? Já mudou 4 hábitos para a alta performance? Já seguiu as 10 dicas dos mais bem-sucedidos? Não? Então vem com a gente."
 soundcloud-id: "330921282"
 soundcloud-post-image: "000231355707-snqhyv"
+lybsyn-id: "5634143"
 tags: ['Podcast','Programação','Front-end','Back-end','Empreendedorismo de palco','empresas']
 participants:
   -

@@ -9,6 +9,7 @@ cast-time: "01:00:06"
 description: "@raymonsanches, @lerrua e nosso convidado especial Diolinux (@blogdiolinux) falam sobre as mais famosas distribuições e dão ótimas dicas pra quem está começando ou já usa sistemas Linux Based há algum tempo."
 soundcloud-id: "245510957"
 soundcloud-post-image: "000145926266-yfsomy"
+lybsyn-id: "5634239"
 links:
   -
     name: "Diolinux Site"

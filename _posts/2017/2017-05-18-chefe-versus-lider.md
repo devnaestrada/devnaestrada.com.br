@@ -9,6 +9,7 @@ cast-time: "00:36:19"
 description: "Nesse episódio @femontanha e @raymonsanches, falam sobre Chefe e Líder. Quais são as diferenças, quais são as experiências que eles tiveram e muito mais! E você já teve um chefe ou um líder?"
 soundcloud-id: "323323313"
 soundcloud-post-image: "000223224617-keqeik"
+lybsyn-id: "5634151"
 tags: ['Podcast','Programação','Front-end','Back-end','Chefe','Líder','ReactJS','Entrevista']
 participants:
   -

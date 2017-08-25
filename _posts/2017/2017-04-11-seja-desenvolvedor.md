@@ -10,6 +10,7 @@ description: "@femontanha tenta explicar que o mercado de desenvolvimento é abe
 soundcloud-id: "317276835"
 youtubeCode: "S-W6q-1Ownw"
 soundcloud-post-image: "000217400957-3yp5ip"
+lybsyn-id: "5634164"
 participants:
   -
     name: Fellipe Azambuja

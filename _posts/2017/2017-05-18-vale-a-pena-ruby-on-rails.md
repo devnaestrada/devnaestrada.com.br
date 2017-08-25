@@ -9,6 +9,7 @@ cast-time: "01:05:24"
 description: "Curso de Programação focado em Ruby e Rails - um curso rápido para quem quer aprender a programar, começando do zero, através de vídeo-aulas 100% online! ACESSE: https://www.lucascaton.com.br/dne"
 soundcloud-id: "323325402"
 soundcloud-post-image: "000223226269-u9stg7"
+lybsyn-id: "5634150"
 youtubeCode: "kxXrWuCshUs"
 tags: ['Podcast','Programação','Front-end','Back-end','Curso','Udemy','Lucas Caton','Fabio Akita', 'Ruby on Rails', 'RoR']
 participants:

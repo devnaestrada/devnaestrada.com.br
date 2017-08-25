@@ -9,6 +9,7 @@ cast-time: "01:13:03"
 description: "ΛΛΛ, no episódio de hoje @femontanha e @raymonsanches entrevistam Guilherme Camilo(@gui__camillo), frontend developer, nos conta como acabou trabalhando para o Jovem Nerd e como foi parar em Amsterdan atualmente. Uma incrível história de inspiração, bora bora."
 soundcloud-id: "243158414"
 soundcloud-post-image: "000144079224-170v4b"
+lybsyn-id: "5634241"
 links:
   -
     name: "CasaDoCódigo"

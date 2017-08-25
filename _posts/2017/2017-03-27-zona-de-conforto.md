@@ -10,6 +10,7 @@ description: "@femontanha conta um pouco da sua história de como ele saiu da zo
 soundcloud-id: "314803921"
 youtubeCode: "Kt4XFFMX6yU"
 soundcloud-post-image: "000214993686-520foc"
+lybsyn-id: "5634168"
 participants:
   -
     name: Fellipe Azambuja

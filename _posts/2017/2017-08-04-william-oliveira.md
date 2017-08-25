@@ -9,6 +9,7 @@ cast-time: "01:33:33"
 description: "Mais uma história muito bacana. Desta vez, @eduardojmatos, @femontanha e @raymonsanches entrevistam @w_oliveiras que atualmente trabalha na Luiza Labs e é o idealizador do projeto de mentoria Training Center."
 soundcloud-id: "336197771"
 soundcloud-post-image: "000236593926-8te58y"
+lybsyn-id: "5634138"
 tags: "['Podcast', 'Front-end', 'Entrevista', 'William Oliveira']"
 participants:
   -

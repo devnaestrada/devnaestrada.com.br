@@ -9,6 +9,7 @@ cast-time: "01:09:13"
 description: "Hoje @femontanha, @raymonanches e @andregumieri batem um papo sobre trabalho remoto! O papo foi tão legal que tivemos que dividir em 2 partes! Ouça conosco a parte A desse episódio, com as nossas opiniões e experências nesse assunto."
 soundcloud-id: "295813041"
 soundcloud-post-image: "000196417027-91n32t"
+lybsyn-id: "5634187"
 participants:
   -
     name: Ramon Sanches

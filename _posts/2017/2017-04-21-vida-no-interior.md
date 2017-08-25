@@ -9,6 +9,7 @@ cast-time: "00:57:59"
 description: "Neste episódio @femontanha, @raymonsanches, @eduardojmatos e @thundets contam um pouco mais sobre tecnologia no interior ;)"
 soundcloud-id: "318746313"
 soundcloud-post-image: "000218802009-iw0a22"
+lybsyn-id: "5634161"
 youtubeCode: "1DbOC10KYvk"
 participants:
   -

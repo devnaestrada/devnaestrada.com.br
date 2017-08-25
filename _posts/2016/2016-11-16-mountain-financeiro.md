@@ -9,6 +9,7 @@ cast-time: "00:18:33"
 description: "Nesse episódio o @femontanha fala um pouco de como foi o planejamento financeiro, conta quanto gastou, planejou gastar, os meios que usou e etc!"
 soundcloud-id: "293249492"
 soundcloud-post-image: "000193788161-ufpn6x"
+lybsyn-id: "5634192"
 participants:
   -
     name: Fellipe Azambuja

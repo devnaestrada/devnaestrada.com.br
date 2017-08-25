@@ -9,6 +9,7 @@ cast-time: "00:45:30"
 description: "@femontanha e @raymonsanches entrevistam o frontend developer Eduardo Shiota (@shiota). Saiba como o shiotinha começou, quem foi seu mentor, ouça boas dicas e aprenda que seu inglês não precisa ser perfeito."
 soundcloud-id: "268414547"
 soundcloud-post-image: "000166752573-0ki1ta"
+lybsyn-id: "5634219"
 participants:
   -
     name: Fellipe Azambuja

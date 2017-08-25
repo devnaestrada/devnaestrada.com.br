@@ -9,6 +9,7 @@ cast-time: "01:29:21"
 description: "Fundador da boo-box e Mova Mais, Marco Gomes nos conta sua incrível trajetória de menino do Gama a dono de startup. Uma história muito inspiradora e bacana, que nos ensina a não desistir e sempre correr atrás dos nossos sonhos."
 soundcloud-id: "232845949"
 soundcloud-post-image: "000135984395-ti74sz"
+lybsyn-id: "5634252"
 links:
   -
     name: "Marco Gomes"

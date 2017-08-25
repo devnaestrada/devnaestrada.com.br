@@ -9,6 +9,7 @@ cast-time: "01:06:54"
 description: "@femontanha @emilioaiolfi @the_ebessa e William Martins falam um pouco sobre o maior evento de javascript do mundo!! O BrazilJS!"
 soundcloud-id: "221697412"
 soundcloud-post-image: "000128055871-il0d45"
+lybsyn-id: "5634263"
 ---
 
 [@femontanha](http://twitter.com/femontanha) [@emilioaiolfi](http://twitter.com/emilioaiolfi) [@the_ebessa](http://twitter.com/the_ebessa) e William Martins falam um pouco sobre o maior evento de javascript do mundo!! O BrazilJS!

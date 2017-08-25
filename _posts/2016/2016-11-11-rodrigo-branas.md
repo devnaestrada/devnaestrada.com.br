@@ -9,6 +9,7 @@ cast-time: "01:03:44"
 description: "No episódio de hoje @femontanha conversa com o nosso convidado @rodrigobranas, que conta um pouco como foi a sua história com desenvolvimento. Desde suas primeiras jornadas do colégio aos seus anos de desenvolvimento java, cursos, livros, palestras e até canal no youtube. Venha curtir a história desse grande profissional conosco!"
 soundcloud-id: "292491246"
 soundcloud-post-image: "000193015959-bjrnbh"
+lybsyn-id: "5634193"
 participants:
   -
     name: Rodrigo Branas

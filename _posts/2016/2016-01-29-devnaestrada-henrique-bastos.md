@@ -9,6 +9,7 @@ cast-time: "00:53:09"
 description: "No episódio de hoje, batemos um papo com o programador/empresário @henriquebastos, o criador do curso WelcomeToTheDjango"
 soundcloud-id: "244344263"
 soundcloud-post-image: "000145024051-7yuil2"
+lybsyn-id: "5634240"
 links:
   -
     name: "CasaDoCódigo"

@@ -9,6 +9,7 @@ cast-time: "01:06:27"
 description: "Neste episódio, @raymonsanches e @eduardojmatos falam com @willgmbr sobre Angular JS. Conheça um pouco da história e decida se vale a pena utilizar."
 soundcloud-id: "335176053"
 soundcloud-post-image: "000235540409-qjt8d7"
+lybsyn-id: "5634139"
 tags: ['Podcast','angular','javascript','framework', 'mvw', 'william', 'grasel', 'raymonsanches', 'eduardojmatos', 'js', 'frontend', 'front']
 participants:
   -

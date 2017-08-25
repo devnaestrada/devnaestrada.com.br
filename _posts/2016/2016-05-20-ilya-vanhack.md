@@ -9,6 +9,7 @@ cast-time: "00:33:15"
 description: "No episódio de hoje @femontanha bate um super papo com @ilyabrotzky, CEO da Vanhack, uma empresa que oferece coaching especializado para desenvolvedores que desejam imigrar para o Canadá."
 soundcloud-id: "264999365"
 soundcloud-post-image: "000163637330-pq9et5"
+lybsyn-id: "5634222"
 participants:
   -
     name: Fellipe Azambuja

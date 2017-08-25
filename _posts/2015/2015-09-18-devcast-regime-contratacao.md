@@ -9,6 +9,7 @@ cast-time: "00:38:37"
 description: "Hoje @femontanha e @raymonsanches falam um pouco sobre as suas experiências com Regime de Contratação! E ai qual o seu? deixe no comentário! :)"
 soundcloud-id: "224471895"
 soundcloud-post-image: "000129958224-4m4jt7"
+lybsyn-id: "5634260"
 ---
 
 [@femontanha](http://twitter.com/femontanha) e [@raymonsanches](http://twitter.com/raymonsanches) falam um pouco sobre as suas experiências com Regime de Contratação! E ai qual o seu? deixe no comentário! :)

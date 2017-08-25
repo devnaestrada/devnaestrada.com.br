@@ -9,6 +9,7 @@ cast-time: "01:02:17"
 description: "Entrevista com o fera Marcelo Carneiro (@mcarneiro). Marcelo é frontend developer na F.biz, e nesse episódio nos dá uma dose de ânimo e nos conta como foi sua experiência na Singularity University."
 soundcloud-id: "248953752"
 soundcloud-post-image: "000148662793-id37pd"
+lybsyn-id: "5634236"
 links:
   -
     name: "@carneiro"

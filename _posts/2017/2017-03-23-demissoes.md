@@ -10,6 +10,7 @@ description: "Montanha e Ramon, trocam uma idéia de como foram algumas demissõ
 soundcloud-id: "314191792"
 youtubeCode: "MsZQjkFT4hk"
 soundcloud-post-image: "000214377288-d0xx5k"
+lybsyn-id: "5634169"
 participants:
   -
     name: Fellipe Azambuja

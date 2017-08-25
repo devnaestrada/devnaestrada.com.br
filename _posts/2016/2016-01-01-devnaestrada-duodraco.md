@@ -9,6 +9,7 @@ cast-time: "01:10:08"
 description: "No episódio de hoje, uma entrevista muito bacana com Duodraco, um dos fundadores do PHPSP e atual CTO da AgroSmart, uma história incrível e um papo bem descontraído pra você se inspirar, sempre!"
 soundcloud-id: "239917913"
 soundcloud-post-image: "000141470512-knw0pg"
+lybsyn-id: "5634244"
 links:
   -
     name: "Sorteio do E-BOOK"

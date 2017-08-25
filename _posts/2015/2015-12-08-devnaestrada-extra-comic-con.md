@@ -9,6 +9,7 @@ cast-time: "00:20:48"
 description: "Faaala pessoal, quebramos a rotina e temos um episódio especial. Fomos convidados pela OzProdutora para conhecer a Comic Con Experience 2015, o evento mais épico de cultura nerd do Brasil."
 soundcloud-id: "236580907"
 soundcloud-post-image: "000138795143-sbqdij"
+lybsyn-id: "5634248"
 links:
   -
     name: "OzProdutora"

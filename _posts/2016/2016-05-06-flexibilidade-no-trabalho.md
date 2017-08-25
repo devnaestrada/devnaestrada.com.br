@@ -9,6 +9,7 @@ cast-time: "00:49:16"
 description: "No episódio de hoje @raymonsanches e @femontanha tiram @wmsbill da geladeira e se juntam à @eduardojmatos para discutir sobre o que seria essa tal flexibilidade no trabalho."
 soundcloud-id: "262722954"
 soundcloud-post-image: "000161575963-dq39sm"
+lybsyn-id: "5634224"
 participants:
   -
     name: Fellipe Azambuja

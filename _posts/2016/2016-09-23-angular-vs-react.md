@@ -9,6 +9,7 @@ cast-time: "00:54:03"
 description: "Extra! Extra! Extra! Nosso primeiro episódio com um foco um pouco mais técnico, @femontanha, @hashtagserg e @caike colocam no campo de batalha os dois grandes frameworks javascript da atualidade: Angular vs ReactJS. Quem se sairá melhor nesta batalha?"
 soundcloud-id: "284066606"
 soundcloud-post-image: "000184264872-7qfv8y"
+lybsyn-id: "5634203"
 participants:
   -
     name: Sergio Cruz
