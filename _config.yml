@@ -20,10 +20,6 @@ services:
     url: "http://bit.ly/dne-rss"
     icon: "fa-rss-square"
   -
-    name: "SoundCloud"
-    url: "http://bit.ly/dne-soundcloud"
-    icon: "fa-soundcloud"
-  -
     name: "Pocket Casts"
     url: "http://bit.ly/dne-pocketcasts"
     icon: "fa-android"
