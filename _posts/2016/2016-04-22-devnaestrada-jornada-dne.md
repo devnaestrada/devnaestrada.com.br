@@ -10,6 +10,7 @@ description: "Quem diria que chegariamos até aqui...  50 episódios!!! E pra co
 incríveis que passaram por aqui. Vem com a gente nessa jornada!"
 soundcloud-id: "260286726"
 soundcloud-post-image: "000159317643-o1etrc"
+lybsyn-id: "5634226"
 participants:
   -
     name: Fellipe Azambuja

@@ -9,6 +9,7 @@ cast-time: "01:46:29"
 description: "Nesse episódio @femontanha entrevista @akitaonrails, ativista tecnológico organizador da @RubyConfBR e co-founder da @Codeminer42! Venha ouvir a história desse grande profissional na nossa área de tecnologia! "
 soundcloud-id: "325308096"
 soundcloud-post-image: "000225068035-vfxg7z"
+lybsyn-id: "5634147"
 tags: ['Podcast','Programação','Front-end','Back-end','Akita','Akita On Rails','RoR','Ruby', 'Ruby on Rails', 'TensorFlow','Entrevista']
 participants:
   -

@@ -9,6 +9,7 @@ cast-time: "01:12:23"
 description: "@femontanha @raymonsanches entrevista o grande @zeh, acompanhe conosco a grande história desse excelente profissional, sua trajetória aqui no Brasil e também no país do Tio Sam! Estados Unidos!"
 soundcloud-id: "223338389"
 soundcloud-post-image: "000129175538-isql2r"
+lybsyn-id: "5634261"
 links:
   -
     name: "WideTI"

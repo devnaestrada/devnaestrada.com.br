@@ -9,6 +9,7 @@ cast-time: "00:43:48"
 description: "Hoje, @femontanha troca uma idéia com o @dr_fobia, sobre Entrega de Valor X Entrega de Hora quando damos uma estimativa para um projeto. Uma discussão saudável sobre como mudar a forma de pensar quando cobramos o nosso valor tanto de serviço quanto da entrega de um produto."
 soundcloud-id: "316477986"
 soundcloud-post-image: "000216604513-1uxob5"
+lybsyn-id: "5634165"
 youtubeCode: "kk3ZEjClQUc"
 participants:
   -

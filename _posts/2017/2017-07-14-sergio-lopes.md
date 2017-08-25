@@ -9,6 +9,7 @@ cast-time: "01:17:31"
 description: "Neste episódio @femontanha e @raymonsanches, entrevistam @sergio_caelum que conta um pouco sobre a sua história! Embarque conosco nesse bate papo!"
 soundcloud-id: "333116802"
 soundcloud-post-image: "000233544321-01m9ts"
+lybsyn-id: "5634141"
 tags: ['Podcast','Programação','Front-end','Back-end','Alura','Caelum', 'Sergio Lopes', 'Blog']
 participants:
   -

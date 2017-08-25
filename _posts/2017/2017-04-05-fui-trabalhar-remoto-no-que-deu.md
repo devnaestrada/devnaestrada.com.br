@@ -10,6 +10,7 @@ description: "Nesse episódio @femontanha bate um papo sobre um ponto negativo q
 soundcloud-id: "316179951"
 youtubeCode: "27Gbxzl1OBU"
 soundcloud-post-image: "000216315801-9cpvve"
+lybsyn-id: "5634166"
 participants:
   -
     name: Fellipe Azambuja

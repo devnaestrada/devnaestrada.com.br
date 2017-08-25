@@ -9,6 +9,7 @@ cast-time: "00:46:17"
 description: "@raymonsanches e @femontanha fazem uma viagem para o continente africano, descobrindo suas belezas, encantos e atrativos para quem trabalha com tecnologia. Hamilton (@ragaroto) nos conta como foi parar lá, e como é viver na terra do kuduro."
 soundcloud-id: "250109645"
 soundcloud-post-image: "000149578297-5g9z5q"
+lybsyn-id: "5634234"
 links:
   -
     name: "Mundo segundo os Brasileiros - Angola"

@@ -9,6 +9,7 @@ cast-time: "00:46:18"
 description: "Hoje o bate papo é sobre a linguagem PHP, venha conferir essa conversa bacana entre @femontanha, @raymonsanches @pokemaobr e @gabrielrcouto"
 soundcloud-id: "228706523"
 soundcloud-post-image: "000132944806-82rnj7"
+lybsyn-id: "5634256"
 links:
   -
     name: "Empresa MEMED"

@@ -9,6 +9,7 @@ cast-time: "00:43:50"
 description: "Nesse cast vamos entrevistar o Diego Eis (@diegoeis @tableless), conheça um pouco da história desse grande profissional no nosso mundo do Front-end, sinta um pouco de nostagia nessa conversa com um dos criadores dos primeiros sites de front-end do Brasil."
 soundcloud-id: "217133119"
 soundcloud-post-image: "000124937275-v5k38u"
+lybsyn-id: "5634270"
 links:
   -
     name: "Tableless"

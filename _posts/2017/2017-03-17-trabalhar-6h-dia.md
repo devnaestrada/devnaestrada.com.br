@@ -11,6 +11,7 @@ Você acha que trabalhar 6h por dia seria melhor? Comente aí embaixo."
 soundcloud-id: "312865312"
 youtubeCode: "EFGpJiQAksk"
 soundcloud-post-image: "000213037004-jqn8ad"
+lybsyn-id: "5634170"
 participants:
   -
     name: Fellipe Azambuja

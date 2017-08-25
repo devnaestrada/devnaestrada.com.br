@@ -9,6 +9,7 @@ cast-time: "00:58:21"
 description: "No episódio de hoje, Montanha, Ramon, Eduardo e Zóio vão falar um pouco de suas experiências com entrevistas de trabalho, venha curtir as histórias/experiências desse pessoal com entrevistas na área de desenvolvimento."
 soundcloud-id: "242031770"
 soundcloud-post-image: "000143185955-m0617t"
+lybsyn-id: "5634242"
 links:
   -
     name: "CasaDoCódigo"

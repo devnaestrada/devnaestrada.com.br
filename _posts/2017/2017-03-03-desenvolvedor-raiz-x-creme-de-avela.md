@@ -9,6 +9,7 @@ cast-time: "00:37:54"
 description: "@femontanha, @raymonsanches e @eduardojmatos, batem um papo sobre Desenvolvedor Raiz x Desenvolvedor Creme de Avelã, porque né pode rolar um processinho! Curta conosco a comparação de como eram as coisas antigamente e como são agora!"
 soundcloud-id: "310427888"
 soundcloud-post-image: "000210485410-xo5gbr"
+lybsyn-id: "5634172"
 youtubeCode: "D1sa0oZv9j4"
 participants:
   -

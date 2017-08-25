@@ -9,6 +9,7 @@ cast-time: "00:03:16"
 description: "Nesse pocket, @femontanha fala um pouco sobre produtividade! Parece ser um assunto um pouco obvio mais ajudou muito a pensarmos diferente! Esse assunto foi discutido no nosso episódio de número 45 numa entrevista com o Caffo."
 soundcloud-id: "319313808"
 soundcloud-post-image: "000219541452-g11l2b"
+lybsyn-id: "5634159"
 youtubeCode: "jloZ0l-N58o"
 participants:
   -

@@ -9,6 +9,7 @@ cast-time: "00:35:03"
 description: "@femontanha e @raymonsanches batem um papo de como é trabalhar em empresa grande ou pequena, as diferenças que tiveram, um pouco da experiência deles. E você trabalha em empresa grande ou pequena? Qual você prefere?"
 soundcloud-id: "304721419"
 soundcloud-post-image: "000204933636-dtm5ss"
+lybsyn-id: "5634179"
 youtubeCode: "EeiUGYDq-hs"
 participants:
   -

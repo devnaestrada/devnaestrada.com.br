@@ -9,6 +9,7 @@ cast-time: "01:08:16"
 description: "Conheça um pouco mais da história do Eduardo Aragão (Javiani), criador do Jails e um expert em Javascript"
 soundcloud-id: "208875884"
 soundcloud-post-image: "000119239744-z0og2h"
+lybsyn-id: "5634280"
 links:
   -
     name: "Site Jails"

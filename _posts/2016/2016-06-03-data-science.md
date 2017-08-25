@@ -9,6 +9,7 @@ cast-time: "00:44:55"
 description: "Hoje @raymonsanches conversa com um pouco com @raonyguimaraes, @lerrua e Carlos Baia para falar um pouco sobre esse hype, esse termo tão utilizado que é o DataScience. Venha embarcar conosco nessa aventura para tentar entender um pouco desse grande universo."
 soundcloud-id: "267220053"
 soundcloud-post-image: "000165645277-x4ginr"
+lybsyn-id: "5634220"
 participants:
   -
     name: Fellipe Azambuja

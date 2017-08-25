@@ -9,6 +9,7 @@ cast-time: "00:55:13"
 description: "Neste episódio @brunoborges nos conta o início de sua carreira lá no Rio de Janeiro, como foi parar em São Paulo e acabou trabalhando para o grande oráculo. Um papo muito legal com uma história inspiradora e claro, falamos da importância do inglês."
 soundcloud-id: "276895433"
 soundcloud-post-image: "000174939426-541i0u"
+lybsyn-id: "5634210"
 participants:
   -
     name: Bruno Borges

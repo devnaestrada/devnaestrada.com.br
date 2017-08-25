@@ -9,6 +9,7 @@ cast-time: "00:50:29"
 description: "Neste episódio @femontanha, @raymonsanches e @wmsbill falam sobre o futuro será?? WebAssemby, vamos conversar um pouco o que é essa nova tecnologia, o que faz ele ser tão rápido, como escrever um código WASM e etc! Embarque conosco nesse bate papo!"
 soundcloud-id: "332023910"
 soundcloud-post-image: "000232454428-6nhkko"
+lybsyn-id: "5634142"
 tags: ['Podcast','Programação','Front-end','Back-end','WebAssembly','WASM', 'JIT', 'AST']
 participants:
   -

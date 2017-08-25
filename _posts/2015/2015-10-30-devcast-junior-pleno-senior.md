@@ -9,6 +9,7 @@ cast-time: "00:44:40"
 description: "No programa de hoje, vamos contar um pouco da nossa experiência e o nosso ponto de vista em relação ao status, Júnior, Pleno e Sênior nas nossas carreiras de tecnologia."
 soundcloud-id: "230734480"
 soundcloud-post-image: "000134431722-vnduqr"
+lybsyn-id: "5634254"
 ---
 
 No programa de hoje, vamos contar um pouco da nossa experiência e o nosso ponto de vista em relação ao status, Júnior, Pleno e Sênior nas nossas carreiras de tecnologia.

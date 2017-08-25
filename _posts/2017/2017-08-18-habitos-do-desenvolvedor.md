@@ -8,6 +8,7 @@ cast-length: "54766717"
 cast-time: "01:15:58"
 description: "No episódio de hoje @eduardojmatos, @femontanha e @raymonsanches, batem um papo sobre os hábitos dos desenvolvedores, aquela batucada na mesa, mandar um git status a todo momento, fazer barulhos com a boca, colocar o fone mas não ouvir nenhuma música e muito mais!!"
 libsyn-image: "dne118.jpg"
+lybsyn-id: "5654317"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Hábitos', 'Programador', 'Desenvolvedor']"
 participants:
   -

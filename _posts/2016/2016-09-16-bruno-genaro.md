@@ -9,6 +9,7 @@ cast-time: "01:19:11"
 description: "No episódio de hoje, @femontanha e @raymonsanches batem um papo com o @bfgenaro. Do PunkRock ao Hardcore, de Piracicaba a Orlando, da pequena empresa a grande empresa, curtam essa história fantastica que o Bruno compartilhou conosco!"
 soundcloud-id: "283131036"
 soundcloud-post-image: "000182825291-vhq1te"
+lybsyn-id: "5634204"
 participants:
   -
     name: Bruno Genaro

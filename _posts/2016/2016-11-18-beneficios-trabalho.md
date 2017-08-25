@@ -9,6 +9,7 @@ cast-time: "01:29:58"
 description: "@femontanha e @raymonsanches se juntam com @eduardojmatos e @andregumieri para discutir os famigerados benefícios de trabalho."
 soundcloud-id: "293574725"
 soundcloud-post-image: "000194104792-qga76b"
+lybsyn-id: "5634190"
 participants:
   -
     name: Ramon Sanches

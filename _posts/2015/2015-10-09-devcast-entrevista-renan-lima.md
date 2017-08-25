@@ -9,6 +9,7 @@ cast-time: "01:07:08"
 description: "Neste episódio, @raymonsanches e @femontanha entrevistam @renanoriginal, programador PHP, nascido em Mato Grosso, morou em Rondônia, trabalhou em Brasília e agora realiza seu mestrado como um nômade pela Europa, trocando de país a cada três meses. Embarque conosco nessa viagem e se inspire a correr atrás dos seus sonhos."
 soundcloud-id: "227587611"
 soundcloud-post-image: "000132134273-4a09u9"
+lybsyn-id: "5634257"
 links:
   -
     name: "Email do Renan"

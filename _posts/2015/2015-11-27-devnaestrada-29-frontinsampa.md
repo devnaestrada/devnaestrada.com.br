@@ -9,6 +9,7 @@ cast-time: "01:22:09"
 description: "Neste episódio falamos um pouco do que foi o Frontinsampa 2015, que este ano aconteceu lá na Inferno, uma balada da rua Augusta em São Paulo. Opiniões e depoimentos da staff, do palestrante e dos participantes também, @femontanha e @raymonsanches. Vem com a gente."
 soundcloud-id: "234914776"
 soundcloud-post-image: "000137517491-b3z8h7"
+lybsyn-id: "5634250"
 links:
   -
     name: "Diário de um argentino em Toronto"

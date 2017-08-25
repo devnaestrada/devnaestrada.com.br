@@ -9,6 +9,7 @@ cast-time: "01:02:57"
 description: "No episódio de hoje falamos sobre como tudo começa nessa área de desenvolvimento. Do momento da decisão de se seguir na carreira, as barreiras e as dificuldades no começo dessa jornada."
 soundcloud-id: "282059238"
 soundcloud-post-image: "000181522020-9g8f2t"
+lybsyn-id: "5634205"
 participants:
   -
     name: Rafael Tavares

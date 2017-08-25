@@ -9,6 +9,7 @@ cast-time: "00:04:40"
 description: "Nesse episódio @femontanha, fala um pouco da sua opinião se ainda vale a pena se tornar um programador nessa crise que estamos enfrentando no Brasil!"
 soundcloud-id: "324029950"
 soundcloud-post-image: "000223876821-26j75x"
+lybsyn-id: "5634149"
 youtubeCode: "n9z1ZAytOIw"
 tags: ['Podcast','Programação','Front-end','Back-end','Pocket','Programar','Crise']
 participants:

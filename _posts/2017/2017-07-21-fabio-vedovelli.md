@@ -9,6 +9,7 @@ cast-time: "01:00:00"
 description: "Neste episódio @femontanha entrevista o @vedovelli, que conta um pouco sobre a sua história! Embarque conosco nesse bate papo!"
 soundcloud-id: "334126182"
 soundcloud-post-image: "000234494720-i8kg91"
+lybsyn-id: "5634140"
 tags: ['Podcast','Programação','Front-end','Back-end','Fábio Vedovelli','PHP', 'VueJS', 'Entrevista']
 participants:
   -
