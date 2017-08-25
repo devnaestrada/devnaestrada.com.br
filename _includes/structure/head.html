@@ -12,11 +12,16 @@
   {% if site.facebook_meta %}
   <meta property="og:locale" content="pt_BR" />
   <meta property="og:site_name" content="{{ site.title }}" />
-  {% if page.soundcloud-id %}
+  {% if page.lybsyn-id %}
   <meta property="og:url" content="{{ page.url | prepend: site.url }}" />
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:description" content="{{ page.description }}" />
-  <meta property="og:image" content="http://i1.sndcdn.com/artworks-{{ page.soundcloud-post-image }}-original.jpg" />
+  {% if page.soundcloud-post-image %}
+  <meta property="og:image" content="https://assets.libsyn.com/secure/show/104268/artworks-{{ page.soundcloud-post-image }}-original.jpg" />
+  {% endif %}
+  {% if page.libsyn-image %}
+  <meta property="og:image" content="https://assets.libsyn.com/secure/show/104268/{{ page.libsyn-image }}" />
+  {% endif %}
   <meta property="og:type" content="article">
   <meta property="article:author" content="DevNaEstrada">
   <meta property="article:section" content="Podcast" />
@@ -26,7 +31,7 @@
   <meta property="og:url" content="{{ site.url }}" />
   <meta property="og:title" content="{{ site.title }}" />
   <meta property="og:description" content="{{ site.description }}" />
-  <meta property="og:image" content="{{ site.soundcloud_site_capa }}" />
+  <meta property="og:image" content="{{ site.dne_capa }}" />
   {% endif %}
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="300" />

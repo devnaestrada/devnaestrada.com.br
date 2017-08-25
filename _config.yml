@@ -40,10 +40,7 @@ github_user: "devnaestrada"
 
 # Libsyn
 libsyn_prefix: "http://traffic.libsyn.com/devnaestrada/"
-
-# Soundcloud
-soundcloud_prefix: "http://feeds.soundcloud.com/stream/"
-soundcloud_site_capa: "https://i1.sndcdn.com/avatars-000286485471-g5hpkh-t300x300.jpg"
+dne_capa: "http://static.libsyn.com/p/assets/8/4/8/3/84831a5d82e54861/dne-podcast-avatar1400.png"
 
 # Google Analytics
 google_analytics: UA-63291340-1
