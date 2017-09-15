@@ -54,6 +54,15 @@
   }
 }
 
+.post-links.magnetis {
+  background-color: $magnetis;
+
+  &:hover {
+    background-color: transparent;
+    color: $magnetis;
+  }
+}
+
 .post-links.twitter {
   background-color: $twitter;
 
