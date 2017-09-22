@@ -26,6 +26,13 @@ participants:
   -
     name: Isabella Silveira
     twitter: silveira_bells
+links:
+  -
+    name: "Vaga na CUBO"
+    urL: "https://cubo.network/jobs/d69815f0-4aca-11e7-bfed-2930c9251a9d"
+  -
+    name: "Projeto de Traduções Open Source"
+    url: "https://github.com/entrylvl/traducoes-de-artigos"
 ---
 
 Neste episódio [@eduardojmatos](http://twitter.com/eduardojmatos) e [@raymonsanches](http://twitter.com/raymonsanches) conversam com [@CarolinaPascale](http://twitter.com/CarolinaPascale), [@Feh_Bernardo](http://twitter.com/Feh_Bernardo) e [@silveira_bells](http://twitter.com/silveira_bells). Ouça este episódio e se inspire com a história dessas mulheres e finalmente aprenda: MINAS CODAM.
