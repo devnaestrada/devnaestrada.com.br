@@ -29,7 +29,7 @@ participants:
 links:
   -
     name: "Vaga na CUBO"
-    urL: "https://cubo.network/jobs/d69815f0-4aca-11e7-bfed-2930c9251a9d"
+    url: "https://cubo.network/jobs/d69815f0-4aca-11e7-bfed-2930c9251a9d"
   -
     name: "Projeto de Traduções Open Source"
     url: "https://github.com/entrylvl/traducoes-de-artigos"
