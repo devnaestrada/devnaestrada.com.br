@@ -72,7 +72,14 @@ layout: null
 
         <itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
         <itunes:author>{{ site.title }}</itunes:author>
-        <itunes:image href="https://assets.libsyn.com/secure/show/104268/artworks-{{ post.soundcloud-post-image }}-original.jpg" />
+
+        {% if post.soundcloud-post-image %}
+          <itunes:image href="https://assets.libsyn.com/secure/show/104268/artworks-{{ post.soundcloud-post-image }}-original.jpg" />
+        {% endif %}
+        {% if post.libsyn-image %}
+          <itunes:image href="https://assets.libsyn.com/secure/show/104268/{{ post.libsyn-image }}" />
+        {% endif %}
+        
         <itunes:explicit>clean</itunes:explicit>
         <itunes:duration>{{ post.cast-time }}</itunes:duration>
       </item>
