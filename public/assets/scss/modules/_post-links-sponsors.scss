@@ -45,6 +45,15 @@
   }
 }
 
+.post-links.bluesoft {
+  background-color: $bluesoft;
+
+  &:hover {
+    background-color: transparent;
+    color: $bluesoft;
+  }
+}
+
 .post-links.stickersdevs {
   background-color: $stickersdevs;
 
