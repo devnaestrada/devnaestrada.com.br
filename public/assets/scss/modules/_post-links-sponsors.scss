@@ -18,21 +18,12 @@
   }
 }
 
-.post-links.contratado {
-  background-color: $contratadome;
+.post-links.revelo {
+  background-color: $revelo;
 
   &:hover {
     background-color: transparent;
-    color: $contratadome;
-  }
-}
-
-.post-links.vanhack {
-  background-color: $vanhack;
-
-  &:hover {
-    background-color: transparent;
-    color: $vanhack;
+    color: $revelo;
   }
 }
 
