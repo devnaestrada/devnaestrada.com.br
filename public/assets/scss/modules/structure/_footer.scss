@@ -36,18 +36,36 @@ footer {
   &.profile__image--edu {
     background-image: url('https://pbs.twimg.com/profile_images/807681794296475648/w0uI1vj__400x400.jpg');
   }
+
+  &.profile__image--dne {
+    background-image: url('https://pbs.twimg.com/profile_images/813891596651360257/FWgT12Dn_400x400.jpg');
+  }
 }
 
-.profile__name,
-.profile__role {
+.profile__name {
   display: block;
-  font-size: 15px;
 }
 
 .profile__role {
   color: $profile-role-color;
+  display: block;
+  font-size: 11px;
 }
 
 .profile__twitter {
   margin-top: 15px;
+
+  .twitter-follow-button {
+    @include transition(background-color .3s ease-in-out);
+    background-color: $twitter;
+    color: $ligten;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px 5px;
+
+    &:hover,
+    &:active {
+      background-color: darken($twitter, 10%);
+    }
+  }
 }

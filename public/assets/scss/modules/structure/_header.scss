@@ -14,7 +14,7 @@ header {
   text-align: center;
 
   img {
-    width: rem(100)
+    width: rem(215);
   }
 
   @media screen and (min-width: $tablet) {
@@ -89,8 +89,15 @@ header {
 
 .header-nav li a {
   display: block;
+  font-size: rem(11);
 
   @media screen and (min-width: $tablet) {
     display: inline-block;
   }
+}
+
+.header-nav-link--apoiase {
+  background-color: $primary-color;
+  border: 2px solid $primary-color;
+  color: $ligten;
 }
