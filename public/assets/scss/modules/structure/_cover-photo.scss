@@ -6,16 +6,16 @@
   @include align-items(center);
   @include display(flex);
   @include justify-content(center);
-  @include animation(coverphoto 100s linear infinite);
+  @include animation(coverphoto 50s linear infinite);
   background: {
     color: $darken;
-    image: url(../public/assets/img/cover-photo.jpg);
+    image: url(../public/assets/img/pattern-px.png);
     position: left bottom;
     repeat: repeat;
   };
-  max-height: rem(480);
+  max-height: rem(100);
   max-width: 100%;
-  padding: 30px;
+  padding: rem(20);
   text-align: center;
 
   @media screen and (min-width: $tablet) {
@@ -26,12 +26,12 @@
 
 .coverphoto-title {
   color: $ligten;
-  font-size: rem(22);
+  font-size: rem(18);
   font-weight: 600;
   margin: 0 auto;
   max-width: rem(600);
 
   @media screen and (min-width: $tablet) {
-    font-size: rem(28);
+    font-size: rem(24);
   }
 }

@@ -10,7 +10,7 @@ url: "http://devnaestrada.com.br"
 future: true
 
 # blog
-paginate: 20
+paginate: 10
 paginate_path: "/podcast/:num/"
 
 # service links
