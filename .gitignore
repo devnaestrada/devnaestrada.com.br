@@ -7,3 +7,5 @@ _site
 .idea/*
 Gemfile.lock
 node_modules
+assets/css
+.jekyll-metadata
