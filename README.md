@@ -1,6 +1,6 @@
 # DEVNAESTRADA!
 
-[![Deployment status from DeployBot](https://aowba.deploybot.com/badge/13023223926648/41230.svg)](http://deploybot.com)
+[![Deployment status from DeployBot](https://aowba.deploybot.com/badge/34534835889972/41230.svg)](http://deploybot.com)
 
 > O [DEVNAESTRADA](http://devnaestrada.com.br) é um podcast focado em desenvolvedores web, onde contamos um pouco do nosso dia
 dia em um papo descontraído e sempre com muita risada.
@@ -21,33 +21,40 @@ A melhor maneira de se fazer isso é utilizando o [RVM](https://rvm.io/) ou o [r
 
 Também é possível fazer isso seguindo as instruções do [site oficial](https://www.ruby-lang.org/pt/).
 
-### Instale o Bundler (gerenciador de dependências):
+> Recommended version ruby 2.4.2p198
+
+- Instale o Bundler (gerenciador de dependências):
+
 
     $ gem install bundler
 
-### Instale as gems necessárias
+- Instale as gems necessárias
+
 
     $ bundle install
 
-### Instale as dependencias do NodeJS
+### Instale NodeJS
 
-    $ npm i
+A melhor maneira de se fazer isso é utilizando o [NVM](https://github.com/creationix/nvm) ou direto no site [nodejs](https://nodejs.org/en/).
 
-### Inicie o servidor do Jekyll
+- Instale as dependências do node
 
-    $ bundle exec jekyll serve
 
-### Pronto!
+    $ npm install
 
-Agora basta acessar [localhost:4000](http://localhost:4000/).
+### Instale o GulpJS
+
+    $ npm install gulp-cli -g
+
+### Rodando o projeto
+
+    $ npm start
 
 ## Colabore
 
 - Só aceitamos Pullrequest na branch [develop](https://github.com/devnaestrada/devnaestrada.com.br/tree/develop)
 - Exemplo para [template do Pull request](https://github.com/devnaestrada/devnaestrada.com.br/wiki/Template-for-Pull-Request)
 
-Visite nosso [site](http://devnaestrada.com.br).
-
 ## Licença
 
-[MIT Licence](LICENSE) © [DevNaEstrada](http://devnaestrada.com.br/)
+[MIT Licence](LICENSE) © [DEVNAESTRADA](http://devnaestrada.com.br/)
