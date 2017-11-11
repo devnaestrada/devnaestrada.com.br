@@ -4,7 +4,8 @@
   "description": "devnaestrada podcast",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",
