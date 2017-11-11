@@ -4,13 +4,13 @@
 ////////////////////////////////
 
 .post-links {
-  @include transition(all .2s ease-in-out);
   background-color: $primary-color;
   color: $ligten;
   display: inline-block;
   font-weight: bold;
-  padding: 0 5px;
   margin: 5px 0;
+  padding: 0 5px;
+  transition: all .2s ease-in-out;
 
   &:hover {
     background-color: transparent;

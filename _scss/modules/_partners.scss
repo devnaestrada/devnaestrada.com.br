@@ -7,12 +7,12 @@
 
 .partners {
   border-bottom: $footerColor 1px solid;
-  padding: rem(30) 0;
+  padding: 30px 0;
   text-align: center;
 }
 
 .partners-title {
-  font-size: rem(14);
+  font-size: 14px;
 }
 
 .partners-list {
@@ -23,12 +23,12 @@
 
   li {
     display: inline-block;
-    margin-left: rem(15);
+    margin-left: 15px;
     vertical-align: middle;
 
     &:first-child {
       display: block;
-      margin-bottom: rem(10);
+      margin-bottom: 10px;
       margin-left: 0;
     }
   }

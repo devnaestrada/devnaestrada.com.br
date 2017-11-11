@@ -6,13 +6,13 @@
 // *************************************
 
 .episodes {
-  max-width: rem(710);
+  max-width: 710px;
   margin: 0 auto;
 
   .episode {
     border-top: rgba(228, 229, 233, 0.96) 1px solid;
-    margin-top: rem(30);
-    padding-top: rem(30);
+    margin-top: 30px;
+    padding-top: 30px;
 
     &:first-child {
       border-top: 0;

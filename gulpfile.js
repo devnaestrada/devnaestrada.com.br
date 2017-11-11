@@ -8,8 +8,8 @@ const browserSync = require('browser-sync').create();
 const siteRoot = '_site'
 const cssFiles = '_scss/**/*.?(s)css'
 
-gulp.task('jekyll', () => {
-  const jekyll = child.spawn('jekyll', ['build', '--watch', '--incremental', '--drafts'])
+const runJekyll = (props) => {
+  const jekyll = child.spawn('jekyll', props)
   const jekyllLogger = (buffer) => {
     buffer.toString()
       .split(/\n/)
@@ -18,6 +18,14 @@ gulp.task('jekyll', () => {
 
   jekyll.stdout.on('data', jekyllLogger)
   jekyll.stderr.on('data', jekyllLogger)
+}
+
+gulp.task('jekyll:watch', () => {
+  runJekyll(['build', '--watch', '--incremental', '--drafts'])
+})
+
+gulp.task('jekyll:build', () => {
+  runJekyll(['build'])
 })
 
 gulp.task('css', () => {
@@ -43,4 +51,5 @@ gulp.task('serve', () => {
   gulp.watch(cssFiles, ['css'])
 })
 
-gulp.task('default', ['css', 'jekyll', 'serve'])
+gulp.task('default', ['css', 'jekyll:watch', 'serve'])
+gulp.task('build', ['css', 'jekyll:build'])

@@ -1,14 +1,8 @@
-// *************************************
-//
-//   Post Participants{}
-//
-// *************************************
-
 .post-participants ul {
-  @include clearfix;
   box-sizing: border-box;
   list-style: none;
   margin: 0;
+  overflow: hidden;
   padding: 0;
 }
 
@@ -26,7 +20,7 @@
   border-radius: 50%;
   float: left;
   height: 50px;
-  margin-right: rem(15);
+  margin-right: 15px;
   object-fit: cover;
 }
 

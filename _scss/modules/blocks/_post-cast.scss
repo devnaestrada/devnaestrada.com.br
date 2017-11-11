@@ -52,8 +52,8 @@
     padding: 0;
 
     li {
-      font-size: rem(15);
-      margin-top: rem(5);
+      font-size: 15px;
+      margin-top: 5px;
 
       &:first-child {
         margin-top: 0;
@@ -64,7 +64,7 @@
 
 .post-cast__content .post-participants,
 .post-cast__content .post-support {
-  margin-top: rem(30);
+  margin-top: 30px;
 }
 
 .disqus-comments {

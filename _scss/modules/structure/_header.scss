@@ -1,11 +1,7 @@
-/////////////////////////////////
-// name: Header
-////////////////////////////////
-
 header {
   margin: 0 auto;
-  max-width: rem(710);
-  padding: rem(15);
+  max-width: 710px;
+  padding: 15px;
   position: relative;
 }
 
@@ -14,7 +10,7 @@ header {
   text-align: center;
 
   img {
-    width: rem(215);
+    width: 215px;
   }
 
   @media screen and (min-width: $tablet) {
@@ -26,10 +22,10 @@ header {
 
 .nav-label {
   cursor: pointer;
-  font-size: rem(28);
+  font-size: 28px;
   position: absolute;
-  right: rem(15);
-  top: rem(15);
+  right: 15px;
+  top: 15px;
 
   @media screen and (min-width: $tablet) {
     display: none;
@@ -59,9 +55,9 @@ header {
   text-align: center;
 
   @media screen and (min-width: $tablet) {
-    @include transform(scaleY(1));
+    transform: scaleY(1);
     display: inline-block;
-    margin-left: rem(30);
+    margin-left: 30px;
     max-height: 9999px;
     vertical-align: middle;
   }
@@ -74,11 +70,11 @@ header {
 }
 
 .header-nav li {
-  margin-top: rem(10);
+  margin-top: 10px;
 
   @media screen and (min-width: $tablet) {
     display: inline-block;
-    margin-left: rem(30);
+    margin-left: 30px;
     margin-top: 0;
   }
 
@@ -89,7 +85,7 @@ header {
 
 .header-nav li a {
   display: block;
-  font-size: rem(11);
+  font-size: 11px;
 
   @media screen and (min-width: $tablet) {
     display: inline-block;

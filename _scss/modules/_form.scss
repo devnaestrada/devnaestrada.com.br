@@ -12,7 +12,7 @@
 $scaffold: '.form';
 
 #{$scaffold} {
-  margin-top: rem(30);
+  margin-top: 30px;
 }
 
 // -------------------------------------
@@ -20,7 +20,7 @@ $scaffold: '.form';
 // -------------------------------------
 
 .input-wrap {
-  margin-top: rem(15);
+  margin-top: 15px;
 }
 
 // -------------------------------------
@@ -39,8 +39,8 @@ $scaffold: '.form';
 .input {
   display: block;
   width: 100%;
-  margin-top: rem(5);
-  padding: rem(10) rem(15);
+  margin-top: 5px;
+  padding: 10px 15px;
 }
 
 // -------------------------------------
@@ -50,9 +50,9 @@ $scaffold: '.form';
 .textarea {
   display: block;
   width: 100%;
-  margin-top: rem(5);
-  padding: rem(10) rem(15);
-  min-height: rem(100);
+  margin-top: 5px;
+  padding: 10px 15px;
+  min-height: 100px;
 }
 
 // -------------------------------------

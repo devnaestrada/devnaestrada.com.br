@@ -1,7 +1,7 @@
 footer {
   background-color: $footerColor;
-  margin-top: rem(30);
-  padding: rem(30);
+  margin-top: 30px;
+  padding: 30px;
 
   .container {
     display: flex;
@@ -56,7 +56,7 @@ footer {
   margin-top: 15px;
 
   .twitter-follow-button {
-    @include transition(background-color .3s ease-in-out);
+    transition: background-color .3s ease-in-out;
     background-color: $twitter;
     color: $ligten;
     font-size: 12px;

@@ -5,12 +5,12 @@
 #search-form {
   position: relative;
   display: block;
-  max-width: rem(710);
-  margin: rem(30) auto 0;
+  max-width: 710px;
+  margin: 30px auto 0;
 }
 
 #search-input {
-  padding-left: rem(10);
+  padding-left: 10px;
 }
 
 #search-icon {
@@ -22,7 +22,7 @@
 }
 
 #search-input {
-  font-size: rem(16);
+  font-size: 16px;
   background-color: $ligten;
   border: $neutral 1px solid;
   height: 40px;

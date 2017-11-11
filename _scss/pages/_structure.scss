@@ -5,10 +5,12 @@ body {
   font-family: $base-font;
   font-size: $base-font-size;
   text-rendering: optimizeLegibility;
+	margin: 0;
+	padding: 0;
 }
 
 a {
-  @include transition(color .2s ease-in-out);
+  transition: color .2s ease-in-out;
   text-decoration: none;
   color: $link-color;
   outline: none;

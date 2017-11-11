@@ -34,10 +34,10 @@ links:
 ---
 
 <a href="https://www.udemy.com/curso-javascript-ninja/?couponCode=DEVNAESTRADA" style="display: inline-block; width: 49%;">
-  <img style="width: 100%;" src="{{ "public/assets/img/fdaciuk-js.jpg" | prepend: site.baseurl }}" alt="Curso 30% Javascript Fernando Daciuk" />
+  <img style="width: 100%;" src="{{ "assets/img/fdaciuk-js.jpg" | prepend: site.baseurl }}" alt="Curso 30% Javascript Fernando Daciuk" />
 </a>
 <a href="https://www.udemy.com/curso-reactjs-ninja/?couponCode=DNAMODULO4" style="display: inline-block; width: 49%;">
-  <img style="width: 100%;" src="{{ "public/assets/img/fdaciuk-react.jpg" | prepend: site.baseurl }}" alt="Curso 51% React Fernando Daciuk" />
+  <img style="width: 100%;" src="{{ "assets/img/fdaciuk-react.jpg" | prepend: site.baseurl }}" alt="Curso 51% React Fernando Daciuk" />
 </a>
 
 No episódio de hoje [@eduardojmatos](http://twitter.com/eduardojmatos) e [@femontanha](https://twitter.com/femontanha) entrevistam o grande [@fdaciuk](https://twitter.com/fdaciuk). Uma história cheia de risco e aprendizado, escutem só ;)

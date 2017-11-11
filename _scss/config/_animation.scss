@@ -1,48 +1,5 @@
-/////////////////////////////////
-// name: Animations
-////////////////////////////////
-
-@include keyframes(coverphoto) {
+@keyframes coverphoto {
   100% {
     background-position: -3000px 0;
-  }
-}
-
-@include keyframes(showAnimation) {
-	0% {
-		@include transform(scaleY(0.1));
-	}
-	40% {
-		@include transform(scaleY(1.04));
-	}
-	60% {
-		@include transform(scaleY(0.98));
-	}
-	80% {
-		@include transform(scaleY(1.04));
-	}
-	100% {
-		@include transform(scaleY(0.98));
-	}
-	80% {
-		@include transform(scaleY(1.02));
-	}
-	100% {
-		@include transform(scaleY(1));
-	}
-}
-
-@include keyframes(hideAnimation) {
-  0% {
-  	@include transform(scaleY(1));
-  }
-  60% {
-  	@include transform(scaleY(0.98));
-  }
-  80% {
-  	@include transform(scaleY(1.02));
-  }
-  100% {
-  	@include transform(scaleY(0));
   }
 }

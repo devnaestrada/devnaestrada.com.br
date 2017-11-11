@@ -6,9 +6,9 @@
 // *************************************
 
 .episode-date {
-  font-size: rem(14);
+  font-size: 14px;
   color: #bbb;
-  margin: 0 0 rem(10);
+  margin: 0 0 10px;
 }
 
 .episode-holder,
@@ -20,7 +20,7 @@
 .episode-artwork {
   display: none;
   float: left;
-  margin-right: rem(10);
+  margin-right: 10px;
   max-width: 100px;
 
   @media screen and (min-width: $mobile) {
@@ -39,17 +39,17 @@
 
 .episode-title {
   color: $primary-color;
-  font-size: rem(18);
-  margin: 0 0 rem(10);
+  font-size: 18px;
+  margin: 0 0 10px;
 
   @media screen and (min-width: $mobile) {
-    font-size: rem(22);
+    font-size: 22px;
   }
 }
 
 .episode-description {
   display: none;
-  font-size: rem(16);
+  font-size: 16px;
   margin: 0;
 
   @media screen and (min-width: $mobile) {

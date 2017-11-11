@@ -2,7 +2,7 @@
   text-align: center;
 
   .fa-bed {
-    @include transition(color .2s ease-in-out);
+    transition: color .2s ease-in-out;
     font-size: 7em;
 
     &:hover {
