@@ -1,0 +1,37 @@
+/////////////////////////////////
+// name: Cover Photo
+////////////////////////////////
+
+.coverphoto {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  animation: coverphoto 50s linear infinite;
+  background: {
+    color: $darken;
+    image: url(../img/pattern-px.png);
+    position: left bottom;
+    repeat: repeat;
+  };
+  max-height: 100px;
+  max-width: 100%;
+  padding: 20px;
+  text-align: center;
+
+  @media screen and (min-width: $tablet) {
+    height: 180px;
+    padding: 0;
+  }
+}
+
+.coverphoto-title {
+  color: $ligten;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 auto;
+  max-width: 600px;
+
+  @media screen and (min-width: $tablet) {
+    font-size: 24px;
+  }
+}

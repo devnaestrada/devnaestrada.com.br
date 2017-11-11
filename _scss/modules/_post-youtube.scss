@@ -1,0 +1,28 @@
+// *************************************
+//
+//   Post Youtube
+//
+// *************************************
+
+.post-youtube {
+  margin-top: 60px;
+}
+
+.post-youtube-title {
+  font-size: 32px;
+  margin-top: 0;
+}
+
+.v-wrapper {
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 */
+  position: relative;
+}
+
+.v-iframe {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

@@ -1,0 +1,17 @@
+.page-404 {
+  text-align: center;
+
+  .fa-bed {
+    transition: color .2s ease-in-out;
+    font-size: 7em;
+
+    &:hover {
+      color: $primary-color;
+      cursor: wait;
+    }
+  }
+
+  .btn {
+    margin-top: 30px;
+  }
+}

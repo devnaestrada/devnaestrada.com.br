@@ -13,19 +13,19 @@
 -
   title: 'Training Center / Mentoria'
   link: 'http://bit.ly/dne-mentoria'
-  picture: '/public/assets/img/community/github.jpg'
+  picture: '/assets/img/community/github.jpg'
   picture_alt: 'Github Training Center Mentoria'
   description: 'Esse é um projeto para reunir Mentores(as) para auxiliar iniciantes a seguir uma trilha em sua carreira, mas também podem ser ajudados(as) os(as) que já tem alguma bagagem e sentem que precisam de uma direção.'
 -
   title: 'Front-end Brasil'
   link: 'http://bit.ly/dne-frontendbr'
-  picture: '/public/assets/img/community/frontendbr.jpg'
+  picture: '/assets/img/community/frontendbr.jpg'
   picture_alt: 'Front-end BR'
   description: 'Projeto OpenSource criado e mantido pela comunidade de Front-end no Brasil. Nesse grupo do Github você vai encontrar repositórios para eventos que acontecem no Brasil, fórum de discussão, projeto de doação de livro, vagas de trabalho e mais! Faça parte do maior grupo de Front-end do Brasil.'
 -
   title: 'PHPSP'
   link: 'http://bit.ly/dne-comunidade-phpsp'
-  picture: '/public/assets/img/community/phpsp.jpg'
+  picture: '/assets/img/community/phpsp.jpg'
   picture_alt: 'PHPSP'
   description: '
     O PHPSP é o conjunto de todas as pessoas que participam de alguma forma da comunidade: Você que comparece aos eventos, que faz código, que comenta nas redes sociais e que fala a respeito da comunidade.

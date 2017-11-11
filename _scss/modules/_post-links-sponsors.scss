@@ -1,0 +1,73 @@
+/////////////////////////////////
+// name:    Post Links Participants
+// extend:  Post Links
+////////////////////////////////
+
+.post-links {
+  background-color: $primary-color;
+  color: $ligten;
+  display: inline-block;
+  font-weight: bold;
+  margin: 5px 0;
+  padding: 0 5px;
+  transition: all .2s ease-in-out;
+
+  &:hover {
+    background-color: transparent;
+    color: $primary-color;
+  }
+}
+
+.post-links.revelo {
+  background-color: $revelo;
+
+  &:hover {
+    background-color: transparent;
+    color: $revelo;
+  }
+}
+
+.post-links.alura {
+  background-color: $alura;
+
+  &:hover {
+    background-color: transparent;
+    color: $alura;
+  }
+}
+
+.post-links.bluesoft {
+  background-color: $bluesoft;
+
+  &:hover {
+    background-color: transparent;
+    color: $bluesoft;
+  }
+}
+
+.post-links.stickersdevs {
+  background-color: $stickersdevs;
+
+  &:hover {
+    background-color: transparent;
+    color: $stickersdevs;
+  }
+}
+
+.post-links.magnetis {
+  background-color: $magnetis;
+
+  &:hover {
+    background-color: transparent;
+    color: $magnetis;
+  }
+}
+
+.post-links.twitter {
+  background-color: $twitter;
+
+  &:hover {
+    background-color: transparent;
+    color: $twitter;
+  }
+}

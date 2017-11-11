@@ -1,0 +1,58 @@
+// *************************************
+//
+//   Episode
+//   ->
+//
+// *************************************
+
+.episode-date {
+  font-size: 14px;
+  color: #bbb;
+  margin: 0 0 10px;
+}
+
+.episode-holder,
+.episode-link,
+.episode-description {
+  overflow: hidden;
+}
+
+.episode-artwork {
+  display: none;
+  float: left;
+  margin-right: 10px;
+  max-width: 100px;
+
+  @media screen and (min-width: $mobile) {
+    display: block;
+  }
+}
+
+.episode-link {
+  display: block;
+  text-decoration: none;
+}
+
+.episode-type {
+  font-weight: bold;
+}
+
+.episode-title {
+  color: $primary-color;
+  font-size: 18px;
+  margin: 0 0 10px;
+
+  @media screen and (min-width: $mobile) {
+    font-size: 22px;
+  }
+}
+
+.episode-description {
+  display: none;
+  font-size: 16px;
+  margin: 0;
+
+  @media screen and (min-width: $mobile) {
+    display: block;
+  }
+}

@@ -1,0 +1,71 @@
+footer {
+  background-color: $footerColor;
+  margin-top: 30px;
+  padding: 30px;
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+
+    @media screen and (min-width: $tablet) {
+      flex-direction: row;
+    }
+  }
+}
+
+.profile__image {
+  background-position: center;
+  background-size: contain;
+  border-radius: 50%;
+  display: inline-block;
+  height: 50px;
+  margin-bottom: 15px;
+  position: relative;
+  width: 50px;
+
+  &.profile__image--femontanha {
+    background-image: url('http://pbs.twimg.com/profile_images/849471628966756354/q1_8jz9V.jpg');
+  }
+
+  &.profile__image--raymon {
+    background-image: url('http://pbs.twimg.com/profile_images/815923259422244864/EZs8WgQ3.jpg');
+  }
+
+  &.profile__image--edu {
+    background-image: url('https://pbs.twimg.com/profile_images/807681794296475648/w0uI1vj__400x400.jpg');
+  }
+
+  &.profile__image--dne {
+    background-image: url('https://pbs.twimg.com/profile_images/813891596651360257/FWgT12Dn_400x400.jpg');
+  }
+}
+
+.profile__name {
+  display: block;
+}
+
+.profile__role {
+  color: $profile-role-color;
+  display: block;
+  font-size: 11px;
+}
+
+.profile__twitter {
+  margin-top: 15px;
+
+  .twitter-follow-button {
+    transition: background-color .3s ease-in-out;
+    background-color: $twitter;
+    color: $ligten;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px 5px;
+
+    &:hover,
+    &:active {
+      background-color: darken($twitter, 10%);
+    }
+  }
+}

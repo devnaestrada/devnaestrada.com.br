@@ -1,0 +1,29 @@
+.post-participants ul {
+  box-sizing: border-box;
+  list-style: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+.post-participants li {
+  box-sizing: border-box;
+  float: left;
+  width: 100%;
+
+  @media screen and (min-width: $mobile) {
+    width: 50%;
+  }
+}
+
+.post-participants img {
+  border-radius: 50%;
+  float: left;
+  height: 50px;
+  margin-right: 15px;
+  object-fit: cover;
+}
+
+.post-participants h3 {
+  margin: 0;
+}
