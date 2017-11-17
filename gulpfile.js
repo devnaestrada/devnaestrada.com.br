@@ -21,7 +21,7 @@ const runJekyll = (props) => {
 }
 
 gulp.task('jekyll:watch', () => {
-  runJekyll(['build', '--watch', '--incremental', '--drafts'])
+  runJekyll(['build', '--watch'])
 })
 
 gulp.task('jekyll:build', () => {
