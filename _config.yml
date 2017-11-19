@@ -4,7 +4,7 @@ email: devnaestrada at gmail com
 email_address: contato@devnaestrada.com.br
 baseurl: "/"
 description: "Podcast sobre front-end, back-end e desenvolvimento web. Toda sexta feira um novo episódio, com pautas, entrevistas e toda terça feira um DNE Pocket!"
-url: "http://devnaestrada.com.br"
+url: "https://devnaestrada.com.br"
 
 # blog
 paginate: 10
@@ -12,8 +12,8 @@ paginate_path: "/podcast/:num/"
 future: true
 
 # Libsyn
-libsyn_prefix: "http://traffic.libsyn.com/devnaestrada/"
-dne_capa: "http://static.libsyn.com/p/assets/8/4/8/3/84831a5d82e54861/dne-podcast-avatar1400.png"
+libsyn_prefix: "https://traffic.libsyn.com/devnaestrada/"
+dne_capa: "https://static.libsyn.com/p/assets/8/4/8/3/84831a5d82e54861/dne-podcast-avatar1400.png"
 
 # Google Analytics
 google_analytics: UA-63291340-1
