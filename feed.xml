@@ -27,7 +27,7 @@ layout: null
     <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
     <itunes:author>devanaestrada.com.br</itunes:author>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:image href="https://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png" />
+    <itunes:image href="https://devnaestrada.com.br/assets/img/dne-podcast-avatar1400.png" />
     <itunes:owner>
       <itunes:name>{{ site.title }}</itunes:name>
       <itunes:email>{{ site.email_address }}</itunes:email>
@@ -37,7 +37,7 @@ layout: null
     <itunes:subtitle>Bate papo, tecnologia e programação Front-end e Back-end</itunes:subtitle>
     <image>
       <title>{{ site.title | xml_escape }}</title>
-      <url>https://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png</url>
+      <url>https://devnaestrada.com.br/assets/img/dne-podcast-avatar1400.png</url>
       <link>{{ site.url }}/feed.xml</link>
     </image>
     <itunes:category text="Technology">
@@ -49,7 +49,7 @@ layout: null
     <itunes:category text="Business">
       <itunes:category text="Careers" />
     </itunes:category>
-    <googleplay:image href="https://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png" />
+    <googleplay:image href="https://devnaestrada.com.br/assets/img/dne-podcast-avatar1400.png" />
     <rawvoice:location>Brazil, São Paulo</rawvoice:location>
     <rawvoice:frequency>Semanal</rawvoice:frequency>
     {% for post in site.posts limit:500 %}
