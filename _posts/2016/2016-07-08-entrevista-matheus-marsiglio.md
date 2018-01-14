@@ -10,6 +10,7 @@ description: "Na entrevista de hoje, batemos um papo com Matheus Marsiglio, fron
 soundcloud-id: "272694102"
 soundcloud-post-image: "000170595124-vv3d8c"
 lybsyn-id: "5634215"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

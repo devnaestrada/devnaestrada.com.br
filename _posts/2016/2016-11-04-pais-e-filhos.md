@@ -10,6 +10,7 @@ description: "No episódio de hoje @raymonsanches, @andregumieri e @rlabate reso
 soundcloud-id: "291426992"
 soundcloud-post-image: "000191980530-dsdzl3"
 lybsyn-id: "5634195"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Ramon Sanches

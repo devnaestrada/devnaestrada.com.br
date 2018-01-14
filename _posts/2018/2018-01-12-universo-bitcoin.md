@@ -12,6 +12,7 @@ Nesse episódio nós conversamos sobre o Universo Bitcoin, uma passada de pano b
 libsyn-image: "dne-139-capa.jpg"
 lybsyn-id: "6140887"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Bitcoin', 'fabio vedovelli', 'infoslack']"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja
@@ -40,11 +41,11 @@ links:
     url: "https://www.youtube.com/user/vedovelli"
 ---
 
+Nesse episódio nós conversamos sobre o Universo Bitcoin, uma passada de pano bem por cima do que significa essa moeda e também um pouco da experiência desses 2 convidados, brincando com as crypto currencies!
+
 Fabio Vedovelli (@vedovelli) é desenvolvedor web, palestrante e professor. Iniciou sua carreira no ano 2000 e atualmente é front end developer para a octimine technologies da Alemanha.
 
 Daniel Romero (@infoslack) é desenvolvedor web, escritor, palestrante e Engenheiro de Infraestrutura em uma startup brasileira.
-
-Nesse episódio nós conversamos sobre o Universo Bitcoin, uma passada de pano bem por cima do que significa essa moeda e também um pouco da experiência desses 2 convidados, brincando com as crypto currencies!
 
 ---
 

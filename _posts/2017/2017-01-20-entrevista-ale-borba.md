@@ -11,6 +11,7 @@ soundcloud-id: "303604917"
 soundcloud-post-image: "000203772829-qzfe7f"
 lybsyn-id: "5634180"
 youtubeCode: "HjDH1el-alo"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Alê Borba

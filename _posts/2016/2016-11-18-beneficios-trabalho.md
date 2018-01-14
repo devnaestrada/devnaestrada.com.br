@@ -10,6 +10,7 @@ description: "@femontanha e @raymonsanches se juntam com @eduardojmatos e @andre
 soundcloud-id: "293574725"
 soundcloud-post-image: "000194104792-qga76b"
 lybsyn-id: "5634190"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Ramon Sanches

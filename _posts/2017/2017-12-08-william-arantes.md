@@ -10,6 +10,7 @@ description: "Sexta é dia de? Mais um DNE, dessa vez @warantesbr veio nos conta
 libsyn-image: "dne-134-capa.jpg"
 lybsyn-id: "6023313"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Entrevista', 'William Arantes']"
+sponsors: ["revelo", "alura", "magnetis", "bluesoft"]
 participants:
   -
     name: William Arantes

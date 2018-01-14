@@ -10,6 +10,7 @@ description: "@femontanha, @eduardojmatos dão adeus ao ano velho e fazem uma pe
 libsyn-image: "dne-137-capa.jpg"
 lybsyn-id: "6097228"
 tags: "['Podcast', 'Front-end', 'Back-end', 'retrospectiva', '2017']"
+sponsors: ["revelo", "alura", "magnetis", "bluesoft"]
 participants:
   -
     name: Ramon Sanches

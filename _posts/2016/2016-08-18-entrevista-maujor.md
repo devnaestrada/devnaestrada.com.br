@@ -10,6 +10,7 @@ description: "Hoje falamos com uma lenda da internet brasileira. Com muita empol
 soundcloud-id: "278902331"
 soundcloud-post-image: "000177382782-tqhu2c"
 lybsyn-id: "5634208"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Maujor

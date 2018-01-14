@@ -10,6 +10,7 @@ description: "@femontanha e @eduardojmatos falam com @gabriel_engel o CEO do Roc
 libsyn-image: "dne-124-capa.jpg"
 lybsyn-id: "5788636"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Pauta', 'Rocket', 'Chat']"
+sponsors: ["revelo", "alura", "magnetis"]
 participants:
   -
     name: Eduardo Matos

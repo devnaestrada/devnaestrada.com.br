@@ -11,6 +11,7 @@ soundcloud-id: "333116802"
 soundcloud-post-image: "000233544321-01m9ts"
 lybsyn-id: "5634141"
 tags: ['Podcast','Programação','Front-end','Back-end','Alura','Caelum', 'Sergio Lopes', 'Blog']
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja

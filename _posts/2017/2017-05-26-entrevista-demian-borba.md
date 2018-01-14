@@ -11,6 +11,7 @@ soundcloud-id: "324552395"
 soundcloud-post-image: "000224414561-4d2zq1"
 lybsyn-id: "5634148"
 tags: ['Podcast','Programação','Front-end','Back-end','Demian Borba','Adobe','XD','PM', 'Product Manager', 'São Francisco', 'San Francisco','Entrevista']
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja

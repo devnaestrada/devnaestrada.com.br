@@ -10,6 +10,7 @@ description: "Hoje @raymonsanches conversa com um pouco com @raonyguimaraes, @le
 soundcloud-id: "267220053"
 soundcloud-post-image: "000165645277-x4ginr"
 lybsyn-id: "5634220"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

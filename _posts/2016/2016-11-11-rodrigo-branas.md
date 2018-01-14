@@ -10,6 +10,7 @@ description: "No episódio de hoje @femontanha conversa com o nosso convidado @r
 soundcloud-id: "292491246"
 soundcloud-post-image: "000193015959-bjrnbh"
 lybsyn-id: "5634193"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Rodrigo Branas

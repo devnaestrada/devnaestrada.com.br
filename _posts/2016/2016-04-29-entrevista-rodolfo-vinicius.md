@@ -10,6 +10,7 @@ description: "Who can it be now? Neste episódio @femontanha e @raymonsanches en
 soundcloud-id: "261440964"
 soundcloud-post-image: "000160368580-12zs1u"
 lybsyn-id: "5634225"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

@@ -10,6 +10,7 @@ description: "Mais um episódio sobre carreira, com @wharleyornelas, @raymonsanc
 libsyn-image: "dne-127-capa.jpg"
 lybsyn-id: "5858847"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Entrevista', 'Wharley Ornelas']"
+sponsors: ["revelo", "alura", "magnetis", "bluesoft"]
 participants:
   -
     name: Ramon Sanches

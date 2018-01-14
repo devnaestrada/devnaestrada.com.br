@@ -11,6 +11,7 @@ soundcloud-id: "308174392"
 soundcloud-post-image: "000208226572-8929wx"
 lybsyn-id: "5634175"
 youtubeCode: "-wvoM7WPLx4"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja

@@ -10,6 +10,7 @@ description: "@femontanha bate um papo com o @hashserg. Ele nos conta sobre sua 
 soundcloud-id: "285180524"
 soundcloud-post-image: "000185750776-ln767a"
 lybsyn-id: "5634201"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Sergio Cruz

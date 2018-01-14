@@ -11,6 +11,7 @@ soundcloud-id: "332023910"
 soundcloud-post-image: "000232454428-6nhkko"
 lybsyn-id: "5634142"
 tags: ['Podcast','Programação','Front-end','Back-end','WebAssembly','WASM', 'JIT', 'AST']
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja

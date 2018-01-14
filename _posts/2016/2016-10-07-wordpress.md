@@ -10,6 +10,7 @@ description: "No episódio de hoje @femontanha, @raymonsanches e @andregumieri f
 soundcloud-id: "286498243"
 soundcloud-post-image: "000187049921-ywzd3e"
 lybsyn-id: "5634200"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: André Gumieri

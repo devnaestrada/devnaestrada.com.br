@@ -14,6 +14,7 @@ Nesse episódio esses 2 desenvolvedores conversam com o @femontanha e @raymonsan
 libsyn-image: "dne-138-capa.jpg"
 lybsyn-id: "6117210"
 tags: "['Podcast', 'Front-end', 'Back-end', 'vuejs', 'fabio vedovelli', 'Vinicius Reis']"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Ramon Sanches

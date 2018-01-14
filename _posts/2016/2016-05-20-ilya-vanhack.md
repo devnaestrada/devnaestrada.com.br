@@ -10,6 +10,7 @@ description: "No episódio de hoje @femontanha bate um super papo com @ilyabrotz
 soundcloud-id: "264999365"
 soundcloud-post-image: "000163637330-pq9et5"
 lybsyn-id: "5634222"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

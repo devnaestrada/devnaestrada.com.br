@@ -10,6 +10,7 @@ description: "No episódio de hoje @femontanha, @eduardojmatos e @raymonsanches,
 libsyn-image: "dne-130-capa.jpg"
 lybsyn-id: "5931505"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Entrevista', 'Isa Silveira']"
+sponsors: ["revelo", "alura", "magnetis", "bluesoft"]
 participants:
   -
     name: Ramon Sanches

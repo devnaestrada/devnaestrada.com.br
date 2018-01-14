@@ -10,6 +10,7 @@ description: "@femontanha bate um papo com o @wbrunom que conta toda sua trajet√
 soundcloud-id: "294670169"
 soundcloud-post-image: "000195226345-lch7xu"
 lybsyn-id: "5634188"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja

@@ -10,6 +10,7 @@ description: "Neste episódio @eduardojmatos e @raymonsanches conversam com @Car
 libsyn-image: "dne-123-capa.jpg"
 lybsyn-id: "5764201"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Pauta', 'Minas', 'Codam']"
+sponsors: ["revelo", "alura", "magnetis"]
 participants:
   -
     name: Eduardo Matos

@@ -10,6 +10,7 @@ description: "Neste episódio, @femontanha, @raymonsanches, @eduardojmatos, @afo
 soundcloud-id: "257913057"
 soundcloud-post-image: "000157076292-byaiuz"
 lybsyn-id: "5634228"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

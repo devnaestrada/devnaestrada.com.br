@@ -10,6 +10,7 @@ description: "No episódio de hoje @femontanha e @eduardojmatos, batem um papo s
 libsyn-image: "dne-132-capa.jpg"
 lybsyn-id: "5975713"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Entrevista', 'Afonso Pacifer']"
+sponsors: ["revelo", "alura", "magnetis", "bluesoft"]
 participants:
   -
     name: Afonso Pacifer

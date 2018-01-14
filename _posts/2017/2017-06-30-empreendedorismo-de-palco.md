@@ -11,6 +11,7 @@ soundcloud-id: "330921282"
 soundcloud-post-image: "000231355707-snqhyv"
 lybsyn-id: "5634143"
 tags: ['Podcast','Programação','Front-end','Back-end','Empreendedorismo de palco','empresas']
+sponsors: ["revelo", "alura", "italki"]
 participants:
   -
     name: Fellipe Azambuja
@@ -29,7 +30,10 @@ links:
 
 Neste episódio [@femontanha](https://twitter.com/femontanha), [@raymonsanches](https://twitter.com/raymonsanches) e  [@eduardojmatos](https://twitter.com/@eduardojmatos) falam sobre a modinha do Empreendedorismo de Palco. Já mudou seu mindset hoje? Já mudou 4 hábitos para a alta performance? Já seguiu as 10 dicas dos mais bem-sucedidos? Não? Então vem com a gente.
 
-<img src="http://www.italki.com/static/svg/landing-logo.svg" width="50" style="vertical-align:middle; margin-right: 10px" /> Compre uma aula e ganhe outra grátis: [http://go.italki.com/devnaestrada](http://go.italki.com/devnaestrada)
+<a href="http://go.italki.com/devnaestrada">
+  <img src="http://www.italki.com/static/svg/landing-logo.svg" width="50" style="vertical-align:middle; margin-right: 10px" />
+  Compre uma aula e ganhe outra grátis
+</a>
 
 CUPOM 30% BRAZILJS POA: `dev-na-estrada-2017-poa`
 

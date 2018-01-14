@@ -33,6 +33,16 @@ layout: default
     <div class="post-cast__content__audio">
       {% include vendor/libsyn.html %}
     </div>
+    {% if page.sponsors %}
+      <div class="post-sponsors">
+        {% for sponsorArray in page.sponsors %}
+          {% assign sponsor = site.data.sponsors[sponsorArray] %}
+          <a href="{{ sponsor.url }}" class="post-sponsors__link">
+              <img class="post-sponsors__img" src="{{ sponsor.img | prepend: site.url }}" alt="{{ sponsor.name }}" />
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
     {{ content }}
   </div>
 </div>

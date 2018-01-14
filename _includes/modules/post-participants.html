@@ -8,8 +8,7 @@
     <ul>
       {% for participant in page.participants %}
         <li>
-          {{ participant.name }}<br />
-          <a href="https://twitter.com/{{ participant.twitter }}" class="post-links twitter" target="_blank">@{{ participant.twitter }}</a>
+          {{ participant.name }} - <a href="https://twitter.com/{{ participant.twitter }}">Twitter</a>
         </li>
       {% endfor %}
     </ul>

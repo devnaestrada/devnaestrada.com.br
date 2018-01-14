@@ -10,6 +10,7 @@ description: "No episódio de hoje, @femontanha e @raymonsanches batem um papo c
 soundcloud-id: "283131036"
 soundcloud-post-image: "000182825291-vhq1te"
 lybsyn-id: "5634204"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Bruno Genaro
