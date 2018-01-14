@@ -26,6 +26,9 @@ $scaffold: '.community';
 $header: '.community-header';
 
 #{$header}-title {
+  display: inline-block;
+  border-bottom: 1px dotted;
+  margin-bottom:   10px;
   color: $post-title-color;
   font-size: 2.1em;
   font-weight: bold;
