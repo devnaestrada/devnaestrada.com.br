@@ -10,6 +10,7 @@ description: "No episódio de hoje, conheça uma baita história de inspiração
 soundcloud-id: "274802062"
 soundcloud-post-image: "000172691602-4n1qk7"
 lybsyn-id: "5634212"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja

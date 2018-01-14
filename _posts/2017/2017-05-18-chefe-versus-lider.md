@@ -11,6 +11,7 @@ soundcloud-id: "323323313"
 soundcloud-post-image: "000223224617-keqeik"
 lybsyn-id: "5634151"
 tags: ['Podcast','Programação','Front-end','Back-end','Chefe','Líder','ReactJS','Entrevista']
+sponsors: ["revelo", "alura", "italki"]
 participants:
   -
     name: Fellipe Azambuja
@@ -35,6 +36,9 @@ links:
 
 Nesse episódio [@femontanha](http://twitter.com/femontanha) e [@raymonsanches](http://twitter.com/raymonsanches), falam sobre Chefe e Líder. Quais são as diferenças, quais são as experiências que eles tiveram e muito mais! E você já teve um chefe ou um líder?
 
-<img src="http://www.italki.com/static/svg/landing-logo.svg" width="50" style="vertical-align:middle; margin-right: 10px" /> Compre uma aula e ganhe outra grátis: [http://go.italki.com/devnaestrada](http://go.italki.com/devnaestrada)
+<a href="http://go.italki.com/devnaestrada">
+  <img src="http://www.italki.com/static/svg/landing-logo.svg" width="50" style="vertical-align:middle; margin-right: 10px" />
+  Compre uma aula e ganhe outra grátis
+</a>
 
 {% include modules/post-extras.html data=page %}

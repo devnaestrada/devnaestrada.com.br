@@ -10,6 +10,7 @@ description: "Neste episódio @brunoborges nos conta o início de sua carreira l
 soundcloud-id: "276895433"
 soundcloud-post-image: "000174939426-541i0u"
 lybsyn-id: "5634210"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Bruno Borges

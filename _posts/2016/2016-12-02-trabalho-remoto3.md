@@ -10,6 +10,7 @@ description: "Hoje @femontanha, @raymonanches e @andregumieri batem um papo sobr
 soundcloud-id: "295813041"
 soundcloud-post-image: "000196417027-91n32t"
 lybsyn-id: "5634187"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Ramon Sanches

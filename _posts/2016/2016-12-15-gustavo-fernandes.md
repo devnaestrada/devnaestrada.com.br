@@ -10,6 +10,7 @@ description: "@raymonsanches e @femontanha entrevistam @go_fernandes. Uma histó
 soundcloud-id: "298142933"
 soundcloud-post-image: "000198660979-7cy9cn"
 lybsyn-id: "5634185"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja

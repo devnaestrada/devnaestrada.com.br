@@ -11,6 +11,7 @@ Gostou? Bora conferir conosco!"
 libsyn-image: "dne-136-capa.jpg"
 lybsyn-id: "6081347"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Desenvolvedor Angolano', 'Doriel Fonseca']"
+sponsors: ["revelo", "alura", "magnetis", "bluesoft"]
 participants:
   -
     name: Philip Sampaio

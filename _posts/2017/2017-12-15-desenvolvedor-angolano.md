@@ -10,6 +10,7 @@ description: "Doriel Fonseca, Angolano e um front-end apaixonado por NodeJS, Int
 libsyn-image: "dne-135-capa.jpg"
 lybsyn-id: "6047856"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Desenvolvedor Angolano', 'Doriel Fonseca']"
+sponsors: ["revelo", "alura", "magnetis", "bluesoft"]
 participants:
   -
     name: Doriel Fonseca

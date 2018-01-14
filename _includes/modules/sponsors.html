@@ -1,13 +1,17 @@
-<section>
-  <h2>Nossos Apoios:</h2>
-  <ul>
-    <li>
-      <a href="http://bit.ly/dne-alura" class="post-links alura" target="_blank">Alura.com.br</a><br />
-      Cursos online de programação, design, mobile e muito mais!
-    </li>
-    <li>
-      <a href="http://bit.ly/dne-revelo" class="post-links revelo" target="_blank">Revelo.com.br</a><br />
-      Você encontra seu emprego novo, grátis e 100% online.
-    </li>
-  </ul>
-</section>
+{% if page.sponsors %}
+  <section class="post-sponsors-text">
+    {% if page.sponsors.size > 1 %}
+      <h2>Patrocinadores</h2>
+    {% else %}
+      <h2>Patrocinador</h2>
+    {% endif %}
+    <ul>
+      {% for sponsorArray in page.sponsors %}
+        {% assign sponsor = site.data.sponsors[sponsorArray] %}
+        <li>
+            <a href="{{ sponsor.url }}">{{ sponsor.name }}</a> - {{ sponsor.text }}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}

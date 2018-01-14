@@ -10,6 +10,7 @@ description: "No episódio de hoje @femontanha, @eduardojmatos e @raymonsanches,
 libsyn-image: "dne-131-capa.jpg"
 lybsyn-id: "5953525"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Pauta', 'Eventos']"
+sponsors: ["revelo", "alura", "magnetis", "bluesoft"]
 participants:
   -
     name: Ramon Sanches

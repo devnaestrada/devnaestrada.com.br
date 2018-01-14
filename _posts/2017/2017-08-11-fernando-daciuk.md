@@ -11,6 +11,7 @@ soundcloud-id: "337389836"
 soundcloud-post-image: "000237824112-u5lx7h"
 lybsyn-id: "5634137"
 tags: "['Podcast', 'Front-end', 'Entrevista', 'Fernando Daciuk']"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Eduardo Matos

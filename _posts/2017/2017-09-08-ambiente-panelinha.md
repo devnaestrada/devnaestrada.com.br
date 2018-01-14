@@ -10,6 +10,7 @@ description: "Apertem os cintos que hoje tem polêmica! @eduardojmatos, @femonta
 libsyn-image: "dne-121-capa.jpg"
 lybsyn-id: "5719779"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Pauta', 'Ambiente', 'Panelinha']"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Eduardo Matos

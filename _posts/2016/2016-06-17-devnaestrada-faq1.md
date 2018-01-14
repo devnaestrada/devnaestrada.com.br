@@ -10,6 +10,7 @@ description: "@femontanha e @raymonsanches respondem à todas as perguntas dos o
 soundcloud-id: "269540269"
 soundcloud-post-image: "000167754273-uhmmai"
 lybsyn-id: "5634218"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

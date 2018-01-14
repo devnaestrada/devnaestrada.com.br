@@ -1,0 +1,35 @@
+revelo:
+  name: "Revelo"
+  url: "https://bit.ly/dne-revelo"
+  img: "/assets/img/partners/revelo.png"
+  text: "A Revelo encontra os melhores profissionais para as melhores empresas. A tecnologia da Revelo ajuda a conectar as empresas mais inovadoras a profissionais acima da média, que não buscam emprego da maneira tradicional."
+
+alura:
+  name: "Alura"
+  url: "https://bit.ly/dne-alura"
+  img: "/assets/img/partners/alura.png"
+  text: "Quer se aprimorar na sua carreira? Na Alura você encontra mais de 480 cursos! Na Alura sua carreira está pronta para decolar."
+
+magnetis:
+  name: "Magnetis"
+  url: "https://bit.ly/dne-magnetis"
+  img: "/assets/img/partners/magnetis.png"
+  text: "Magnetis é uma fintech aonde criaram um robô que encontra os melhore investimentos para seus sonhos."
+
+bluesoft:
+  name: "Bluesoft"
+  url: "http://carreiras.blue"
+  img: "/assets/img/partners/bluesoft.png"
+  text: "Empresa de software sensacional, que esta buscando programadores antenados assim como você ouvinte do DEVNAESTRADA."
+
+italki:
+  name: "italki"
+  url: "http://go.italki.com/devnaestrada"
+  img: "/assets/img/partners/italki.svg"
+  text: "Aprenda inglês com professores nativos em qualquer lugar do mundo! Compre uma aula e ganhe outra grátis pelo link."
+
+stickersdevs:
+  name: "StickersDevs"
+  url: "https://bit.ly/dne-stickersdevs"
+  img: "/assets/img/partners/stickersdevs.png"
+  text: "Stickers de desenvolvimento ou personalizados."

@@ -10,6 +10,7 @@ description: "@femontanha e @raymonsanches entrevistam o frontend developer Edua
 soundcloud-id: "268414547"
 soundcloud-post-image: "000166752573-0ki1ta"
 lybsyn-id: "5634219"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

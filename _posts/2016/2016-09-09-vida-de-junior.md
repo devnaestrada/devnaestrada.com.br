@@ -10,6 +10,7 @@ description: "No episódio de hoje falamos sobre como tudo começa nessa área d
 soundcloud-id: "282059238"
 soundcloud-post-image: "000181522020-9g8f2t"
 lybsyn-id: "5634205"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Rafael Tavares

@@ -10,6 +10,7 @@ description: "Conheça a história deste frontend developer que resolveu mudar s
 soundcloud-id: "263880622"
 soundcloud-post-image: "000162586597-2e7f8u"
 lybsyn-id: "5634223"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

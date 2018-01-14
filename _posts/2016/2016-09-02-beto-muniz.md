@@ -10,6 +10,7 @@ description: "@femontanha e @raymonsanches entrevistam hoje @obetomuniz, mineiro
 soundcloud-id: "281009943"
 soundcloud-post-image: "000180140998-7b3mzn"
 lybsyn-id: "5634206"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Beto Muniz

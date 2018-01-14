@@ -10,6 +10,7 @@ description: "No episódio de hoje @eduardojmatos, @femontanha e @raymonsanches,
 libsyn-image: "dne118.jpg"
 lybsyn-id: "5654317"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Hábitos', 'Programador', 'Desenvolvedor']"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Eduardo Matos

@@ -11,6 +11,7 @@ soundcloud-id: "334126182"
 soundcloud-post-image: "000234494720-i8kg91"
 lybsyn-id: "5634140"
 tags: ['Podcast','Programação','Front-end','Back-end','Fábio Vedovelli','PHP', 'VueJS', 'Entrevista']
+sponsors: ["revelo", "alura", "italki"]
 participants:
   -
     name: Fellipe Azambuja
@@ -45,12 +46,9 @@ Curso de Programação focado em Ruby e Rails - um curso rápido para quem quer 
 ---
 
 <a href="http://go.italki.com/devnaestrada">
-  <img style="width: 100%" src="https://scontent.fcpq1-1.fna.fbcdn.net/v/t1.0-9/14067617_10154430860099675_8766755569442539500_n.png?oh=3cb5ad4077f85574d6633f5236da0802&oe=59F44C55" alt="Italki" />
+  <img src="http://www.italki.com/static/svg/landing-logo.svg" width="50" style="vertical-align:middle; margin-right: 10px" />
+  Compre uma aula e ganhe outra grátis
 </a>
-
-<img src="http://www.italki.com/static/svg/landing-logo.svg" width="50" style="vertical-align:middle; margin-right: 10px" />**Compre uma aula e ganhe outra grátis**
-
-<a href="http://go.italki.com/devnaestrada" class="btn">Quero fazer inglês</a>
 
 ---
 

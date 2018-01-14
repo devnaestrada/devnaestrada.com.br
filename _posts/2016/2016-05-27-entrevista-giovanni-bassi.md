@@ -10,6 +10,7 @@ description: "Hoje, Giovanni Bassi (@giovannibassi) nos conta sua trajetória, d
 soundcloud-id: "266130916"
 soundcloud-post-image: "000164663484-7arqb8"
 lybsyn-id: "5634221"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

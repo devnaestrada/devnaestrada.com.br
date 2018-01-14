@@ -10,6 +10,7 @@ description: "Neste episódio @femontanha e @raymonsanches , batem um papo sobre
 libsyn-image: "dne-129-capa.jpg"
 lybsyn-id: "5906444"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Pauta', 'Mudança de trampo']"
+sponsors: ["revelo", "alura", "magnetis", "bluesoft"]
 participants:
   -
     name: Ramon Sanches

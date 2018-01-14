@@ -10,6 +10,7 @@ description: "No episódio de hoje, @eduardojmatos e [@femontanha, conversam um 
 libsyn-image: "dne122-capa.jpg"
 lybsyn-id: "5742319"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Entrevista', 'Caelum', 'Alura']"
+sponsors: ["revelo", "alura", "magnetis"]
 participants:
   -
     name: Eduardo Matos

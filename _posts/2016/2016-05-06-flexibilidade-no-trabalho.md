@@ -10,6 +10,7 @@ description: "No episódio de hoje @raymonsanches e @femontanha tiram @wmsbill d
 soundcloud-id: "262722954"
 soundcloud-post-image: "000161575963-dq39sm"
 lybsyn-id: "5634224"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

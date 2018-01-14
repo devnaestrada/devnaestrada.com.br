@@ -10,6 +10,7 @@ description: "No episódio de hoje entrevistamos e conhecemos Alda Rocha (@mjcof
 soundcloud-id: "259162662"
 soundcloud-post-image: "000158251973-z5r3z4"
 lybsyn-id: "5634227"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

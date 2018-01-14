@@ -10,6 +10,7 @@ description: "No episódio de hoje @femontanha e @raymonsanches falam com Iago O
 soundcloud-id: "279941373"
 soundcloud-post-image: "000178770353-k5wm84"
 lybsyn-id: "5634207"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja

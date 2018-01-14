@@ -10,6 +10,7 @@ description: "No episódio de hoje @femontanha e @raymonsanches entrevistam @lfe
 soundcloud-id: "287578343"
 soundcloud-post-image: "000188183030-hnij4i"
 lybsyn-id: "5634199"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Felipe Fialho

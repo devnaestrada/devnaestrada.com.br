@@ -11,6 +11,7 @@ soundcloud-id: "302444407"
 soundcloud-post-image: "000202758413-5jofcv"
 lybsyn-id: "5634181"
 youtubeCode: "BBBt__EfBvc"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Marcela

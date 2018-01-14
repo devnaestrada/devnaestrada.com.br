@@ -10,6 +10,7 @@ description: "Neste episódio @eduardojmatos, @femontanha fazem uma entrevista c
 libsyn-image: "dne-120-capa.jpg"
 lybsyn-id: "5696756"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Entrevista', 'Programador', 'Desenvolvedor', 'CTO']"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Eduardo Matos

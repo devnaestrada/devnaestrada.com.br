@@ -10,7 +10,9 @@ description: "Neste episódio @femontanha e @raymonsanches batem um papo com @fi
 soundcloud-id: "327234567"
 soundcloud-post-image: "000227539011-egdm31"
 lybsyn-id: "5634146"
-tags: ['Podcast','Programação','Front-end','Back-end','Clayton Fidelis','Elm','Javascript','Linguagem', 'Haskell', 'Jarbas','Tech']
+tags: ['Podcast','Programação','Front-end','Back-end','Clayton Fidelis','Elm','Javascript','Linguagem', 'Haskell', 
+'Jarbas','Tech']
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Clayton Fidelis

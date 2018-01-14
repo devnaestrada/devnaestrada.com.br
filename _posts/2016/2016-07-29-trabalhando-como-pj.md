@@ -10,6 +10,7 @@ description: "Você trabalha, está pensando em trabalhar ou já trabalhou como 
 soundcloud-id: "275876100"
 soundcloud-post-image: "000173833749-ck7b4w"
 lybsyn-id: "5634211"
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Fellipe Azambuja

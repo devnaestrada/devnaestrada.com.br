@@ -11,6 +11,7 @@ soundcloud-id: "328306918"
 soundcloud-post-image: "000228662997-jitl7f"
 lybsyn-id: "5634145"
 tags: ['Podcast','Programação','Front-end','Back-end','Bruno Passos','Design','ZOFE','Shopify', 'Booking', 'Inglaterra','Canada']
+sponsors: ["revelo", "alura"]
 participants:
   -
     name: Bruno Passos

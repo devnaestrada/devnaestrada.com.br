@@ -10,6 +10,7 @@ description: "@femontanha e @raymonsanches entrevistam Neto Marin, developer adv
 soundcloud-id: "270596837"
 soundcloud-post-image: "000168761623-7npdsq"
 lybsyn-id: "5634217"
+sponsors: ["revelo"]
 participants:
   -
     name: Fellipe Azambuja

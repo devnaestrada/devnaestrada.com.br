@@ -10,6 +10,7 @@ description: "Hoje é dia de DNE! @femontanha e @raymonsanches batem um papo com
 libsyn-image: "dne-125-capa.jpg"
 lybsyn-id: "5812362"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Pauta', 'Trabalho Remoto', 'Magnetis']"
+sponsors: ["revelo", "alura", "magnetis"]
 participants:
   -
     name: Ramon Sanches
