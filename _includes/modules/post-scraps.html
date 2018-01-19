@@ -1,0 +1,12 @@
+{% if page.scraps %}
+  <section>
+    <h2>Recados da semana</h2>
+    <ul>
+      {% for scrap in page.scraps %}
+        <li>
+          <a href="{{ scrap.url }}" target="_blank">{{ scrap.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}
