@@ -49,12 +49,12 @@ layout: default
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="btn">
-      <i class="fa fa-arrow-circle-left"></i> Voltar
+      <i class="fa fa-arrow-circle-left"></i> Mais recentes
     </a>
   {% endif %}
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="btn">
-      Avançar <i class="fa fa-arrow-circle-right"></i>
+      Mais antigos <i class="fa fa-arrow-circle-right"></i>
     </a>
   {% endif %}
 </div>
