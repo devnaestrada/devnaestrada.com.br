@@ -7,7 +7,7 @@ cast: "dne143-prod.mp3"
 cast-length: "31293414"
 cast-time: "00:32:32"
 description: "Victor Perin (@victor_perin) é desenvolvedor NodeJS e organizador do NodeSchool Campinas.
-Ele também é um entusiasta de blockchain de longa data, que prefere focar na tecnologia e nas soluções que elas conseguem solucionar. Nesse episódio, Montanha e Perin trocam uma idéia sobre Blockchain! Um pouco de introduão, como funciona e como os desenvolvedores podem estudar mais sobre o assunto."
+Ele também é um entusiasta de blockchain de longa data, que prefere focar na tecnologia e nas soluções que elas conseguem solucionar. Nesse episódio, Montanha e Perin trocam uma idéia sobre Blockchain! Um pouco de introdução, como funciona e como os desenvolvedores podem estudar mais sobre o assunto."
 libsyn-image: "dne-143-capa.jpg"
 lybsyn-id: "6241471"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Blockchain', 'Bitcoin', 'Victor Perin']"
@@ -50,7 +50,7 @@ scraps:
 Victor Perin (@victor_perin) é desenvolvedor NodeJS e organizador do NodeSchool Campinas.
 Ele também é um entusiasta de blockchain de longa data, que prefere focar na tecnologia e nas soluções que elas conseguem solucionar.
 
-Nesse episódio, Montanha e Perin trocam uma idéia sobre Blockchain! Um pouco de introduão, como funciona e como os desenvolvedores podem estudar mais sobre o assunto.
+Nesse episódio, Montanha e Perin trocam uma idéia sobre Blockchain! Um pouco de introdução, como funciona e como os desenvolvedores podem estudar mais sobre o assunto.
 
 ---
 
