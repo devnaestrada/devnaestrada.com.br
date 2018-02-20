@@ -1,9 +1,12 @@
-# DEVNAESTRADA!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devnaestrada/devnaestrada.com.br/master/assets/img/devnaestrada-lg.png"
+       alt="DEVNAESTRADA!"/>
+</p>
 
 [![Deployment status from DeployBot](https://aowba.deploybot.com/badge/34534835889972/41230.svg)](http://deploybot.com)
 
 > O [DEVNAESTRADA](https://devnaestrada.com.br) é um podcast focado em desenvolvedores web, onde contamos um pouco do nosso dia
-dia em um papo descontraído e sempre com muita risada.
+a dia em um papo descontraído e sempre com muita risada.
 
 ## Configuração do projeto
 
@@ -52,8 +55,7 @@ A melhor maneira de se fazer isso é utilizando o [NVM](https://github.com/creat
 
 ## Colabore
 
-- Só aceitamos Pullrequest na branch [develop](https://github.com/devnaestrada/devnaestrada.com.br/tree/develop)
-- Exemplo para [template do Pull request](https://github.com/devnaestrada/devnaestrada.com.br/wiki/Template-for-Pull-Request)
+- Aceitamos Pullrequest na branch [master](https://github.com/devnaestrada/devnaestrada.com.br/tree/master)
 
 ## Licença
 
