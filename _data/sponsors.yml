@@ -33,3 +33,9 @@ stickersdevs:
   url: "https://bit.ly/dne-stickersdevs"
   img: "/assets/img/partners/stickersdevs.png"
   text: "Stickers de desenvolvimento ou personalizados."
+
+vanhack:
+  name: "VanHack"
+  url: "http://www.vanhack.com/saopaulo/"
+  img: "/assets/img/partners/vanhack.png"
+  text: "Venha Participar da maior feira de recrutamento para o Canada e Europa."
