@@ -7,9 +7,16 @@
     {% endif %}
     <ul>
       {% for participant in page.participants %}
-        <li>
-          {{ participant.name }} - <a href="https://twitter.com/{{ participant.twitter }}">Twitter</a>
-        </li>
+
+        {% if participant.twitter %}
+          <li>
+            {{ participant.name }} - <a href="https://twitter.com/{{ participant.twitter }}">Twitter</a>
+          </li>
+        {% else %}
+          <li>
+            {{ participant.name }} - <a href="{{ participant.link }}">Link</a>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </section>
