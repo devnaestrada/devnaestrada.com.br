@@ -11,7 +11,7 @@ libsyn-image: "dne-149-capa.jpg"
 lybsyn-id: "6399150"
 tags: "['Podcast', 'Front-end', 'Back-end', 'Gabriel Froes', 'Entrevista']"
 sponsors: ["revelo", "alura", "vanhack"]
-participants: 
+participants:
   -
     name: Gabriel Froes
     twitter: gabrielfroes
@@ -33,17 +33,17 @@ scraps:
     name: "Frontinsampa"
     url: "http://www.frontinsampa.com.br/"
   -
-    name: "Frontincampinas"
-    url: "https://frontincampinas.com.br/"
+    name: "Frontincampinas (cupom DevNaEstrada)"
+    url: "https://www.sympla.com.br/front-in-campinas__248102?d=DevNaEstrada"
   -
     name: "CapiConf Cupom com 20%"
     url: "https://www.sympla.com.br/capiconf-18-by-contabilizei__233871?d=DEVNAESTRADA"
-  -
+    -
     name: "Brasilia Dev Festival"
     url: "https://www.brasiliadevfestival.com.br"
-  -
+    -
     name: "BraziLJS OnTheRoad"
-    link: "https://braziljs.org/eventos/on-the-road-sorocaba/"
+    link: "https://braziljs.org/eventos/on-the-road-sorocaba"
 ---
 
 Gabriel Fróes é apaixonado por tecnologia desde os 9 anos. Operário da codificação a 20 anos. CEO do site Código Fonte. Youtuber no Código Fonte TV. Pai de 2 filhos. Graduado em Ciência da Computação com MBA em Gestão Empresarial.
