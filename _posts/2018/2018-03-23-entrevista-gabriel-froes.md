@@ -38,12 +38,13 @@ scraps:
   -
     name: "CapiConf Cupom com 20%"
     url: "https://www.sympla.com.br/capiconf-18-by-contabilizei__233871?d=DEVNAESTRADA"
-    -
+  -
     name: "Brasilia Dev Festival"
     url: "https://www.brasiliadevfestival.com.br"
-    -
+  -
     name: "BraziLJS OnTheRoad"
     link: "https://braziljs.org/eventos/on-the-road-sorocaba"
+
 ---
 
 Gabriel Fróes é apaixonado por tecnologia desde os 9 anos. Operário da codificação a 20 anos. CEO do site Código Fonte. Youtuber no Código Fonte TV. Pai de 2 filhos. Graduado em Ciência da Computação com MBA em Gestão Empresarial.
