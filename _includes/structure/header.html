@@ -1,6 +1,6 @@
 <header>
 	<a href="/" class="header-brand">
-		<img src="{{ "assets/img/devnaestrada-lg.png" | prepend: site.baseurl }}" alt="DEVNAESTRADA logo" />
+		<img src="{{ "assets/img/logo-dne.svg" | prepend: site.baseurl }}" alt="DEVNAESTRADA logo" />
 	</a>
 
 	<label for="nav-btn" class="fa fa-bars nav-label" aria-hidden="true"></label>
@@ -9,13 +9,15 @@
 	<nav class="header-nav">
 		<ul>
 			<li>
-				<a href="{{ "comunidades" | prepend: site.baseurl }}" class="header-nav-link btn">Comunidades</a>
+				<a href="{{ "comunidades" | prepend: site.baseurl }}" class="header-nav__link">Comunidades</a>
 			</li>
 			<li>
-				<a href="{{ "contato" | prepend: site.baseurl }}" class="header-nav-link btn">Contato</a>
+				<a href="{{ "contato" | prepend: site.baseurl }}" class="header-nav__link">Contato</a>
 			</li>
 			<li>
-				<a href="http://bit.ly/dne-apoiase" class="header-nav-link btn header-nav-link--apoiase" target="_blank">Apoia.se/DEVNAESTRADA</a>
+				<a class="default-btn" href="http://bit.ly/dne-apoiase" target="_blank">
+					Apoia.se/DEVNAESTRADA
+				</a>
 			</li>
 		</ul>
 	</nav>

@@ -1,37 +1,36 @@
-/////////////////////////////////
-// name: Cover Photo
-////////////////////////////////
-
 .coverphoto {
   align-items: center;
   display: flex;
   justify-content: center;
-  animation: coverphoto 50s linear infinite;
+  text-align: center;
+  flex-direction: column;
   background: {
-    color: $darken;
-    image: url(../img/pattern-px.png);
-    position: left bottom;
+    color: #29292C;
+    image: url(../img/cover-photo.jpg);
+    position: center center;
     repeat: repeat;
   };
-  max-height: 100px;
-  max-width: 100%;
-  padding: 20px;
-  text-align: center;
-
-  @media screen and (min-width: $tablet) {
-    height: 180px;
-    padding: 0;
-  }
+  height: 260px;
 }
 
-.coverphoto-title {
-  color: $ligten;
-  font-size: 18px;
-  font-weight: 600;
-  margin: 0 auto;
-  max-width: 600px;
+.coverphoto__wrap {
+  max-width: 480px;
+}
 
-  @media screen and (min-width: $tablet) {
-    font-size: 24px;
-  }
+.coverphoto_image {
+  width: 65px;
+  margin-bottom: $app-default-margin;
+}
+
+.coverphoto__title {
+  color: #FFF;
+  font-size: 26px;
+  margin: 0 0 5px;
+  font-family: $rubik-font;
+  font-weight: 500;
+}
+
+.coverphoto__desc {
+  color: #FFF;
+  margin: 0;
 }

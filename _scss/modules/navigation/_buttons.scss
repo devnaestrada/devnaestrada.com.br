@@ -1,3 +1,14 @@
+.default-btn {
+  font-family: $rubik-font;
+  font-weight: 500;
+  font-size: 14px;
+  padding: 15px;
+  background-color: $primary-color;
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+}
+
 .btn {
   @extend %inline-middle-block;
   background-color: transparent;
