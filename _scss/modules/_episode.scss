@@ -1,14 +1,12 @@
-// *************************************
-//
-//   Episode
-//   ->
-//
-// *************************************
+.episode {
+  border-top: #E6E5E6 1px solid;
+  margin-top: $app-default-margin;
+  padding-top: $app-default-margin;
 
-.episode-date {
-  font-size: 14px;
-  color: #bbb;
-  margin: 0 0 10px;
+  &:first-child {
+    border-top: 0;
+    margin-top: 0;
+  }
 }
 
 .episode-holder,
@@ -21,7 +19,8 @@
   display: none;
   float: left;
   margin-right: 10px;
-  max-width: 100px;
+  width: 50px;
+  height: 50px;
 
   @media screen and (min-width: $mobile) {
     display: block;
@@ -33,24 +32,34 @@
   text-decoration: none;
 }
 
-.episode-type {
-  font-weight: bold;
+.episode__number {
+  margin: 0 0 5px;
 }
 
 .episode-title {
-  color: $primary-color;
-  font-size: 18px;
+  color: #29292C;
+  font-size: 20px;
   margin: 0 0 10px;
-
-  @media screen and (min-width: $mobile) {
-    font-size: 22px;
-  }
+  font-family: $rubik-font;
+  font-weight: 500;
 }
 
 .episode-description {
   display: none;
-  font-size: 16px;
   margin: 0;
+  height: 40px;
+  position: relative;
+
+  &::before {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    opacity: .6;
+    background-color: #FAFBFD;
+    content: "";
+  }
 
   @media screen and (min-width: $mobile) {
     display: block;

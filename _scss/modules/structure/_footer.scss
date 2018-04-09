@@ -1,13 +1,13 @@
 footer {
-  background-color: $footerColor;
-  margin-top: 30px;
-  padding: 30px;
+  background-color: #29292C;
+  padding-top: $app-default-margin;
+  padding-bottom: $app-default-margin;
 
   .container {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    text-align: center;
+    align-items: center;
 
     @media screen and (min-width: $tablet) {
       flex-direction: row;
@@ -15,15 +15,29 @@ footer {
   }
 }
 
+.profile {
+  display: flex;
+  text-decoration: none;
+  margin-top: $app-default-margin;
+  min-width: 300px;
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  @media screen and (min-width: $tablet) {
+    margin-top: 0;
+  }
+}
+
 .profile__image {
   background-position: center;
   background-size: contain;
-  border-radius: 50%;
-  display: inline-block;
-  height: 50px;
-  margin-bottom: 15px;
-  position: relative;
+  background-repeat: no-repeat;
+  display: block;
   width: 50px;
+  height: 50px;
+  margin: 0;
 
   &.profile__image--femontanha {
     background-image: url('https://pbs.twimg.com/profile_images/975510563202785287/sjFjIUCW.jpg');
@@ -42,30 +56,21 @@ footer {
   }
 }
 
+.profile__info {
+  margin-left: 10px;
+}
+
 .profile__name {
   display: block;
+  color: #FFF;
+  font-family: $rubik-font;
+  font-weight: 400;
+  font-size: 14px;
 }
 
 .profile__role {
   color: $profile-role-color;
   display: block;
   font-size: 11px;
-}
-
-.profile__twitter {
-  margin-top: 15px;
-
-  .twitter-follow-button {
-    transition: background-color .3s ease-in-out;
-    background-color: $twitter;
-    color: $ligten;
-    font-size: 12px;
-    font-weight: bold;
-    padding: 3px 5px;
-
-    &:hover,
-    &:active {
-      background-color: darken($twitter, 10%);
-    }
-  }
+  color: #FFF;
 }
