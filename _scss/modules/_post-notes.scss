@@ -1,0 +1,11 @@
+.post-notes {
+    a {
+        color: #707070;
+        font-weight: bold;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

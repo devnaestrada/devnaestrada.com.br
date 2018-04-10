@@ -3,6 +3,11 @@ header {
   max-width: $app-max-width;
   padding: 30px 0;
   position: relative;
+
+  @media screen and (min-width: $tablet) {
+    padding-left: $app-default-margin;
+    padding-right: $app-default-margin;
+  }
 }
 
 .header-brand {

@@ -9,14 +9,15 @@ layout: default
 {% for post in paginator.posts %}
   <article class="episode">
     <div class="episode-holder">
-      {% if post.soundcloud-post-image %}
-        <img class="episode-artwork" src="https://assets.libsyn.com/secure/show/104268/artworks-{{ post.soundcloud-post-image }}-original.jpg" alt="{{ post.home-title }}" />
-      {% endif %}
-      {% if post.libsyn-image %}
-        <img class="episode-artwork" src="https://assets.libsyn.com/secure/show/104268/{{ post.libsyn-image }}" alt="{{ post.home-title }}" />
-      {% endif %}
-
-      <span class="episode__number">DEVNAESTRADA #113</span>
+      <a href="{{ post.url }}">
+        {% if post.soundcloud-post-image %}
+          <img class="episode-artwork" src="https://assets.libsyn.com/secure/show/104268/artworks-{{ post.soundcloud-post-image }}-original.jpg" alt="{{ post.home-title }}" />
+        {% endif %}
+        {% if post.libsyn-image %}
+          <img class="episode-artwork" src="https://assets.libsyn.com/secure/show/104268/{{ post.libsyn-image }}" alt="{{ post.home-title }}" />
+        {% endif %}
+      </a>
+      <span class="episode__number">DEVNAESTRADA</span>
       <a href="{{ post.url }}" class="episode-link">
         <h1 class="episode-title">{{ post.title }}</h1>
       </a>
