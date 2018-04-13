@@ -13,7 +13,7 @@ future: true
 
 # Libsyn
 libsyn_prefix: "https://traffic.libsyn.com/devnaestrada/"
-dne_capa: "https://static.libsyn.com/p/assets/8/4/8/3/84831a5d82e54861/dne-podcast-avatar1400.png"
+dne_capa: "https://assets.libsyn.com/secure/show/104268/dne-1400.png"
 
 # Google Analytics
 google_analytics: UA-63291340-1
