@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devnaestrada/devnaestrada.com.br/master/assets/img/devnaestrada-lg.png"
-       alt="DEVNAESTRADA!"/>
-</p>
+<img src="https://raw.githubusercontent.com/devnaestrada/devnaestrada.com.br/master/assets/img/devnaestrada-lg.png"
+     alt="DEVNAESTRADA!"/>
 
 [![Deployment status from DeployBot](https://aowba.deploybot.com/badge/34534835889972/41230.svg)](http://deploybot.com)
 
