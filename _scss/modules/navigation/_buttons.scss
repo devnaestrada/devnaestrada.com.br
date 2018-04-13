@@ -1,20 +1,22 @@
+.default-btn {
+  font-family: $rubik-font;
+  font-weight: 500;
+  font-size: 14px;
+  padding: 15px;
+  background-color: $primary-color;
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+}
+
 .btn {
   @extend %inline-middle-block;
-  background-color: transparent;
-  border-radius: 3px;
-  border: 2px solid $primary-color;
-  color: $primary-color;
-  font-family: $base-font;
-  font-size: 0.8em;
-  font-weight: 600;
+  background-color: $primary-color;
+  color: #FFF;
+  font-family: $rubik-font;
+  font-size: 14px;
+  font-weight: 400;
   padding: 0.6em 1.2em;
   text-align: center;
-  text-transform: uppercase;
-  transition: background-color .2s ease-in-out, color .2s ease-in-out;
-
-  &:hover,
-  &.active {
-    background-color: $primary-color;
-    color: $ligten;
-  }
+  text-decoration: none;
 }

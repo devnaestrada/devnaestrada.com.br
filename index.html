@@ -2,59 +2,42 @@
 layout: default
 ---
 
+{% comment %}
 {% include modules/quick-access.html %}
+{% endcomment %}
 
-<section class="episodes">
-  {% for post in paginator.posts %}
-    <article class="episode">
-      <p class="episode-date">
-        {% assign m = post.date | date: "%-m" %}
-        {{ post.date | date: "%-d" }} de
-        {% case m %}
-          {% when '1' %}Janeiro
-          {% when '2' %}Fevereiro
-          {% when '3' %}Março
-          {% when '4' %}Abril
-          {% when '5' %}Maio
-          {% when '6' %}Junho
-          {% when '7' %}Julho
-          {% when '8' %}Agosto
-          {% when '9' %}Setembro
-          {% when '10' %}Outubro
-          {% when '11' %}Novembro
-          {% when '12' %}Dezembro
-        {% endcase %}
-        de {{ post.date | date: "%Y" }} =>  <span class="episode-type">{{ post.type }}</span>
-      </p>
-      <div class="episode-holder">
+{% for post in paginator.posts %}
+  <article class="episode">
+    <div class="episode-holder">
+      <a href="{{ post.url }}">
         {% if post.soundcloud-post-image %}
           <img class="episode-artwork" src="https://assets.libsyn.com/secure/show/104268/artworks-{{ post.soundcloud-post-image }}-original.jpg" alt="{{ post.home-title }}" />
         {% endif %}
         {% if post.libsyn-image %}
           <img class="episode-artwork" src="https://assets.libsyn.com/secure/show/104268/{{ post.libsyn-image }}" alt="{{ post.home-title }}" />
         {% endif %}
-
-        <a href="{{ post.url }}" class="episode-link">
-          <h1 class="episode-title">{{ post.title }}</h1>
-        </a>
-        <p class="episode-description">
-          {{ post.description }}
-        </p>
-      </div>
-    </article>
-  {% endfor %}
-</section>
+      </a>
+      <span class="episode__number">DEVNAESTRADA</span>
+      <a href="{{ post.url }}" class="episode-link">
+        <h1 class="episode-title">{{ post.title }}</h1>
+      </a>
+      <p class="episode-description">
+        {{ post.description }}
+      </p>
+    </div>
+  </article>
+{% endfor %}
 
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="btn">
-      <i class="fa fa-arrow-circle-left"></i> Mais recentes
+      Mais recentes
     </a>
   {% endif %}
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="btn">
-      Mais antigos <i class="fa fa-arrow-circle-right"></i>
+      Mais antigos
     </a>
   {% endif %}
 </div>

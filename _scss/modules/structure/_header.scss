@@ -1,8 +1,13 @@
 header {
   margin: 0 auto;
-  max-width: 710px;
-  padding: 15px;
+  max-width: $app-max-width;
+  padding: 30px 0;
   position: relative;
+
+  @media screen and (min-width: $tablet) {
+    padding-left: $app-default-margin;
+    padding-right: $app-default-margin;
+  }
 }
 
 .header-brand {
@@ -10,7 +15,7 @@ header {
   text-align: center;
 
   img {
-    width: 215px;
+    width: 250px;
   }
 
   @media screen and (min-width: $tablet) {
@@ -74,7 +79,7 @@ header {
 
   @media screen and (min-width: $tablet) {
     display: inline-block;
-    margin-left: 30px;
+    margin-left: $app-default-margin;
     margin-top: 0;
   }
 
@@ -83,17 +88,15 @@ header {
   }
 }
 
-.header-nav li a {
+.header-nav__link {
   display: block;
-  font-size: 11px;
+  font-size: 14px;
+  font-family: $rubik-font;
+  font-weight: 400;
+  color: #707070;
+  text-decoration: none;
 
   @media screen and (min-width: $tablet) {
     display: inline-block;
   }
-}
-
-.header-nav-link--apoiase {
-  background-color: $primary-color;
-  border: 2px solid $primary-color;
-  color: $ligten;
 }

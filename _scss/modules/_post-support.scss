@@ -1,7 +1,12 @@
 .post-support {
   .highlight {
     color: $primary-color;
-    text-decoration: underline;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   .btn {

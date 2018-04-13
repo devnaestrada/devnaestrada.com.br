@@ -54,7 +54,7 @@ Thiago Avelino é CTO da empresa [Nuveo](https://nuveo.ai/en/), já trabalhou em
 
 <section class="post-youtube">
   <h2 class="post-youtube-title">
-    DNE Feedback #11
+    Segunda, qual a primeira coisa que fazem?
   </h2>
   <div class="v-wrapper">
     <iframe class="v-iframe" width="560" height="315" src="https://www.youtube.com/embed/5LJk8-myJ9o" frameborder="0" allowfullscreen></iframe>

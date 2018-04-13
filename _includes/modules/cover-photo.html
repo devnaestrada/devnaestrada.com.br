@@ -1,18 +1,12 @@
 <section class="coverphoto">
-  <div class="coverphoto-holder">
-    <h1 class="coverphoto-title">
-      Novos episódios todas as sextas-feiras
-    </h1>
-    <!-- <nav class="social-nav">
-      <ul>
-        {% for service in site.services %}
-          <li>
-            <a href="{{ service.url }}" class="social-nav-link" target="_blank" title="">
-              <i class="icon fa {{ service.icon }}" aria-hidden="true"></i> {{ service.name }}
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    </nav> -->
+    <div class="coverphoto__wrap">
+      <img class="coverphoto_image" src="{{ "assets/img/dne-symbol.svg" | prepend: site.baseurl }}" alt="DEVNAESTRADA Símbolo" />
+      <h1 class="coverphoto__title">
+        Podcast sobre desenvolvimento web
+      </h1>
+      <p class="coverphoto__desc">
+          Toda sexta-feira um novo episódio sobre tecnologias, entrevistas com
+          profissionais na área, tudo com muito humor e alegria.
+      </p>
   </div>
 </section>
