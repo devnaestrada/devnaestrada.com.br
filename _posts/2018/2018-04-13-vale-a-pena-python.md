@@ -42,6 +42,9 @@ links:
   -
     name: "Modern Language Wars"
     url: "https://blog.udemy.com/modern-language-wars/"
+  -
+    name: "Grupo Telegram PythonBR"
+    url: "https://t.me/pythonbr"
 scraps:
   -
     name: "Sentir preparado"
