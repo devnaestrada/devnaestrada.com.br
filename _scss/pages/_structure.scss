@@ -5,11 +5,15 @@ html {
 body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
-  color: #707070;
+  color: #000;
   font-family: $roboto-font;
   text-rendering: optimizeLegibility;
 	margin: 0;
 	padding: 0;
+}
+
+a {
+  color: #000;
 }
 
 .image-block {

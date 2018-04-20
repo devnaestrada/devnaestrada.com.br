@@ -65,7 +65,7 @@ scraps:
     name: "BraziLJS OnTheRoad"
     url: "https://braziljs.org/eventos/on-the-road-sorocaba"
   -
-    name: Criciúma Dev Conference (20%)"
+    name: "Criciúma Dev Conference (20%)"
     url: "https://www.sympla.com.br/criciuma-dev-conference__213460?d=devnaestrada"
 
 ---

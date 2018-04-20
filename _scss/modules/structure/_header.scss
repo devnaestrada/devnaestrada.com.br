@@ -30,7 +30,7 @@ header {
   font-size: 28px;
   position: absolute;
   right: 15px;
-  top: 15px;
+  top: 38px;
 
   @media screen and (min-width: $tablet) {
     display: none;
@@ -93,7 +93,7 @@ header {
   font-size: 14px;
   font-family: $rubik-font;
   font-weight: 400;
-  color: #707070;
+  color: #000;
   text-decoration: none;
 
   @media screen and (min-width: $tablet) {
