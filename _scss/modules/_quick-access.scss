@@ -2,30 +2,37 @@
 // name: Quick Access
 ////////////////////////////////
 
-#search-form {
+.search-form {
   position: relative;
   display: block;
-  max-width: 710px;
   margin: 30px auto 0;
-}
 
-#search-input {
-  padding-left: 10px;
-}
+  input {
+    font-size: 16px;
+    background-color: $ligten;
+    border: $neutral 1px solid;
+    height: 40px;
+    outline: $neutral;
+    width: calc(100% - 15px);
+    padding-left: 15px;
+  }
 
-#search-icon {
-  position: absolute;
-  z-index: 9999;
-  right: 15px;
-  top: 13px;
-  cursor: pointer;
-}
+  i {
+    position: absolute;
+    z-index: 9999;
+    right: 15px;
+    top: 13px;
+    cursor: pointer;
+  }
 
-#search-input {
-  font-size: 16px;
-  background-color: $ligten;
-  border: $neutral 1px solid;
-  height: 40px;
-  outline: $neutral;
-  width: 100%;
+  a {
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+
+    &:hover {
+      font-weight: bold;
+      background-color: #eee;
+    }
+  }
 }

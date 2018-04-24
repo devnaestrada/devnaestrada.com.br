@@ -3,11 +3,10 @@
         var settings = $.extend({
             jsonFile: '/search.json',
             jsonFormat: 'title,description,type,url,date,shortdate',
-            template: '<li><article><a href="{url}">{title} - <span class="entry-date"><time datetime="{date}">{date}</time></span></a></article></li>',
+            template: '<li><a href="{url}">{title} - <span class="entry-date"><time datetime="{date}">{date}</time></span></a></li>',
             searchResults: '.search-results',
-            searchResultsTitle: '<h4>Resultado:</h4>',
             limit: '10',
-            noResults: '<p>Ops!<br/><small>Não encontramos nenhum resultado!</small></p>'
+            noResults: '<p class="no-results">Ops!<br/><small>Não encontramos nenhum resultado!</small></p>'
         }, options);
 
         var properties = settings.jsonFormat.split(',');
@@ -62,7 +61,6 @@
 
         function writeMatches(m) {
             clearSearchResults();
-            searchResults.append($(settings.searchResultsTitle));
 
             if (m.length) {
                 $.each(m, function (i, entry) {
