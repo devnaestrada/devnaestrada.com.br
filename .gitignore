@@ -9,3 +9,4 @@ Gemfile.lock
 node_modules
 assets/css
 .jekyll-metadata
+package-lock.json
