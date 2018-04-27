@@ -6,7 +6,7 @@ type: "Pauta"
 cast: "dne154-prod.mp3"
 cast-length: "47984948"
 cast-time: "00:49:55"
-description: "No programa de hoje, conversamos com Diego Eis (@diegoeis), sobre como funciona o mundo de um Product Onwer (PO)! É o mesmo que product manager? Chief Product Officer? Que project manager? Venha conferir esse bate papo incrível!"
+description: "No programa de hoje, conversamos com Diego Eis (@diegoeis), sobre como funciona o mundo de um Product Owner (PO)! É o mesmo que product manager? Chief Product Officer? Que project manager? Venha conferir esse bate papo incrível!"
 libsyn-image: "dne-154-capa.jpg"
 lybsyn-id: "6528665"
 sponsors: ["revelo", "alura", "crowd"]
@@ -39,7 +39,7 @@ scraps:
 
 ---
 
-No programa de hoje, conversamos com Diego Eis (@diegoeis), sobre como funciona o mundo de um Product Onwer (PO)! É o mesmo que product manager? Chief Product Officer? Que project manager? Venha conferir esse bate papo incrível!
+No programa de hoje, conversamos com Diego Eis (@diegoeis), sobre como funciona o mundo de um Product Owner (PO)! É o mesmo que product manager? Chief Product Officer? Que project manager? Venha conferir esse bate papo incrível!
 
 ---
 
