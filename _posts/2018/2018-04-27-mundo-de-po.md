@@ -14,6 +14,25 @@ participants:
   -
     name: Diego Eis
     twitter: diegoeis
+links:
+  -
+    name: "Product Manager vs. Product Owner Revisited"
+    url: "https://svpg.com/product-manager-vs-product-owner-revisited/"
+  -
+    name: "What exactly is a product manager?"
+    url: "https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/"
+  -
+    name: "Pare de chamar Product Owners e Product Managers de Mini CEOs"
+    url: "http://blog.plataformatec.com.br/2018/02/pare-de-chamar-product-owners-e-product-managers-de-mini-ceos/"
+  -
+    name: "O que é um product owner"
+    url: "https://medium.com/gestao-produtos/o-que-%C3%A9-um-product-owner-c44bb29a9f66"
+  -
+    name: "Medium Gestão de Produtos"
+    url: "https://medium.com/gestao-produtos/"
+  -
+    name: "PM Toolkit"
+    url: "http://pmtoolkit.work/"
 scraps:
   -
     name: "DNE Feedback, ansiedade, devhealhty e inspiração"
