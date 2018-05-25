@@ -45,3 +45,9 @@ crowd:
   url: "https://goo.gl/fmdikK"
   img: "/assets/img/partners/crowd.png"
   text: "A maior plataforma para trabalho freelancer do Brasil. Cadastre-se gratuitamente e receba propostas de grandes agências, empresas e startups e participe de diversos projetos sob demanda."
+
+cubo:
+  name: "Cubo"
+  url: "https://cubo.network/jobs"
+  img: "/assets/img/partners/cubo.png"
+  text: "Se você está em busca de novas experiências e desafios, explore oportunidades em startups. Acesse https://cubo.network/jobs e confira as vagas disponíveis."
