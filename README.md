@@ -57,4 +57,4 @@ A melhor maneira de se fazer isso é utilizando o [NVM](https://github.com/creat
 
 ## Licença
 
-[MIT Licence](LICENSE) © [DEVNAESTRADA](http://devnaestrada.com.br/)
+[MIT Licence](LICENSE) © [DEVNAESTRADA - 2018](http://devnaestrada.com.br/)
