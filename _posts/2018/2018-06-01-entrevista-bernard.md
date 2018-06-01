@@ -6,7 +6,7 @@ type: "Entrevista"
 cast: "dne159-prod.mp3"
 cast-length: "44440093"
 cast-time: "00:46:14"
-description: "Bernard de Luna é Founder da https://bunee.io & Startup Weekend Facilitator, bora escutar essa entrevista?"
+description: "Bernard de Luna é Founder da https://bunee.io e Startup Weekend Facilitator, bora escutar essa entrevista?"
 libsyn-image: "dne-159-capa.jpg"
 lybsyn-id: "6656828"
 sponsors: ["cubo", "revelo", "alura", "vanhack"]
@@ -22,7 +22,7 @@ scraps:
     name: "How Thinkific Hired Carolina, Senior Fullstack Developer, from VanHack"
     url: "https://www.youtube.com/watch?v=Xjl4wiaKixk"
   -
-    name: "Code Review & Pull Request no Github"
+    name: "Code Review e Pull Request no Github"
     url: "https://www.youtube.com/watch?v=MpsNF-EyytQ"
   -
     name: "Frontinsampa"
@@ -36,7 +36,7 @@ scraps:
 
 ---
 
-Bernard de Luna é Founder da https://bunee.io & Startup Weekend Facilitator, bora escutar essa entrevista?
+Bernard de Luna é Founder da https://bunee.io e Startup Weekend Facilitator, bora escutar essa entrevista?
 
 ---
 
@@ -44,7 +44,7 @@ Bernard de Luna é Founder da https://bunee.io & Startup Weekend Facilitator, bo
 
 <section class="post-youtube">
   <h2 class="post-youtube-title">
-    Code Review & Pull Request no Github
+    Code Review e Pull Request no Github
   </h2>
   <div class="v-wrapper">
     <iframe class="v-iframe" width="560" height="315" src="https://www.youtube.com/embed/MpsNF-EyytQ" frameborder="0" allowfullscreen></iframe>
