@@ -20,9 +20,6 @@ scraps:
     name: "Github CEO Nadella"
     url: "https://github.com/satyanadella"
   -
-    name: "Twitter CEO Nadella"
-    url: "https://twitter.com/satyanadella"
-  -
     name: "Moving to Gitlab"
     url: "https://twitter.com/movingtogitlab"
   -
