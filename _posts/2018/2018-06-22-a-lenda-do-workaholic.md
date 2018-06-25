@@ -6,7 +6,7 @@ type: "Pauta"
 cast: "dne162-prod.mp3"
 cast-length: "47735138"
 cast-time: "00:49:39"
-description: "No episódio de hoje discutimos um pouco sobre essa cultura (danosa) que já faz parte do nosso dia-a-dia no desenvolvimento de workaholic. @lfeh e @silveira_bells compartilham conosco suas experiências e nos ajudam a encontrar um meio termo entre trabalho e vida pessoal."
+description: "No episódio de hoje discutimos um pouco sobre essa cultura que já faz parte do dia-a-dia de muitas pessoas que trabalham com desenvolvimento de software. @lfeh e @silveira_bells compartilham conosco suas experiências e nos ajudam a encontrar um meio termo entre trabalho e vida pessoal. Vamos falar sobre os workaholics!"
 libsyn-image: "dne-162-capa.jpg"
 lybsyn-id: "6732527"
 sponsors: ["cubo", "revelo", "alura"]
@@ -46,7 +46,7 @@ scraps:
 
 ---
 
-No episódio de hoje discutimos um pouco sobre essa cultura (danosa) que já faz parte do nosso dia-a-dia no desenvolvimento de workaholic. @lfeh e @silveira_bells compartilham conosco suas experiências e nos ajudam a encontrar um meio termo entre trabalho e vida pessoal.
+No episódio de hoje discutimos um pouco sobre essa cultura que já faz parte do dia-a-dia de muitas pessoas que trabalham com desenvolvimento de software. @lfeh e @silveira_bells compartilham conosco suas experiências e nos ajudam a encontrar um meio termo entre trabalho e vida pessoal. Vamos falar sobre os workaholics!
 
 ---
 
