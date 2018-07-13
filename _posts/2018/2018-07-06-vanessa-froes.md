@@ -2,7 +2,7 @@
 layout: post
 title: "DNE 164 - Vanessa Weber Fróes"
 home-title: "Vanessa Weber Fróes"
-type: "Pauta"
+type: "Entrevista"
 cast: "dne164-prod.mp3"
 cast-length: "54640312"
 cast-time: "00:56:53"
