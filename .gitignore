@@ -10,3 +10,5 @@ node_modules
 assets/css
 .jekyll-metadata
 package-lock.json
+.bundle
+vendor/

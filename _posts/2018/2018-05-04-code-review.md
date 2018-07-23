@@ -12,9 +12,6 @@ lybsyn-id: "6554806"
 sponsors: ["revelo", "alura"]
 links:
   -
-    name: "Training Center, Qual o real valor do Code Review?"
-    url: "https://medium.com/trainingcenter/qual-o-real-valor-do-code-review-para-uma-equipe-de-desenvolvimento-f43f894c0a04"
-  -
     name: "What exactly is a product manager?"
     url: "https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/"
   -

@@ -30,9 +30,6 @@ links:
     name: "Brave Clojure"
     url: "https://www.braveclojure.com/introduction/"
   -
-    name: "Training Center Study Group"
-    url: "https://github.com/training-center/clojure-study-group"
-  -
     name: "Github Clojure BR"
     url: "https://github.com/clj-br"
 scraps:
