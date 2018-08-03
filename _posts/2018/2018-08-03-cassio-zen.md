@@ -25,7 +25,7 @@ scraps:
 
 Começou a programar 20 anos atrás num TK-90X e desde então atuou no Brasil e nos EUA desenvolvendo projetos para grandes marcas como Google, Coca-Cola, Itaú e Unilever. Atualmente é head of academics na FullStack Academy of Code em NY.
 
-<strong>CUPOM REACTCONFBR: DEVNAESTRADA10OFF</strong> (limtado 15 primeiras compras)
+<strong>CUPOM REACTCONFBR: DEVNAESTRADA10OFF</strong> (somente para as 15 primeiras compras)
 
 ---
 
