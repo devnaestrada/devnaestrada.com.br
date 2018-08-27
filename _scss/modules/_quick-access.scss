@@ -9,11 +9,8 @@
 
   input {
     font-size: 16px;
-    background-color: $ligten;
-    border: $neutral 1px solid;
-    height: 40px;
     outline: $neutral;
-    width: calc(100% - 15px);
+    width: 100%;
     padding-left: 15px;
   }
 
@@ -21,18 +18,21 @@
     position: absolute;
     z-index: 9999;
     right: 15px;
-    top: 13px;
+    top: 12px;
     cursor: pointer;
   }
 
   a {
+    color: #29292C;
+    font-family: "Rubik", sans-serif;
     text-decoration: none;
     display: block;
     padding: 15px;
+    transition: .2s ease;
 
     &:hover {
-      font-weight: bold;
-      background-color: #eee;
+      color: #fff;
+      background-color: #263c4c;
     }
   }
 }
