@@ -8,7 +8,7 @@ body {
   color: #000;
   font-family: $roboto-font;
   text-rendering: optimizeLegibility;
-  font-weight: 300;
+  font-weight: 400;
 	margin: 0;
 	padding: 0;
 }
@@ -38,18 +38,35 @@ a {
 .main {
   background-color: #FAFBFD;
   padding-top: $app-default-margin;
-  padding-bottom: $app-default-margin;
+  padding-bottom: $app-default-margin*2;
 }
 
 .container {
   margin: 0 auto;
   max-width: $app-max-width;
- 
+
   @media screen and (max-width: $notebook) {
     padding: 0 $app-default-margin;
   }
 }
 
+.page {
+  max-width: 700px;
+  margin: 0 auto;
+  color: $link-color;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
 .page__title {
   margin-top: 0;
+  margin-bottom: 15px;
+  color: #263c4c;
+  font-size: 26px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+
+  @media screen and (min-width: $tablet) {
+    font-size: 32px;
+  }
 }
