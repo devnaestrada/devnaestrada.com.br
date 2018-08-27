@@ -3,14 +3,20 @@
   text-align: center;
 
   .btn {
-    margin-left: 30px;
+    display: block;
+    width: 100%;
 
-    &:first-child {
-      margin-left: 0;
+    + .btn {
+      margin-top: 20px;
     }
 
-	@media screen and (max-width: $iphone-retina) {
-		margin-left: 15px;
-	}
+    @media screen and (min-width: $mobile) {
+      display: inline-block;
+      width: auto;
+
+      + .btn {
+        margin: 0 0 0 20px;
+      }
+    }
   }
 }
