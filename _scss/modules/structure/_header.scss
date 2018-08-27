@@ -1,21 +1,29 @@
 header {
   margin: 0 auto;
   max-width: $app-max-width;
-  padding: 30px 0;
+  padding: 20px 0;
   position: relative;
 
   @media screen and (min-width: $tablet) {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     padding-left: $app-default-margin;
     padding-right: $app-default-margin;
   }
 }
 
 .header-brand {
-  display: block;
-  text-align: center;
+  display: flex;
+  justify-content: center;
 
   img {
-    width: 250px;
+    display: block;
+    width: 200px;
+
+    @media screen and (min-width: $tablet) {
+      width: 250px;
+    }
   }
 
   @media screen and (min-width: $tablet) {
@@ -30,7 +38,7 @@ header {
   font-size: 28px;
   position: absolute;
   right: 15px;
-  top: 38px;
+  top: 32px;
 
   @media screen and (min-width: $tablet) {
     display: none;
@@ -75,8 +83,6 @@ header {
 }
 
 .header-nav li {
-  margin-top: 10px;
-
   @media screen and (min-width: $tablet) {
     display: inline-block;
     margin-left: $app-default-margin;
@@ -89,7 +95,8 @@ header {
 }
 
 .header-nav__link {
-  display: block;
+  display: inline-block;
+  padding: 15px;
   font-size: 14px;
   font-family: $rubik-font;
   font-weight: 400;
@@ -98,5 +105,6 @@ header {
 
   @media screen and (min-width: $tablet) {
     display: inline-block;
+    padding: 15px 0;
   }
 }
