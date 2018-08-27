@@ -1,17 +1,15 @@
 ---
-layout: default
+layout: page
 permalink: /comunidades/
 title: "Comunidades"
 ---
 
+<p class="community-header-description">
+  Aqui estão listados alguns dos projetos que o <strong>DEVNAESTRADA</strong> apoia.
+  Se você tem um projeto open source que acha sensacional e que seja sem fins lucrativos, pode mandar direto para: <strong>comunidade [arroba] devnaestrada [.com.br]</strong> ou se preferir abre direto um <a href="https://github.com/devnaestrada/devnaestrada.com.br/pulls">\Pull Request\</a> no Github que a gente analisa.
+</p>
+
 <section class="community">
-  <div class="community-header">
-    <h2 class="community-header-title">{{ page.title }}</h2>
-    <p class="community-header-description">
-      Aqui estão listados alguns dos projetos que o <strong>DEVNAESTRADA</strong> apoia.
-      Se você tem um projeto open source que acha sensacional e que seja sem fins lucrativos, pode mandar direto para: <strong>comunidade [arroba] devnaestrada [.com.br]</strong> ou se preferir abre direto um <a href="https://github.com/devnaestrada/devnaestrada.com.br/pulls">\Pull Request\</a> no Github que a gente analisa.
-    </p>
-  </div>
   <ul class="community-list">
     {% for list_item in site.data.community %}
       <li>
@@ -23,7 +21,7 @@ title: "Comunidades"
           <p class="community-list-text">
             {{ list_item.description }}
           </p>
-          <a href="{{ list_item.link }}" class="btn community-list-link" target="_blank">
+          <a href="{{ list_item.link }}" class="btn btn--small community-list-link" target="_blank">
             Visitar esse projeto!
           </a>
         </article>
