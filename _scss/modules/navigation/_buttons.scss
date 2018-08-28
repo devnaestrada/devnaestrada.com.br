@@ -4,6 +4,8 @@
   font-size: 14px;
   padding: 15px;
   background-color: $primary-color;
+  box-sizing: border-box;
+  border-radius: $base-radius;
   color: #FFF;
   display: inline-block;
   text-decoration: none;
@@ -14,9 +16,28 @@
   background-color: $primary-color;
   color: #FFF;
   font-family: $rubik-font;
-  font-size: 14px;
-  font-weight: 400;
-  padding: 0.6em 1.2em;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0.8em 1.2em;
+  box-sizing: border-box;
+  border-radius: $base-radius;
+  border: 0;
   text-align: center;
   text-decoration: none;
+}
+
+.btn--small {
+  font-size: 14px;
+  padding: 0.5em 1.2em;
+}
+
+.btn,
+.default-btn {
+  transition: background-color .3s ease;
+
+  &:hover,
+  &:focus {
+    background-color: darken($primary-color, 4%);
+    text-decoration: none;
+  }
 }

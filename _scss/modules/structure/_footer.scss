@@ -19,14 +19,22 @@ footer {
   display: flex;
   text-decoration: none;
   margin-top: $app-default-margin;
-  min-width: 300px;
+
+  min-width: 260px;
+
+  transition: .3s ease;
 
   &:first-child {
     margin-top: 0;
   }
 
+  &:hover {
+    transform: translateY(-3px);
+  }
+
   @media screen and (min-width: $tablet) {
     margin-top: 0;
+    min-width: auto;
   }
 }
 
@@ -38,21 +46,22 @@ footer {
   width: 50px;
   height: 50px;
   margin: 0;
+  filter: grayscale(100%);
 
   &.profile__image--femontanha {
-    background-image: url('https://pbs.twimg.com/profile_images/975510563202785287/sjFjIUCW.jpg');
+    background-image: url('https://pbs.twimg.com/profile_images/1021967475326570496/P43b47uT_400x400.jpg');
   }
 
   &.profile__image--raymon {
-    background-image: url('https://pbs.twimg.com/profile_images/815923259422244864/EZs8WgQ3.jpg');
+    background-image: url('https://pbs.twimg.com/profile_images/1021904162928427010/zYx0p4QW_400x400.jpg');
   }
 
   &.profile__image--edu {
-    background-image: url('https://pbs.twimg.com/profile_images/807681794296475648/w0uI1vj__400x400.jpg');
+    background-image: url('https://pbs.twimg.com/profile_images/1021973093554814979/nf2MGWCE_400x400.jpg');
   }
 
   &.profile__image--dne {
-    background-image: url('https://pbs.twimg.com/profile_images/813891596651360257/FWgT12Dn_400x400.jpg');
+    background-image: url('https://pbs.twimg.com/profile_images/984616273630941186/qKd10AiN_400x400.jpg');
   }
 }
 
@@ -64,13 +73,18 @@ footer {
   display: block;
   color: #FFF;
   font-family: $rubik-font;
-  font-weight: 400;
-  font-size: 14px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.profile__twitter {
+  color: #999;
+  font-size: 12px;
 }
 
 .profile__role {
   color: $profile-role-color;
   display: block;
-  font-size: 11px;
+  font-size: 12px;
   color: #FFF;
 }

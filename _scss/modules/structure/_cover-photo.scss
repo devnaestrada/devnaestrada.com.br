@@ -7,30 +7,48 @@
   background: {
     color: #29292C;
     image: url(../img/cover-photo.jpg);
-    position: center center;
+    position: center right;
     repeat: repeat;
+    size: cover;
   };
-  height: 260px;
+  height: 300px;
 }
 
 .coverphoto__wrap {
-  max-width: 480px;
+  box-sizing: border-box;
+  max-width: 640px;
+  padding: 0 20px;
 }
 
 .coverphoto_image {
   width: 65px;
-  margin-bottom: $app-default-margin;
+  margin-bottom: $app-default-margin/2;
+
+  @media screen and (min-width: $tablet) {
+    margin-bottom: $app-default-margin;
+  }
 }
 
 .coverphoto__title {
   color: #FFF;
   font-size: 26px;
-  margin: 0 0 5px;
+  line-height: 1.1;
+  margin: 0 0 10px;
   font-family: $rubik-font;
   font-weight: 500;
+
+  @media screen and (min-width: $tablet) {
+    font-size: 34px;
+  }
 }
 
 .coverphoto__desc {
   color: #FFF;
+  font-size: 16px;
+  line-height: 1.4;
   margin: 0;
+
+  @media screen and (min-width: $tablet) {
+    font-size: 17px;
+  }
 }

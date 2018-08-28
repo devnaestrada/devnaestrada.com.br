@@ -21,6 +21,10 @@ $scaffold: '.form';
 
 .input-wrap {
   margin-top: 15px;
+
+  &:last-of-type {
+    text-align: right;
+  }
 }
 
 // -------------------------------------
@@ -37,10 +41,20 @@ $scaffold: '.form';
 // -------------------------------------
 
 .input {
+  box-sizing: border-box;
   display: block;
   width: 100%;
   margin-top: 5px;
   padding: 10px 15px;
+  border: #ccc solid 1px;
+  border-radius: $base-radius;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+
+  &:focus {
+    border-color: #999;
+    outline: none;
+  }
 }
 
 // -------------------------------------
@@ -48,10 +62,7 @@ $scaffold: '.form';
 // -------------------------------------
 
 .textarea {
-  display: block;
-  width: 100%;
-  margin-top: 5px;
-  padding: 10px 15px;
+  @extend .input;
   min-height: 100px;
 }
 

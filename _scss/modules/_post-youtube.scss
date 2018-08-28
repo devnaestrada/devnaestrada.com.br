@@ -4,13 +4,24 @@
 //
 // *************************************
 
-.post-youtube {
+.post-youtube,
+.post-cast__content .post-youtube {
   margin-top: 60px;
+  padding: 20px 8px 8px 8px;
+  background: #29292C;
 }
 
 .post-youtube-title {
-  font-size: 32px;
-  margin-top: 0;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.4;
+  margin: 0 0 20px;
+  text-align: center;
+  padding: 0 20px;
+
+  @media screen and (min-width: $tablet) {
+    font-size: 28px;
+  }
 }
 
 .v-wrapper {

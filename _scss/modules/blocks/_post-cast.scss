@@ -1,3 +1,24 @@
+.post-cast__header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+  text-align: center;
+
+  &:after {
+    background-color: $post-hr-color;
+    content: "";
+    display: block;
+    height: 3px;
+    margin: 0;
+    width: 25px;
+  }
+
+  @media screen and (min-width: $tablet) {
+    align-items: flex-start;
+  }
+}
+
 .post-cast__header__meta {
   color: $post-meta-color;
   font-size: 13px;
@@ -12,47 +33,38 @@
 
 .post-cast__header__title {
   color: $post-title-color;
-  font-size: 1em;
-  font-weight: bold;
+  font-family: "Rubik", sans-serif;
+  font-size: 26px;
+  font-weight: 500;
   margin-top: 5px;
-
-  @media screen and (min-width: $mobile) {
-    font-size: 1.5em;
-  }
+  margin-bottom: 20px;
 
   @media screen and (min-width: $tablet) {
-    font-size: 2.1em;
+    font-size: 35px;
   }
 
   .fa {
     font-size: 14px;
   }
-
-  &:after {
-    background-color: $post-hr-color;
-    content: "";
-    display: block;
-    height: 3px;
-    margin: 25px 0;
-    width: 25px;
-  }
 }
 
 .post-cast__content {
+  color: $link-color;
+  font-weight: 400;
+  line-height: 1.5;
 
-  p {
-    color: $link-color;
-    font-weight: 400;
-    line-height: 1.5;
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+  }
 
-    a {
-      color: $primary-color;
-      font-weight: bold;
-      text-decoration: none;
-      
-      &:hover {
-        text-decoration: underline;
-      }
+  p a {
+    color: $primary-color;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
     }
   }
 
@@ -62,12 +74,28 @@
     padding: 0;
 
     li {
-      font-size: 15px;
-      margin-top: 5px;
-
-      &:first-child {
-        margin-top: 0;
+      + li {
+        margin-top: 15px;
       }
+    }
+  }
+
+  hr {
+    margin: 30px 0;
+    opacity: .2;
+  }
+
+  section + section {
+    margin-top: 30px;
+  }
+
+  @media screen and (min-width: $tablet) {
+    padding: 0 100px;
+
+    .post-cast__content__audio {
+      position: relative;
+      left: -100px;
+      width: calc(100% + 200px);
     }
   }
 }
@@ -76,7 +104,7 @@
   margin-top: 30px;
 
   a {
-    display: block;  
+    display: block;
   }
 }
 

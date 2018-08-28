@@ -55,43 +55,45 @@ $picture-width: 165px;
   padding: 0;
 
   li {
-    margin-top: 30px;
+    border-top: #E6E5E6 1px solid;
+    padding-top: 35px;
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    @media screen and (min-width: $tablet) {
+      flex-direction: row;
+      align-items: flex-start;
+    }
   }
 }
 
 #{$list}-picture {
+  margin-bottom: 15px;
   display: block;
-  max-width: $picture-width;
-  margin-left: auto;
-  margin-right: auto;
+  width: $picture-width;
 
   @media screen and (min-width: $tablet) {
-    display: inline-block;
-    margin-right: -4px;
-    vertical-align: middle;
-    width: $picture-width;
+    margin: 0;
   }
 }
 
 #{$list}-description {
   @media screen and (min-width: $tablet) {
-    display: inline-block;
     margin-left: 30px;
-    margin-right: -4px;
     overflow: hidden;
-    vertical-align: middle;
-    width: calc(100% - 195px);
   }
 }
 
 #{$list}-title {
   color: $post-title-color;
-  font-size: 1em;
-  margin: 0;
+  font-size: 21px;
+  margin: 0 0 7px;
 }
 
 #{$list}-text {
-  margin-top: 0;
+  margin: 0 0 10px;
   font-size: 16px;
 }
 
