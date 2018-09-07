@@ -21,6 +21,7 @@ participants:
 
 Ainda empolgados com os eventos, Eduardo e Ramon hoje convidam Débora e Keit para falar sobre como é organizar um grande evento. Descubra hoje a importância das tomadas, a ansiedade com os patrocinadores e também todas as alegrias de se produzir eventos.
 
+
 <strong>CUPOM REACTCONFBR: DEVNAESTRADA10OFF</strong>
 
 ---
