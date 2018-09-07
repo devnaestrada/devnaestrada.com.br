@@ -7,7 +7,7 @@ cast: "dne173-prod.mp3"
 cast-length: "56208295"
 cast-time: "00:58:29"
 description: "Ainda empolgados com os eventos, Eduardo e Ramon hoje convidam Débora e Keit para falar sobre como é organizar um grande evento. Descubra hoje a importância das tomadas, a ansiedade com os patrocinadores e também todas as alegrias de se produzir eventos."
-libsyn-image: "dne-173-capa.jpg"
+libsyn-image: "dne173-capa.jpg"
 lybsyn-id: "7018474"
 sponsors: ["cubo", "revelo", "alura"]
 participants:
