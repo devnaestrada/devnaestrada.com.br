@@ -1,24 +1,32 @@
 ---
 layout: post
-title: "DNE 174 - Motivações Intrínsecas"
-home-title: "Motivações Intrínsecas"
+title: "DNE 172 - Mudanças e BrazilJS"
+home-title: "Mudanças e BrazilJS"
 type: "Pauta"
-cast: "dne174-prod.mp3"
-cast-length: "3381006"
-cast-time: "00:35:13"
-description: "Quais as motivações de quem trabalha com programação? O que é motivação intrínseca e extrínseca? Vamos falar um pouco sobre o que nos faz mais realizados(as) dentro dessa área que tanto amamos (e odiamos às vezes). Vem com a gente nesse papo descontraído!"
-libsyn-image: "dne174-capa.jpg"
-lybsyn-id: "7045053"
+cast: "dne172-prod.mp3"
+cast-length: "46149358"
+cast-time: "00:47:57"
+description: "No episódio de hoje, Eduardo, Ramon e Montanha, contam um pouco como foi a experiência de serem hosts junto com a Isa e Debora na BrazilJS. Um pouco dos bastidores, do sentimento e da sensação que foi estar lá. E mais pro final também, comentam sobre algumas mudanças no podcast."
+libsyn-image: "dne-172-capa.jpg"
+lybsyn-id: "6990396"
 sponsors: ["cubo", "revelo", "alura"]
 ---
 
-Quais as motivações de quem trabalha com programação? O que é motivação intrínseca e extrínseca? Vamos falar um pouco sobre o que nos faz mais realizados(as) dentro dessa área que tanto amamos (e odiamos às vezes). Vem com a gente nesse papo descontraído!
+No episódio de hoje, Eduardo, Ramon e Montanha, contam um pouco como foi a experiência de serem hosts junto com a Isa e Debora na BrazilJS. Um pouco dos bastidores, do sentimento e da sensação que foi estar lá. E mais pro final também, comentam sobre algumas mudanças no podcast.
 
 Bora conferir!
 
 <strong>CUPOM REACTCONFBR: DEVNAESTRADA10OFF</strong>
-<strong>CUPOM THECONF: DEVNAESTRADA20</strong>
 
 ---
 
 {% include modules/post-extras.html data=page %}
+
+<section class="post-youtube">
+  <h2 class="post-youtube-title">
+    Perrengues na Gringa | DNE Feedback #17 | DEVNAESTRADA
+  </h2>
+  <div class="v-wrapper">
+    <iframe class="v-iframe" width="560" height="315" src="https://www.youtube.com/embed/3l7OdXlwvYs" frameborder="0" allowfullscreen></iframe>
+  </div>
+</section>
