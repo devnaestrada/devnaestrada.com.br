@@ -16,3 +16,5 @@ Quais as motivações de quem trabalha com programação? O que é motivação i
 
 <strong>CUPOM REACTCONFBR: DEVNAESTRADA10OFF</strong>
 ---
+
+{% include modules/post-extras.html data=page %}
