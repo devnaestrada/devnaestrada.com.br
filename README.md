@@ -14,7 +14,9 @@ Para rodar o site localmente siga os passos a seguir:
 
 ### Clone esse projeto
 
-    git clone git@github.com:devnaestrada/devnaestrada.com.br.git
+```sh
+git clone git@github.com:devnaestrada/devnaestrada.com.br.git
+```
 
 ### Instale o Ruby
 
@@ -27,12 +29,16 @@ Também é possível fazer isso seguindo as instruções do [site oficial](https
 - Instale o Bundler (gerenciador de dependências):
 
 
-    $ gem install bundler
+```sh
+$ gem install bundler
+```
 
 - Instale as gems necessárias
 
 
-    $ bundle install
+```sh
+$ bundle install
+```
 
 ### Instale NodeJS
 
@@ -41,15 +47,21 @@ A melhor maneira de se fazer isso é utilizando o [NVM](https://github.com/creat
 - Instale as dependências do node
 
 
-    $ npm install
+```sh
+$ npm install
+```
 
 ### Instale o GulpJS
 
-    $ npm install gulp-cli -g
+```sh
+$ npm install gulp-cli -g
+```
 
 ### Rodando o projeto
 
-    $ npm start
+```sh
+$ npm start
+```
 
 ## Colabore
 
