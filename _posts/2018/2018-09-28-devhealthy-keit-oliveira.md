@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "DevHealthy 03: Keit Oliveira"
-home-title: "Keit Oliveira"
+title: "DevHealthy 04: Lucas Pedrazoli"
+home-title: "Lucas Pedrazoli"
 type: "Pauta"
-cast: "dvh3-prod.mp3"
-cast-length: "50850108"
-cast-time: "00:52:36"
-description: "Nesse episódio do DevHealthy vamos trocar uma ideia com a Keit Oliveira sobre saúde e hábitos do dia-a-dia, seja em casa ou no trabalho. A Keit vai nos contar algumas experiências do trampo que influenciaram diretamente na saúde dela e como devemos evitar e nos atentar pra não caírmos em armadilhas de comportamento que podem nos afetar por um longo tempo! Vem com a gente nesse papo bacanudo!"
-libsyn-image: "dvh-03-capa.jpg"
-lybsyn-id: "7102314"
+cast: "dvh4-prod.mp3"
+cast-length: "39550150"
+cast-time: "00:41:04"
+description: "Conheça a história do Lucas, que passou por um período digamos, não tão saudável mas que felizmente conseguiu sair dessa situação!"
+libsyn-image: "dvh-04-capa.jpg"
+lybsyn-id: "7238471"
 sponsors: ["cubo", "revelo", "alura"]
 participants:
   -
     name: Eduardo Matos
     twitter: eduardojmatos
   -
-    name: Keit Oliveira
-    twitter: seescrevekeit
+    name: Lucas Pedrazoli
+    twitter: lucaspedrazoli
 ---
 
-Nesse episódio do DevHealthy vamos trocar uma ideia com a Keit Oliveira sobre saúde e hábitos do dia-a-dia, seja em casa ou no trabalho. A Keit vai nos contar algumas experiências do trampo que influenciaram diretamente na saúde dela e como devemos evitar e nos atentar pra não caírmos em armadilhas de comportamento que podem nos afetar por um longo tempo! Vem com a gente nesse papo bacanudo!
+Conheça a história do Lucas, que passou por um período digamos, não tão saudável mas que felizmente conseguiu sair dessa situação!
 
 #dnehealthy
 
