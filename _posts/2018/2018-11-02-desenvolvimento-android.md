@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DNE 179 - Desenvolvimenrto Android"
+title: "DNE 179 - Desenvolvimento Android"
 home-title: "Desenvolvimenrto Android"
 type: "Pauta"
 cast: "DNE_EP179.mp3"
