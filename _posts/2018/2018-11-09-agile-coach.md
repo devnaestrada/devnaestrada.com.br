@@ -18,14 +18,21 @@ participants:
   -
     name: Samuel Cavalcante
     twitter: samuelmbc
+
+scraps:
+  -
+    name: "Rio Sul Valley Dev Summit"
+    url: "https://riosulvalley.com.br/devsummit/"
 ---
 
 O que faz um(a) Agile Coach? Quais as responsabilidades dentro de uma empresa? Hoje vamos conversar com Tatiana Ottenio e Samuel Cavalcante sobre esse papel que se tornou muito importante nos últimos anos em ambientes ágeis.
 
-Tatiana Ottenio
+<strong>Tatiana Ottenio</strong>
+
 Trabalho com Ágil há mais de 7 anos. De desenvolvedora a Agile Coach, em uma jornada com muito aprendizado e trocas. Sou apaixonada por tecnologia, mas mais ainda por pessoas e suas interações. Encontrei no mundo ágil o melhor equilíbrio entre as duas paixões.
 
-Samuel Cavalcante
+<strong>Samuel Cavalcante</strong>
+
 Agile Coach, Facilitador e Scrum Master. Formado em engenharia da Computação e esp. em engenharia de Sistemas. Atuando como Agile Coach pela Knowledge21 (K21) e na comunidade Agile no Brasil, auxiliando na organização de eventos como Scrum Gathering Rio, AgileBrazil, dentre outros. Foi professor universitário e Scrum Master na DígithoBrasil, lugares onde descobriu a importância da facilitação e do coaching. Estudante e praticante dos métodos ágeis.
 
 ---
