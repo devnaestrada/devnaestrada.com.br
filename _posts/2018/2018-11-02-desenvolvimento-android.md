@@ -21,6 +21,7 @@ participants:
 ---
 
 E nesse episódio vamos desvendar o mundo Android. Como é desenvolver pra essa área? Quais os desafios e futuro do desenvolvimento Android? Ruy e Walmyr nos ajudam a descobrir mais sobre essa área!
+
 ---
 
 {% include modules/post-extras.html data=page %}
