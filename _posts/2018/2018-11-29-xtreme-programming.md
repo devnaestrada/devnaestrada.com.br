@@ -13,7 +13,7 @@ sponsors: ["cubo", "revelo", "alura"]
 participants:
   -
     name: Ceci Fernandes
-    link: cecifernandes
+    link: https://www.linkedin.com/in/cecifernandes
 
   -
     name: Luiz Lula
@@ -25,9 +25,6 @@ links:
   -
     name: "Vinicius Telles"
     url: "https://www.amazon.com.br/Extreme-Programming-Vin%C3%ADcius-Manh%C3%A3es-Teles/dp/857522400X"
-  -
-    name: "Ceci Linkedin"
-    url: https://www.linkedin.com/in/cecifernandes"
   -
     name: "http://cecifernandes.com"
     url: "http://cecifernandes.com"
