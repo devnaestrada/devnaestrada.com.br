@@ -17,6 +17,11 @@ participants:
   -
     name: Raphael Fabeni
     twitter: raphaelfabeni
+links:
+  -
+    name: "O poder do hábito"
+    url: "https://www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119"
+
 ---
 
 No primeiro episódio do ano vamos falar com Raphael Fabeni sobre vida saudável, rotina e como ele mantém o dia-a-dia de treinos e alimentação!
