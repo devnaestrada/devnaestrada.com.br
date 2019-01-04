@@ -7,7 +7,7 @@ cast: "DH5.mp3"
 cast-length: "35400602"
 cast-time: "00:36:37"
 description: "No primeiro episódio do ano vamos falar com Raphael Fabeni sobre vida saudável, rotina e como ele mantém o dia-a-dia de treinos e alimentação!"
-libsyn-image: "dvh-03-capa.jpg"
+libsyn-image: "dvh-05-capa.jpg"
 lybsyn-id: "8130695"
 sponsors: ["cubo", "revelo", "alura"]
 participants:
