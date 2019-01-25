@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DNE 189 - Vagas Arrochadas"
-home-title: ""
+home-title: "Vagas Arrochadas"
 type: "Pauta"
 cast: "DNE189.mp3"
 cast-length: "44750214"
