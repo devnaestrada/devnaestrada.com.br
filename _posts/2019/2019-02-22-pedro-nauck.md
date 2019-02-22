@@ -16,7 +16,7 @@ participants:
     twitter: eduardojmatos
   -
     name: Ramon Sanches
-    link: raymonsanches
+    twitter: raymonsanches
   -
     name: Pedro Nauck
     twitter: pedronauck
