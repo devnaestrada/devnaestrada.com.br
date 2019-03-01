@@ -24,7 +24,6 @@ links:
   -
   	name: "Twitter da Talita"
   	url: "https://twitter.com/talitapagani"
-
 ---
 
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233... No episódio de hoje levantamos diversas provocações sobre as famigeradas estimativas. Estimativa é prazo? Ela precisa ser acurada? Baseada em histórico, predição? Embarque nessa discussão com a gente que pode te fazer refletir um pouco... ou não.
