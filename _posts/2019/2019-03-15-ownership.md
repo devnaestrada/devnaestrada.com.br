@@ -16,10 +16,10 @@ participants:
     twitter: eduardojmatos
   -
     name: Ramon Sanches
-    link: raymonsanches
+    twitter: raymonsanches
   -
     name: Emilio Aiofi
-    link: emilioaiofi
+    twitter: EmilioAiolfi
 ---
 
 No episódio de hoje convidamos @emilioaiolfi para nos ajudar a decifrar os múltiplos significados de ownership. O que isso realmente quer dizer? Bônus ou apenas ônus? Vamos descobrir.
