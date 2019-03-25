@@ -34,3 +34,9 @@
   description: 'A GoRails nasceu de um grupo de desenvolvedores preocupados com as oportunidades de emprego para o mercado Goiano, hoje somos uma comunidade empenhada em fomentar o uso do framework Ruby on Rails em Goiás 
   e no Brasil!.Mas não apoiamos só o rails, estamos aqui para apoiar o mercado tecnológico. Em nosso site você ira encontrar vagas de emprego, eventos, noticias, tutoriais, games, sim você ouviu games!...Fazemos uso de gamification para 
   incentivar nossos usuários a produzirem conteúdo. Da um pulo no site e ajude-nos também, afinal somos Open Source.'
+-
+  title: 'Criciúma Dev'
+  link: 'http://bit.ly/cd-devnaestrada'
+  picture: '/assets/img/community/criciumadev.jpg'
+  picture_alt: 'Criciúma Dev'
+  description: 'Criado em 2015, o Criciúma Dev é uma iniciativa sem fins lucrativos que busca fomentar o aprendizado e ajudar pessoas que curtem a área de tecnologia e desenvolvimento de Criciúma, Santa Catarina, a se desenvolverem profissionalmente.'
