@@ -21,7 +21,7 @@ participants:
     twitter: eduardojmatos
   -
     name: Ramon Sanches
-    link: raymonsanches
+    twitter: raymonsanches
 
 ---
 
