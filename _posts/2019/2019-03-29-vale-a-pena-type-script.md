@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DNE 198 - Vale a pena TypeScript?"
+title: "DNE 199 - Vale a pena TypeScript?"
 home-title: "Vale a pena TypeScript?"
 type: "Pauta"
 cast: "DNE199.mp3"
