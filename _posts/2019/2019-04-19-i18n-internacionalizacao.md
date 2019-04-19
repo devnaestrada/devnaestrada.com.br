@@ -35,7 +35,7 @@ scraps:
     url: "https://www.sympla.com.br/ebanx-apresenta-capiconf-2019__457211?d=DNE30"
 ---
 
-Que ferramentas vocês utilizam no dia-a-dia? @raymonsanches e @eduardojmatos falam um pouco mais sobre quais apps costumam utilizar.
+O quer quer dizer i18n? Será que sabemos mesmo o que quer dizer internacionalização? No episódio de hoje nosso time de especialistas Leo Balter, Eduardo Shiota, Rafael Xaviers, Eduardo Matos e Ramon Sanches dissecam o que é essa tal de internacionalização.
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 <br>
