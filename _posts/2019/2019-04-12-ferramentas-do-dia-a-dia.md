@@ -29,9 +29,9 @@ scraps:
 
 Que ferramentas vocês utilizam no dia-a-dia? @raymonsanches e @eduardojmatos falam um pouco mais sobre quais apps costumam utilizar.
 
-<strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
-<strong>CapiConf com 30%: DNE30</strong>
-<strong>FrontinSampa com 20%: DNEESPECIAL200</strong>
+<strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong><br/>
+<strong>CapiConf com 30%: DNE30</strong><br/>
+<strong>FrontinSampa com 20%: DNEESPECIAL200</strong><br/>
 
 ---
 
