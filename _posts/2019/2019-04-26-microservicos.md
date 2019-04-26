@@ -32,7 +32,7 @@ scraps:
     name: "CapiConf"
     url: "https://www.sympla.com.br/ebanx-apresenta-capiconf-2019__457211?d=DNE30"
   -
-    name: "FrontinCampinas
+    name: "FrontinCampinas"
     url: "https://frontincampinas.com.br/"
 ---
 
