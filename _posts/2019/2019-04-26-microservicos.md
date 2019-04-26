@@ -36,7 +36,7 @@ scraps:
     url: "https://frontincampinas.com.br/"
 ---
 
-O quer quer dizer i18n? Será que sabemos mesmo o que quer dizer internacionalização? No episódio de hoje nosso time de especialistas Leo Balter, Eduardo Shiota, Rafael Xaviers, Eduardo Matos e Ramon Sanches dissecam o que é essa tal de internacionalização.
+Quando partir pra microserviços? Monolitos realmente são ruins? Venha com a gente saber mais sobre a diferença entre as duas formas de arquitetura e suas vantagens! Recebemos Wellington Silva (@_wsilva) e Elton Minetto (@eminetto) pra discutir sobre o assunto!
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 <br>
