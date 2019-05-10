@@ -7,7 +7,7 @@ cast: "DNE205.mp3"
 cast-length: "39017224"
 cast-time: "00:40:39"
 description: "Quantas vezes você entrou numa reunião, saiu dela e nada foi resolvido? Vem com a gente desabafar sobre esses tipos de reuniões e discutir possibilidades pra resolver isso. No fim, top dicas pra tentar resolver essas dores de reuniões!"
-libsyn-image: "dne204-capa.jpg"
+libsyn-image: "dne205-capa.jpg"
 lybsyn-id: "9725924"
 sponsors: ["cubo", "revelo"]
 participants:
