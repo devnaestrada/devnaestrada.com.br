@@ -38,7 +38,7 @@ scraps:
     url: "https://frontincampinas.com.br/"
 ---
 
-Quando partir pra microserviços? Monolitos realmente são ruins? Venha com a gente saber mais sobre a diferença entre as duas formas de arquitetura e suas vantagens! Recebemos Wellington Silva (@_wsilva) e Elton Minetto (@eminetto) pra discutir sobre o assunto!
+Como funcionam alguns modelos de aumento de salário ou promoções? Será que existe um jeito menos subjetivo de receber compensação financeira? Nesse episódio, Ramon e Eduardo debatem os formatos e as maneiras que algumas empresas tem feito na hora de dar aquele UP no salário e na carreira!
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 <br>
