@@ -26,6 +26,19 @@ participants:
   -
     name: Ramon Sanches
     twitter: raymonsanches
+
+links:
+  -
+    name: Globalize
+    url: https://github.com/globalizejs/globalize/
+
+  -
+    name: React Globalize
+    url: https://github.com/globalizejs/react-globalize
+  -
+    name: React Globalize Webpack Plugin
+    url: https://github.com/rxaviers/react-globalize-webpack-plugin/
+
 scraps:
   -
     name: "Frontinsampa"

@@ -17,6 +17,39 @@ participants:
   -
     name: Ramon Sanches
     twitter: raymonsanches
+
+links:
+  -
+    name: "Alfred"
+    url: https://www.alfredapp.com/
+  -
+    name: "Plugins para Alfred"
+    url: http://www.packal.org/
+  -
+    name: "Dash for MacOS"
+    url: https://kapeli.com/dash
+  -
+    name: "spectacle app"
+    url: https://www.spectacleapp.com/
+  -
+    name: "iTerm"
+    url: https://www.iterm2.com/
+  -
+    name: "Nylas"
+    url: https://www.nylas.com/
+  -
+    name: "Wakatime"
+    url: https://wakatime.com/
+  -
+    name: "neovim"
+    url: https://neovim.io/
+  -
+    name: "Sequel Pro"
+    url: https://www.sequelpro.com/
+  -
+    name: "Notion"
+    url: https://notion.so
+
 scraps:
   -
     name: "Frontinsampa"
