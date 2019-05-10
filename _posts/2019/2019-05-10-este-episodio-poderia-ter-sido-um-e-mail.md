@@ -18,6 +18,11 @@ participants:
     name: Ramon Sanches
     twitter: raymonsanches
 
+links:
+  -
+    name: Discourse
+    url: https://www.discourse.org/
+
 scraps:
   -
     name: "Frontinsampa"
