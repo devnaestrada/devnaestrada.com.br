@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DNE 207 - Kotlin no back-end"
-home-title: "Kotlin no back-end"
+title: "DNE 207 - Kotlin no back-end?"
+home-title: "Kotlin no back-end?"
 type: "Pauta"
 cast: "DNE207.mp3"
 cast-length: "38325919"
