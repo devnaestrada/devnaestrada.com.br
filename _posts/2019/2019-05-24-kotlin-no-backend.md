@@ -37,8 +37,6 @@ Vale a pena Kotlin no backend? Hoje, @eduardojmatos, Cassiano Lima e Matheus Cá
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 <br>
-<strong>CapiConf com 30%: DNE30</strong>
-<br>
 <strong>FrontinSampa com 20%: DNEESPECIAL200</strong>
 
 ---
