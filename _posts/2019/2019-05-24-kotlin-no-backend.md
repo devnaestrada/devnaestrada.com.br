@@ -16,8 +16,10 @@ participants:
     twitter: eduardojmatos
   -
     name: Cassiano Lima
+    twitter: cassianull
   -
     name: Matheus Cáceres
+    link: https://linkedin.com/in/matheuscaceres
 
 links:
   -
