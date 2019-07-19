@@ -17,10 +17,9 @@ participants:
   -
     name: Ramon Sanches
     twitter: raymonsanches
-
   -
     name: Raphael Albino
-    url: https://www.linkedin.com/in/raphaelalbino/
+    link: https://www.linkedin.com/in/raphaelalbino/
 
 ---
 
