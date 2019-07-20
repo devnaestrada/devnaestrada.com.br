@@ -21,6 +21,13 @@ participants:
     name: Raphael Albino
     link: https://www.linkedin.com/in/raphaelalbino/
 
+links:
+  -
+    name: Livro do Raphael Albino, Métricas Ágeis
+    url: https://www.casadocodigo.com.br/products/livro-metricas-ageis
+  -
+    name: O perigo de Analisar Métricas sem Contexto
+    url: http://blog.plataformatec.com.br/2019/06/o-perigo-de-analisar-metricas-sem-contexto/
 ---
 
 Vamos falar de métricas que importam? Hoje chamamos Raphael Albino, escritor do livro e que trabalha na Plataformatec, pra falar um pouco sobre esse assunto com a gente! 
