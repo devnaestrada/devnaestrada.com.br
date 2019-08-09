@@ -3,7 +3,7 @@ layout: post
 title: "DNE 218 - Formações Acadêmicas em Tecnologia"
 home-title: "Formações Acadêmicas em Tecnologia"
 type: "Pauta"
-cast: "DNE_218.mp3"
+cast: "DNE218.mp3"
 cast-length: "51031461"
 cast-time: "00:53:09"
 description: "Hoje discutimos os tipos de formações acadêmicas, quais as suas diferenças e um pouco da nossa opinião sobre fazer ou não um curso em uma faculdade. Vem com a gente nesse episódio com várias opiniões e aquela cagada de regra de sempre!"
