@@ -18,6 +18,10 @@ participants:
     name: Willian Arantes
     twitter: warantesbr
 
+scraps:
+  -
+    name: "Vakinha do Paulinho"
+    url: "http://vaka.me/670350"
 ---
 
 Hoje, ao estilo Extreme Go Horse, fizemos uma pauta livre, sem um assunto fixo, pegando os tweets de algumas pessoas que interagiram com a gente por lá (José hahah) e alguns assuntos trend topics sobre desenvolvimento
