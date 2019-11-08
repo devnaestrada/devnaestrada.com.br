@@ -28,8 +28,8 @@ scraps:
     url: "https://www.knowledge21.com.br/blog/as-disfuncoes-do-time-de-desenvolvimento-parte-1/"
 
   -
-		name: "Estudo sobre modelo spotify (Renato Caliari)"
-		url: "https://www.notion.so/getninjas/Spotify-8e1054075b8148b99de5c6651f83c670"
+    name: "Estudo sobre modelo spotify (Renato Caliari)"
+    url: "https://www.notion.so/getninjas/Spotify-8e1054075b8148b99de5c6651f83c670"
 
 ---
 
