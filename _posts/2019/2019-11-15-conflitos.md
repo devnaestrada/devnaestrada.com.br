@@ -25,7 +25,7 @@ scraps:
 
 ---
 
-Conflitos acontecem em muitos times e empresas. Mas qual o n√≠vel desses conflitos e como resolve-los? Nesse epis√≥dio vamos destrinchar os tipos de conflito e tentar entender com lidar com eles!
+Conflitos acontecem em muitos times e empresas. Mas qual o nível desses conflitos e como resolve-los? Nesse episódio vamos destrinchar os tipos de conflito e tentar entender com lidar com eles!
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 <br>
