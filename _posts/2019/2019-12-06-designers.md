@@ -7,7 +7,7 @@ cast: "DNE235.mp3"
 cast-length: "40035790"
 cast-time: "00:41:42"
 description: "Como design pode se relacionar com desenvolvimento? Nesse episódio, falamos com Paula Franciscani, Product Designer na Liv Up. Vem com a gente saber mais sobre essa relação!"
-libsyn-image: "dne235-capa.jpg"
+libsyn-image: "dne-235-capa.jpg"
 lybsyn-id: "12308477"
 sponsors: ["revelo"]
 participants:
