@@ -3,7 +3,7 @@ layout: post
 title: "DNE 240 - Coronavírus, Piores Linguagens para Aprender e o Grande Irmão"
 home-title: "Coronavírus, Piores Linguagens para Aprender e o Grande Irmão"
 type: "Pauta"
-cast: "DNE240.mp3"
+cast: "DNE_240.mp3"
 cast-length: "49978203"
 cast-time: "00:52:04"
 description: "Hoje vamos falar sobre algumas notícias desse primeiro mês de 2020. Falamos sobre como coronavírus criou uma onda forçada de trabalho remoto, quais linguagens não são tão indicadas pra programar em 2020 e sobre uma parada bizarra que aconteceu recentemente num background-check pra uma vaga de emprego"
