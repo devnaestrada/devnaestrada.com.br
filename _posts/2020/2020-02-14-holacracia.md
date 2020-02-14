@@ -19,18 +19,15 @@ participants:
     twitter: raymonsanches
   -
     name: Cali
-    twitter: 
+    link: https://www.linkedin.com/in/renatocaliari/
   -
     name: Davi Gabriel
-    twitter: davigbr
+    link: https://www.linkedin.com/in/davigbr/
 
 scraps:
   -
     name: "O2"
     url: "https://targetteal.com/pt/o2/"
-  -
-    name: "Cali (Linkedin)"
-    url: "https://www.linkedin.com/in/renatocaliari/"
   -
     name: "Tentaculus - Publicações do Cali sobre organizações"
     url: "http://medium.com/tentaculus"
