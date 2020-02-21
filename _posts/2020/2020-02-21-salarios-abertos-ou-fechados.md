@@ -18,7 +18,7 @@ participants:
     name: Willian Arantes
     twitter: warantesbr
 
-scraps:
+links:
   -
     name: "Tweet do Zac, onde tudo começou"
     url: "https://twitter.com/zacsweers/status/1228205724255154177?s=21 "
@@ -38,13 +38,19 @@ scraps:
     name: "MirrorPay - planilha com salários do mundo todo"
     url: "https://docs.google.com/spreadsheets/d/1Uol6gfYdzoTyGVxRMPC_F73JJNExBmmMWc3Ha9U2aUQ/htmlview#gid=1434264456"
 
+scraps:
+  -
+    name: "CapiConf 30%: DEVNAESTRADA"
+    url: "https://inscricao.capiconf.com/"
+  -
+    name: "Elixir Brasil 2020"
+    url: "https://www.sympla.com.br/elixir-brasil-2020__736536"
+
 ---
 
 Abrir salários publicamente? Somente para as pessoas da empresa? O que a gente acha desse assunto você descobre nesse episódio! Vem com a gente nessa sexta pré-carnaval discutir sobre essa pauta quente e polêmica :)
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
-<br>
-<strong>CapiConf 30%: DEVNAESTRADA</strong>
 
 ---
 
