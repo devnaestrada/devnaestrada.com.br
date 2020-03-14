@@ -4,6 +4,7 @@
 {% for post in site.posts %}
 {
 "title"    : "{{ post.title | escape }}",
+"author"   : "{% for participant in post.participants %}{{ participant.name }}; {% endfor %}",
 "url"      : "{{ site.baseurl }}{{ post.url | remove_first: "/"}}",
 "date"     : "{{ post.date | date_to_string}}"
 } {% unless forloop.last %},{% endunless %}
