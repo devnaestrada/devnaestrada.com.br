@@ -22,6 +22,7 @@ participants:
 
 Nesse episódio gravado ao vivo, com uma galerinha bacanuda interagindo com a gente, falamos sobre a perspectiva de liderança em contexto de trabalho remoto, como as pessoas que exercem algum papel que lidera times deveria se comportar!
 
+
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
 ---
