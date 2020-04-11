@@ -8,7 +8,7 @@ cast-length: "65167258"
 cast-time: "01:07:53"
 description: "Com esse título enorme o episódio de hoje vem com bastante conteúdo! Pegamos tweets de algumas pessoas que sugeriram temas e gravamos ao vivo! Falamos de remoto forçado, quais as consequências do corona para pessoas tecnologia e muito mais!"
 libsyn-image: "dne249-capa.jpg"
-lybsyn-id: ""
+lybsyn-id: "13943549"
 sponsors: ["revelo"]
 participants:
   -
