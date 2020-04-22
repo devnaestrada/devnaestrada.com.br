@@ -23,7 +23,7 @@ participants:
 
 ---
 
-Hoje voltamos com o formato de entrevista do DNE! Chamamos o Odair Bonin, que é um dos criadores do Conversa Ágil, podcast sobre agilidade, e Architecture Manager na CI&T. Bora ouvir um pouco da experiência dele?
+Hoje voltamos com o formato de entrevista do DNE! Chamamos o Odair Bonin, que é um dos criadores do Conversa Ágil, podcast sobre agilidade, e Architecture Manager. Bora ouvir um pouco da experiência dele?
 
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
