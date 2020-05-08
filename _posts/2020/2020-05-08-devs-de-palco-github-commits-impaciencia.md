@@ -25,6 +25,8 @@ participants:
 
 Nessa sexta-feira que mal chegou e já consideramos pacas falamos um pouco sobre um assunto que tomou de rage, fúria e ódio a comunidade de desenvolvimento na última semana. Devs palco. Quem são? De que se alimentam? Onde vivem? Hoje, no DevNaEstrada.
 
+<strong><a href="https://devnaestrada.com.br/locawebpro/">Conheça a Locaweb Pro!</a> Um programa de parcerias da Locaweb para developers, com benefícios exclusivos para alavancar sua carreira e gerar mais negócios!</strong>
+
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
 ---
