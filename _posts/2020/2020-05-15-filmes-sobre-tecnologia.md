@@ -18,6 +18,11 @@ participants:
     name: Willian Arantes
     twitter: warantesbr
 
+links:
+  -
+    name: "Hacker Type"
+    url: "https://hackertyper.net/"
+
 ---
 
 No episódio de hoje, Eduardo Matos e Willian Arantes levam um papo sério sobre ficção falando sobre alguns filmes relacionados a tecnologia. Embarque nessa jornada com a gente e quem sabe pegue algumas dicas de filmes pra ver.
