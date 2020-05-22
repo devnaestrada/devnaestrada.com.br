@@ -24,6 +24,14 @@ participants:
     name: Lula Rodrigues
     twitter: luizphx
 
+links:
+  -
+    name: "Love the Problem - Podcast da K21"
+    url: "https://knowledge21.com.br/podcast/"
+  -
+    name: "Corporate Rebels"
+    url: "https://www.amazon.com.br/Corporate-Rebels-Make-work-more/dp/9083004805"
+
 ---
 
 Antes de ouvir esse episódio, por favor, assine aqui e tire duas cópias autenticadas, reconhecidas em cartório, e um comprovante de assinatura do nosso feed! Brincadeiras à parte, hoje vamos falar sobre burocracia e suas mazelas! Contamos com a presença do nosso convidado (que já virou quase host oficial) Luiz Lula, junto com Ramon, Edu e Willian, discutindo sobre as problemáticas burocráticas.
