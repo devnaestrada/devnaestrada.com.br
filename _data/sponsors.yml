@@ -51,3 +51,9 @@ locawebpro:
   url: "https://www.devnaestrada.com.br/locawebpro"
   img: "/assets/img/partners/locawebpro.png"
   text: "Conheça a Locaweb Pro! Um programa de parcerias da Locaweb para developers, com benefícios exclusivos para alavancar sua carreira e gerar mais negócios!"
+
+promobit:
+  name: "Promobit"
+  url: "https://www.promobit.com.br"
+  img: "/assets/img/partners/promobit.png"
+  text: "A comunidade que encontra e compartilha as melhores ofertas!"
