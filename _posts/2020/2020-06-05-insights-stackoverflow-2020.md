@@ -23,7 +23,7 @@ participants:
 
 links:
   -
-    name: "Insights Stackoveflow 2020"
+    name: "Insights Stackoverflow 2020"
     url: "https://insights.stackoverflow.com/survey/2020/"
 
 ---
