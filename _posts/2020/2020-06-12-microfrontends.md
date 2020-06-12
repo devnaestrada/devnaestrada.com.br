@@ -9,7 +9,7 @@ cast-time: "01:08:28"
 description: "E finalmente vamos falar sobre essa arquitetura (ou conceito?) de microfrontends, tão na moda no vocabulário da galera do front-end! E convidamos Willian Martins, Mario Souto e Emilio Aiolfi pra debater sobre!"
 libsyn-image: "dne258-capa.jpg"
 lybsyn-id: "14799860"
-sponsors: ["revelo", "locawebpro", "promobit"]
+sponsors: ["revelo", "locawebpro", "promobit", "google_for_startups"]
 participants:
   -
     name: Eduardo Matos

@@ -57,3 +57,9 @@ promobit:
   url: "https://www.promobit.com.br"
   img: "/assets/img/partners/promobit.png"
   text: "A comunidade que encontra e compartilha as melhores ofertas!"
+
+google_for_startups:
+  name: "Google for Startups"
+  url: "https://startup.google.com.br"
+  img: "/assets/img/partners/google-for-startups.png"
+  text: "Conheça o Google for Startups"
