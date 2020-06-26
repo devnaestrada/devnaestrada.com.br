@@ -39,7 +39,7 @@ links:
     name: "Kit de Gestão para Devs"
     url: https://conteudo.blog.locaweb.com.br/desenvolvedores-kit-gestao-para-devs-ebook-ferramentas
   -
-    name: "locaweb <pro>"
+    name: "locaweb pro"
     url: https://pro.locaweb.com.br/
   -
     name: "SND Web"
