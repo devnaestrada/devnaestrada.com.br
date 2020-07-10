@@ -25,10 +25,10 @@ participants:
     link: https://www.linkedin.com/in/juliodelimas/
   -
     name: Samanta Cecília
-    twitter: https://www.linkedin.com/in/samantacici
+    link: https://www.linkedin.com/in/samantacici
   -
     name: Paulo Silva
-    twitter: https://www.linkedin.com/in/paulomsilva3/
+    link: https://www.linkedin.com/in/paulomsilva3/
 
 links:
   -
