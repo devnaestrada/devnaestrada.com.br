@@ -9,7 +9,7 @@ cast-time: "01:03:05"
 description: "Como as técnicas modernas de QA podem ajudar os times nos dias de hoje? Isso e muito mais nesse papo incrível sobre qualidade de software com Samanta Cicília (Tech Lead na Pagar.me), Júlio de Lima (Consultor de Testes) e Paulo Silva (QA Lead na Liv Up)."
 libsyn-image: "dne262-capa.jpg"
 lybsyn-id: "15158249"
-sponsors: ["revelo"]
+sponsors: ["revelo", "locawebpro"]
 participants:
   -
     name: Eduardo Matos
