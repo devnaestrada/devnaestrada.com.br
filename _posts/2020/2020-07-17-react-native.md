@@ -9,7 +9,7 @@ cast-time: "01:04:30"
 description: "E nesse episódio com mais um tema do mundo mobile e front-end, falamos com Mario Souto, Emilio Aiolfi e Renato Augusto sobre suas experiências com desenvolvimento em React Native. Falamos sobre dores, casos de sucesso e dicas pra você que está pensando em usar ou já está usando na sua empresa."
 libsyn-image: "dne263-capa.jpg"
 lybsyn-id: "15246320"
-sponsors: ["revelo", "locawebpro", "promobit"]
+sponsors: ["revelo", "locawebpro"]
 participants:
   -
     name: Eduardo Matos
