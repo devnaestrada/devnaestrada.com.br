@@ -3,7 +3,7 @@ layout: post
 title: "DNE 266 - Perrengues em Portugal"
 home-title: "Perrengues em Portugal"
 type: "Pauta"
-cast: "DNE_266.mp3"
+cast: "DNE266.mp3"
 cast-length: "56136414"
 cast-time: "00:58:28"
 description: "Pá! Hoje estaremos a falar sobre como nossos gajos convidados estão a viver em Portugal: Douglas Ritter, Elber Ribeiro (Dynaum) e Ruy Mesquita! Com certeza você leu no sotaque lusitano, pois, agora aperte o play do seu tocador e ouça conosco esse episódio que está bué'da fixe!"
