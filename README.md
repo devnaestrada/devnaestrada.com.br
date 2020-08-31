@@ -3,7 +3,7 @@
 
 [![Deployment status from DeployBot](https://aowba.deploybot.com/badge/34534835889972/41230.svg)](http://deploybot.com)
 
-> O [DEVNAESTRADA](https://devnaestrada.com.br) é um podcast focado em desenvolvedores web, onde contamos um pouco do nosso dia
+> O [DEVNAESTRADA](https://devnaestrada.com.br) é um podcast focado em desenvolvimento, onde contamos um pouco do nosso dia
 a dia em um papo descontraído e sempre com muita risada.
 
 ## Configuração do projeto
@@ -14,7 +14,9 @@ Para rodar o site localmente siga os passos a seguir:
 
 ### Clone esse projeto
 
-    git clone git@github.com:devnaestrada/devnaestrada.com.br.git
+```sh
+git clone git@github.com:devnaestrada/devnaestrada.com.br.git
+```
 
 ### Instale o Ruby
 
@@ -27,12 +29,16 @@ Também é possível fazer isso seguindo as instruções do [site oficial](https
 - Instale o Bundler (gerenciador de dependências):
 
 
-    $ gem install bundler
+```sh
+$ gem install bundler
+```
 
 - Instale as gems necessárias
 
 
-    $ bundle install
+```sh
+$ bundle install
+```
 
 ### Instale NodeJS
 
@@ -41,19 +47,25 @@ A melhor maneira de se fazer isso é utilizando o [NVM](https://github.com/creat
 - Instale as dependências do node
 
 
-    $ npm install
+```sh
+$ npm install
+```
 
 ### Instale o GulpJS
 
-    $ npm install gulp-cli -g
+```sh
+$ npm install gulp-cli -g
+```
 
 ### Rodando o projeto
 
-    $ npm start
+```sh
+$ npm start
+```
 
 ## Colabore
 
-- Aceitamos Pullrequest na branch [master](https://github.com/devnaestrada/devnaestrada.com.br/tree/master)
+- Aceitamos Pull Request na branch [master](https://github.com/devnaestrada/devnaestrada.com.br/tree/master)
 
 ## Licença
 

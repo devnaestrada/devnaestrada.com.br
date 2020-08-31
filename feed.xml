@@ -32,7 +32,7 @@ layout: null
       <itunes:name>{{ site.title }}</itunes:name>
       <itunes:email>{{ site.email_address }}</itunes:email>
     </itunes:owner>
-    <managingEditor>montanha@devnaestrada.com.br</managingEditor>
+    <managingEditor>contato@devnaestrada.com.br</managingEditor>
     <copyright>&#xA9; 2017 {{ site.title }}</copyright>
     <itunes:subtitle>Bate papo, tecnologia e programação Front-end e Back-end</itunes:subtitle>
     <image>

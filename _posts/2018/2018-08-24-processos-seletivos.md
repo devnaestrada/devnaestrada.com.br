@@ -10,6 +10,13 @@ description: "Vamos falar sobre nossas experiências em processos seletivos, qua
 libsyn-image: "dne-171.jpg"
 lybsyn-id: "6963714"
 sponsors: ["cubo", "revelo", "alura"]
+participants:
+  -
+    name: Isabella Silveira
+    twitter: silveira_bells
+  -
+    name: Felipe Fialho
+    twitter: lfeh
 links:
 -
   name: "DNE 36 - Entrevista de Emprego"

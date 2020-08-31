@@ -48,16 +48,16 @@ footer {
   margin: 0;
   filter: grayscale(100%);
 
-  &.profile__image--femontanha {
-    background-image: url('https://pbs.twimg.com/profile_images/1021967475326570496/P43b47uT_400x400.jpg');
-  }
-
   &.profile__image--raymon {
     background-image: url('https://pbs.twimg.com/profile_images/1021904162928427010/zYx0p4QW_400x400.jpg');
   }
 
   &.profile__image--edu {
-    background-image: url('https://pbs.twimg.com/profile_images/1021973093554814979/nf2MGWCE_400x400.jpg');
+    background-image: url('https://avatars0.githubusercontent.com/u/1279783?s=400&v=4');
+  }
+
+  &.profile__image--will {
+    background-image: url('https://avatars1.githubusercontent.com/u/853156?s=400&v=4');
   }
 
   &.profile__image--dne {

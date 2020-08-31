@@ -46,8 +46,20 @@ crowd:
   img: "/assets/img/partners/crowd.png"
   text: "A maior plataforma para trabalho freelancer do Brasil. Cadastre-se gratuitamente e receba propostas de grandes agências, empresas e startups e participe de diversos projetos sob demanda."
 
-cubo:
-  name: "Cubo"
-  url: "https://cubo.network/jobs"
-  img: "/assets/img/partners/cubo.png"
-  text: "Se você está em busca de novas experiências e desafios, explore oportunidades em startups. Acesse https://cubo.network/jobs e confira as vagas disponíveis."
+locawebpro:
+  name: "Locaweb Pro"
+  url: "https://pro.locaweb.com.br?utm_source=DevNaEstrada&utm_medium=Podcast&utm_campaign=Big_Tech_Para_Todo_Mundo_PRO"
+  img: "/assets/img/partners/locawebpro.jpg"
+  text: "Conheça a Locaweb Pro! Um programa de parcerias da Locaweb para developers, com benefícios exclusivos para alavancar sua carreira e gerar mais negócios!"
+
+promobit:
+  name: "Promobit"
+  url: "https://www.promobit.com.br"
+  img: "/assets/img/partners/promobit.png"
+  text: "A comunidade que encontra e compartilha as melhores ofertas!"
+
+google_for_startups:
+  name: "Google for Startups"
+  url: "https://rebrand.ly/qbqzymr"
+  img: "/assets/img/partners/google-for-startups.png"
+  text: "Conheça o Google for Startups"
