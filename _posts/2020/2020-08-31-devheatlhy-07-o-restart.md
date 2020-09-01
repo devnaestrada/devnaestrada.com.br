@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "DevHeatlhy 07 - O Restart"
-home-title: "DevHeatlhy 07 - O Restart"
-type: "DevHealthy"
+title: "DevHealthy 07 - O Restart"
+home-title: "DevHealthy 07 - O Restart"
+type: "DevHeatlhy"
 cast: "DH_7.mp3"
 cast-length: "53542141"
 cast-time: "00:58:57"
