@@ -18,7 +18,7 @@ participants:
     name: Ramon Sanches
     twitter: raymonsanches
   -
-    name: Hernanes Sousa
+    name: Hernandes Sousa
     twitter: hernandes
 
 links:
