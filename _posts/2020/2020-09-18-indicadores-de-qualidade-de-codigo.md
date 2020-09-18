@@ -3,7 +3,7 @@ layout: post
 title: "DNE 271 - Indicadores de Qualidade de Código"
 home-title: "Indicadores de Qualidade de Código"
 type: "Pauta"
-cast: "DNE_270.mp3"
+cast: "DNE_271.mp3"
 cast-length: "58102599"
 cast-time: "01:00:19"
 description: "Nosso tema de hoje é Indicadores de Qualidade de Código. Convidamos o George Guimarães (SourceLevel e Plataformatec) para trocar uma ideia sobre como medir a qualidade de um bom código. Puxe uma cadeira e venha melecar seus dedos também no óleo de batata frita dessa conversa do #BotecoDNE."
