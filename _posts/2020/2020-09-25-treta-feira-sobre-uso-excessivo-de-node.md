@@ -9,7 +9,7 @@ cast-time: "01:02:00"
 description: "Quem não gosta de sexta-feira? E de treta? Por que não combinar as duas coisas?! Hoje o episódio treta-feira é sobre a última polêmica sobre o Radar, da ThoughtWorks, recomendando evitar o uso excessivo de NodeJS pra tudo. Falamos disso e do que pensamos sobre a reação da comunidade e outros assuntos filosóficos."
 libsyn-image: "dne272-capa.jpg"
 lybsyn-id: "16156052"
-sponsors: ["revelo"]
+sponsors: ["revelo", "locawebpro"]
 participants:
   -
     name: Eduardo Matos
