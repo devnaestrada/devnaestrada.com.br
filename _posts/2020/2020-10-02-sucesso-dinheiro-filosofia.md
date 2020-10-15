@@ -9,7 +9,7 @@ cast-time: "01:03:34"
 description: "O que é ter sucesso para você? O que é ser um desenvolvedor de sucesso? Ter dinheiro é ter sucesso? Vem com a gente nessa reflexão profunda sobre sucesso e tecnologia."
 libsyn-image: "dne273-capa.jpg"
 lybsyn-id: "16247162"
-sponsors: ["revelo", "locawebpro"]
+sponsors: ["revelo"]
 participants:
   -
     name: Eduardo Matos
