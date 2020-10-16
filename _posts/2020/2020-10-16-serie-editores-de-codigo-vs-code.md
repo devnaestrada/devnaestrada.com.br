@@ -18,11 +18,14 @@ participants:
     name: Emilio Aiolfi
     twitter: emilioaiolfi
   -
-    name: Keit Oliveira
-    twitter: seescrevekeit
+    name: Mario Souto
+    twitter: omariosouto
   -
     name: Willian Martins
     twitter: wmsbill
+  -
+    name: Willian Arantes
+    twitter: warantesbr
 
 links:
   -
