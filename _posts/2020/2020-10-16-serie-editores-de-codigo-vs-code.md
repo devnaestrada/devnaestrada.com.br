@@ -6,7 +6,7 @@ type: "Séerie"
 cast: "DNE_275.mp3"
 cast-length: "57917756"
 cast-time: "01:00:20"
-description: "Dando início à série Editores de Código, vamos falar do queridinho de várias pessoas desenvolvedoras: o VS Code. Falamos sobre história e como ele caiu nas graças das pessoas que codam, mostrando funcionalidades, ecosistema e porquê as pessoas participantes (Emílio, Mario e Willian) curtem usa-lo!"
+description: "Dando início à série Editores de Código, vamos falar do queridinho de várias pessoas desenvolvedoras: o VS Code. Falamos sobre história e como ele caiu nas graças das pessoas que codam, mostrando funcionalidades, ecosistema e porquê as pessoas participantes (Emílio, Mario, Willian Martins e Willian Arantes) curtem usa-lo!"
 libsyn-image: "dne275-capa.jpg"
 lybsyn-id: "16432652"
 sponsors: ["revelo", "locawebpro"]
@@ -49,7 +49,7 @@ links:
 
 ---
 
-Dando início à série Editores de Código, vamos falar do queridinho de várias pessoas desenvolvedoras: o VS Code. Falamos sobre história e como ele caiu nas graças das pessoas que codam, mostrando funcionalidades, ecosistema e porquê as pessoas participantes (Emílio, Mario e Willian) curtem usa-lo!
+Dando início à série Editores de Código, vamos falar do queridinho de várias pessoas desenvolvedoras: o VS Code. Falamos sobre história e como ele caiu nas graças das pessoas que codam, mostrando funcionalidades, ecosistema e porquê as pessoas participantes (Emílio, Mario, Willian Martins e Willian Arantes) curtem usa-lo!
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
