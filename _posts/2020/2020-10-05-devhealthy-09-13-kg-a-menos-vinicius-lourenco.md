@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "DevHealthy 09 - 13 kg a menos - Vinicius Lourenço"
-home-title: "DevHealthy 08 - 13 kg a menos - Vinicius Lourenço"
-type: "DevHeatlhy"
+home-title: "DevHealthy 09 - 13 kg a menos - Vinicius Lourenço"
+type: "DevHealthy"
 cast: "DH_9_vinicius.mp3"
 cast-length: "50293386"
 cast-time: "00:50:48"
