@@ -25,6 +25,9 @@ participants:
   -
     name: Willian Arantes
     twitter: warantesbr
+  -
+    name: Ruy Mesquita
+    twitter: ruymesquita
 
 ---
 
