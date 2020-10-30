@@ -7,7 +7,7 @@ cast: "DNE_277.mp3"
 cast-length: "67049412"
 cast-time: "01:09:26"
 description: |
-  Quer aprender como invadir o site da galera do <podTag>?
+  Quer aprender como invadir o site da galera do podTag?
   Ou como roubar o perfil de twitter dos @devscansados?
   Talvez você só queira mesmo mandar um vírus pro computador do ET Bilu.
   0uça 3ss3 episódi0 e apr3nda a ser um H4cker!
@@ -37,7 +37,7 @@ participants:
 
 links:
   -
-    name: "<podTag>"
+    name: "podTag Podcast"
     url: https://podtag.com.br/
   -
     name: "Rapidinha com Edgar Berlinck"
@@ -45,7 +45,7 @@ links:
 
 ---
 
-Quer aprender como invadir o site da galera do <podTag>? Ou como roubar o perfil de twitter dos @devscansados? Talvez você só queira mesmo mandar um vírus pro computador do ET Bilu. 0uça 3ss3 episódi0 e apr3nda a ser um H4cker!
+Quer aprender como invadir o site da galera do podTag? Ou como roubar o perfil de twitter dos @devscansados? Talvez você só queira mesmo mandar um vírus pro computador do ET Bilu. 0uça 3ss3 episódi0 e apr3nda a ser um H4cker!
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
