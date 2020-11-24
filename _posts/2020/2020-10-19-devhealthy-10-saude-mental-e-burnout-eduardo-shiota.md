@@ -44,7 +44,7 @@ participants:
 Citados no episódio
 
 Síndrome de Burnout: o que é, quais as causas, sintomas e como tratar <br/>
-[https://saude.gov.br/saude-de-a-z/saude-mental/sindrome-de-burnout]("https://saude.gov.br/saude-de-a-z/saude-mental/sindrome-de-burnout)
+[https://saude.gov.br/saude-de-a-z/saude-mental/sindrome-de-burnout](https://saude.gov.br/saude-de-a-z/saude-mental/sindrome-de-burnout)
 
 Naruhodo! - O que é a síndrome do impostor? <br/>
 [https://www.b9.com.br/shows/naruhodo/naruhodo-251-o-que-e-a-sindrome-do-impostor/](https://www.b9.com.br/shows/naruhodo/naruhodo-251-o-que-e-a-sindrome-do-impostor/)
