@@ -27,7 +27,7 @@ participants:
 
 Marcar uma consulta médica, controlar os alimentos da dieta, marcar a quantidade de água ingerida por dia, monitorar sono e meditar são apenas algumas das coisas que já conseguimos fazer com a ajuda de aplicativos. Nessa primeira metade, (sim, nos empolgamos e resolvemos dividir o assunto em duas partes) batemos um papo sobre alguns dos aplicativos que podem lhe ajudar nas situações acima.
 
-Citados no episódio
+Citados no episódio:
 
 **Saúde**
 
@@ -44,13 +44,13 @@ Doctoralia
 Pill Reminder
 - [Play Store](https://apps.apple.com/br/app/hora-do-medicamento-e-p%C3%ADlula/id863327251)
 
-**Controle pessoas que menstruam**
+<br />**Controle pessoas que menstruam**
 
 Flo
 - [Google Play](https://play.google.com/store/apps/details?id=org.iggymedia.periodtracker&hl=pt_BR&gl=US)
 - [App Store](https://apps.apple.com/br/app/flo-meu-calend%C3%A1rio-menstrual/id1038369065)
 
-**Controle de dieta e água**
+<br />**Controle de dieta e água**
 
 Fat Secret
 - [Site](https://www.fatsecret.com.br/)
@@ -68,12 +68,12 @@ Tecnonutri
 - [Google Play](https://play.google.com/store/apps/details?id=br.com.tecnonutri.app&hl=pt_BR&gl=US)
 - [App Store](https://apps.apple.com/br/app/dieta-tecnonutri/id574794938)
 
-**Controle de medidas e composição corporal**
+<br />**Controle de medidas e composição corporal**
 
 Fit Journey
 - [App Store](https://apps.apple.com/us/app/fit-journey-not-just-weight/id536800927)
 
-**Saúde mental e bem estar**
+<br />**Saúde mental e bem estar**
 
 Calm
 - [Site](https://www.calm.com/)
@@ -94,7 +94,7 @@ Mediotopia
 - [App Store](https://apps.apple.com/br/app/meditopia-medita%C3%A7%C3%A3o-sono/id1190294015)
 - [Google Play](https://play.google.com/store/apps/details?id=app.meditasyon&hl=pt_BR&gl=US)
 
-**Controle do sono**
+<br />**Controle do sono**
 
 Sleep Cycle
 - [Site](https://www.sleepcycle.com/)
@@ -107,7 +107,7 @@ Life Cycle
 Sleep Cycle power nap
 - [App Store](https://apps.apple.com/br/app/sleep-cycle-power-nap/id813493308)
 
-<strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
+<br /><strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
 ---
 
