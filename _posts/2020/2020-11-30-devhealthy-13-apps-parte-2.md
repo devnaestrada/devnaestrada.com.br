@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DevHealthy #12 - Apps (parte 2)"
-home-title: "DevHealthy #12 - Apps (parte 2)"
+title: "DevHealthy #13 - Apps (parte 2)"
+home-title: "DevHealthy #13 - Apps (parte 2)"
 type: "DevHealthy"
 cast: "DH_13.mp3"
 cast-length: "55478546"
