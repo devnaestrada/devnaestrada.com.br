@@ -91,7 +91,6 @@ Cardiogram
 - [App Store](https://apps.apple.com/br/app/cardiogram-heart-rate-monitor/id1000017994)
 
 <br />**Centralização de dados Iphone**
-
 - [Health](https://www.apple.com/br/ios/health/)
 - [Fitness](https://apps.apple.com/us/app/activity/id1208224953)
 
