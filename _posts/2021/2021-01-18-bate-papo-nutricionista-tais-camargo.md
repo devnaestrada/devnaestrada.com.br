@@ -19,6 +19,8 @@ participants:
   -
     name: Raphael Fabeni
     twitter: raphaelfabeni
+  -
+    name: Tais Camargo
 
 ---
 
