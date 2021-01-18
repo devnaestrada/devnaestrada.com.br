@@ -26,7 +26,7 @@ Como começo uma dieta? Cafeína faz mal? E pular o café da manhã? Qual a rela
 
 Nutricionista formada pela Universidade de São Paulo, com Capacitação no Hospital das Clínicas e Pós-graduação  pelo Hospital Sírio-Libanês. Atualmente atende em consultório com foco na educação alimentar e nutrição comportamental, onde atua na construção de uma relação mais gentil entre o paciente e a alimentação.
 
-[Instagram da Tais](@taiscamargo.nutri)
+[Instagram da Tais](https://www.instagram.com/taiscamargo.nutri/)
 
 <br /><strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
