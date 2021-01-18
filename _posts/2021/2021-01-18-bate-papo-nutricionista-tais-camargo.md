@@ -21,14 +21,13 @@ participants:
     twitter: raphaelfabeni
   -
     name: Tais Camargo
+    link: https://www.instagram.com/taiscamargo.nutri/
 
 ---
 
 Como começo uma dieta? Cafeína faz mal? E pular o café da manhã? Qual a relação com ansiedade e depressão? São tantas dúvidas quando falamos em dieta não é verdade? Nesse episódio batemos um bate papo com a nutricionista Tais Camargo e ela respondeu a diversas perguntas que temos quando o assunto é alimentação.
 
 Nutricionista formada pela Universidade de São Paulo, com Capacitação no Hospital das Clínicas e Pós-graduação  pelo Hospital Sírio-Libanês. Atualmente atende em consultório com foco na educação alimentar e nutrição comportamental, onde atua na construção de uma relação mais gentil entre o paciente e a alimentação.
-
-[Instagram da Tais](https://www.instagram.com/taiscamargo.nutri/)
 
 <br /><strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
