@@ -37,7 +37,7 @@ links:
     url: https://www.youtube.com/gliderspace
   -
     name: "Site do Caliari"
-    url: https://renatocaliari.medium.com/
+    url: https://renatocaliari.com
   -
     name: "Visual History of Programming Languages"
     url: https://www.youtube.com/watch?v=mdYfFDJCDHc
