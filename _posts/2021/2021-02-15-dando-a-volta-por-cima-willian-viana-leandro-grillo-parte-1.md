@@ -24,7 +24,7 @@ participants:
   -
     name: Willian Viana "Dreads"
     twitter: wbvianna
-
+  -
     name: Leandro Grillo
     twitter: leandrocgrillo
 
