@@ -50,6 +50,9 @@ links:
   -
     name: "Mendix - Construindo um App de Cervejas em duas semanas com Low-Code"
     url: https://www.youtube.com/watch?v=VIYytVyID7Y
+  -
+    name: "Now code World (pelo Caliari)"
+    url: https://renatocaliari.com/nocodeworld
 
 ---
 
