@@ -11,7 +11,7 @@ description: |
 
   Eles nos contaram como a rotina, trabalho, vida pessoal e outras coisas, influenciaram na direção de um burnout que poderia resultar em um fim trágico. Duas histórias impactantes e que são grandes exemples de volta por cima!
 
-libsyn-image: "dne-devhealthy18-capa.jpg"
+libsyn-image: "dne-devhealthy-18.jpg"
 lybsyn-id: "18135950"
 sponsors:
 participants:
