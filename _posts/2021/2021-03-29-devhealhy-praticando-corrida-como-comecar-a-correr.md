@@ -7,7 +7,7 @@ cast: "DH-20.mp3"
 cast-length: "41063572"
 cast-time: "00:42:46"
 description: |
-  O tópico da vez é _"Como começar a correr?"_ E pra nos ajudar a responder essa pergunta, batemos um papo com a educadora física [Katia Maldonado](https://www.instagram.com/katinhamaldonado/) e o fisioterapeuta [Rafael Furtado](https://www.instagram.com/rafafrsouza/), proprietário da [clínica Prophysio](https://www.instagram.com/clinicaprophysio/) e eles compartilharam várias dicas legais!
+  O tópico da vez é "Como começar a correr?" E pra nos ajudar a responder essa pergunta, batemos um papo com a educadora física Katia Maldonado e o fisioterapeuta Rafael Furtado, proprietário da clínica Prophysio e eles compartilharam várias dicas legais!
 
 libsyn-image: "DH-20.jpg"
 lybsyn-id: "18501245"
