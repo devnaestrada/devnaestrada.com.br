@@ -6,7 +6,7 @@ type: "Pauta"
 cast: "DNE_298.mp3"
 cast-length: "56349845"
 cast-time: "00:58:14"
-description: "Já se perguntou como é feito o JavaScript? Keit Oliveira e Willian Martins fizeram essa e muitas outras perguntas para o convidado Guilherme Hermeto, que também explicou falou um pouco mais sobre OpenJS e TC39. Venha ouvir esse episódio e descubra como ficar rico codando em JavaScript."
+description: "Já se perguntou como é feito o JavaScript? Keit Oliveira e Willian Martins fizeram essa e muitas outras perguntas para o convidado Guilherme Hermeto, que também explicou um pouco mais sobre OpenJS e TC39. Venha ouvir esse episódio e descubra como ficar rico codando em JavaScript."
 libsyn-image: "dne298-capa.jpg"
 lybsyn-id: "18754013"
 sponsors: ["revelo"]
@@ -23,7 +23,7 @@ participants:
 
 ---
 
-Já se perguntou como é feito o JavaScript? Keit Oliveira e Willian Martins fizeram essa e muitas outras perguntas para o convidado Guilherme Hermeto, que também explicou falou um pouco mais sobre OpenJS e TC39. Venha ouvir esse episódio e descubra como ficar rico codando em JavaScript.
+Já se perguntou como é feito o JavaScript? Keit Oliveira e Willian Martins fizeram essa e muitas outras perguntas para o convidado Guilherme Hermeto, que também explicou um pouco mais sobre OpenJS e TC39. Venha ouvir esse episódio e descubra como ficar rico codando em JavaScript.
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
