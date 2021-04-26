@@ -20,7 +20,7 @@ participants:
     name: Raphael Fabeni
     twitter: raphaelfabeni
   -
-    name: Felipe FialhPor que dormimos? A Nova Ciência do Sono e do Sonho
+    name: Felipe Fialho
     twitter: felipefialho_
 
 links:
