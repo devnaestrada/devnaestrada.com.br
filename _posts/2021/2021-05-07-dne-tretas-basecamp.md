@@ -8,7 +8,7 @@ cast-length: "63687683"
 cast-time: "01:06:20"
 description: |
   No episódio de hoje, Eduardo Matos, Ramon Sanches e Willian Arantes se reúnem para comentar a treta da vez no nosso mundinho de desenvolvimento: as mudanças internas no Basecamp.
-libsyn-image: "dne300-capa.jpg"
+libsyn-image: "dne301-capa.jpg"
 lybsyn-id: "18925349"
 sponsors: ["revelo"]
 participants:
