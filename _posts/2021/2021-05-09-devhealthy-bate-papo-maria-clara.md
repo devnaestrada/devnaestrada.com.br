@@ -27,10 +27,10 @@ links:
 -
   name: "Intestino: seu segundo cérebro"
   url: https://super.abril.com.br/saude/seu-segundo-cerebro/
-
+-
   name: "A Incrível Conexão Intestino Cérebro"
   url: https://www.amazon.com.br/Incr%C3%ADvel-Intestino-C%C3%A9rebro-Equil%C3%ADbrio-Intestinal/dp/8581890989/ref=asc_df_8581890989/?tag=googleshopp00-20&linkCode=df0&hvadid=379699375882&hvpos=&hvnetw=g&hvrand=16481742487476643671&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-809906770466&psc=1
-
+-
   name: "O discreto charme do intestino: Tudo sobre um órgão maravilhoso"
   url: https://www.amazon.com.br/gp/product/B07FK53W1Z/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
 
