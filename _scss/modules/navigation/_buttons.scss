@@ -6,7 +6,7 @@
   background-color: $primary-color;
   box-sizing: border-box;
   border-radius: $base-radius;
-  color: #FFF;
+  color: #29292C;
   display: inline-block;
   text-decoration: none;
 }
@@ -14,7 +14,7 @@
 .btn {
   @extend %inline-middle-block;
   background-color: $primary-color;
-  color: #FFF;
+  color: #29292C;
   font-family: $rubik-font;
   font-size: 16px;
   font-weight: 500;
@@ -37,7 +37,7 @@
 
   &:hover,
   &:focus {
-    background-color: darken($primary-color, 4%);
+    background-color: darken($primary-color, 5%);
     text-decoration: none;
   }
 }
