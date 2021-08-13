@@ -30,6 +30,7 @@ O que foi que o Google aprontou dessa vez? Aprontou sobre Web Vitals! Neste epis
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
+
 ---
 
 {% include modules/post-extras.html data=page %}
