@@ -9,7 +9,7 @@ cast-time: "00:46:51"
 description: "E nesse episódio, voltamos a falar sobre carreira! Nesse papo, Emílio e Eduardo comentam sobre a possibilidade de mudar de trilha de carreira: de gestão para liderança técnica, ou vice-versa. Vem com a gente e deixa sua opinião no nosso site!"
 libsyn-image: "dne307-capa.jpg"
 lybsyn-id: "20584361"
-sponsors: ["revelo", "locaweb"]
+sponsors: ["revelo", "locawebvps"]
 participants:
   -
     name: Eduardo Matos

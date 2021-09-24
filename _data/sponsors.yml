@@ -63,3 +63,9 @@ google_for_startups:
   url: "https://rebrand.ly/qbqzymr"
   img: "/assets/img/partners/google-for-startups.png"
   text: "Conheça o Google for Startups"
+
+locawebvps:
+  name: "Locaweb VPS"
+  url: "https://j.mp/2ZwreqF"
+  img: "/assets/img/partners/locaweb.jpg"
+  text: "Locaweb VPS: Autonomia do servidor virtualizado Linux ou Windows com o melhor custo-benefício e performance SSD"
