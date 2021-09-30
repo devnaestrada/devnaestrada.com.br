@@ -6,7 +6,7 @@ type: "Pauta"
 cast: "DNE_307.mp3"
 cast-length: "44971470"
 cast-time: "00:46:51"
-description: "E nesse episódio, voltamos a falar sobre carreira! Nesse papo, Emílio e Eduardo comentam sobre a possibilidade de mudar de trilha de carreira: de gestão para liderança técnica, ou vice-versa. Vem com a gente e deixa sua opinião no nosso site!"
+description: "E nesse episódio, voltamos a falar sobre carreira! Nesse papo, Emílio e Eduardo comentam sobre a possibilidade de mudar de trilha de carreira: de gestão para liderança técnica, ou vice-versa. Vem com a gente e deixa sua opinião no nosso site! Locaweb VPS => https://www.locaweb.com.br/?utm_source=Dev_na_Estrada&utm_medium=Spotify&utm_campaign=Locaweb_varejo&utm_content=https://www.devnaestrada.com.br"
 libsyn-image: "dne307-capa.jpg"
 lybsyn-id: "20584361"
 sponsors: ["revelo", "locawebvps"]
@@ -20,7 +20,8 @@ participants:
 
 ---
 
-E nesse episódio, voltamos a falar sobre carreira! Nesse papo, Emílio e Eduardo comentam sobre a possibilidade de mudar de trilha de carreira: de gestão para liderança técnica, ou vice-versa. Vem com a gente e deixa sua opinião no nosso site!
+E nesse episódio, voltamos a falar sobre carreira! Nesse papo, Emílio e Eduardo comentam sobre a possibilidade de mudar de trilha de carreira: de gestão para liderança técnica, ou vice-versa. Vem com a gente e deixa sua opinião no nosso site! Locaweb VPS => https://www.locaweb.com.br/?utm_source=Dev_na_Estrada&utm_medium=Spotify&utm_campaign=Locaweb_varejo&utm_content=https://www.devnaestrada.com.br
+
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
