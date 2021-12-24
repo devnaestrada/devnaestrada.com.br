@@ -8,7 +8,7 @@ cast-length: "38594249"
 cast-time: "40:12"
 description: |
   Hoje, Keit e Eduardo falam sobre como foi ano, na perspectiva pessoal, de trabalho e filosofam sobre a vida, mais uma vez! Vem com a gente se nessa reflexão!
-libsyn-image: "dne318_capa.jpg"
+libsyn-image: "dne318-capa.jpg"
 lybsyn-id: "21596177"
 sponsors: ["revelo", "locawebvps"]
 participants:
