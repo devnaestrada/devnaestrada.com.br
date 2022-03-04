@@ -8,7 +8,7 @@ cast-length: "67776159"
 cast-time: "01:10:36"
 description: |
   No episódio dessa semana da Guilda de Front-end, Emilio Aiolfi e William Martins recebem convidados especiais, Andre Garzia e Gustavo Bastos. Para falar sobre desenvolvimento de games e frontend, sobre Forza ou Gran Turismo? Playstation ou Nintendo 64? Isso e muito mais nesse papo especial da Guilda Frontend.
-libsyn-image: "capa-dne-324.png"
+libsyn-image: "capa-dne-324-1.png"
 lybsyn-id: "22312340"
 sponsors: ["revelo"]
 participants:
