@@ -8,7 +8,7 @@ cast-length: "48272930"
 cast-time: "50:17"
 description: |
   Nesse episódio de tretas da #bolhaDev no mês de março, Keit e Emilio comentam sobre o que aconteceu. Influenciador financeiro diz que programação é fácil, Soft Skills ou Hard Skills e Back ou Front quem ganha mais?
-libsyn-image: "capa-dne-329.png"
+libsyn-image: "capa_dne_329.png"
 lybsyn-id: "22713872"
 sponsors: ["revelo"]
 participants:
