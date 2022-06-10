@@ -7,7 +7,7 @@ cast: "DNE_338.mp3"
 cast-length: "64462767"
 cast-time: "01:07:04"
 description: |
-  Não tem sido raro encontrar uma matéria ou postagem nas redes sociais sobre demissões em massa em empresas de tecnologia e elas parecem estar ocorrendo com uma grande frequência esse ano. O que está acontecendo? Devemos nos preocupar?
+  testando
 libsyn-image: "capa-dne-338.png"
 lybsyn-id: "23242046"
 sponsors: ["23378894"]
