@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DNE 338 - Demissões em massa!"
-home-title: "Demissões em massa!"
+title: "DNE 338 - Demissões em massa"
+home-title: "Demissões em massa"
 type: "Pauta"
 cast: "DNE_338.mp3"
 cast-length: "64462767"
