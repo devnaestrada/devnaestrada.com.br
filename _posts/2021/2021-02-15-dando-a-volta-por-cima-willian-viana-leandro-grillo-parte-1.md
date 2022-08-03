@@ -22,7 +22,7 @@ participants:
     name: Raphael Fabeni
     twitter: raphaelfabeni
   -
-    name: Willian Viana "Dreads"
+    name: Willian Viana - Dreads
     twitter: wbvianna
   -
     name: Leandro Grillo
