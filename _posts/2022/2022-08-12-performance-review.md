@@ -25,7 +25,7 @@ participants:
     twitter: wmsbill
   -
     name: Laura Oliveira
-    linkedin: https://br.linkedin.com/in/lauraolivp
+    link: https://br.linkedin.com/in/lauraolivp
 
 links:
   -
