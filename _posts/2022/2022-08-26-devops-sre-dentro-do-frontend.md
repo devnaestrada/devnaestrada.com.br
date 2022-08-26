@@ -16,7 +16,7 @@ participants:
     twitter: EmilioAiolfi
   -
     name: Carlysson Oliveira
-    link: Carlysson21
+    twitter: Carlysson21
 
 links:
   -
