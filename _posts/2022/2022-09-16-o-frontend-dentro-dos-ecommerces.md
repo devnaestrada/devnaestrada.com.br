@@ -7,7 +7,7 @@ cast: "DNE_352.mp3"
 cast-length: "78462498"
 cast-time: "01:21:40"
 description: |
-  Neste episódio o assunto é sobre "O frontend dentro dos ecommerces", Emilio Aiolfi com os convidados Adriano Azevedo (frontend no Tok&Stok) e Carlysson Oliveira (frontend no Grupo SBF) conversam sobre os tipos de arquiteturas, abordagens, problemas, desafios e "Black Friday"
+  Neste episódio o assunto é sobre "O frontend dentro dos ecommerces", Emilio Aiolfi com os convidados Adriano Azevedo (frontend no Tok%26Stok) e Carlysson Oliveira (frontend no Grupo SBF) conversam sobre os tipos de arquiteturas, abordagens, problemas, desafios e "Black Friday"
 libsyn-image: "dne352.jpeg"
 lybsyn-id: "24388965"
 participants:
@@ -32,7 +32,7 @@ links:
 
 ---
 
-Neste episódio o assunto é sobre "O frontend dentro dos ecommerces", Emilio Aiolfi com os convidados Adriano Azevedo (frontend no Tok&Stok) e Carlysson Oliveira (frontend no Grupo SBF) conversam sobre os tipos de arquiteturas, abordagens, problemas, desafios e "Black Friday"
+Neste episódio o assunto é sobre "O frontend dentro dos ecommerces", Emilio Aiolfi com os convidados Adriano Azevedo (frontend no Tok%26Stok) e Carlysson Oliveira (frontend no Grupo SBF) conversam sobre os tipos de arquiteturas, abordagens, problemas, desafios e "Black Friday"
 
 <strong>CUPOM STICKERSDEVS 15%: DEVNAESTRADA</strong>
 
