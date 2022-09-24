@@ -10,7 +10,6 @@ description: |
   Episódio do DNE News, Emilio Aiolfi e Willian Arantes (voltando da geladeira) comentam sobre "Uber sofre invasão", "Adobe compra Figma" e uma "breaking news".
 libsyn-image: "capa-dne-353.png"
 lybsyn-id: "24462837"
-sponsors: ["revelo"]
 participants:
   -
     name: Emilio Aiolfi
