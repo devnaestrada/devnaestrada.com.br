@@ -3,7 +3,7 @@ layout: post
 title: "DNE 362 - Sobre o Twitter e Cultura"
 home-title: "Sobre o Twitter e Cultura"
 type: "Pauta"
-cast: "DNE_361.mp3"
+cast: "DNE_362.mp3"
 cast-length: "63588564"
 cast-time: "01:05:12"
 description: |
