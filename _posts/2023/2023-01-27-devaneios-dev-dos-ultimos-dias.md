@@ -3,16 +3,13 @@ layout: post
 title: "DNE 365 - Devaneios Dev Dos Últimos Dias"
 home-title: "Devaneios Dev Dos Últimos Dias"
 type: "Pauta"
-cast: "dne365.mp3"
+cast: "DNE_365.mp3"
 cast-length: "70796729"
 cast-time: "01:11:51"
 description: |
   Neste episódio, uma conversa de cafézinho, Eduardo Mattos, Emilio Aiolfi e William Martins, discutem temas atuais e relevantes para o mundo da tecnologia, como as demissões em massa que vieram ocorrendo no final de 2022 e início de 2023, políticas de estado e oportunidades de trabalho. Fiquem ligados que esse episódio será polêmico!
-
 libsyn-image: "dne365.png"
-
 lybsyn-id: "25738875"
-
 participants:
   -
     name: Eduardo Matos
