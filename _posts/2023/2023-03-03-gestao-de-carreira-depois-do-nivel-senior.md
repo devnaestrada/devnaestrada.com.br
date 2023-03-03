@@ -6,7 +6,7 @@ type: "Pauta"
 cast: "DNE_369.mp3"
 cast-length: "77543259"
 cast-time: "01:19:09"
-description: |
+description: | 
   No DNE dessa semana Keit, Emilio, Willian e Mario, recebem Carla, Wonder Wanny, Glaucia Lemos e Loiane Groner. Nessa mesa redonda do desenvolvimento pra discutir como gerenciar a carreira depois de muito tempo de estrada. Já pode pedir aumento? Sênior de 2 anos pode? Isso e muito mais no episódio de hoje.
 libsyn-image: "GESO_DE_CARREIRA.png"
 lybsyn-id: "26112738"
