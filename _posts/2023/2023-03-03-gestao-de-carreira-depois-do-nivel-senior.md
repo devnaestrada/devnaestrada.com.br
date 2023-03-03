@@ -29,7 +29,7 @@ participants:
   -
     name: Vanessa Moura
     twitter: WonderWanny
-   -
+  -
     name: Loiane Groner
     twitter: loiane
 
