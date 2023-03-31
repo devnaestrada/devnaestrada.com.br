@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DNE 373 - O Lado Bom da Bolha Dev"
-home-title: "O Lado Bom da Bolha Dev"
+title: "DNE 373 - Era pra ser TypeScript mas acabou sendo AI"
+home-title: "Era pra ser TypeScript mas acabou sendo AI"
 type: "Pauta"
 cast: "DNE_373.mp3"
 cast-length: "66143715"
