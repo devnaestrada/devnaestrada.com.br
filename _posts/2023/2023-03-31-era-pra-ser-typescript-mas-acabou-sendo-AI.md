@@ -8,7 +8,7 @@ cast-length: "66143715"
 cast-time: "01:06:52"
 description: | 
   Prepare-se para uma conversa eletrizante! No episódio de hoje, Willian Martins, Mario Souto, Nicolas Gabriel e Glaucia Lemos vão explorar o universo do TypeScript. Mas, espere... O que acontece quando o Mario Soutinho começa a falar sobre o apocalipse da AI? Com seu assento confortável e sua bebida favorita em mãos, junte-se a nós e descubra! 
-libsyn-image: "TYPESCRIPT_AI.png"
+libsyn-image: "TYPESCRIPT_AI2.png"
 lybsyn-id: "26396961"
 participants:
   -
