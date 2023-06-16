@@ -36,7 +36,7 @@ layout: default
       <div class="post-sponsors">
         {% for sponsorArray in page.sponsors %}
           {% assign sponsor = site.data.sponsors[sponsorArray] %}
-          <a href="{{ sponsor.url }}" class="post-sponsors__link">
+          <a href="{{ sponsor.url }}" class="post-sponsors__link" target="_blank">
               <img class="post-sponsors__img" src="{{ sponsor.img | prepend: site.url }}" alt="{{ sponsor.name }}" />
           </a>
         {% endfor %}

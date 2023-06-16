@@ -9,7 +9,7 @@
       {% for sponsorArray in page.sponsors %}
         {% assign sponsor = site.data.sponsors[sponsorArray] %}
         <li>
-            <a href="{{ sponsor.url }}">{{ sponsor.name }}</a> - {{ sponsor.text }}
+            <a href="{{ sponsor.url }}" target="_blank">{{ sponsor.name }}</a> - {{ sponsor.text }}
         </li>
       {% endfor %}
     </ul>

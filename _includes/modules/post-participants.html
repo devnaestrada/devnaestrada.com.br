@@ -10,11 +10,11 @@
 
         {% if participant.twitter %}
           <li>
-            {{ participant.name }} - <a href="https://twitter.com/{{ participant.twitter }}">Twitter</a>
+            {{ participant.name }} - <a href="https://twitter.com/{{ participant.twitter }}" target="_blank">Twitter</a>
           </li>
         {% else %}
           <li>
-            {{ participant.name }} - <a href="{{ participant.link }}">Link</a>
+            {{ participant.name }} - <a href="{{ participant.link }}" target="_blank">Link</a>
           </li>
         {% endif %}
       {% endfor %}
