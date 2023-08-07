@@ -3,7 +3,7 @@ layout: post
 title: "DNE 390 - Até onde vai o limite de tentarmos mudar algo nas empresas?"
 home-title: "Até onde vai o limite de tentarmos mudar algo nas empresas?"
 type: "Pauta"
-cast: "DNE-390.mp3"
+cast: "DNE_390.mp3"
 cast-length: "44268881"
 cast-time: "00:46:07"
 description: |
