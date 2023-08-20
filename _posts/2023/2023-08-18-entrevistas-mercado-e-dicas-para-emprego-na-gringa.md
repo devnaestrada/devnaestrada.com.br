@@ -26,22 +26,22 @@ participants:
 
 links:
   -
-    name: Site do Davidson Fellip
+    name: "Site do Davidson Fellipe"
     url: https://fellipe.com/about/
   -
-    name: The Engineer Manager Pendulum
+    name: "The Engineer Manager Pendulum"
     url: https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
   -
-    name: Retaining Software Engineers
+    name: "Retaining Software Engineers"
     url: https://newsletter.pragmaticengineer.com/p/retaining-software-engineers
   -
-    name: A Senior Engineer/EM Job Search Story (artigo do Davidson no Pragmatic Engineer)
+    name: "A Senior Engineer/EM Job Search Story (artigo do Davidson no Pragmatic Engineer)"
     url: https://blog.pragmaticengineer.com/a-senior-engineer-em-job-search-story/
   -
-    name: Carol Dweck on interview questions to identify growth mindset
+    name: "Carol Dweck on interview questions to identify growth mindset"
     url: https://www.youtube.com/watch?v=2NDWkiduINA
   -
-    name: Livro - Mindset: The New Psychology of Success
+    name: "Livro - Mindset: The New Psychology of Success"
     url: https://www.goodreads.com/book/show/40745.Mindset
   -
     name: "DNE no Twitter"
