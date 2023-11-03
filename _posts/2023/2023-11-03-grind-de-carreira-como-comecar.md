@@ -3,7 +3,7 @@ layout: post
 title: "DNE 402 - Grind de Carreira: Como Começar"
 home-title: "Grind de Carreira: Como Começar"
 type: "Pauta"
-cast: "DNE_401.mp3"
+cast: "DNE_402.mp3"
 cast-length: "78785204"
 cast-time: "01:22:04"
 description: |
