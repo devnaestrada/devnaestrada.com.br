@@ -34,7 +34,7 @@ links:
 
 ---
 
-Neste episódio Emilio Aiolfi, Hugo Marques e Willian Martins, junto com o convidado Waldemar Neto, conversam sobre as responsabilidadeNo episódio de hoje vocês finalmente vão entender tudo o que a gente pensa sobre sênior de 2 anos e como você pode fazer pra ser um.
+No episódio de hoje vocês finalmente vão entender tudo o que a gente pensa sobre sênior de 2 anos e como você pode fazer pra ser um.
 
 ---
 
