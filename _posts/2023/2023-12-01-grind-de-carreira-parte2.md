@@ -8,7 +8,7 @@ cast-length: "72099111"
 cast-time: "01:15:06"
 description: |
   Neste episódio, Willian Martins, Hugo Marques, Jessica Felix e Gustano Nunes conversam sobre o que fazer quando você está procurando o primeiro emprego. Quais as habilidades necessárias para você ingressar no mercado de trabalho? Qual o melhor caminho para começar na área? Surgiu mais dúvida? Mande sua mensagem e ela será lida no próximo episódio da série.
-libsyn-image: "DNE406.png"
+libsyn-image: "DNE406.jpeg"
 lybsyn-id: "28869708"
 participants:
   -
