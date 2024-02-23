@@ -13,7 +13,7 @@ lybsyn-id: "30078498"
 participants:
   -
     name: Willian Martins
-    twitter: eduardojmatos
+    twitter: wmsbill
   -
     name: Hugo Marques
     twitter: hugaomarques
