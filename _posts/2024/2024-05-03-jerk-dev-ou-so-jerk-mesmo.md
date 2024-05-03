@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DNE 420 - Jerkey Dev ou Só Jerkey Mesmo"
-home-title: "Jerkey Dev ou Só Jerkey Mesmo"
+title: "DNE 420 - Jerk Dev ou Só Jerk Mesmo"
+home-title: "Jerk Dev ou Só Jerk Mesmo"
 type: "Pauta"
 cast: "DNE_420.mp3"
 cast-length: "51890785"
