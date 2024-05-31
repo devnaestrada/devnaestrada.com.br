@@ -43,7 +43,7 @@ links:
   -
     name: "CSS Zen Garden"
     url: https://csszengarden.com/
-	
+
 ---
 
 No episódio de hoje, Keit Oliveira e Camilo Micheletto ensinam o dev enferrujado Willian Martins tudo o que ele perdeu dos avanços no CSS nos últimos anos.
