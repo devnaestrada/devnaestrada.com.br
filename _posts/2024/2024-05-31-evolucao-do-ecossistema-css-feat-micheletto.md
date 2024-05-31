@@ -19,7 +19,7 @@ participants:
     twitter: k8adev
   -
     name: Camilo Micheletto
-    twitter: @lixeletto
+    twitter: lixeletto
     
 links:
   -
