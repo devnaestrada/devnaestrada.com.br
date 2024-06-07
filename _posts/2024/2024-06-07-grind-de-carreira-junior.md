@@ -23,9 +23,6 @@ participants:
   -
     name: Laís Lima
     twitter: laislima_dev
-  -
-    name: Luiza Viana
-    linkedin: luiza-viana-souza
     
 links:
   -
