@@ -23,11 +23,7 @@ participants:
   -
     name: Laís Lima
     twitter: laislima_dev
-  -
-    name: Luiza Viana
-    linkedin: luiza-viana-souza
-  -
-  
+
 links:
   -
     name: "DNE no Twitter"
@@ -41,7 +37,9 @@ links:
   -
     name: "Clube People Tech (do Edu)"
     url: https://bit.ly/clube-people-tech-dne
- 
+  -
+    name: "Linkedin: Luiza Viana"
+    url: https://www.linkedin.com/in/luiza-viana-souza/
 ---
 
 No episódio de hoje, o sênior cansado Willian Martins está junto com os experientes Hugo Marques e Jéssica Félix pra bater um papo da hora com as juniors Laís Lima e Luiza Viana. O tema? Desvendar os segredos pra galgar os degraus da carreira e subir logo de junior para o próximo nível.
