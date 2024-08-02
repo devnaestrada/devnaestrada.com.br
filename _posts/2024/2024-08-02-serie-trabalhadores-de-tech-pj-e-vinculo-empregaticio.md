@@ -9,7 +9,7 @@ cast-time: "00:53:50"
 description: |
   Em mais um episódio da série Trabalhadores de Tech, convidamos a Lara, advogada especializada em leis trabalhistas para falar sobre vínculo empregatício em modelos de contrato PJ, tão famosos na nossa área de tecnologia. Vem com a gente aprender mais o que configura ou não esse vínculo e se informar mais sobre esse assunto!
 libsyn-image: "DNE_431.png"
-libsyn-id: "32392377"
+lybsin-id: "32392377"
 participants:
   -
     name: Eduardo Matos
