@@ -8,7 +8,7 @@ cast-length: "44563542"
 cast-time: "00:46:25"
 description: |
   Edu e Emílio se juntam pra contar um pouco de como funciona esse tipo de teste que as empresas vem adotando aqui no Brasil, como parte do processo seletivo de vagas de desenvolvimento. Vivências, dicas valiosas e como se sair bem numa etapa dessas! Vem com a gente nesse papo esclarecedor!
-libsyn-image: "DNE 439.png"
+libsyn-image: "DNEX439.png"
 lybsyn-id: "33503577"
 participants:
   -
